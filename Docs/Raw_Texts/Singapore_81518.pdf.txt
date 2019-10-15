@@ -1,0 +1,9452 @@
+A RESILIENT 
+SINGAPORE
+
+01
+
+A RESILIENT SINGAPORE02
+
+Writers
+Lim Wei Da, Senior Assistant Director, Centre for Liveable Cities
+Tan Guan Hong, Manager, Centre for Liveable Cities 
+
+Editorial Committee
+Sophianne Araib, Director, Centre for Liveable Cities 
+Michael Koh, Fellow, Centre for Liveable Cities 
+Lauren Sorkin, Managing Director (APAC), 100 Resilient Cities 
+Amit Prothi, Associate Director, 100 Resilient Cities 
+Gemma Kyle, Programme Manager, 100 Resilient Cities 
+
+Editor
+Justin Zhuang, Adjunct, Centre for Liveable Cities 
+
+All  rights  reserved.  No  part  of  this  publication  may  be  reproduced, 
+distributed,  or  transmitted  in  any  form  or  by  any  means,  including 
+photocopying,  recording,  or  other  electronic  or  mechanical  methods, 
+without prior written permission of the publisher. 
+
+Every effort has been made to trace all sources and copyright holders of 
+news articles, figures, and information in this book before publication. If 
+any have been inadvertently overlooked, CLC will ensure that full credit is 
+given at the earliest opportunity. 
+
+Designer
+Green House Design + Communications 
+
+©2018 Centre for Liveable Cities, Singapore. All rights reserved. 
+
+The  images  listed  in  this  publication  may  not  be  reproduced  for  any 
+purposed  except  with  the  permission  of  their  respective  copyright 
+holders. 
+
+Cover Image: Aerial shot of the Marina Bay Area, including the Marina 
+Barrage, Marina Reservoir and Bay East Garden, Singapore, Credit: PUB, 
+Singapore’s National Water Agency.
+
+Set up in 2008 by the Ministry of National Development and the Ministry 
+of  the  Environment  and  Water  Resources,  the  Centre  for  Liveable 
+Cities’  mission  is  to  distil,  create  and  share  knowledge  on  liveable 
+and sustainable cities. The Centre for Liveable Cities’ work spans four 
+main  areas–Research,  Capability  Development,  Knowledge  Platforms 
+and  Advisory.  Through  these  activities,  the  Centre  hopes  to  provide 
+urban  leaders  and  practitioners  with  the  knowledge  and  support 
+needed  to  make  our  cities  better.  For  more  information,  please  visit  
+www.clc.gov.sg. 
+
+For Feedback and Enquiries
+CLC Publications
+45 Maxwell Road #07-01
+The URA Centre
+Singapore 069118
+T +65 6645 9576
+E MND_CLC_Enquiries@mnd.gov.sg 
+
+ISBN 978-981-11-7810-8 (print)
+ISBN 978-981-11-7811-5 (electronic)
+
+CONTENTS 
+
+03
+
+FOREWORD
+
+MESSAGE FROM CENTRE FOR LIVEABLE CITIES
+
+MESSAGE FROM 100 RESILIENT CITIES
+
+EXECUTIVE SUMMARY
+
+SINGAPORE: A JOURNEY OF RESILIENCE
+Our Urban Transformation
+Chronic Stresses, Acute Shocks
+Developing Our Liveable and Resilient City 
+
+RESILIENCE MATTERS
+What Makes a City Resilient
+Writing Our Resilience Story
+
+OUR RESILIENCE CHALLENGES
+Two Key Challenges
+Surviving and Thriving in a World Where the Climate is Changing
+Adapting to Changing Demographics
+
+LEARNING FROM THE PAST, LOOKING TO THE FUTURE
+More Than Just the Environment
+Unity Amidst Diversity
+
+AN ONGOING JOURNEY: OUR RESILIENCE EFFORTS
+
+GOALS AND OPPORTUNITIES
+From Awareness to Action 
+Co-Creating Solutions
+
+LEARNING FROM THE 100RC NETWORK
+
+ENDNOTES AND BIBLIOGRAPHY
+
+ACKNOWLEDGEMENTS
+
+05
+
+06
+
+07
+
+09
+
+10
+10
+13
+18
+
+22
+22
+24
+
+26
+26
+27
+28
+
+30
+32
+46
+
+60
+
+66
+67
+70
+
+76
+
+78
+
+80
+
+04
+
+05
+
+FOREWORD
+LAWRENCE WONG, 
+MINISTER FOR NATIONAL DEVELOPMENT AND 
+SECOND MINISTER FOR FINANCE, SINGAPORE
+Singapore has come a long way in transforming into a liveable 
+and  resilient  city.  In  the  1960s,  living  conditions  were  far 
+from  ideal.  We  were  subjected  to  multiple  urban  challenges 
+including poor public health conditions, lack of quality housing, 
+low connectivity across the island and employment insecurity. 
+
+The  situation  is  very  different  today.  The  quality  of  life  in 
+Singapore  has  significantly  improved—everyone  has  access 
+to a clean and green environment, and to live in an inclusive 
+society with opportunities for all. 
+
+As a small city-state with limited natural resources, we were 
+keenly aware of the need to adapt and evolve to our constantly 
+changing circumstances. Hence, we focus on long-term urban 
+planning, and develop contingency plans for different scenarios. 
+We do all this in a holistic, integrated manner, working across 
+different  sectors  and  more  importantly,  involving  different 
+stakeholders to create a sustainable and liveable Singapore. 
+
+Beyond robust physical infrastructure, resilience is also about 
+working  closely  with  our  communities  and  stakeholders.  For 
+example,  in  providing  affordable  and  quality  public  housing 
+in  Singapore,  we  not  only  build  the  flats,  but  also  develop 
+programmes  to  bring  residents  closer  together  and  foster 
+strong  community  bonds.  Through  this  process,  neighbours 
+can forge deeper support networks which can be counted on 
+during times of need. 
+
+Similarly, our approach to managing water is more than just a 
+supply issue. We saw an opportunity to innovate and grow our 
+water industries, and create beautiful blue-green recreational 
+spaces  through  efforts  such  as  the  Active,  Beautiful, 
+Clean  (ABC)  Waters  Programme  and  the  Park  Connector  
+Network (PCN). 
+
+We have achieved much, but there is still more that needs to be 
+done. Building an increasingly resilient Singapore is an ongoing 
+journey, where the results hinge on the combined efforts of the 
+government, our communities and stakeholders. 
+
+06
+
+MESSAGE FROM CENTRE 
+FOR LIVEABLE CITIES (CLC) 
+KHOO TENG CHYE, EXECUTIVE DIRECTOR, CLC
+It would have been hard to imagine that Singapore, a basket 
+case  of  urbanisation  back  in  the  1960s–with  urban  slums, 
+poor infrastructure and lack of sanitation–would make the leap 
+to  a  thriving  city-state  in  the  space  of  50  years,  let  alone  be 
+considered a highly liveable city. 
+
+Indeed, our transformation into a highly sustainable and liveable 
+city-state while being one of the most densely populated cities 
+with limited natural resources is a story of resilience. We built 
+strong  communities  and  overcame  racial  riots  in  the  early 
+years; fostered strong social cohesion through the way we plan 
+and build our housing estates; established a clean and green 
+Singapore;  overcame  our  water  scarcity  by  establishing  4 
+National Taps; and built multi-functional infrastructure such as 
+the Marina Barrage. All these and the rest of the case studies 
+outlined in this publication are examples of how resilience is 
+embodied in the Singapore journey.
+
+Singapore’s  development  model  of  high  density  and  high  
+liveability  has  been  a  subject  of  interest  for  many.  Even  so, 
+we  are  also  continuously  learning  from  other  cities  and 
+how  Singapore  can  do  better  to  further  build  our  resilience, 
+sustainability and liveability. This is why the Centre for Liveable 
+Cities  was  inspired  to  join  the  100  Resilient  Cities  Network 
+to  learn  from  other  cities  in  the  network,  as  well  as  share 
+Singapore’s experience. 
+
+As cities continue to grow and urbanise in the face of global 
+uncertainties  and  complex  challenges,  resilience  is  key.  In 
+Singapore’s experience, resilience is not just about being able 
+to recover after times of crisis. Resilience is continuously built 
+through  integrated  and  long-term  planning  and  good  urban 
+governance. This has allowed us to build a Singapore that can 
+survive, adapt and thrive regardless of the stresses and shocks 
+we face. 
+
+This  publication  has  utilised 
+the  Singapore  Liveability 
+Framework,  which  distils  the  key  principles  of  Singapore’s 
+urban transformation, and 100 Resilient Cities’ City Resilience 
+Framework, to capture how Singapore has gone about building 
+resilience.  The  publication  has  focused  on  two  pertinent 
+resilience  challenges  of  climate  change  and  changing 
+demographics and the ongoing efforts and future actions to 
+address them. 
+
+The  Centre  for  Liveable  Cities  looks  forward  to  continue 
+working  with  100  Resilient  Cities  to  learn  from  its  network 
+of  cities  and  share  Singapore’s  experience  with  others.  The 
+collective  knowledge  and  experience  will  most  definitely  go 
+towards helping Singapore and other cities better understand 
+resilience  challenges  and  find  innovative  urban  solutions  to 
+tackle them. 
+
+07
+
+MESSAGE FROM 100 
+RESILIENT CITIES (100RC) 
+MICHAEL BERKOWITZ, PRESIDENT, 100RC  
+Singapore’s story is one that demonstrates the importance of 
+resilience  thinking  for  cities.  Singapore’s  transformation  over 
+the past five decades has been remarkable–from a fledgling 
+nation  state  plagued  by  pollution,  corruption,  social  unrest, 
+and  other  urban  challenges  to  a  clean,  safe,  liveable  and 
+sustainable city today. That transformation towards resilience 
+was  achieved  through  a  rigorous  commitment  to  integrated 
+planning and to constantly reimagining the city as it could be 
+and as it should be in the near and far term. What is just as 
+important is the commitment that Singapore has put in place 
+to  ensure  that  plans  come  to  fruition  and  stakeholders  are 
+engaged in the process. 
+
+it  gained 
+
+independence,  Singapore  has 
+
+Since 
+taken 
+an 
+integrated,  and  strategic  approach  to  creating  and 
+implementing its plans. By developing plans with both 50-year 
+and 10-year time horizons and designing multiple benefits into 
+every intervention, Singapore has become a living lab for the 
+value of resilience thinking.  Projects like Marina Barrage and 
+Bishan-Ang Mo Kio Park could have focused on singular goals–
+to increase fresh water reserves and improve storm drainage–
+but delivered multiple benefits including improving biodiversity, 
+reducing flooding, creating recreational space, reducing urban 
+heat island effect and improving community cohesion. 
+
+In this Resilience Narrative, Singapore has documented how it 
+has been successful in implementing its resilience plans and 
+overcoming its challenges.  But it has also asked some difficult 
+questions and recognised continued challenges that will shape 
+Singapore’s future.  The two challenges of climate change and 
+changing demographics that Singapore has identified resonate 
+with  many  cities  around  the  world.  This  publication  outlines 
+what Singapore can and needs to do to further its resilience 
+when dealing with such challenges. 
+
+Resilience  is  an  ongoing  process  of  reflection,  engagement 
+and  innovation.  Nowhere  is  this  stated  more  clearly  than 
+in  the  final  call  to  action  of  this  document–a  shift  towards 
+a  values-based  society,  a  call  for  the  whole  city  to  come 
+together  in  good  times  and  bad.    Singapore  holds  a  special 
+place as the only nation state in the 100RC network.  But in 
+many ways here again, Singapore is tackling challenges that 
+many  cities  will  eventually  have  to  face–how  to  survive  and 
+thrive  as  a  city  in  an  increasingly  connected  global  context.  
+I look forward to continuing our work with Singapore through 
+the Centre for Liveable Cities on these challenges. Singapore 
+has the potential to be a valuable contributor not only to our 
+network but to all cities around the world on building resilience, 
+planning for uncertainty and optimising resources.  I hope this 
+document  can  be  instructive  and  a  starting  point  for  deeper 
+global collaboration on important issues impacting cities today.   
+
+08
+08
+
+ABOUT CENTRE FOR LIVEABLE CITIES (CLC)
+Set up in 2008 by the Ministry of National Development and 
+the  Ministry  of  the  Environment  and  Water  Resources,  the 
+Centre for Liveable Cities’ mission is to distil, create, and share 
+knowledge on liveable and sustainable cities. 
+
+The  Centre  for  Liveable  Cities’  work  spans  four  main  areas 
+–Research,  Capability  Development,  Knowledge  Platforms, 
+and  Advisory.  Through  these  activities,  the  Centre  hopes  to 
+provide  urban  leaders  and  practitioners  with  the  knowledge 
+and support needed to make our cities better.
+
+ABOUT 100 RESILIENT CITIES (100RC)
+100 Resilient Cities–Pioneered by the Rockefeller Foundation 
+is dedicated to helping cities around the world become more 
+resilient to the physical, social and economic challenges of the 
+21st century.
+
+100  Resilient  Cities  supports  the  adoption  and  incorporation 
+of a view of resilience that includes not just shocks such as 
+floods, fires, riots, but also stresses such as growing diversity 
+and aging population that could threaten and weaken the fabric 
+of the city on a day-to-day or cyclical basis.
+
+01 - Waterfront view of Tanjong Rhu, Credit: Jeremy Photography 2013
+
+01 
+
+ABOUT THE 100 RESILIENT CITIES 
+(100RC) NETWORK
+100RC  possesses  a  unique  vantage  point 
+for 
+understanding the changing landscape of cities in the 21st 
+century.  The holistic lens urban resilience offers decision 
+makers is uniquely suited to meet the needs of the modern 
+city and regions of which they are critical members.  Cities 
+in  the  100RC  network  are  provided  with  the  resources 
+necessary to develop a roadmap to resilience along four 
+main pathways: 
+
+• 
+
+• 
+
+• 
+
+Financial and logistical guidance for establishing  
+an innovative new position in city government—a 
+Chief Resilience Officer—who will lead the city’s 
+resilience efforts 
+
+Expert support for the development of a robust 
+Resilience Strategy 
+
+Access to solutions, service providers and partners 
+from the private, public and NGO sectors who  
+can help them to develop and implement their  
+Resilience Strategies 
+
+•  Membership  in  a  global  network  of  cities  who  can 
+
+learn from and help each other
+
+EXECUTIVE 
+SUMMARY
+
+09
+
+poor 
+
+Singapore’s  journey  is  as  much  a  story  of 
+sustainable  urban  development  as  it  is  of 
+resilience. Just barely 50 years ago, a newly 
+independent Singapore had to grapple with 
+serious  urban  challenges—overcrowded 
+slums, 
+public 
+health  conditions  as  well  as  inadequate 
+infrastructure to meet a growing population. 
+Then, we were less than two million people. 
+Today,  our  population  is  more  than  5.6 
+million without significant increases in our 
+land  area.  Even  as  our  population  tripled, 
+we have become more liveable as a city.
+
+sanitation 
+
+and 
+
+Resilience  has  been  embedded  in  our  efforts  to  develop 
+Singapore into a liveable and sustainable city. In taking a long-
+term and integrated approach to planning and developing our 
+city, we have been building up our resilience and capacity to 
+manage and adapt to stresses and putting in place different 
+measures to handle potential shocks. Given our context as a 
+globally  connected,  high-density  city-state  with  limited  land 
+and  resources,  our  perennial  stresses  can  easily  spiral  into 
+larger problems or become amplified in times of crises if not 
+well-managed. 
+
+In  our  early  years,  we  provided  basic  necessities  and 
+infrastructure,  such  as  public  housing  and  clean  water,  and 
+
+built  our  economy,  without  compromising  our  sustainability 
+and liveability. We worked with  different stakeholders to build 
+inclusive  public  spaces,  conserve  our  nature  reserves  and 
+protect our greenery, while reserving spaces for the arts and 
+many more. 
+
+With  increasing  globalisation  and  urbanisation,  Singapore, 
+as  with  many  other  cities  around  the  world  today,  continues 
+to  face  increasingly  complex  urban  challenges.  Resilience 
+thinking is not a luxury but a necessity  for cities. It is about 
+putting  in  place  holistic  and  integrated  measures  to  enable 
+cities to adapt, survive, and thrive regardless of the stresses or 
+shocks they face. 
+
+The  Centre  for  Liveable  Cities  (CLC)  and  100  Resilient  Cities 
+(100RC)—Pioneered  by  Rockefeller  Foundation,  have  put 
+together this publication to share Singapore’s resilience story 
+of building a highly liveable and sustainable city, and how we 
+are  continuing  to  build  resilience  in  an  increasingly  complex 
+environment. Through research and a series of engagements 
+with various stakeholders from the public, private, and people 
+sectors,  we  have  identified  key  case  studies  and  insights  on 
+Singapore’s  efforts  to  build  resilience,  focusing  in  particular 
+on  two  key  cross-cutting  challenges:  Climate  Change  and 
+Changing Demographics. 
+
+Building  resilience  is  an  ongoing  process.  What  matters  is 
+to learn from what we have done and achieved and to learn 
+from others. More importantly, it is about how the whole city 
+can come together, both in the day-to-day and during times of 
+crises. We need to move from awareness to action. Everyone 
+has a part to play in this continued commitment to building a 
+resilient Singapore.
+
+10
+
+SINGAPORE: 
+A JOURNEY OF 
+RESILIENCE
+
+OUR URBAN TRANSFORMATION 
+
+In 1947, the British Housing Committee Report proclaimed that 
+Singapore “had one of the world’s worst slums—a disgrace to a  
+civilised community”.1
+
+The British colony then had a population of less than one million 
+people,  more  than  half  of  which  lived  in  dirty,  overcrowded 
+slums.  Singapore  was  plagued  by  various  urban  challenges, 
+and  there  was  a  dire  lack  of  basic  infrastructure  with  poor 
+drainage  and  sanitation,  polluted  rivers,  and  a  lack  of  clean, 
+piped water. As a result, malnutrition and disease were rife, as 
+was the prevalence of water and food borne diseases such as 
+tuberculosis and cholera. Life expectancy was short, and infant 
+mortality was high.
+
+Today,  Singapore  ranks  25th  on  the  Mercer  Liveability  Index. 
+We  have  the  third  highest  Gross  Domestic  Product  (GDP) 
+per capita and one of the lowest unemployment rates in the 
+world. As our population tripled over the past 50 years, we have 
+become a highly dense but liveable and sustainable city-state 
+that offers our residents a high quality of life.2 
+
+This transformation of Singapore since our independence from 
+1965 is very much a story of resilience. 
+
+We  have  come  a  long  way,  but  we  cannot  afford  to  be 
+complacent  or 
+forward 
+builds  upon  our  past  as  we  continuously  strive  to  further  
+our resilience. 
+
+remain  stagnant.  Our 
+
+journey 
+
+A city that fails to plan, plans 
+to fail. With the emergence 
+and continued existence of 
+
+challenges that are increasingly 
+global and complex, continuing 
+
+the resilience journey in 
+Singapore is critical.
+
+11
+11
+
+04
+
+Need to do better 
+Doing well but  
+can be improved
+Good 
+
+01 
+
+02
+
+03
+
+ership & 
+ment
+
+e
+g
+a
+n
+a
+ m
+e
+v
+i
+t
+c
+e
+f
+f
+e
+
+d
+a
+ le
+s
+e
+t
+o
+m
+o
+r
+P
+
+c
+o
+m
+m
+u
+
+n
+
+i
+
+c
+
+P
+
+r
+
+o
+
+v
+
+i
+
+d
+
+a
+
+t
+
+e
+
+s
+
+i
+
+ 
+
+o
+
+r
+
+n
+
+ 
+
+e
+
+l
+i
+
+&
+
+a
+
+ 
+
+b
+
+m
+
+o
+
+l
+
+e
+
+ 
+
+b
+
+ili
+
+t
+y
+
+s t e
+o
+F
+&  i n t e
+g
+
+Empowers a broad 
+range of stakeholders
+Leadership & strate
+
+s
+
+r
+
+r
+g
+
+y
+
+t e r m 
+
+ l o n g -
+t e d   p l a n ning
+a
+
+Meets
+basic needs
+
+m
+
+e
+
+livelih
+Health & w
+plo
+y
+
+S
+
+u
+
+p
+
+p
+
+o
+
+o
+
+orts, 
+
+d
+s 
+
+&
+
+m
+
+e
+
+n
+t
+
+ellb
+
+e
+i
+
+n
+
+g
+
+h
+
+E
+
+e
+
+n
+
+a
+
+l
+t
+
+s
+
+u
+
+h
+
+ 
+
+r
+
+e
+
+s
+
+s
+
+e
+
+r
+
+ 
+
+p
+
+v
+
+u
+
+i
+
+c
+
+b
+
+e
+s
+
+l
+
+i
+
+c
+
+ 
+
+Singapore
+1950s & 60s
+
+I
+
+n
+
+f
+
+r
+
+a
+
+s
+
+t
+r
+u
+
+c
+t
+u
+r
+
+E
+
+n
+
+s
+
+u
+r
+e
+
+o
+
+f 
+c
+ritic
+
+s c
+o
+
+al s
+
+e & environment
+
+ntinuity 
+
+ervices 
+
+Provides & enhances
+natural and manmade 
+
+assets
+
+Fo s t e r s   e c
+
+o
+
+o m ic
+n
+p r o s p e rit y
+
+ 
+
+&
+s
+ 
+e
+ 
+e
+i
+t
+v
+i
+n
+si
+u
+e
+m
+h
+m
+o
+s c
+o
+d c
+Promote
+e
+E c o no my & society
+g
+ enga
+E nsures social stability,
+security and justice
+
+WE 
+SURVIVE
+
+Overcoming incidents 
+and crises that 
+threaten the  
+stability of our  
+city-state 
+
+WE 
+ADAPT
+
+Putting in place robust 
+infrastructure and 
+systems that not only 
+protect us against 
+crises but also benefit 
+us in times of peace
+
+WE 
+THRIVE
+
+Creating a liveable and 
+sustainable city-state 
+despite our perennial 
+stresses of limited 
+land, lack of natural 
+resources, and a 
+diverse society
+
+ership & 
+ment
+
+e
+g
+a
+n
+a
+ m
+e
+v
+i
+t
+c
+e
+f
+f
+e
+
+d
+a
+ le
+s
+e
+t
+o
+m
+o
+r
+P
+
+c
+o
+m
+m
+u
+
+n
+
+i
+
+c
+
+P
+
+r
+
+o
+
+v
+
+i
+
+d
+
+a
+
+t
+
+e
+
+s
+
+i
+
+ 
+
+o
+
+r
+
+n
+
+ 
+
+e
+
+l
+i
+
+&
+
+a
+
+ 
+
+b
+
+m
+
+o
+
+l
+
+e
+
+ 
+
+b
+
+ili
+
+t
+y
+
+s t e
+o
+F
+&  i n t e
+g
+
+Empowers a broad 
+range of stakeholders
+Leadership & strate
+
+s
+
+r
+
+r
+g
+
+y
+
+t e r m 
+
+ l o n g -
+t e d   p l a n ning
+a
+
+Meets
+basic needs
+
+m
+
+e
+
+livelih
+Health & w
+plo
+y
+
+S
+
+u
+
+p
+
+p
+
+o
+
+o
+
+orts, 
+
+d
+s 
+
+&
+
+m
+
+e
+
+n
+t
+
+ellb
+
+e
+i
+
+n
+
+g
+
+h
+
+E
+
+e
+
+n
+
+a
+
+l
+t
+
+s
+
+u
+
+h
+
+ 
+
+r
+
+e
+
+s
+
+s
+
+e
+
+r
+
+ 
+
+p
+
+v
+
+u
+
+i
+
+c
+
+b
+
+e
+s
+
+l
+
+i
+
+c
+
+ 
+
+Singapore
+
+2010s 
+
+I
+
+n
+
+f
+
+r
+
+a
+
+s
+
+t
+r
+u
+
+c
+t
+u
+r
+
+E
+
+n
+
+s
+
+u
+r
+e
+
+o
+
+f 
+c
+ritic
+
+s c
+o
+
+al s
+
+e & environment
+
+ntinuity 
+
+ervices 
+
+Provides & enhances
+natural and manmade 
+
+assets
+
+Fo s t e r s   e c
+
+o
+
+o m ic
+n
+p r o s p e rit y
+
+ 
+
+&
+s
+ 
+e
+ 
+e
+i
+t
+v
+i
+n
+si
+u
+e
+m
+h
+m
+o
+s c
+o
+d c
+Promote
+e
+E c o no my & society
+g
+ enga
+E nsures social stability,
+security and justice
+
+01 - An officer from Flood Relief Survey Team taking particulars of dwellers at Potong Pasir, Credit: Ministry of Information and the Arts Collection, Courtesy of National Archives of Singapore 
+02 - Street hawker stalls at the old Glutton’s Square at Orchard Road, Credit: Ministry of Information and the Arts Collection, Courtesy of National Archives of Singapore
+03 - Street hawker operating from a “five-foot way” by the street, Credit: Ministry of Information and the Arts Collection, Courtesy of National Archives of Singapore 
+04 - Flooding in the 1960s, Credit: Ministry of Information and the Arts Collection, Courtesy of National Archives of Singapore
+05 -  A bird-eye view of the Bishan-Ang Mo Kio Park, Credit: Jimmy Tan (Flickr)
+06 - Singapore’s skyline at night, Credit: Joan Campderros-i-Canas
+07 - Commuters exiting the Mass Rapid Transit (MRT), Credit: Centre for Liveable Cities (CLC)
+
+05 
+
+06 
+
+07 
+
+12
+
+SNAPSHOT 
+OF SINGAPORE3
+719.9 sq km
+
+Land Area:
+
+Population: 5,612,300
+GDP/K: S$79,697
+Population density: 7796 per sq km
+Life Expectancy: 83.1 Years
+
+Indians 9.1%
+
+Chinese 74.3%
+
+Malays 13.4%
+
+Others 3.2%
+
+SOCIAL
+
+Literacy rate of residents aged over 15: 97%
+Doctors / 10,000 population: 24
+Crimes / 10,000 population: 584
+Home ownership rate: 90.7%
+Volunteerism: 35%
+Donations to charitable organisations: S$2.18 billion
+Volunteering hours: 121 million hours
+
+13
+
+CHRONIC STRESSES 
+ACUTE SHOCKS 
+
+Our Perennial Stresses
+
+Learning from Shocks
+
+As  a  small  city-state,  Singapore’s  plans  are  often  dealt  with 
+at the national level. We have to fit in the needs of a nation, 
+including  catering  for  military  training  grounds,  defence 
+airbases, sea ports, airports, water catchment areas, industrial 
+zones and more while ensuring the well-being of a highly dense 
+population. These are not typically expected of a city and they 
+constantly add additional pressure on us. 
+
+As a small island constrained by limited natural resources, we 
+have to constantly find innovative ways to balance competing 
+land requirements to meet our different economic, social, and 
+environmental needs. 
+
+Oftentimes, stresses that are not managed well can spiral into 
+larger incidents such as riots, financial crises or infrastructural 
+accidents. When facing incidents beyond our control, what we 
+have done to prepare ourselves will also impact on how well 
+we can cope.   
+
+While  Singapore  has  fortunately  avoided  major  natural 
+disasters,  we  have  had  our  fair  share  of  shocks  over  the 
+years.  Every  incident  is  an  opportunity  to  learn  and  adapt, 
+ensuring  that  systems  are  in  place  for  us  to  prevent  or 
+mitigate  and  recover  better  when  faced  with  recurring  or  
+new shocks.
+
+STRESSES
+IN SINGAPORE
+
+LIMITED 
+RESOURCES 
+
+Limited land area;
+Limited resources: 
+food, energy,  
+and water 
+
+CHANGING 
+DEMOGRAPHICS
+Increasing diversity; 
+Decreasing total 
+fertility rate;
+Rapidly ageing 
+population
+
+GLOBAL 
+CHALLENGES 
+
+Climate change;
+Global economic 
+uncertainties; 
+Terrorism threats 
+
+ECONOMIC
+
+GDP 
+
+BY SECTORS
+
+Unemployment rate: 2.1%
+Tourists: 17.4 mil 
+External debt: $0
+
+SERVICES PRODUCING INDUSTRIES
+Wholesale and retail trade: 17.6%
+Transportation and storage: 7.2%
+Accommodation and food services: 2.1%
+Information and communication: 4.2%
+Finance and insurance: 13.3%
+Business and services: 14.8%
+
+Other services industries: 12.0%
+Ownership and dwellings: 3.9%
+
+GOODS PRODUCING INDUSTRIES
+Manufacturing: 19.2%
+Construction: 4.3%
+Utilities: 1.3%
+
+ENVIRONMENTAL
+
+Days with good and 
+moderate air quality: 
+99%
+
+Area of skyrise greenery: 100ha
+Green cover: 47%
+Green view index (urban tree canopy density): 29.3%
+Flood prone area: 30.5ha
+Access to clean water: 100%
+
+Domestic recycling rate: 21%
+Non-domestic recycling rate: 76% 
+Fuel mix: 95.2% natural gas and 
+2.9% other energy products
+
+14
+14
+
+ACUTE SHOCKS
+1965
+
+SUDDEN INDEPENDENCE
+—Separation from Malaysia
+
+In  1965,  Singapore  suddenly  found  itself  an  independent  nation  with 
+the  separation  from  Malaysia.  Without  a  hinterland,  we  had  to  deal 
+with issues of sovereignty, defence and economic survival. This was 
+compounded in 1967 when the British administration announced the 
+withdrawal of its military bases here, which accounted for a significant 
+proportion of Singapore’s economy then. 
+
+One of the most pressing issues we faced was ensuring the security 
+of our border. A new Ministry of Foreign Affairs was formed, as well 
+as  a  People’s  Defence  Force. This  was  followed  by  the  expansion  of 
+the Singapore Armed Forces through mandatory conscription of male 
+citizens  through  National  Service  in  1967.  The  same  year,  a  Bases 
+Economic  Conversion  Department  was  also  set  up  to  convert  British 
+bases for commercial uses to avoid large-scale unemployment.
+
+Laju
+Incident
+1974
+
+01 
+
+Car Tragedy
+
+Cable 
+1983
+
+Asian 
+Financial 
+Crisis
+1998
+
+MacDonald 
+House Bombing
+1965
+
+Racial
+Riots
+1964
+
+Major 
+Floods
+60s/70s
+
+Spyro
+Disaster
+1978
+
+Singapore 
+Airlines Flight 
+117 Hijack 
+1991
+
+Hotel New 
+World 
+Collapse
+1986
+
+01 - Registration exercise of first batch of National Service recruits, Credit: Ministry of Information and the Arts Collection, Courtesy of National Archives of Singapore 
+02 - Poster to raise awareness during SARS, Credit: Ministry of Community Development and Sports Collection, Courtesy of National Archives of Singapore 
+03 - Haze in Singapore, Credit: TH Tan
+
+2003 CONTAINING A PANDEMIC
+
+—Severe Acute Respiratory Syndrome (SARS) Outbreak in Singapore 
+
+15
+15
+
+By the time the World Health Organisation (WHO) termed the previously 
+unknown virus as SARS on 15 March 2003, some 82 people in Singapore 
+had already been infected. The city’s economy also suffered as fears 
+of  the  virus  impacted  tourism  and  streets  were  emptied  as  people  
+stayed indoors. 
+
+Within two and a half months, the outbreak was successfully contained 
+and Singapore was declared free of SARS on 30 May 2003. However, in 
+that short period, the city had a total of 238 reported cases, including 
+33 deaths. 
+
+We  were  able  to  quickly  contain  the  pandemic  because  of  strong 
+measures that addressed the issues on multiple fronts, including:
+
+H1N1 
+Outbreak
+2009
+
+02
+
+Economic
+Recession
+2008
+
+Nicoll 
+Highway 
+Collapse 
+2004
+
+Jemaah 
+Islamiyah 
+Terrorist 
+Attempt
+2001
+2013 CATCHING A BREATHER
+
+—Dealing with the Haze Episode
+
+In  2013,  Singapore  was  hit  by  one  of  our  worst  haze  incidents  since 
+1997. The haze, which enveloped the city in mid-July, was caused by 
+forest fires from neighbouring Indonesia. Haze levels reached Pollution 
+Standards  Index  (PSI)  of  400  on  21  July,  a  critical  level  deemed  to 
+be  “potentially  life  threatening  to  the  ill  and  elderly”  by  the  National 
+Environment Agency (NEA). 
+
+Some of the measures that were rapidly adapted in Singapore to deal 
+with the haze included: 
+
+• 
+
+Integrated national level coordination:  A Crisis Management Group 
+(Haze) meeting was convened by the Permanent Secretary of the 
+Ministry of the Environment and Water Resources (MEWR) to lead 
+and coordinate government responses. 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+Integrated  and  coordinated  national-level  responses  that  were 
+led by the high-level Executive Group formed to lead government-  
+wide  responses  to  contain  the  virus  and  address  the  socio-
+economic impacts.
+
+Rapid and effective mobilisation of different groups from various 
+sectors,  including  the  military,  healthcare  and  grassroots,  to 
+work  tirelessly  and  closely  together  to  contain  the  virus.  This 
+included  contact  tracing;  monitoring  and  screening;  campaigning 
+to  keep  hygiene  standard  high  in  public  spaces;  and  boosting  
+public confidence.
+
+Ground-level  initiatives  among  the  public  and  community,  e.g. 
+neighbours sending food and groceries to those under quarantine.
+
+MRT 
+Breakdown
+2015
+
+Orchard Road 
+Flash Floods
+
+2013
+
+Batam 
+Bomb Plot
+2016
+
+Little 
+India Riot
+2013
+
+03
+
+Rapid  integrated  crisis  management  responses:  The  Ministry  of 
+Health  subsidised  treatment  of  haze-related  ailment  for  needy 
+patients  at  private  clinics,  while  the  Singapore  Armed  Forces, 
+together  with  grassroots  volunteers,  were  mobilised  by  the 
+People’s Association to distribute N95 masks to 200,000 vulnerable 
+households. 
+
+Community  level  responses: The  wider  community  also  stepped  up 
+and reached out to vulnerable groups. Members of the public bought 
+masks to distribute to needy families, and some even offered to house 
+neighbours in their air-conditioned rooms. 
+
+16
+
+SUSTAINING 
+AN OPEN 
+ECONOMY
+
+OVERCOMING 
+LIMITATIONS 
+TO CREATE A 
+SUSTAINABLE 
+ENVIRONMENT
+
+MAINTAINING 
+A MULTI-CULTURAL 
+AND DIVERSE CITY
+
+Singapore’s strategic location in Asia has made us a gateway for multinational 
+companies to enter the region’s emerging markets. This is supported by our pro-
+business, world-class financial infrastructure, and a well-developed transportation 
+hub  that  is  home  to  one  of  the  world’s  busiest  sea  and  air  ports.  Singapore  
+also has a skilled workforce, a result of efforts to develop people, our best and  
+only resource. 
+
+Without a hinterland, Singapore has strived to keep an open and well-connected 
+economy  over  the  past  five  decades.  While  strong  trading  ties  with  other 
+countries  have  helped  us  prosper,  this  strength  also  makes  us  vulnerable  to 
+global  economic,  political,  and  social  stressors  and  uncertainties.  It  is  critical 
+that we remain highly flexible and nimble in the global economy, providing a safe, 
+conducive, and liveable space to attract continued investments and talent.
+
+With  limited  land  and  resources,  Singapore  has  placed  great  emphasis  on 
+sustainable development since our formative years, rejecting the “develop first, 
+clean  up  later”  approach.  Rather  than  treating  environmental  protection  as  
+being at odds with economic development, we see both as an integral part of 
+city planning and development. In our early days, having a clean and green city 
+demonstrated to foreign investors that we were well-run and safe—key factors 
+that distinguished us from other cities and countries in the region. 
+
+Although surrounded by water, we are one of the world’s most water-stressed 
+countries. In our earlier years, water rationing had to be imposed during periods 
+of  drought.  Monsoon  periods  led  to  flooding  due  to  intense  rainfall.  Despite 
+these perennial stresses, since 1979, Singapore had provided 100% access to 
+clean, portable water to all its people and has reduced our flood prone areas to a 
+mere 32 ha in 2015. Beyond the provision of clean water, we have also bolstered 
+our water capacity with "4 National Taps": water from local water catchments, 
+imported  water  from  Malaysia,  NEWater  (high-grade  reclaimed  water);  and 
+desalinated water.
+
+As  a  small  city-state  with  no  natural  resources,  bringing  together  Singapore’s 
+multi-ethnic, multi-religious society has been fundamental to our development. 
+Founding Prime Minister Lee Kuan Yew once shared that the biggest challenge for 
+Singapore was “how to build a nation out of a disparate collection of immigrants 
+from China, British India and the Dutch East Indies”4. Today, diversity continues 
+to be a hallmark of Singapore, with an ever growing foreign population attracted 
+to live, work, and study here.  
+
+Our evolving demographic is going to challenge and stress the capacity of the 
+city-state. In addition, an ageing population will impact the workforce and the 
+economic dynamism of the city-state. It is critical that Singapore continues to 
+engage  our  population  and  adapt  to  changes  to  ensure  a  healthy  and  happy 
+populace.  This  means  not  just  engaging  and  mitigating  potential  fault  lines 
+within the society, but also fostering a more cohesive community to play a key 
+role in social support and rapport in times of troubles. 
+
+17
+
+Maintaining an 
+open economy
+
+Forging strong 
+trading ties with 
+other countries
+
+Developing a world  
+
+class transportation hub 
+
+Developing 
+strong financial 
+infrastructure
+
+Creating a safe and 
+stable environment 
+to attract investors
+
+Avoiding a “Develop 
+
+first, clean up  
+later" approach 
+
+Cleaning up 
+Singapore River
+
+Improving sanitation 
+and public health
+
+Greening 
+the city
+
+Enhancing 
+water security
+
+Maintaining racial and 
+
+religious harmony
+
+Providing quality 
+and affordable 
+public housing
+
+Developing inclusive 
+
+shared spaces
+
+Working with 
+communities 
+
+Four official languages:  
+
+English, Mandarin, 
+Malay and Tamil
+
+18
+
+DEVELOPING OUR  
+LIVEABLE AND RESILIENT CITY 
+
+is 
+
+the  capacity  of 
+
+Resilience 
+individuals,  communities, 
+institutions,  businesses  and  systems  within  a  city  to  survive, 
+adapt, and grow no matter what kinds of chronic stresses and 
+acute shocks they experience. 
+
+For Singapore, resilience is embedded in our pursuit of a liveable 
+and sustainable city, ensuring that we can continue and better 
+our path of development regardless of the shocks and stresses 
+we face. We have done so by constantly balancing competing 
+demands  of  developing  a  competitive  economy,  building  a 
+sustainable environment, and ensuring a high quality of life for 
+our population.
+
+This is expressed in the Singapore Liveability Framework, which 
+captures the liveable city outcomes of a competitive economy, 
+a high quality of life and a sustainable environment; and the 
+approach  to  achieving  these  outcomes  through  integrated 
+master planning and dynamic urban governance.
+
+Integrated Master Planning
+
+Singapore’s  integrated  master  planning  system  has  enabled 
+the  government  to  create  and  manage  urban  systems  that 
+balances the different priorities of the city. Integrated master 
+planning  goes  beyond  the  drafting  of  physical  plans.  We 
+look  at  optimising  planning  decisions  such  that  policies  and 
+plans  can  meet  both  short-term  and  long-term  needs,  and 
+respond to the changes of a dynamic political, economic, and  
+social environment.
+
+Dynamic Urban Governance
+
+The  challenge  for  most  cities  is  in  translating  plans  and 
+strategies effectively and efficiently into reality. Singapore does 
+this by having the necessary systems and processes in place 
+based on accountability, transparency, and incorruptibility. 
+
+Oftentimes,  the  political  leadership  in  Singapore  sets  a  clear 
+direction and rallies people from the public, private, and people 
+sectors.  With  the  proper  systems  and  sound  institutions  in 
+place, different government agencies cooperate and work with 
+stakeholders from multiple sectors to implement and execute 
+policies and programmes that foster growth and improve lives.
+
+Singapore Liveability 
+Framework
+
+Credit: Centre for Liveable Cities (CLC)  
+
+19
+
+The capacity of individuals, 
+communities, institutions, 
+businesses and systems within  
+a city to survive, adapt, and  
+grow no matter what kinds of 
+chronic stresses and acute 
+shocks they experience.
+
+ - Definition of Urban  
+Resilience by 100RC 
+
+Path of Development
+
+Shock or Stress
+
+to  50  years  of  development,  and  these  are  translated 
+into  the  Master  Plan—a  detailed  and  granular  statutory 
+plan  that  is  used  to  guide  development  over  the  next  10  
+to 15 years. 
+
+Singapore’s  Concept  and  Master  Plans  embody  the  key 
+principles  of  the  Singapore  Liveability  Framework.  Strategic 
+in  nature,  the  Concept  Plan  establishes 
+and 
+long-term 
+the  vision  for 
+land-use  and  transport  for  the  next  40 
+
+As  a  city-state  that  has  to  factor  in  considerations  at  both 
+the  city  and  national  levels,  a  comprehensive  governance 
+approach  involving  different  stakeholders  is  in  place  to 
+coordinate policy, planning, and implementations. 
+
+www.clc.gov.sg/research-publications/framework
+
+20
+20
+
+Concept Plan
+
+Singapore’s  first  Concept  Plan,  completed  in  1971,  guided 
+development of new towns, transport infrastructure and other 
+aspects  of  urban  development  while  safeguarding  long-term 
+land-use needs. The Concept Plan is reviewed every 10 years to 
+address changes in social and economic needs, with mid-term 
+reviews being carried out when necessary. Embedded within 
+the  Concept  Plan  process  is  a  consultative  process  where 
+feedback  from  the  public  are  sought  through  detailed  focus 
+groups as well as platforms such as surveys, public forums, 
+and exhibitions. This is coordinated by the Ministry of National 
+Development (MND) and the Urban Redevelopment Authority 
+(URA), the national authority for land-use planning.
+
+long-term 
+
+Such 
+integrated  planning  builds  resilience  as 
+planners  consider  how  decisions  deemed  convenient  now 
+
+might not lead to results beneficial to us in the long-term. This 
+means embarking on projects that do not seem pressing at the 
+moment but would be important in the future. Such a long-term 
+view also enables planners to identify possible problems in the 
+future and take steps earlier to pre-empt them. 
+
+The  involvement  of  multiple  agencies  through  inter-agency 
+efforts also ensures that all key land-use requirements of the 
+city are met and individual systems such as transport, water 
+or public housing are not decided in isolation. This integrated 
+approach involving more than 20 government ministries and 
+agencies in drafting Concept Plans is an important element in 
+building resilience.
+
+21
+
+Urban Governance
+
+Acutely aware of our limited land and resources, we understand 
+the need for coordination and integration across the different 
+agencies involved in developing Singapore. 
+
+Emphasis  has  been  on  integrating  and  creating  synergies 
+across different urban systems and domain areas, and ensuring 
+its integrity. Ultimately, incorruptibility and professionalism are 
+key elements that we hold steadfast to and these have been 
+key contributors to our rapid success and development.
+
+Effective  implementation  is  key  to  governance.  For  example, 
+in the early days, given the urgency of combatting air pollution, 
+the Anti-Pollution Unit was formed under the Prime Minister's 
+Office in 1970 to combat the urgent issue of air pollution. When 
+looking  at  cross-cutting  issues  such  as  climate  change  and 
+
+security,  platforms for a whole-of-government approach such as  
+the Inter-Ministerial Committee on Climate Change are in place 
+today to ensure that we look at issues and approach them in a 
+holistic manner.
+
+On  top  of  coordinating  and  delivering  effective  and  efficient 
+solutions  and  outcomes  to  meet  the  basic  needs  of  the 
+population  and  beyond,  what  has  been  critical  is  also  the 
+level  of  trust  built  with  the  people  through  both  working  for 
+and  with  them.  Most  of  Singapore’s  plans  and  initiatives 
+actively  engage  the  community  and  stakeholders.  We  have 
+held  nation-wide  engagements  such  as  Our  Singapore  
+Conversation  (OSC)  and  strategic  reviews  such  as  the 
+Committee  for  Future  Economy  which  reviewed  Singapore's 
+economic strategies for the future.
+
+(Clockwise from left) Concept Plan 1971, 1991, 2001 and 2011, Credit: Urban Redevelopment Authority (URA) 
+
+22
+
+RESILIENCE 
+MATTERS
+
+Today,  the  Earth  is  getting  hotter,  the  sea  is  rising,  and 
+the  climate  is  changing.  The  scale  of  globalisation  and 
+urbanisation is impacting our economy and society. The pace 
+of demographic change is impacting many aspects of city life. 
+In short, Singapore and cities around the world are facing an 
+ever-increasingly complex environment.
+
+Many  tend  to  think  of  resilience  as  building  robust  critical 
+infrastructure  or  factoring  redundancy  into  systems,  such  as 
+having  strategically  located  back-up  power  generators  in  the 
+City Resilience
+Framework
+
+Credit: 100 Resilient Cities
+
+ership & 
+ment
+
+e
+g
+a
+n
+a
+ m
+e
+v
+i
+t
+c
+e
+f
+f
+e
+
+d
+a
+ le
+s
+e
+t
+o
+m
+o
+r
+P
+
+c
+o
+m
+m
+u
+
+n
+
+i
+
+c
+
+P
+
+r
+
+o
+
+v
+
+i
+
+d
+
+a
+
+t
+
+e
+
+s
+
+i
+
+ 
+
+o
+
+r
+
+n
+
+ 
+
+e
+
+l
+i
+
+&
+
+a
+
+ 
+
+b
+
+m
+
+o
+
+l
+
+e
+
+ 
+
+b
+
+ili
+
+t
+y
+
+s t e
+o
+F
+&  i n t e
+g
+
+Empowers a broad 
+range of stakeholders
+Leadership & strate
+
+s
+
+r
+
+r
+g
+
+y
+
+t e r m 
+
+ l o n g -
+t e d   p l a n ning
+a
+
+Meets
+basic needs
+
+m
+
+e
+
+livelih
+Health & w
+plo
+y
+
+S
+
+u
+
+p
+
+p
+
+o
+
+o
+
+orts 
+d
+s 
+
+&
+
+e
+
+m
+
+n
+t
+
+ellb
+
+e
+i
+
+n
+
+g
+
+h
+
+E
+
+e
+
+n
+
+a
+
+l
+t
+
+s
+
+u
+
+h
+
+ 
+
+r
+
+e
+
+s
+
+s
+
+e
+
+r
+
+ 
+
+p
+
+v
+
+u
+
+i
+
+c
+
+b
+
+e
+s
+
+l
+
+i
+
+c
+
+ 
+
+I
+
+n
+
+f
+
+r
+
+a
+
+s
+
+t
+r
+u
+
+c
+t
+u
+r
+
+E
+
+n
+
+s
+
+u
+r
+e
+
+o
+
+f 
+c
+ritic
+
+s c
+o
+
+al s
+
+e & environment
+
+ntinuity 
+
+ervices 
+
+Provides & enhances
+natural and manmade 
+
+assets
+
+ 
+
+&
+s
+ 
+e
+ 
+e
+i
+t
+v
+i
+n
+si
+u
+e
+m
+h
+m
+o
+s c
+o
+d c
+Promote
+e
+E c o no my & society
+g
+ enga
+E nsures social stability,
+security and justice
+
+Fo s t e r s   e c
+
+o
+
+o m ic
+n
+p r o s p e rit y
+
+case of power outages or failures. But we need more than that. 
+We  need  to  understand  and  consider  the  interdependencies 
+between the urban systems of our city. 
+
+We need to recognise that people and communities are also at 
+the heart of resilience. This means fostering a whole-of-society 
+approach: enabling and supporting our stakeholders to deal with 
+the evolving challenges of today and tomorrow.
+
+WHAT MAKES A CITY RESILIENT?  
+
+100  Resilient  Cities  (100RC)  articulates  the  dimensions 
+and  drivers  needed  to  build  resilience  via  its  City  Resilience 
+Framework (CRF). This framework outlines four dimensions of 
+Health and Wellbeing; Economy and Society; Infrastructure and 
+Environment;  and  Leadership  and  Strategy  as  well  as  twelve 
+drivers that contribute to resilience and the multiple entry points  
+for actions. 
+
+The CRF provides a lens to understand the complexity of cities 
+and  the  drivers  that  contribute  to  its  resilience.  Cities  can 
+assess the extent of their resilience using the CRF and identify 
+critical  areas  for  improvements,  interdependencies  between 
+systems, and potential actions to further the city's resilience. 
+
+Building  a  city’s  resilience  means  creating  systems  that  are 
+designed to withstand, respond to, and adapt more readily to 
+shocks and stresses. 100RC has built on decades of research 
+on resilient systems to identify seven qualities that various city 
+systems need.
+
+Resilience  is  not  just  about  emergency  preparedness  or  the 
+ability  to  recover  after  disasters  or  crises.  A  key  element  of 
+resilience, particularly for Singapore, is also about making the 
+city better in good times to benefit all, and in the process, build   
+capacity to deal with crises when they do happen.
+
+www.100resilientcities.org/resources/ 
+
+Seven Qualities of Resilience
+
+Credit: 100 Resilient Cities
+
+Reflective
+
+Using past experience 
+
+to inform future 
+
+decisions
+
+23
+
+Inclusive
+
+Integrated
+
+Prioritise broad consultation 
+to create a sense of shared 
+ownership in decision making
+
+Bring together a range 
+
+of distinct systems 
+
+and institutions
+
+Resourceful
+Recognising
+
+alternative ways  
+to use resources
+
+Robust
+
+Well-conceived, 
+constructed and 
+managed systems
+
+Redundant
+Spare capacity 
+
+purposively created to 
+accommodate  disruption
+
+Flexible
+
+Willingness and ability 
+to adopt alternative 
+
+strategies in response to 
+changing circumstances
+
+MORE THAN
+JUST A BARRAGE
+
+The  Marina  Barrage  in  Singapore  is  one  example  of  achieving  multiple  resilience 
+dividends.5 It helps to alleviate flooding in the low-lying areas in the city and also serves 
+as the first fresh-water reservoir in the heart of the city. Besides this water management 
+function, the barrage has been designed as a recreational community space for all to 
+enjoy. The reservoir's constant water level also makes it ideal for various water sports 
+such as dragon-boating, kayaking, and sailing.
+
+WATER 
+SUPPLY 
+
+Boost Singapore’s Water Supply 
+as Singapore’s 15th reservoir 
+and its first reservoir in the city
+
+LIFESTYLE 
+ATTRACTION 
+
+Hotspot for recreational 
+activities in Singapore
+
+FLOOD CONTROL
+
+Acts as a tidal barrier to 
+keep seawater out and 
+alleviates flooding in 
+low-lying city areas
+
+24
+
+WRITING OUR RESILIENCE STORY 
+
+In  developing  this  publication,  the  Centre  for  Liveable  Cities 
+(CLC) conducted a number of stakeholder interviews and stock-
+taking and analysis exercises to capture Singapore’s past and 
+current efforts in building resilience, and identify areas for further 
+discussion and future action. These were done and facilitated by 
+100RC's City Resilience Framework (CRF).
+
+Setting the Agenda and Learning from 100RC's Network
+
+CLC kick-started the process with an Agenda-Setting Workshop 
+to  identify  key  resilience  challenges  and  gaps  in  Singapore. 
+The  discussions  with  stakeholders  from  key  government 
+agencies  and  the  people  and  private  sectors  concluded  that 
+while Singapore has done well in building resilience in many 
+areas,  more  could  be  done  to  empower  a  broader  range  of 
+stakeholders and foster stronger communities.
+
+Leveraging on 100RC’s Network, the Chief Resilience Officers 
+(CROs)  of  Melbourne  and  Bangkok  shared  their  experiences 
+and efforts in developing their city's  resilience strategies. Amy 
+Chester,  Managing  Director  from  Rebuild  by  Design  (RBD)6, 
+also shared with the workshop about the RBD project and the 
+value of applying a collaborative research and design process. 
+
+Taking Stock of Existing Work
+
+Engaging the Wider Community
+
+Utilising 100RC's tools, such as the Action Inventory tool and the 
+Perception Assessment tool, CLC also reviewed and captured 
+the wide range of initiatives and programmes that are and have 
+been in place to build resilience in Singapore. 
+
+In a second workshop, CLC again brought together stakeholders 
+from  the  public,  people,  and  private  sectors  to  identify  gaps, 
+opportunities,  and  actions,  and  agreed  to  focus  on  two  key 
+challenges of climate change and changing demographics.
+
+25
+
+02
+
+03
+
+04
+
+05
+
+Agenda Setting 
+Workshop
+Mar 2016
+
+Action Inventory 
+Exercise
+Jan 2017
+
+Workshop on Resilience 
+Gaps and Opportunities
+
+Jan 2018
+
+Joined the 
+100RC Network
+Dec 2014
+
+Utilised 100RC tools 
+and methodology to 
+diagnose resilience 
+status, gaps and 
+opportunities
+
+Conducted 
+stakeholder 
+engagements 
+and interviews 
+Jun 2017
+
+Launch of 
+A Resilient 
+Singapore 
+publication 
+Jul 2018
+
+2014
+
+2016
+
+2018
+
+01 
+
+01 - Table Exercise at the Agenda Setting Workshop, Credit: Centre for Liveable Cities
+02 & 03 - Analysis using 100RC's tools on actions in Singapore that contributes to resilience; and stakeholder perceptions on the gaps and opportunities in Singapore
+04 - Workshopping ideas on gaps and opportunities, Credit: Centre for Liveable Cities 
+05 - Sharing by Ms Sophianne Araib, Director/ CLC & Singapore’s resilience officer to 100RC, Credit: Centre for Liveable Cities
+
+26
+
+OUR RESILIENCE 
+CHALLENGES
+
+As Singapore grew into a densely-populated city-state, the type 
+of stresses and shocks we are exposed to have also evolved. 
+We  cannot  assume  Singapore  to  be  sheltered  from  what  is 
+happening  around  the  world,  nor  can  we  simply  replicate 
+solutions from the past for current and future challenges. Our 
+approach to today's issues has to be integrated and holistic, 
+based  on  a  deeper  understanding  of  the  interdependencies 
+between different sectors and domains.
+
+TWO KEY CHALLENGES
+
+A  Resilient  Singapore  has 
+identified  two  key  resilience 
+challenges:  Climate  Change  and  Changing  Demographics. 
+Both have significant impacts across different sectors, some of 
+which—such as the occurrence of flash floods and the brewing 
+undercurrents of social tensions—are already apparent today.
+
+27
+
+Surviving and Thriving in a World Where the Climate 
+is Changing
+
+By dint of our geographical location, Singapore is fortunate to 
+have  avoided  the  direct  impacts  of  natural  disasters,  such  as 
+hurricanes and earthquakes. Nevertheless, we remain extremely 
+vulnerable to climate change. 
+
+There are three main areas of concern:  First, as a small, low-lying 
+island-state,  Singapore  faces  an  existential  threat  from  rising  
+sea levels. Experts estimate that sea levels around Singapore 
+could  rise  by  up  to  1m  by  the  end  of  the  century.  If  left 
+unaddressed,  low-lying  coastal  regions  in  Singapore  could 
+experience  flooding  during  severe  coastal  storms,  or  even 
+become permanently submerged over time.   
+
+Second,  daily  mean  temperatures  are  projected  to  rise  by 
+1.4 to 4.6°C towards the end of this century. This can aid the 
+
+proliferation  of  vector-borne  diseases  such  as  Dengue  and 
+Zika; cause crop failure in the countries from which we import 
+food; and harm our biodiversity. For example, high sea surface 
+temperatures  were  responsible  for  coral  bleaching  from  1998 
+to 2010. In 2015, hot weather caused a plankton bloom in the 
+Johor Straits resulting in mass fish deaths.
+
+Third,  the  contrast  between  the  wet  months  (November  to 
+January) and dry months (Febuary and June to September) are 
+likely to become more pronounced. An increase in intense rainfall 
+can  lead  to  flash  floods.  Conversely,  a  lack  of  rainfall  poses 
+threats to our water supplies. In 2014, Singapore experienced 
+a  record  dry  spell  of  27  days. The  drier  weather  in  2015  and 
+2016 caused water levels at Linggiu Reservoir in Johor (which 
+Singapore imports water from) to drop to a historic low (about 
+20%  in  October  2016).  To  remain  resilient,  Singapore’s  water 
+security and flood prevention plans need to be able to cope with 
+the impact of changing weather patterns. 
+
+WATER RESOURCES  
+AND DRAINAGE
+•  A persistent lack of rainfall or prolonged  
+ 
+dry spell could place our water resources  
+ 
+under pressure 
+• 
+ 
+
+Intense rainfall could overwhelm our drainage  
+system and lead to flash floods
+
+vector-borne diseases
+
+PUBLIC HEALTH 
+•  Warmer periods can increase the risk of  
+ 
+•  Warmer weather may also lead to more  
+ 
+ 
+ 
+
+occurrences of heat stress and heat-induced  
+illnesses, particularly among the very young,  
+elderly and infirm. 
+
+COASTAL PROTECTION
+•  Areas along Singapore’s coast are at risk of coastal  
+inundation given that about 30% of our island is less  
+ 
+ 
+than 5m above mean sea level .
+
+BIODIVERSITY 
+& GREENERY
+
+Changes to the climate, such as rising 
+sea surface temperatures, rising sea 
+levels and more intense rainfall, can 
+adversely affect our flora and fauna.
+
+FOOD SECURITY 
+•  As we import more than 90% of our food, we are  
+ 
+ 
+
+vulnerable to fluctuations in global food supply and  
+prices, which may be affected by climate change.
+
+28
+
+Adapting to Changing Demographics
+
+As a nation of immigrants, Singapore has a strong commitment 
+to multiculturalism borne from hard lessons in the lead up to our 
+independence. A series of racial riots in 1964 remind us of the 
+need  to  build  a  socially  cohesive  city  and  we  have  supported 
+the integration of diverse groups of people through a variety of 
+approaches, such as developing common shared spaces. 
+
+above, a demographic shift that will impact both our economy 
+and  society.  With  the  projected  decline  of  the  population  of 
+working-age  citizens  (aged  20-64),  we  need  to  maintain  a 
+balanced inflow of immigrants and foreign workers, and keep 
+raising productivity in order to maintain our economic dynamism 
+and growth.
+
+We know the future holds even more changes. As an open and 
+global  hub,  Singapore  will  continue  to  attract  people  from  all 
+over the world, making the city-state even more cosmopolitan 
+and diverse. We also have a rapidly ageing population. By 2030, 
+Singapore will have around 900,000 citizens aged 65 years and 
+
+These  changing  demographics—a  sizeable  non-resident 
+population  and  a  growing  elderly  population  with  increasing  
+social  and  eldercare  needs—will  test  Singapore’s  social  
+resilience.  We  will  need  to  continue  our  work  in  building  
+communities  and  trust  in  this  multicultural,  multiracial,  and 
+multi-religious city-state.
+
+29
+
+s
+t
+n
+e
+d
+i
+s
+e
+r
+-
+n
+o
+N
+ 
+n
+o
+i
+l
+l
+i
+
+ 
+
+M
+5
+.
+1
+
+s
+t
+n
+e
+d
+i
+s
+e
+r
+-
+n
+o
+N
+ 
+n
+o
+i
+l
+l
+i
+
+ 
+
+M
+5
+6
+.
+1
+
+2013 2017
+
+SIZABLE PROPORTION 
+OF NON-RESIDENTS
+
+Transnational 
+marriages makes 
+up almost one 
+third of all citizen 
+marriages
+
+20%
+
+2 in 10 marriages between citizens 
+in 2017 were inter-ethnic
+
+TRANSNATIONAL 
+MARRIAGES
+
+1 in 4 Citizens 
+(900,000)
+will be aged 65 years 
+old and above in 2030
+
+The ratio of 
+20-64 years old 
+residents to 65 
+years and over 
+residents has 
+been steadily 
+decreasing 
+
+Low total fertility 
+rates (TFR); at 
+only 1.16 per 
+female in 2017.
+
+7.4
+5.1
+2010 2017
+
+RAPIDLY AGEING 
+POPULATION
+
+LOW FERTILITY
+RATES
+
+DECREASING OLD-AGE 
+SUPPORT RATIO
+
+31
+
+30
+
+LEARNING 
+FROM THE PAST,
+LOOKING TO THE FUTURE
+
+To better prepare ourselves for the future, we need to reflect 
+on  past  efforts  and  programmes  that  have  contributed 
+significantly  to  our  resilience.  Through  a  collection  of  case 
+studies,  we  distil  and  share  our  efforts  in  building  resilience 
+which future actions can continue to build upon.
+
+01 
+ 
+
+02 
+	
+ 
+
+03	
+ 
+
+04 
+ 
+
+05 
+ 
+
+06 
+ 
+
+07 
+
+08 
+ 
+
+09 
+
+10 
+ 
+
+11	
+
+12 
+ 
+
+Spaces and platforms for fostering community interactions  
+and building social cohesion amidst diversity.
+
+Flexible and inclusive infrastructure with multiple functions,  
+including	managing	water	supply,	flood	control,	and	 
+recreational space.
+
+Promoting	greater	awareness	and	action	in	Singapore	to	fight	 
+climate change.
+
+Providing opportunities for lifelong learning and strengthening  
+economic resilience.
+
+Building capacity amongst the community to respond and  
+stay united in times of crises.
+
+Building a caring and inclusive society through acts of kindness  
+and volunteerism.
+
+Building a strong community-based support system for our seniors.
+
+Unlocking the potential of streets as temporary public spaces to  
+enhance vibrancy and engage with the community.
+
+Spaces for community gardening and urban farming.
+
+Creating “an inspired and extraordinary community space” 
+along the rail corridor with the people, for the people.
+
+A	robust,	diversified,	and	sustainable	water	supply.
+
+Ground-up initiative to bring people together to learn how to repair  
+broken items and create sense of ownership of the environment.
+
+13	 More	than	just	a	flat—creating	affordable	and	high	quality	homes	 
+ 
+
+for all.
+
+14 
+ 
+
+15 
+ 
+
+16  
+ 
+
+Providing access to affordable and clean food where different  
+groups can also mingle.
+
+Fostering ownership and social cohesion through participatory  
+planning and design.
+
+Inclusive blue-green spaces to improve quality of life, and better  
+connect people to the environment.
+
+16. ABC Waters Programme01. Community Centres andInter-Racial Conﬁdence Circles (IRCCs)13. Singapore Public Housing14. Hawker CentresLoca(cid:27) Delight(cid:18)!10. Rail Corridor11. Four National Taps04. SkillsFuture06. SGCares & SG Fund 07. Community Networks for Seniors (CNS)15. Build-A-Playground 08. Streets for People / Car-free Sundays09. Community in Bloom Programme 05. Total Defence and SG Secure02. Marina Barrage 03. Year of Climate Action 12. Repair Kopitiam32
+
+33
+
+MORE THAN 
+JUST THE 
+ENVIRONMENT
+
+From  early  on,  we  understood 
+the 
+importance  of  having  a  clean  and  green 
+city  to  be  more  than  just  aesthetics.  We 
+saw it as being key to convincing foreign 
+investors that Singapore was well-planned 
+and  sustainable.  It  was  also  important 
+for the physical and mental well-being of  
+the population. 
+
+These  are  some  examples  of  how 
+Singapore  has  built 
+its  resilience  by 
+taking  care  of  fundamentals.  Today’s  
+development  should  not  come  at  the 
+expense  of 
+  our  current  and  future 
+generations’ living environment.
+
+People at the stepping stones at Bishan-Ang Mo Kio Park, Credit: AtelierDreiseitl
+
+34
+34
+
+CASE STUDY
+
+CLEANING &  
+GREENING 
+SINGAPORE
+
+CASE STUDY
+
+35
+35
+
+RESILIENCE VALUE:
+• 
+• 
+
+Systematic, integrated, and long-term approach
+Access to a clean, green, and healthy living environment to 
+improve public health, economic competitiveness, and  
+social well-being
+
+RESILIENCE QUALITIES: 
+
+Integrated
+
+Reflective
+
+Redundant
+
+03
+
+CITY RESILIENCE FRAMEWORK (CRF):
+
+01
+
+Cleaning Up the City
+Creating  a  clean  and  healthy  living  environment  were  key 
+priorities for Singapore in the 1960s. Living conditions and public 
+hygiene then were deplorable, and vector diseases were common 
+occurrences. Any shocks—be it manmade or natural—often had 
+a severe impact on the people.   
+
+This was why the government placed significant emphasis on 
+cleaning  and  greening  Singapore.  The  first  nationwide  public 
+education programme—“Keep Singapore Clean”—was launched 
+in 1968 to change public’s perception and behaviour with regard 
+to cleanliness. Fines were imposed on individuals who littered, 
+and competitions were held to rate schools, markets, community 
+centres and government offices on their cleanliness. To lead by 
+example, Member of Parliaments (MPs) and community leaders 
+worked with residents to clean up common areas.
+
+Singapore became one of the first countries in the world to have 
+a  ministry  dedicated  to  the  environment  when  it  established 
+the  Ministry  of  Environment  (ENV)  in  1972.  The  ministry 
+took  a  systematic  and  integrated  approach  to  managing  the  
+environment  by  setting  up  an  Environmental  Public  Health 
+Division  to  look  after  public  hygiene,  while  the  Engineering 
+Services Division provided and managed infrastructure such as 
+sewerage,  drainage  and  solid  waste  management  systems  to 
+safeguard and sustain the environment. 
+
+02
+
+Greening the City
+Since our independence, the government recognised the value 
+of providing people with access to greenery, as well as creating 
+a pleasant and liveable environment for all. The pervasive green 
+spaces in Singapore today was not by chance as greenery was 
+put in place with infrastructure development. In 1963, then-Prime 
+Minister Lee Kuan Yew launched the first tree planting campaign 
+and set a target of planting 10,000 trees every year, with half of 
+them  along  new  roads,  housing  estates,  school  grounds,  and  
+car parks. 
+
+Since  then,  Singapore  has  taken  an 
+integrated  approach 
+towards greening the city. In the 1970s, the Garden City Action 
+Committee  was  formed  to  oversee  greening  efforts  across 
+various  governmental  agencies. The  Parks  and Trees  Act  was 
+enacted in 1975, mandating road codes that guarantee planting 
+verges for trees along all roads, and requiring developers to set 
+aside green buffers. More recently, the Master Plan of 2003 was 
+released with the Parks and Water Bodies Plan and Identity Plan, 
+which look to create an island-wide network of green and blue 
+spaces. Between 23 July and 22 October 2002, public feedback 
+was sought and incorporated in these plans.  
+
+Despite  intense  urbanisation,  green  cover  in  Singapore  has 
+increased  from  36%  in  1986  to  47%  in  2007.  Moving  beyond 
+making greenery prevalent, Singapore also focused on bringing 
+the community closer to it. To expand the network of greenery and 
+enhance the use of these spaces, the Park Connector Network 
+was created to connect discrete pockets of parks, open spaces 
+and  waterways  with  tree-lined  walking  and  biking  paths  for  
+the community. 
+
+01 - Kite-flying on the garden roof at Marina Barrage, Credit: Ricard O'Rorke
+02 - Residents participating in the street cleaning campaign (1967), Credit: Ministry of
+ 
+Information and the Arts Collection, Courtesy of National Archives of Singapore 
+03 - Grassroots leader planting a sapling at the plot between Blocks 25 and 26 in Toa Payoh  
+East on Tree Planting Day (1983), Credit: Ministry of Information and the Arts Collection,  
+ 
+ 
+Courtesy of National Archives of Singapore 
+
+ership & 
+ment
+
+e
+g
+a
+n
+a
+ m
+e
+v
+i
+t
+c
+e
+f
+f
+e
+
+d
+a
+ le
+s
+e
+t
+o
+m
+o
+r
+P
+
+c
+o
+m
+m
+u
+
+n
+
+i
+
+c
+
+P
+
+r
+
+o
+
+v
+
+i
+
+d
+
+a
+
+t
+
+e
+
+s
+
+i
+
+ 
+
+o
+
+r
+
+n
+
+ 
+
+e
+
+l
+i
+
+&
+
+a
+
+ 
+
+b
+
+m
+
+o
+
+l
+
+e
+
+ 
+
+b
+
+ili
+
+t
+y
+
+s t e
+o
+F
+&  i n t e
+g
+
+Empowers a broad 
+range of stakeholders
+Leadership & strate
+
+s
+
+r
+
+r
+g
+
+y
+
+t e r m 
+
+ l o n g -
+t e d   p l a n ning
+a
+
+Meets
+basic needs
+
+m
+
+e
+
+livelih
+Health & w
+plo
+y
+
+S
+
+u
+
+p
+
+p
+
+o
+
+o
+
+orts
+d
+s 
+
+&
+
+ 
+
+e
+
+m
+
+n
+t
+
+ellb
+
+e
+i
+
+n
+
+g
+
+h
+
+E
+
+e
+
+n
+
+a
+
+l
+t
+
+s
+
+u
+
+h
+
+ 
+
+r
+
+e
+
+s
+
+s
+
+e
+
+r
+
+ 
+
+p
+
+v
+
+u
+
+i
+
+c
+
+b
+
+e
+s
+
+l
+
+i
+
+c
+
+ 
+
+I
+
+n
+
+f
+
+r
+
+a
+
+s
+
+t
+r
+u
+
+c
+t
+u
+r
+
+E
+
+n
+
+s
+
+u
+r
+e
+
+o
+
+f 
+c
+ritic
+
+s c
+o
+
+al s
+
+e & environment
+
+ntinuity 
+
+ervices 
+
+Provides & enhances
+natural and manmade 
+
+assets
+
+ 
+
+&
+s
+ 
+e
+ 
+e
+i
+t
+v
+i
+n
+si
+u
+e
+m
+h
+m
+o
+s c
+o
+d c
+Promote
+e
+E c o no my & society
+g
+ enga
+E nsures social stability,
+security and justice
+
+Fo s t e r s   e c
+
+o
+
+o m ic
+n
+p r o s p e rit y
+
+STAKEHOLDERS:
+
+Government
+
+Grassroots
+
+Community
+
+STATUS: ONGOING
+As at 2015, we have 
+• 
+• 
+• 
+
+4,100 ha of park spaces 
+61 km of Nature Ways
+300 km of park connectors
+
+36
+36
+
+CASE STUDY
+
+CASE STUDY
+
+37
+37
+
+01
+
+Providing Clean Water
+Another  key  aspect  of  resilience  for  Singapore  is  ensuring 
+adequate  access  to  clean  water  for  the  population.  This  is 
+crucial for the city-state’s survival and well-being. Despite being 
+located in a tropical region, the lack of land to store water means 
+Singapore is one of the countries with the greatest scarcity of 
+freshwater in the world. In 2015, the World Resources Institute 
+(WRI)  ranked  Singapore  as  one  of  the  most  water-stressed 
+country in the world. 
+
+PUB,  Singapore's  National  Water  Agency,  has  put  in  place  an 
+integrated  water  management  system  that  ensures  a  robust 
+and  diversified  water  supply  through  the  Four  National  Taps: 
+local  catchment  water;  imported  water;  NEWater  (high-grade 
+reclaimed water); and desalinated water. 
+
+By 2060, Singapore’s water use is expected to more than double. 
+To  meet  increasing  demand  and  strengthen  water  security, 
+especially in the face of climate change, Singapore will continue 
+to invest in key water infrastructure. A third desalination plant 
+at Tuas will be completed in 2018, and two more desalination 
+plants at Marina East and Jurong Island are being developed.
+
+02
+
+03
+
+More Than Just a Barrage 
+The Marina Barrage is a prime example of how Singapore has 
+reaped  and  enjoyed  multiple  benefits  through  an  integrated 
+development.  What  could  have  been  just  an  ugly  pump 
+house  was  instead  designed  and  built—in  close  cooperation 
+with  engineers  and  urban  planners—as  a  multi-purpose  and 
+beautiful recreational space. The Marina Reservoir is also one 
+of Singapore’s 17 reservoirs, and the first in the heart of the city. 
+The Barrage brings about resilience in three ways: 
+
+I.  Boosts water supply 
+
+II.  Acts  as  a  flood  control  scheme  to  alleviate  flooding  in  
+ 
+
+low-lying areas of the city
+
+III.  Raises awareness of the value and importance of water by  
+offering a space where the public can get close to water. This  
+ 
+is  supplemented  by 
+ 
+integrating  the  barrage  with  the  
+ 
+surrounding  environment,  including  Gardens  by  the  Bay,  
+  Marina Bay and Bay East Garden. Different groups of people  
+can  access,  share,  and  utilise  the  space  for  various  
+ 
+ 
+recreational activities, such as cycling and water sports. 
+
+Integral to the large-scale collection of used water for recycling 
+into NEWater is the Deep Tunnel Sewerage System (DTSS). A 
+superhighway for used water management, the DTSS provides a 
+cost-effective and sustainable solution to meet Singapore’s long-
+term  needs  for  used  water  collection,  treatment,  reclamation, 
+and disposal. The DTSS conveys used water entirely by gravity 
+to centralised Water Reclamation Plants located at the coastal 
+areas.  The  used  water  is  then  treated  and  purified  into  ultra-
+clean,  high-grade  reclaimed  water  called  NEWater.  Excess 
+treated effluent is discharged to the sea. DTSS Phase 1, covering 
+the northern and eastern parts of Singapore, was completed in 
+2008. DTSS Phase 2 will extend the deep tunnel system to cover 
+the western part of Singapore and is expected to be completed 
+by 2025.
+
+A new Tuas NEWater factory will be built as part of the Deep 
+Tunnel Sewerage System Phase 2. This will be Singapore’s sixth 
+NEWater factory. NEWater and desalinated water are expected 
+to meet up to 85% of Singapore’s water needs by 2060.
+
+Research  and  technology  has  allowed  PUB  to  systematically 
+close our water loop and this continues to be key in developing 
+a more resilient and sustainable water supply in the longer run. 
+NEWater  and  desalinated  water,  which  are  weather-resilient 
+sources,  are  more  energy-intensive  compared  to  conventional 
+water treatment. When reclaiming and recycling used water, PUB 
+constantly seeks ways to maximise energy efficiency and lower 
+energy use in the whole process. The agency is also exploring 
+technologies to halve its energy consumption in desalination.
+
+Managing demand is equally essential to ensuring a sustainable 
+water supply. PUB adopts a multi-pronged approach in managing  
+water  demand:  pricing  water  to  reflect  its  scarcity  value; 
+mandating water efficiency standards; and public education on 
+water conservation practices. 
+
+FROM 
+RESOURCE 
+TO ASSET
+“
+
+The Singapore water story is 
+one of an integrated urban 
+systems approach, in which a 
+well-coordinated public-private 
+partnership, engaging its various 
+stakeholders, has allowed a water 
+-stressed city-state to manage its 
+ongoing water challenges in an 
+integrated and holistic manner.
+
+7“
+
+01 - People at the stepping stones at Bishan-Ang Mo Kio Park, Credit: Pagodashophouse
+02 - NEWater Plant—recycling used water, Credit: PUB , Singapore's National Water Agency
+03 - NEWater Plant, Credit: PUB, Singapore's National Water Agency 
+
+38
+38
+
+CASE STUDY
+
+Water—An Asset that Binds Us Together  
+In the 1970s and 1980s, concrete, utilitarian drains and canals 
+were  rapidly  constructed  alongside  Singapore’s  then  fast-
+paced  development  to  alleviate  and  pre-empt  flooding.  The 
+completion  of  the  clean-up  of  the  highly  polluted  Singapore 
+River and Kallang Basin in 1987 also set in motion a process to 
+realise the vision of creating a reservoir in the city. As Singapore 
+progressively  increased  its  water  catchment,  there  was  an 
+increasing recognition of our water bodies not just as catchment 
+areas but as lifestyle and community spaces to be enjoyed. In 
+2006,  PUB  launched  the  Active,  Beautiful,  Clean  Waters  (ABC 
+Waters)  Programme  to  transform  ugly  functional  drains  and 
+canals  into  clean  and  beautiful  streams  and  rivers,  integrated 
+with  green  spaces,  for  the  community  to  get  closer  to  water. 
+With 17 reservoirs and about 8,000 km of waterways, there is a 
+rich opportunity to create spaces to draw people closer to water 
+so that they can better cherish our waters and keep our drains 
+and canals clean.
+
+Around the same time, PUB set up the 3P (People, Public, Private) 
+network. This tri-sector approach brings together stakeholders 
+from  the  different  sectors  in  an  aim  to  engage,  educate,  
+and  involve  them  so  that  they  will  take  stewardship  of  our  
+water resources.
+
+CASE STUDY
+
+39
+39
+
+RESILIENCE VALUE:
+• 
+• 
+• 
+
+Constant innovation to overcome limitations 
+Reaping multiple benefits through integration
+Generating greater awareness about the value of water by 
+working with stakeholders and communities 
+
+RESILIENCE QUALITIES: 
+
+Integrated
+
+Resourceful
+
+Robust
+
+Redundant
+
+Flexible
+
+Inclusive
+
+CITY RESILIENCE FRAMEWORK (CRF):
+
+ership & 
+ment
+
+e
+g
+a
+n
+a
+ m
+e
+v
+i
+t
+c
+e
+f
+f
+e
+
+d
+a
+ le
+s
+e
+t
+o
+m
+o
+r
+P
+
+c
+o
+m
+m
+u
+
+n
+
+i
+
+c
+
+P
+
+r
+
+o
+
+v
+
+i
+
+d
+
+a
+
+t
+
+e
+
+s
+
+i
+
+ 
+
+o
+
+r
+
+n
+
+ 
+
+e
+
+l
+i
+
+&
+
+a
+
+ 
+
+b
+
+m
+
+o
+
+l
+
+e
+
+ 
+
+b
+
+ili
+
+t
+y
+
+s t e
+o
+F
+&  i n t e
+g
+
+Empowers a broad 
+range of stakeholders
+Leadership & strate
+
+s
+
+r
+
+r
+g
+
+y
+
+t e r m 
+
+ l o n g -
+t e d   p l a n ning
+a
+
+Meets
+basic needs
+
+m
+
+e
+
+livelih
+Health & w
+plo
+y
+
+S
+
+u
+
+p
+
+p
+
+o
+
+o
+
+orts
+d
+s 
+
+&
+
+ 
+
+e
+
+m
+
+n
+t
+
+ellb
+
+e
+i
+
+n
+
+g
+
+h
+
+E
+
+e
+
+n
+
+a
+
+l
+t
+
+s
+
+u
+
+h
+
+ 
+
+r
+
+e
+
+s
+
+s
+
+e
+
+r
+
+ 
+
+p
+
+v
+
+u
+
+i
+
+c
+
+b
+
+e
+s
+
+l
+
+i
+
+c
+
+ 
+
+I
+
+n
+
+f
+
+r
+
+a
+
+s
+
+t
+r
+u
+
+c
+t
+u
+r
+
+E
+
+n
+
+s
+
+u
+r
+e
+
+o
+
+f 
+c
+ritic
+
+s c
+o
+
+al s
+
+e & environment
+
+ntinuity 
+
+ervices 
+
+Provides & enhances
+natural and manmade 
+
+assets
+
+ 
+
+&
+s
+ 
+e
+ 
+e
+i
+t
+i
+v
+n
+si
+u
+e
+m
+h
+m
+o
+s c
+o
+d c
+Promote
+e
+E c o no my & society
+g
+ enga
+E nsures social stability,
+security and justice
+
+Fo s t e r s   e c
+
+o
+
+o m ic
+n
+p r o s p e rit y
+
+01
+
+02
+
+Government
+
+Non-profit Organisations
+
+/ Social Enterprises
+
+Private Sector
+
+Community
+
+STAKEHOLDERS:
+
+01 - The Water Loop, Credit: PUB, Singapore's National Water Agency 
+02 - ABC Waters programme at Rochor Canal, Credit: PUB, Singapore's National Water Agency
+
+• 
+
+• 
+
+• 
+• 
+• 
+
+STATUS: ONGOING
+• 
+• 
+
+100% access to clean water and sanitation 
+3 desalination plants, with 2 more upcoming desalination 
+plants at Jurong Island and Marina East
+5 NEWater plants supplying up to 40% of our current water 
+needs 
+Two-thirds of Singapore’s land surface acts as water 
+catchment
+8,000 km of waterways and 17 reservoirs across the island 
+36 ABC Waters projects opened to public
+70 projects by other agencies and private developers have 
+received the ABC Waters Certification  
+
+40
+40
+
+CASE STUDY
+
+FEEDING A 
+NATION
+
+CASE STUDY
+
+41
+
+RESILIENCE VALUE:
+• 
+• 
+
+Providing affordable and adequate food for the population 
+Creating a hive of community activities and spaces where 
+people of different races, religions and cultures can gather
+
+RESILIENCE QUALITIES: 
+
+03
+
+Integrated
+
+Resourceful
+
+Robust
+
+Redundant
+
+Flexible
+
+Inclusive
+
+CITY RESILIENCE FRAMEWORK (CRF):
+
+Bringing People Together with Affordable Food
+Street hawking was thriving in Singapore during the late 1960s, 
+but  many  hawkers  did  not  have  good  hygiene  practices  and 
+food-borne  diseases,  such  as  cholera  and  typhoid,  were  very 
+common.  In  1970,  we  embarked  on  a  hawker  resettlement 
+programme  to  license  and  relocate  18,000  hawkers  from  the 
+streets to newly built hawker centres by February 1986.
+
+While hawker centres started as a means of environmental and 
+public  health  management,  they  have  developed  and  evolved 
+into  a  way  of  life  and  contributed  to  building  resilience  in 
+Singapore. On top of offering people affordable and clean food, 
+hawker centres have become community spaces where people 
+of different races, and cultures mingle. 
+
+To  ensure  that  future  hawker  centres  continue  to  play  these  
+vital  roles,  a  Hawker  Centre  3.0  Committee  was  formed  to  
+consult  the  different  stakeholders.  In  February  2017,  the 
+committee  released  a  report  with  recommendations  covering  
+four  key  areas:  sustaining  the  hawker  trade, 
+improving 
+productivity,  enhancing  hawker  centres  as  social  spaces,  and 
+promoting graciousness.
+
+01
+
+Ensuring Food Security
+Singapore  was  partially  self-sufficient  in  food  when  it  gained 
+independence in 1965. However, as part of an industrialisation 
+drive, land for farming was reduced to meet other needs, such 
+as housing, industry, roads, and other infrastructure. This led to 
+a reliance on food imports as demand increased together with 
+Singapore's population growth.
+
+To manage the ever-increasing volume and variety of imported  
+food, the Primary Production Department (PPD), which looked  
+after  agriculture  in  Singapore,  grew  its  capabilities  in  food 
+safety  assurance,  compliance,  and  enforcement.  In  2000, 
+PPD  became  the  Agri-food  and  Veterinary  Authority  (AVA)  to 
+further develop its mandate of ensuring everyone in Singapore 
+has  access  to  safe  and  nutritious  food  at  affordable  prices 
+in  the  short  and  long-term.  AVA  reviewed  and  reaffirmed 
+its  food  supply  resilience  and  food  safety  strategies  after 
+wide  consultations  with  the  industry  and  other  government 
+agencies.  The  Singapore  Food  Security  Roadmap  was  
+launched  in  2013  to  outline  core  strategies  of  food  source 
+diversification and optimising local food production.
+
+02
+
+ership & 
+ment
+
+e
+g
+a
+n
+a
+ m
+e
+v
+i
+t
+c
+e
+f
+f
+e
+
+d
+a
+ le
+s
+e
+t
+o
+m
+o
+r
+P
+
+c
+o
+m
+m
+u
+
+n
+
+i
+
+c
+
+P
+
+r
+
+o
+
+v
+
+i
+
+d
+
+a
+
+t
+
+e
+
+s
+
+i
+
+ 
+
+o
+
+r
+
+n
+
+ 
+
+e
+
+l
+i
+
+&
+
+a
+
+ 
+
+b
+
+m
+
+o
+
+l
+
+e
+
+ 
+
+b
+
+ili
+
+t
+y
+
+s t e
+o
+F
+&  i n t e
+g
+
+Empowers a broad 
+range of stakeholders
+Leadership & strate
+
+s
+
+r
+
+r
+g
+
+y
+
+t e r m 
+
+ l o n g -
+t e d   p l a n ning
+a
+
+Meets
+basic needs
+
+m
+
+e
+
+livelih
+Health & w
+plo
+y
+
+S
+
+u
+
+p
+
+p
+
+o
+
+o
+
+orts
+d
+s 
+
+&
+
+ 
+
+e
+
+m
+
+n
+t
+
+ellb
+
+e
+i
+
+n
+
+g
+
+h
+
+E
+
+e
+
+n
+
+a
+
+l
+t
+
+s
+
+u
+
+h
+
+ 
+
+r
+
+e
+
+s
+
+s
+
+e
+
+r
+
+ 
+
+p
+
+v
+
+u
+
+i
+
+c
+
+b
+
+e
+s
+
+l
+
+i
+
+c
+
+ 
+
+I
+
+n
+
+f
+
+r
+
+a
+
+s
+
+t
+r
+u
+
+c
+t
+u
+r
+
+E
+
+n
+
+s
+
+u
+r
+e
+
+o
+
+f 
+c
+ritic
+
+s c
+o
+
+al s
+
+e & environment
+
+ntinuity 
+
+ervices 
+
+Provides & enhances
+natural and manmade 
+
+assets
+
+ 
+
+&
+ 
+ 
+e
+v
+si
+e
+h
+o
+s c
+
+s
+e
+i
+t
+i
+n
+u
+m
+m
+o
+d c
+Promote
+e
+E c o no my & society
+ engag
+E nsures social stability,
+security and justice
+
+Fo s t e r s   e c
+
+o
+
+o m ic
+n
+p r o s p e rit y
+
+STAKEHOLDERS:
+
+Government
+
+Community
+
+Grassroots
+
+Private Sector
+
+STATUS: ONGOING
+• 
+
+Diversifying food supply from multiple sources both 
+internationally and locally 
+114 markets and hawker centres across Singapore 
+
+• 
+
+01 - Patrons having lunch at a Hawker Centre in Singapore, Credit: olli0815
+02 - Singapore’s Food Security Roadmap, Credit: Agri-Food and Veterinary Authority of Singapore (AVA)
+03 - Sky Greens' patented technology enables farming methods suited to Singapore's Climate, Credit: Sky Greens
+
+42
+42
+
+CASE STUDY
+
+CASE STUDY
+
+43
+43
+
+sense of place and memory for youths in urbanised Singapore. 
+These proposals then travelled around the nearby constituencies 
+to gather feedback from the residents.
+
+These residents—including seniors, children, and the physically 
+challenged—also got to become 'planners' for a day when they 
+were invited to draw up master plans to illustrate how stretches 
+of the Rail Corridor near where they lived could be relevant to 
+their needs.
+
+The  output  of  these  consultations  were  distilled  into  planning 
+and  design  goals  to  guide  the  conceptualisation  and  design 
+of  the  Rail  Corridor.  As  part  of  the  request  for  proposal,  “Rail 
+Corridor—An  Inspired  and  Extraordinary  Community  Space”, 
+a competition was held for design professionals to develop a 
+Concept Master Plan and Concept Proposals for the Corridor. 
+These proposals, informed by the extensive public consultation, 
+produced designs that were better attuned to the needs of the 
+communities living along the Rail Corridor. 
+Nurturing Communities Through Gardening
+Community in Bloom is a programme by NParks to encourage 
+and  allow  residents  to  participate  in  community  gardening 
+and  urban  farming.  This  nationwide  gardening  movement 
+was  launched  in  May  2005  at  Mayfair  Park  Estate  to  foster 
+community cohesion and neighbourliness. Today, Community in 
+Bloom has created close to 1,000 community gardens across 
+Singapore and engaged over 20,000 residents.
+
+03
+
+EMPOWERING 
+COMMUNITIES
+
+01
+
+Building Our Green Corridor 
+After  the  Keretapi  Tanah  Melayu  (KTM)  Berhad  (Malaysian 
+Railways Limited) station was relocated from Tanjong Pagar to 
+Woodlands on 1 July 2011, the Urban Redevelopment Authority 
+(URA) embarked on one of its most extensive public engagement 
+exercises to explore ways to develop the disused railway and its 
+surrounding land, which became known as the Rail Corridor.
+
+Various 
+interest  groups,  residents,  students,  the  general 
+public  and  professionals  were  consulted  via  multiple 
+means.  To  foster  a  stronger  collaboration  between  public 
+interest  groups,  a  working  group 
+sector  agencies  and 
+(Rail  Corridor  Consultant  Group—RCCG,  which  was 
+later 
+renamed  the  Rail  Corridor  Partnership)  comprising  officers 
+from  the  URA  and  the  National  Parks  Board  (NParks)  as 
+well  as  representatives  from  interest  groups  was  created  to  
+programme and promote community activities and events along 
+the Rail Corridor. 
+
+02
+
+Design workshops and competitions were also held to generate 
+interest among students and design professionals. More than 
+2,000  secondary  and  polytechnic  students  participated  in 
+workshops  to  reimagine  how  the  Rail  Corridor  could  foster  a 
+
+01 - Public visiting the Rail Corridor, Credit: Urban Redevelopment Authority (URA)
+02 - Engagement with the community on the Rail Corridor project, Credit: Urban Redevelopment Authority (URA)
+03 - Residents participating in Community Gardening, Credit: National Parks Board
+
+RESILIENCE VALUE:
+• 
+
+Inclusive planning through working with different  
+stakeholders 
+Generating greater awareness about the built and  
+natural environment
+Fostering social cohesion and empowering communities 
+
+• 
+
+• 
+
+RESILIENCE QUALITIES: 
+
+Integrated
+
+Resourceful
+
+Robust
+
+Flexible
+
+Inclusive
+
+CITY RESILIENCE FRAMEWORK (CRF):
+
+ership & 
+ment
+
+e
+g
+a
+n
+a
+ m
+e
+v
+i
+t
+c
+e
+f
+f
+e
+
+d
+a
+ le
+s
+e
+t
+o
+m
+o
+r
+P
+
+c
+o
+m
+m
+u
+
+n
+
+i
+
+c
+
+P
+
+r
+
+o
+
+v
+
+i
+
+d
+
+a
+
+t
+
+e
+
+s
+
+i
+
+ 
+
+o
+
+r
+
+n
+
+ 
+
+e
+
+l
+i
+
+&
+
+a
+
+ 
+
+b
+
+m
+
+o
+
+l
+
+e
+
+ 
+
+b
+
+ili
+
+t
+y
+
+s t e
+o
+F
+&  i n t e
+g
+
+Empowers a broad 
+range of stakeholders
+Leadership & strate
+
+s
+
+r
+
+r
+g
+
+y
+
+t e r m 
+
+ l o n g -
+t e d   p l a n ning
+a
+
+Meets
+basic needs
+
+m
+
+e
+
+livelih
+Health & w
+plo
+y
+
+S
+
+u
+
+p
+
+p
+
+o
+
+o
+
+orts
+d
+s 
+
+&
+
+ 
+
+e
+
+m
+
+n
+t
+
+ellb
+
+e
+i
+
+n
+
+g
+
+h
+
+E
+
+e
+
+n
+
+a
+
+l
+t
+
+s
+
+u
+
+h
+
+ 
+
+r
+
+e
+
+s
+
+s
+
+e
+
+r
+
+ 
+
+p
+
+v
+
+u
+
+i
+
+c
+
+b
+
+e
+s
+
+l
+
+i
+
+c
+
+ 
+
+I
+
+n
+
+f
+
+r
+
+a
+
+s
+
+t
+r
+u
+
+c
+t
+u
+r
+
+E
+
+n
+
+s
+
+u
+r
+e
+
+o
+
+f 
+c
+ritic
+
+s c
+o
+
+al s
+
+e & environment
+
+ntinuity 
+
+ervices 
+
+Provides & enhances
+natural and manmade 
+
+assets
+
+ 
+
+&
+s
+ 
+e
+ 
+e
+i
+t
+i
+v
+n
+si
+u
+e
+m
+h
+m
+o
+s c
+o
+d c
+Promote
+e
+E c o no my & society
+g
+ enga
+E nsures social stability,
+security and justice
+
+Fo s t e r s   e c
+
+o
+
+o m ic
+n
+p r o s p e rit y
+
+STAKEHOLDERS:
+
+Government
+
+Community
+
+Grassroots
+
+Non-profit Organisations
+
+/ Social Enterprises
+
+STATUS: ONGOING
+• 
+• 
+
+Rail Corridor Partnership formed 
+Public engagement for Rail Corridor from 2011 to 2014,  
+with feedback and suggestions distilled into design briefs 
+for Request for Proposal (RFP)
+Completion of RFP and exhibition launch 
+Close to 1,000 Community Gardens set up across Singapore
+
+• 
+• 
+
+44
+44
+
+CASE STUDY
+
+CASE STUDY
+
+45
+
+RESILIENCE VALUE:
+• 
+
+Community-led initiative to bring the community together 
+to share skills and knowledge
+Encourage sustainability through repairing and  
+recycling products
+
+• 
+
+RESILIENCE QUALITIES: 
+
+Integrated
+
+Resourceful
+
+Robust
+
+Flexible
+
+Inclusive
+
+03
+
+CITY RESILIENCE FRAMEWORK (CRF):
+
+Repair  Kopitiam  is  divided  into  four  different  departments: 
+electrical  appliances,  fabric  repair,  home  improvement,  and 
+responsible  dismantling.  Each  is  led  by  Repair  Coaches—a 
+group  of  experts  that  assess  the  condition  of  the  item  and 
+guide  participants  to  diagnose  and,  explore  methods  to 
+rectify  the  problem  before  repairing  it.  The  aim  is  to  share 
+skills  and  knowledge  with  the  participants  instead  of  offering 
+a  repair  service  so  that  they  can  pay  it  forward  to  their  
+own communities. 
+
+What started as a small meetup session has now doubled in 
+size. Repair Kopitiam has helped foster a sense of responsibility 
+among  users,  encouraging  them  to  think  about  the  lifecycle 
+of  a  product  before  purchasing  it.  This  creates  a  community 
+that takes ownership of the environment through small steps, 
+such  as  extending  the  shelf  life  of  their  consumer  products 
+and  discouraging  a  buy-and-throw-away  culture.  The  meetup 
+sessions also build up a social network by bringing people out 
+of their houses. 
+
+FROM THE 
+GROUND UP
+
+01
+
+Spreading a Culture of Repair
+To  combat  the  pervasive  buy-and-throw-away  culture,  social 
+enterprise  Sustainable  Living  Lab  (SL2) 
+launched  Repair 
+Kopitiam in November 2014 to share the skills needed to repair 
+everyday items. This ground-up initiative, supported by South-
+West  Community  Development  Council  (South-West  CDC) 
+and  the  National  Environment  Agency  (NEA),  is  in  line  with 
+the  Sustainable  Singapore  Blueprint's  aim  of  creating  a  zero- 
+waste nation. 
+
+The  group  meets  on  the  last  Sunday  of  every  month  at 
+community centres or public housing void decks to repair once 
+broken items brought in by anyone. The group also promotes 
+responsible e-waste disposal and fosters community bonding. 
+During  the  sessions,  SL2  also  teaches  others  how  to  repair 
+things.  The  group  also  promotes  their  movement  on  social 
+media and a website (repairkopitiam.sg), encouraging people to 
+volunteer at their sessions.
+
+02
+
+01 & 03 - Participants at the Repair Kopitiam Session, Credit: Repair Kopitiam
+02 - Logo of Repair Kopitiam, Credit: Repair Kopitiam
+
+ership & 
+ment
+
+e
+g
+a
+n
+a
+ m
+e
+v
+i
+t
+c
+e
+f
+f
+e
+
+d
+a
+ le
+s
+e
+t
+o
+m
+o
+r
+P
+
+c
+o
+m
+m
+u
+
+n
+
+i
+
+c
+
+P
+
+r
+
+o
+
+v
+
+i
+
+d
+
+a
+
+t
+
+e
+
+s
+
+i
+
+ 
+
+o
+
+r
+
+n
+
+ 
+
+e
+
+l
+i
+
+&
+
+a
+
+ 
+
+b
+
+m
+
+o
+
+l
+
+e
+
+ 
+
+b
+
+ili
+
+t
+y
+
+s t e
+o
+F
+&  i n t e
+g
+
+Empowers a broad 
+range of stakeholders
+Leadership & strate
+
+s
+
+r
+
+r
+g
+
+y
+
+t e r m 
+
+ l o n g -
+t e d   p l a n ning
+a
+
+Meets
+basic needs
+
+m
+
+e
+
+livelih
+Health & w
+plo
+y
+
+S
+
+u
+
+p
+
+p
+
+o
+
+o
+
+orts
+d
+s 
+
+&
+
+ 
+
+e
+
+m
+
+n
+t
+
+ellb
+
+e
+i
+
+n
+
+g
+
+h
+
+E
+
+e
+
+n
+
+a
+
+l
+t
+
+s
+
+u
+
+h
+
+ 
+
+r
+
+e
+
+s
+
+s
+
+e
+
+r
+
+ 
+
+p
+
+v
+
+u
+
+i
+
+c
+
+b
+
+e
+s
+
+l
+
+i
+
+c
+
+ 
+
+I
+
+n
+
+f
+
+r
+
+a
+
+s
+
+t
+r
+u
+
+c
+t
+u
+r
+
+E
+
+n
+
+s
+
+u
+r
+e
+
+o
+
+f 
+c
+ritic
+
+s c
+o
+
+al s
+
+e & environment
+
+ntinuity 
+
+ervices 
+
+Provides & enhances
+natural and manmade 
+
+assets
+
+ 
+
+&
+s
+ 
+e
+ 
+e
+i
+t
+i
+v
+n
+si
+u
+e
+m
+h
+m
+o
+s c
+o
+d c
+Promote
+e
+E c o no my & society
+g
+ enga
+E nsures social stability,
+security and justice
+
+Fo s t e r s   e c
+
+o
+
+o m ic
+n
+p r o s p e rit y
+
+STAKEHOLDERS:
+
+Community
+
+Non-profit Organisations
+
+/ Social Enterprises
+
+STATUS: ONGOING
+• 
+
+Regular Repair Kopitiam Repair Session on last Sunday of 
+every month
+
+46
+
+47
+
+UNITY AMIDST 
+DIVERSITY
+
+Ever  since  our  independence,  we  have 
+been bringing together different groups of 
+people not rooted in a common historical 
+experience to establish a nation. This need 
+to  build  unity  amidst  diversity  remains 
+relevant especially as our population ages 
+and becomes increasingly diverse.  
+
+The  examples  that  follow  share  how 
+we  have  gone  about  forging  common 
+ground and building bridges. The trust and 
+networks built will continue to be critical 
+for Singapore in the face of new and ever-
+evolving challenges ahead.
+
+Singapore supporters at the Singapore 2010 Youth Olympic Games, Credit: Singapore 2010 Youth Olympic Games 
+
+48
+48
+
+CASE STUDY
+
+CASE STUDY
+
+49
+
+Resilience  is  achieved  not  only  when  people  invest  personal 
+attachments to their public housing flats, neighbourhoods, and 
+towns; but also through developing relationships with each other. 
+The neighbourliness and social networks built within the public 
+housing communities have become the social infrastructure9 for 
+a city to survive and adapt to shocks and stresses.
+
+The most innovative policy within the public housing programme 
+is the Ethnic Integration Policy (EIP). It insists, from the beginning, 
+that all estates—right down to each neighbourhood and block—
+would house a mix of ethnic groups. This is achieved by instituting 
+limits on the number of residents from each race, reflecting the 
+ethnic population composition at the national level.
+ 
+Besides integrating the different races, HDB also builds different 
+flat types to ensure a mix of different socio-economic groups. 
+One  can  find  different  flat  types  (e.g.  2-room,  3-room,  4-room, 
+5-room flats) within a public housing block and estate.  There are 
+also public and private residences within neighbourhoods.
+
+Design  also  plays  a  part  in  bringing  residents  together.  The  
+ground  floor  void  deck,  introduced  in  1970,  offers  an  informal 
+space  for  residents  to  meet  and  serves  as  shelter  from  the 
+tropical heat for residents passing through it. Another common 
+space is the shared corridor on every level. Beyond just a means 
+for  residents  to  reach  their  flats,  these  “courtyards  in  the  sky” 
+have become communal spaces shared by families living on the 
+same floors.
+
+RESILIENCE VALUE:
+• 
+
+Systematic, integrated, and long-term planning to provide 
+affordable and good quality public housing for the masses 
+Building communities and fostering social cohesion 
+through design
+Creating open and inclusive public and community spaces 
+
+• 
+
+• 
+
+RESILIENCE QUALITIES: 
+
+Integrated
+
+Inclusive
+
+Robust
+
+CITY RESILIENCE FRAMEWORK (CRF):
+
+ership & 
+ment
+
+e
+g
+a
+n
+a
+ m
+e
+v
+i
+t
+c
+e
+f
+f
+e
+
+d
+a
+ le
+s
+e
+t
+o
+m
+o
+r
+P
+
+c
+o
+m
+m
+u
+
+n
+
+i
+
+c
+
+P
+
+r
+
+o
+
+v
+
+i
+
+d
+
+a
+
+t
+
+e
+
+s
+
+i
+
+ 
+
+o
+
+r
+
+n
+
+ 
+
+e
+
+l
+i
+
+&
+
+a
+
+ 
+
+b
+
+m
+
+o
+
+l
+
+e
+
+ 
+
+b
+
+ili
+
+t
+y
+
+s t e
+o
+F
+&  i n t e
+g
+
+Empowers a broad 
+range of stakeholders
+Leadership & strate
+
+s
+
+r
+
+r
+g
+
+y
+
+t e r m 
+
+ l o n g -
+t e d   p l a n ning
+a
+
+Meets
+basic needs
+
+m
+
+e
+
+livelih
+Health & w
+plo
+y
+
+S
+
+u
+
+p
+
+p
+
+o
+
+o
+
+orts
+d
+s 
+
+&
+
+ 
+
+e
+
+m
+
+n
+t
+
+ellb
+
+e
+i
+
+n
+
+g
+
+h
+
+E
+
+e
+
+n
+
+a
+
+l
+t
+
+s
+
+u
+
+h
+
+ 
+
+r
+
+e
+
+s
+
+s
+
+e
+
+r
+
+ 
+
+p
+
+v
+
+u
+
+i
+
+c
+
+b
+
+e
+s
+
+l
+
+i
+
+c
+
+ 
+
+I
+
+n
+
+f
+
+r
+
+a
+
+s
+
+t
+r
+u
+
+c
+t
+u
+r
+
+E
+
+n
+
+s
+
+u
+r
+e
+
+o
+
+f 
+c
+ritic
+
+s c
+o
+
+al s
+
+e & environment
+
+ntinuity 
+
+ervices 
+
+Provides & enhances
+natural and manmade 
+
+assets
+
+ 
+
+&
+ 
+ 
+e
+v
+si
+e
+h
+o
+s c
+
+s
+e
+i
+t
+i
+n
+u
+m
+m
+o
+d c
+Promote
+e
+E c o no my & society
+ engag
+E nsures social stability,
+security and justice
+
+Fo s t e r s   e c
+
+o
+
+o m ic
+n
+p r o s p e rit y
+
+STAKEHOLDERS:
+
+Government
+
+Grassroots
+
+Community
+
+STATUS: ONGOING
+• 
+•  More than 1 million flats spread across 23 towns  
+
+Providing affordable, quality homes 
+
+and 3 estates 
+Houses over 80% of Singapore’s resident population 
+Over 90% home ownership rates  
+Ensuring vibrant towns through renewal and  
+upgrading programmes 
+Building cohesive communities through community  
+spaces in HDB towns
+
+02
+
+• 
+• 
+• 
+
+• 
+
+HOUSING 
+A NATION
+“
+
+My primary preoccupation was to give 
+every citizen a stake in the country 
+and its future. I wanted a home-owning 
+society. I had seen the contrast between 
+the blocks of low-cost rental flats, badly 
+misused and poorly maintained, and 
+those of house-proud owners, and was 
+convinced that if every family owned its 
+home, the country would be more stable.
+
+“
+
+- Lee Kuan Yew, Founding  
+Prime Minister of Singapore8
+
+01 - Panorama view of HDB flats at Bukit Panjang, Credit: Erwin Soo
+02 - Residents at Tanjong Pagar HDB estate, Credit: Centre for Liveable Cities
+
+01
+
+Providing Affordable and Quality Housing 
+Our  vision  to  unite  people  from  different  backgrounds  began 
+through developing a society of home owners. This would “give 
+every citizen a stake in the country and its future”, as Singapore’s 
+founding  Prime  Minister  Lee  proposed.  He  believed  it  was  not 
+just desirable but imperative for Singapore’s survival as citizens 
+who served as soldiers would see they were defending their own 
+home and properties.
+
+Thus, public housing in Singapore is not just about putting a roof 
+over people’s heads but provides them with a tangible stake in 
+the country. Today, over 80% of the population lives in high-rise, 
+high-density  Housing  and  Development  Board  (HDB)  flats  and 
+about  90%  of  these  are  owned  by  the  residents.  Every  public 
+housing estate also integrates people across social classes and 
+ethnicities as they go to the same schools and share common 
+public spaces. 
+
+The  vision  of  building  a  home-owning  society  could  not  have 
+been possible without good governance and long-term planning. 
+By conceptualising and planning whole neighbourhoods, towns, 
+and  communities,  Singapore’s  public  housing  programme 
+creates a common ground for people of different backgrounds to 
+live, work, and play together. 
+
+50
+50
+
+CASE STUDY
+
+CASE STUDY
+
+51
+
+RESILIENCE VALUE:
+• 
+
+• 
+
+02
+
+Fostering greater inter-faith understanding between 
+different groups through activities and shared spaces 
+Bridging communities by creating opportunities and 
+spaces for interaction
+
+BRIDGING 
+COMMUNITIES 
+
+Working with the Grassroots 
+On 1 July 1960, the People’s Association (PA) was formed as a 
+grassroots movement to help forge social cohesion and racial 
+harmony.  When  PA  first  started,  28  Community  Centres  (CCs) 
+were  set  up  as  meeting  grounds  for  various  ethnic,  language, 
+and  religious  groups  and  community  leaders  were  appointed 
+to  serve  in  the  newly-formed  Community  Centre  Management 
+Committees.  Today,  the  role  and  value  of  the  CCs  go  beyond 
+just being a community infrastructure. It is a focal point where 
+we  build  and  strengthen  social  capital  in  the  community  and 
+facilitate active citizenry.  
+
+As  resettlements  to  HDB  flats  expanded,  the  Residents’ 
+Committees (RCs) were formed in 1978 to address the needs of 
+residents living within a zone rather than the whole estate. Given 
+their familiarity with the needs of the residents living in the area, 
+RCs  are  an  important  touchpoint  for  residents  to  raise  issues 
+and  concerns  to  the  government,  and  promote  neighbourly 
+
+01 - Singapore heritage fest 2016, Credit: Choo Yut Shing
+02 - Republic Poly’s One Heart Programme, Credit: Prime Minister's Office - Strategy Group
+
+01
+
+interaction, good communal relations among residents staying 
+in  the  HDB  estates. Through  organised  activities,  RCs  brought 
+residents  together  and  helped  forge  closer  bonds  between 
+neighbours.  This  role  was  also  extended  to  Neighbourhood 
+Committees (NCs) for private estates in 1998.  
+
+Today,  PA  is  able  to  reach  out  to  a  wide-range  of  participants 
+across  its  activities  and  programmes,  which  are  organised 
+by  its  1800  Grassroots  Organisations  (GROs)  and  38,000  
+Gassroots Leaders. 
+Strengthening Inter-Faith Networks of Trust 
+The National Steering Committee (NSC) on Racial and Religious 
+Harmony  was  formed  in  2006  to  build  close  relationships  
+between  the  apex  leaders  of  the  major  ethnic  and  faith 
+communities  and  Government.  Together  with  the  Inter-Racial 
+and Religious Confidence Circles (IRCCs) at the community level, 
+these platforms have allowed community and religious leaders 
+to  have  regular  interactions  to  deepen  friendships  and  build 
+trust. This has built a foundation for the different ethnic and faith 
+groups to co-create opportunities for all Singaporeans to build 
+social bonds and trust to enlarge the social commons.
+
+The  work  of  the  IRCCs  has  evolved  over  the  years.  Apart 
+from  facilitating  regular  interaction  between  community  and 
+
+religious leaders, it is now also helping to build capacity in the 
+community to uphold social cohesion times of a crisis under the  
+SGSecure movement.  
+Fostering Inter-Faith Understanding
+Fostering inter-faith understanding involves forging community 
+partnerships  and  encouraging  community-led 
+initiatives  to 
+deepen racial and religious appreciation. 
+
+In  2017,  BRIDGE  (Broadening  Religious/Racial 
+Interaction 
+through  Dialogue  and  General  Education)  was  launched  to 
+deepen  understanding  of  the  diversity  of  racial  and  religious 
+practices 
+in  Singapore.  Through  dialogue  and  developed  
+content,  participants  build  confidence  in  engaging  respectfully 
+through safe spaces, and develop expertise and capabilities to 
+lead on sensitive intercultural issues. 
+
+An  example  of  a  BRIDGE  project  organised  with  community 
+partners is the Ask Me Anything (AMA) series on different faiths. 
+This is a platform that provides a safe space for honest and open 
+conversations where participants are encouraged to ask difficult 
+and inconvenient questions on matters of faith. While each AMA 
+session focuses on a particular faith, it serves as a starting point 
+to discuss both topical faith issues and common threads with 
+other faiths.
+Strengthening Social Cohesion 
+in Multicultural Singapore
+The National Integration Council (NIC) was set up in April 2009 to 
+coordinate and drive social integration efforts through partnership 
+of the public, people, and private (3P) sectors. The NIC provides 
+strategic direction to four National Integration Working Groups 
+(NIWGs) in the areas of community, workplace, education, and 
+media. The NIWGs implement programmes that bring together 
+Singaporeans, 
+immigrants,  and  foreigners  through  shared 
+interests, such as sports, arts and volunteerism. In addition, they 
+engage  various  partners  in  the  industries  and  media  to  raise 
+awareness  of  the  importance  of  integration  and  to  promote 
+greater appreciation of cultural diversity. The NIC also facilitates 
+efforts by community groups and private sector organisations to 
+encourage greater interaction and mutual understanding.
+
+RESILIENCE QUALITIES: 
+
+Integrated
+
+Resourceful
+
+Inclusive
+
+CITY RESILIENCE FRAMEWORK (CRF):
+
+ership & 
+ment
+
+e
+g
+a
+n
+a
+ m
+e
+v
+i
+t
+c
+e
+f
+f
+e
+
+d
+a
+ le
+s
+e
+t
+o
+m
+o
+r
+P
+
+c
+o
+m
+m
+u
+
+n
+
+i
+
+c
+
+P
+
+r
+
+o
+
+v
+
+i
+
+d
+
+a
+
+t
+
+e
+
+s
+
+i
+
+ 
+
+o
+
+r
+
+n
+
+ 
+
+e
+
+l
+i
+
+&
+
+a
+
+ 
+
+b
+
+m
+
+o
+
+l
+
+e
+
+ 
+
+b
+
+ili
+
+t
+y
+
+s t e
+o
+F
+&  i n t e
+g
+
+Empowers a broad 
+range of stakeholders
+Leadership & strate
+
+s
+
+r
+
+r
+g
+
+y
+
+t e r m 
+
+ l o n g -
+t e d   p l a n ning
+a
+
+Meets
+basic needs
+
+m
+
+e
+
+livelih
+Health & w
+plo
+y
+
+S
+
+u
+
+p
+
+p
+
+o
+
+o
+
+orts
+d
+s 
+
+&
+
+ 
+
+e
+
+m
+
+n
+t
+
+ellb
+
+e
+i
+
+n
+
+g
+
+h
+
+E
+
+e
+
+n
+
+a
+
+l
+t
+
+s
+
+u
+
+h
+
+ 
+
+r
+
+e
+
+s
+
+s
+
+e
+
+r
+
+ 
+
+p
+
+v
+
+u
+
+i
+
+c
+
+b
+
+e
+s
+
+l
+
+i
+
+c
+
+ 
+
+I
+
+n
+
+f
+
+r
+
+a
+
+s
+
+t
+r
+u
+
+c
+t
+u
+r
+
+E
+
+n
+
+s
+
+u
+r
+e
+
+o
+
+f 
+c
+ritic
+
+s c
+o
+
+al s
+
+e & environment
+
+ntinuity 
+
+ervices 
+
+Provides & enhances
+natural and manmade 
+
+assets
+
+ 
+
+&
+s
+ 
+e
+ 
+e
+i
+t
+i
+v
+n
+si
+u
+e
+m
+h
+m
+o
+s c
+o
+d c
+Promote
+e
+E c o no my & society
+g
+ enga
+E nsures social stability,
+security and justice
+
+Fo s t e r s   e c
+
+o
+
+o m ic
+n
+p r o s p e rit y
+
+STAKEHOLDERS:
+
+Government Non-profit Organisations
+
+/ Social Enterprises
+
+Grassroots
+
+Community
+
+STATUS: ONGOING
+• 
+
+108 Community Centres and Community Clubs (CC),  
+each serving about 15,000 households or an average  
+of 50,000 people 
+89 IRCCs in Singapore, one in each constituency
+To date, BRIDGE has reached out to more than 5,000 
+participants with over 20 programmes
+
+• 
+• 
+
+52
+52
+
+CASE STUDY
+
+CASE STUDY
+
+53
+53
+
+SG Secure
+To  counter  the  rise 
+in  terrorism  threats,  the  Community 
+Engagement  Programme  (CEP)  was  launched  in  2006  to 
+strengthen inter-communal bonds and create response plans to 
+deal with potential communal tensions after an incident, such as 
+a terrorist attack. This is a long-term effort to ensure that we are 
+better equipped to maintain our social cohesion and stay united 
+in a crisis.
+ 
+Building upon the efforts of the CEP, SG Secure was rolled out 
+in 2016 to sensitise, train, and mobilise the community to play 
+a  part  in  preventing  and  dealing  with  terrorist  attacks.  Our 
+police  and  civil  defence  forces  work  closely  with  grassroots 
+volunteers  and  Community  Emergency  Response  Teams  to 
+raise residents’ awareness by providing tips on how they should 
+respond in a terrorist attack and be better prepared for crises and 
+emergencies. There is also an Emergency Preparedness (EP) Day 
+where residents learn skills such as first-aid and CPR, as well as 
+participate in a scenario drill to familiarise themselves with what 
+to do in the event of an attack.
+
+As  part  of  the  SGSecure  Movement,  the  Ministry  of  Culture, 
+Community  and  Youth  (MCCY)  established  the  SGSecure 
+Community Network (SGCN) to connect community and religious 
+organisations so that they are prepared to respond effectively in 
+the face of crisis.
+
+RESILIENCE VALUE:
+•  Mobilising and preparing the community to play a part in 
+
+preventing and responding to terrorist attacks
+Raising awareness across communities about terrorism 
+related risks
+
+• 
+
+RESILIENCE QUALITIES: 
+
+Integrated
+
+Resourceful
+
+Robust
+
+Inclusive
+
+CITY RESILIENCE FRAMEWORK (CRF):
+
+ership & 
+ment
+
+e
+g
+a
+n
+a
+ m
+e
+v
+i
+t
+c
+e
+f
+f
+e
+
+d
+a
+ le
+s
+e
+t
+o
+m
+o
+r
+P
+
+c
+o
+m
+m
+u
+
+n
+
+i
+
+c
+
+P
+
+r
+
+o
+
+v
+
+i
+
+d
+
+a
+
+t
+
+e
+
+s
+
+i
+
+ 
+
+o
+
+r
+
+n
+
+ 
+
+e
+
+l
+i
+
+&
+
+a
+
+ 
+
+b
+
+m
+
+o
+
+l
+
+e
+
+ 
+
+b
+
+ili
+
+t
+y
+
+s t e
+o
+F
+&  i n t e
+g
+
+Empowers a broad 
+range of stakeholders
+Leadership & strate
+
+s
+
+r
+
+r
+g
+
+y
+
+t e r m 
+
+ l o n g -
+t e d   p l a n ning
+a
+
+Meets
+basic needs
+
+m
+
+e
+
+livelih
+Health & w
+plo
+y
+
+S
+
+u
+
+p
+
+p
+
+o
+
+o
+
+orts
+d
+s 
+
+&
+
+ 
+
+e
+
+m
+
+n
+t
+
+ellb
+
+e
+i
+
+n
+
+g
+
+h
+
+E
+
+e
+
+n
+
+a
+
+l
+t
+
+s
+
+u
+
+h
+
+ 
+
+r
+
+e
+
+s
+
+s
+
+e
+
+r
+
+ 
+
+p
+
+v
+
+u
+
+i
+
+c
+
+b
+
+e
+s
+
+l
+
+i
+
+c
+
+ 
+
+I
+
+n
+
+f
+
+r
+
+a
+
+s
+
+t
+r
+u
+
+c
+t
+u
+r
+
+E
+
+n
+
+s
+
+u
+r
+e
+
+o
+
+f 
+c
+ritic
+
+s c
+o
+
+al s
+
+e & environment
+
+ntinuity 
+
+ervices 
+
+Provides & enhances
+natural and manmade 
+
+assets
+
+ 
+
+&
+s
+ 
+e
+ 
+e
+i
+t
+i
+v
+n
+si
+u
+e
+m
+h
+m
+o
+s c
+o
+d c
+Promote
+e
+E c o no my & society
+g
+ enga
+E nsures social stability,
+security and justice
+
+Fo s t e r s   e c
+
+o
+
+o m ic
+n
+p r o s p e rit y
+
+STAKEHOLDERS:
+
+Government
+
+Grassroots
+
+Community
+
+STATUS: ONGOING
+• 
+• 
+• 
+
+SGSecure mobile app rolled out nationwide
+Community Emergency Preparedness Programme (CEPP)
+Safety and Security Watch Group (SSWG) scheme and 
+Industry Safety and Security Watch Group (iSSWG) scheme
+Harmony in Diversity Gallery (HDG) established to promote  
+an appreciation of Singapore’s rich religious diversity
+
+• 
+
+02
+
+MOBILISING 
+COMMUNITIES 
+
+Total Defence 
+Total defence is a framework for an all-round response to threats 
+and  challenges  involving  all  Singaporeans.  It  emphasises  that 
+all  Singaporeans  play  a  part,  individually  and  collectively,  in 
+building a strong, secure, and cohesive nation—whether it is by 
+fulfilling  National  Service  duties;  volunteering  in  Civil  Defence 
+activities;  working  hard  and  contributing  to  a  strong  economy;  
+strengthening  community  ties  with  one  another  regardless  of 
+race and religion; or staying committed to defending the country.
+
+01
+
+ASPECTS OF TOTAL DEFENCE 
+
+PUTTING IT TO ACTION
+
+Military Defence:  
+Keeping Singapore 
+Secure 
+
+Civil Defence: 
+Taking care of our family, 
+friends, and people around 
+us in times of crisis 
+
+Economic Defence: 
+Having a strong and 
+resilient economy 
+
+Social Defence:  
+Living harmoniously 
+and looking out for 
+one another 
+
+Psychological Defence: 
+Being a resilient people
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+Commitment by and 
+support for our soldiers, 
+sailors, and airmen to be 
+operationally ready
+
+Be vigilant and participate in 
+Civil Defence exercises and 
+be aware of what to do in 
+an emergency 
+
+Adapt to the changing 
+needs of the economy 
+by embracing lifelong 
+learning and continual 
+skills upgrading 
+
+Be respectful and sensitive 
+to the diversity of people 
+and culture in Singapore 
+and looking out for 
+one another especially 
+the less fortunate and 
+underprivileged among us
+
+Having a strong resolve to 
+stay united when crises or 
+challenges hit 
+
+01 - Participating in Car-Free Sunday, Credit: Urban Redevelopment Authority (URA) 
+02 - SGSecure: The information panels and learning life-saving skills at The Kallang Wave, Singapore Sports Hub during Home Team Show and Festival, Credit : Choo Yut Shing
+
+54
+54
+
+CASE STUDY
+
+CASE STUDY
+
+55
+55
+
+Public  engagements,  consultations  and  outreach  took  place 
+across  three  phases  between  2015  and  2017  to  develop  a 
+concept  of  the  Memorial  that  would  not  only  honour  the  past, 
+but also inspire the future. Over 400 people shared their views 
+through 13 dialogue sessions, 1300 individuals were interviewed, 
+over 200 responses received via an online portal and more than 
+700 participants took part in 15 workshops that were conducted 
+across  different  age  and  ethnic  groups.  Key  stakeholder  
+groups including architects, planners, and designers; historians 
+and the heritage community; educators and academics; public 
+servants; pioneer generation; grassroots leaders; union leaders; 
+uniformed groups; youths and students; business leaders were 
+also engaged. 
+
+02
+
+A CULTURE OF 
+ENGAGEMENT
+
+01
+
+Our Singapore Conversation (OSC)
+To  better  understand  and  engage  Singaporeans, 
+‘Our  
+Singapore  Conversation’  was  started  in  2012.  The  national 
+conversation  involved  more  than  47,000  residents  in  over  660 
+dialogue sessions.
+
+The  Conversation  revolved  around  the  following  questions: 
+“What is the Singapore we want to see in the future? What are 
+our priorities as a nation? Where do we want to go as a country, 
+as a people?
+
+A national survey was also conducted by the Institute of Policy 
+Studies (IPS) with 4000 Singaporeans to discuss the Singapore 
+that they hope to see in 2030 and their key priorities for today. 
+The  survey  also  asked  Singaporeans  about  the  values  they 
+feel are important for achieving the 2030 vision as well as their 
+preferences on key issues. Job security, healthcare, and housing 
+were identified as the top three priorities. 
+
+12 key areas of concern of the population were identified, ranging 
+from  the  wellbeing  of  individuals,  communities  and  society, 
+to  maintaining  economic  prosperity  and  greater  engagement 
+across different sectors. 
+SGFuture Engagements 
+From  November  2015  to  July  2016,  more  than  8,300  
+Singaporeans of diverse ages and from various communities—
+including  youths  and  seniors,  persons  with  disabilities,  and 
+families—were  involved  in  121  engagement  sessions  as  part 
+of  SGFuture.  This  provided  many  Singaporeans  a  springboard 
+to participate in national movements, volunteer with non-profit 
+organisations for causes close to their hearts or initiate their very 
+own ground-up projects to benefit the community.
+Founders’ Memorial 
+The conceptualisation of the Founders’ Memorial was a chance 
+to engage the wider public in the ideation process and to educate 
+future generations on the values and principles of the founding 
+generation of leaders.
+
+01 - Participants at a workshop for Founders’ Memorial Project, Credit: Ministry of Culture, Community and Youth (MCCY)
+02 - The 12 key areas of concern distilled from Our Singapore Conversation engagements, Credit: REACH
+
+RESILIENCE VALUE:
+• 
+
+Inclusive engagements to create a more caring and 
+cohesive society 
+Supporting ground-up, community-led initiatives 
+Strengthening existing networks
+
+• 
+• 
+
+RESILIENCE QUALITIES: 
+
+Integrated
+
+Resourceful
+
+Inclusive
+
+CITY RESILIENCE FRAMEWORK (CRF):
+
+ership & 
+ment
+
+e
+g
+a
+n
+a
+ m
+e
+v
+i
+t
+c
+e
+f
+f
+e
+
+d
+a
+ le
+s
+e
+t
+o
+m
+o
+r
+P
+
+c
+o
+m
+m
+u
+
+n
+
+i
+
+c
+
+P
+
+r
+
+o
+
+v
+
+i
+
+d
+
+a
+
+t
+
+e
+
+s
+
+i
+
+ 
+
+o
+
+r
+
+n
+
+ 
+
+e
+
+l
+i
+
+&
+
+a
+
+ 
+
+b
+
+m
+
+o
+
+l
+
+e
+
+ 
+
+b
+
+ili
+
+t
+y
+
+s t e
+o
+F
+&  i n t e
+g
+
+Empowers a broad 
+range of stakeholders
+Leadership & strate
+
+s
+
+r
+
+r
+g
+
+y
+
+t e r m 
+
+ l o n g -
+t e d   p l a n ning
+a
+
+Meets
+basic needs
+
+m
+
+e
+
+livelih
+Health & w
+plo
+y
+
+S
+
+u
+
+p
+
+p
+
+o
+
+o
+
+orts
+d
+s 
+
+&
+
+ 
+
+e
+
+m
+
+n
+t
+
+ellb
+
+e
+i
+
+n
+
+g
+
+h
+
+E
+
+e
+
+n
+
+a
+
+l
+t
+
+s
+
+u
+
+h
+
+ 
+
+r
+
+e
+
+s
+
+s
+
+e
+
+r
+
+ 
+
+p
+
+v
+
+u
+
+i
+
+c
+
+b
+
+e
+s
+
+l
+
+i
+
+c
+
+ 
+
+I
+
+n
+
+f
+
+r
+
+a
+
+s
+
+t
+r
+u
+
+c
+t
+u
+r
+
+E
+
+n
+
+s
+
+u
+r
+e
+
+o
+
+f 
+c
+ritic
+
+s c
+o
+
+al s
+
+e & environment
+
+ntinuity 
+
+ervices 
+
+Provides & enhances
+natural and manmade 
+
+assets
+
+ 
+
+&
+s
+ 
+e
+ 
+e
+i
+t
+v
+i
+n
+si
+u
+e
+m
+h
+m
+o
+s c
+o
+d c
+Promote
+e
+E c o no my & society
+g
+ enga
+E nsures social stability,
+security and justice
+
+Fo s t e r s   e c
+
+o
+
+o m ic
+n
+p r o s p e rit y
+
+STAKEHOLDERS:
+
+Government Non-profit Organisations
+
+/ Social Enterprises
+
+Community
+
+Voluntary Welfare 
+
+Organisations 
+
+(VWOs)
+
+STATUS: ONGOING
+• 
+•  More than 47,000 Singaporeans engaged in over 660 
+
+Year-long national conversation 
+
+dialogue sessions 
+Nationally-representative survey with 4,000 respondents 
+
+• 
+
+56
+56
+
+CASE STUDY
+
+CASE STUDY
+
+57
+
+RESILIENCE VALUE:
+• 
+
+Participatory planning; empowering communities  
+and individuals in local initiatives to build  
+community ownership 
+Supporting ground-up, community-led initiatives 
+Fostering social cohesion
+
+• 
+• 
+
+RESILIENCE QUALITIES: 
+
+02
+
+Streets for the People 
+
+Under the Streets for the People initiative by the Urban Redevelopment 
+Authority  (URA),  communities  are  provided  with  the  resources  to 
+transform  their  streets  into  temporary  public  spaces.  This  contributes 
+vibrancy and cohesiveness and supports the overall national objective 
+of going car-lite. When communities initiate such a project, streets are 
+turned into car-free zones at regular intervals over an extended period of 
+time. For instance, the Little India Shopkeepers and Heritage Association 
+has  chosen  to  pedestrianise  some  streets  in  Little  India.  Similarly,  the 
+Singapore River One business association has also done the same for 
+Circular Road, near the Singapore River.
+
+01
+
+BRINGING PEOPLE 
+TOGETHER THROUGH 
+SHARED SPACES
+
+Integrated
+
+Resourceful
+
+Inclusive
+
+CITY RESILIENCE FRAMEWORK (CRF):
+
+ership & 
+ment
+
+e
+g
+a
+n
+a
+ m
+e
+v
+i
+t
+c
+e
+f
+f
+e
+
+d
+a
+ le
+s
+e
+t
+o
+m
+o
+r
+P
+
+c
+o
+m
+m
+u
+
+n
+
+i
+
+c
+
+P
+
+r
+
+o
+
+v
+
+i
+
+d
+
+a
+
+t
+
+e
+
+s
+
+i
+
+ 
+
+o
+
+r
+
+n
+
+ 
+
+e
+
+l
+i
+
+&
+
+a
+
+ 
+
+b
+
+m
+
+o
+
+l
+
+e
+
+ 
+
+b
+
+ili
+
+t
+y
+
+s t e
+o
+F
+&  i n t e
+g
+
+Empowers a broad 
+range of stakeholders
+Leadership & strate
+
+s
+
+r
+
+r
+g
+
+y
+
+t e r m 
+
+ l o n g -
+t e d   p l a n ning
+a
+
+Meets
+basic needs
+
+m
+
+e
+
+livelih
+Health & w
+plo
+y
+
+S
+
+u
+
+p
+
+p
+
+o
+
+o
+
+orts
+d
+s 
+
+&
+
+ 
+
+e
+
+m
+
+n
+t
+
+ellb
+
+e
+i
+
+n
+
+g
+
+h
+
+E
+
+e
+
+n
+
+a
+
+l
+t
+
+s
+
+u
+
+h
+
+ 
+
+r
+
+e
+
+s
+
+s
+
+e
+
+r
+
+ 
+
+p
+
+v
+
+u
+
+i
+
+c
+
+b
+
+e
+s
+
+l
+
+i
+
+c
+
+ 
+
+I
+
+n
+
+f
+
+r
+
+a
+
+s
+
+t
+r
+u
+
+c
+t
+u
+r
+
+E
+
+n
+
+s
+
+u
+r
+e
+
+o
+
+f 
+c
+ritic
+
+s c
+o
+
+al s
+
+e & environment
+
+ntinuity 
+
+ervices 
+
+Provides & enhances
+natural and manmade 
+
+assets
+
+ 
+
+&
+s
+ 
+e
+ 
+e
+i
+t
+v
+i
+n
+si
+u
+e
+m
+h
+m
+o
+s c
+o
+d c
+Promote
+e
+E c o no my & society
+g
+ enga
+E nsures social stability,
+security and justice
+
+Fo s t e r s   e c
+
+o
+
+o m ic
+n
+p r o s p e rit y
+
+STAKEHOLDERS:
+
+Community
+
+Non-profit Organisations
+
+/ Social Enterprises
+
+Government
+
+03
+
+STATUS: ONGOING
+• 
+• 
+• 
+
+First of five Build-A-Playground pilot projects completed 
+Regular Car-Free Sundays 
+Regular Car-Free Zones 
+
+Build-A-Playground 
+Playgrounds  bring  people  together.  Not  only  do  children  of 
+different  backgrounds  come  together  in  these  shared  spaces, 
+parents get to meet and make friends there too. This builds up 
+the  networks  necessary  for  maintaining  our  social  resilience. 
+In  2018,  Singapore  completed  its  first  community-built  play 
+space,  Adventure  Playground  @  Canberra. This  was  the  result 
+of a Build-A-Playground (BAP) pilot initiative by the Housing and 
+Development Board (HDB) to conceptualise, design, and build a 
+space in partnership with residents.
+
+This project involved about 1,800 people, from residents living in 
+neighbouring blocks of flats to the surrounding community, such 
+as  students  from  nearby  schools.  Between  mid-2015  to  2017, 
+
+a  series  of  design  workshops,  roadshows,  and  surveys  were 
+conducted with the community to hear their views on what makes 
+an enjoyable playground and the kind of playground they would 
+like to have. The result is a unique 185 m2 treehouse-and-kelong  
+inspired design. 
+
+This  initiative  will  be  extended  to  another  four  HDB  towns, 
+namely Toa Payoh, Pasir Ris, Woodlands, and Choa Chu Kang, 
+where five new community-built playgrounds will be completed 
+in  the  coming  years.  Involving  the  community  in  such  a  small 
+but  integral  infrastructure  helps  establish  a  greater  sense  of 
+community ownership. 
+
+01 - Design workshop session with the community as part of the Build-A-Playground initiative, Credit: Housing and Development Board (HDB)
+02 - Car-free Sunday in the city centre, Credit: Urban Redevelopment Authority (URA)
+03 - Pilot Build-A-Playground Project at Canberra, Credit: Housing and Development Board (HDB)
+
+58
+58
+
+CASE STUDY
+
+CASE STUDY
+
+59
+59
+
+RESILIENCE VALUE:
+• 
+
+Opportunities for Singaporeans from all walks of life to 
+learn and take advantage of different learning opportunities 
+no matter their starting points 
+Ensuring citizens remain economically relevant and 
+maintaining Singapore’s economic competitiveness
+
+• 
+
+RESILIENCE QUALITIES: 
+
+Integrated
+
+Resourceful
+
+Robust
+
+Redundant
+
+Flexible
+
+Inclusive
+
+CITY RESILIENCE FRAMEWORK (CRF):
+
+DEVELOPING POTENTIAL 
+THROUGHOUT LIFE 
+
+02
+
+01
+
+SkillsFuture 
+Disruptions  need  not  always  take  the  form  of  shocks.  
+The  changing  nature  of  work  and  skills  can  disrupt 
+Singapore’s  knowledge-based  economy,  which 
+is 
+highly  dependent  on  its  people.  In  2015,  SkillsFuture 
+was  launched  as  a  national  movement  to  provide 
+Singaporeans  with  the  opportunities  to  develop  their 
+fullest  potential  throughout 
+life  regardless  of  their 
+starting points. 
+
+The  aim  is  to  help  individuals  make  well-informed 
+choices  in  education,  training,  and  careers.  This  is 
+achieved by developing an integrated high-quality system 
+of  education  and  training  that  responds  to  constantly 
+evolving  needs;  promoting  employer  recognition  and 
+career  development  based  on  skills  and  mastery;  and 
+fostering a culture that supports and celebrates lifelong 
+learning.   
+
+The movement recognises the importance of skills and 
+the need to change mindsets around lifelong learning and 
+skills mastery. By providing tailored courses and benefits, 
+SkillsFuture  plays  a  part  in  Singapore’s  development 
+towards an advanced economy and inclusive society.
+
+ership & 
+ment
+
+e
+g
+a
+n
+a
+ m
+e
+v
+i
+t
+c
+e
+f
+f
+e
+
+d
+a
+ le
+s
+e
+t
+o
+m
+o
+r
+P
+
+c
+o
+m
+m
+u
+
+n
+
+i
+
+c
+
+P
+
+r
+
+o
+
+v
+
+i
+
+d
+
+a
+
+t
+
+e
+
+s
+
+i
+
+ 
+
+o
+
+r
+
+n
+
+ 
+
+e
+
+l
+i
+
+&
+
+a
+
+ 
+
+b
+
+m
+
+o
+
+l
+
+e
+
+ 
+
+b
+
+ili
+
+t
+y
+
+s t e
+o
+F
+&  i n t e
+g
+
+Empowers a broad 
+range of stakeholders
+Leadership & strate
+
+s
+
+r
+
+r
+g
+
+y
+
+t e r m 
+
+ l o n g -
+t e d   p l a n ning
+a
+
+Meets
+basic needs
+
+m
+
+e
+
+livelih
+Health & w
+plo
+y
+
+S
+
+u
+
+p
+
+p
+
+o
+
+o
+
+orts
+d
+s 
+
+&
+
+ 
+
+e
+
+m
+
+n
+t
+
+ellb
+
+e
+i
+
+n
+
+g
+
+h
+
+E
+
+e
+
+n
+
+a
+
+l
+t
+
+s
+
+u
+
+h
+
+ 
+
+r
+
+e
+
+s
+
+s
+
+e
+
+r
+
+ 
+
+p
+
+v
+
+u
+
+i
+
+c
+
+b
+
+e
+s
+
+l
+
+i
+
+c
+
+ 
+
+I
+
+n
+
+f
+
+r
+
+a
+
+s
+
+t
+r
+u
+
+c
+t
+u
+r
+
+E
+
+n
+
+s
+
+u
+r
+e
+
+o
+
+f 
+c
+ritic
+
+s c
+o
+
+al s
+
+e & environment
+
+ntinuity 
+
+ervices 
+
+Provides & enhances
+natural and manmade 
+
+assets
+
+ 
+
+&
+s
+ 
+e
+ 
+e
+i
+t
+v
+i
+n
+si
+u
+e
+m
+h
+m
+o
+s c
+o
+d c
+Promote
+e
+E c o no my & society
+g
+ enga
+E nsures social stability,
+security and justice
+
+Fo s t e r s   e c
+
+o
+
+o m ic
+n
+p r o s p e rit y
+
+STAKEHOLDERS:
+
+Government
+
+Non-profit Organisations
+
+/ Social Enterprises
+
+Private Sector
+
+Community
+
+STATUS: ONGOING
+As at 2017:  
+
+• 
+• 
+
+• 
+• 
+
+SkillsFuture Credit has benefited over 285,000 Singaporeans
+76 programmes under SkillsFuture Earn and  
+Learn Programme 
+10 SkillsFuture Work-Study Programme launched 
+Over 4,600 Singaporeans attended SkillsFuture  
+Advice Workshops 
+
+01 - Activities at the green rooftop of Marina Barrage, Credit: anahtiris
+02 - Infographics on "SkillsFuture For You!", Credit: SkillsFuture Singapore 
+
+Work and studyat the same (cid:16)ime.76Want to earnas you learn?  12, 3913Want $5,000 to defray course-related expenses? Skills Framework The Skills Framework provides up-to-date information on employment, career pathways, occupations, job roles, existing and emerging skills, as well as relevant education and training programmes. It is developed for the workforce by the government together with employers, unions and professional bodies.  skillsfuture.sg/skills-frameworkSkillsFuture Career Advisors Programme  Speak to industry veterans who will provide career advice and help you expand your understanding of the skills and jobs that are in demand in specific sectors.skillsfuture.sg/career-advisors SkillsFuture Earn and Learn Programme Eligible polytechnic and ITE graduates will be placed in jobs and receive a salary while undergoing structured on-the-job training and obtaining industry-recognised advanced certifications. Trainees will receive a sign-on incentive of $5,000.skillsfuture.sg/earnandlearnWORKINGADULTUpskilling andReskilling On Your JourneySTUDENTSPreparing for the road aheadFOR ALLSINGAPOREANSHelping younavigate your careerMySkillsFuture Singaporeans can access resources and tools related to jobs, education and skills training at MySkillsFuture, a one-stop online portal which incorporates the national Jobs Bank. You can take charge of your skills and career development throughout life and make informed learning and career choices.myskillsfuture.sg1417Interested to learn about digital technologies?8Interested to upgrade or acquire new skills and knowledge in Informa(cid:16)ion and Communica(cid:16)ions Technology (ICT)?  Commi(cid:16)ted to skills mastery and contribu(cid:16)ing to the skills development of others?16Over 40? Get subsidyfor learning. 15Get recognised for a(cid:16)taining WSQ full quali†ica(cid:16)ions.Want to trackyour trainingand career? Need educa(cid:16)ion and career guidance?  You have much to gain from this internship.4Need some expert career advice? These workshops are conducted in your neighbourhood.1012All Singaporeans25 and abovereceive this.Yearning for overseas work experience? 511SkillsFuture Qualification AwardIf you have attained a WSQ Diploma/ Specialist Diploma/ Graduate Certificate/ Graduate Diploma, you are eligible for a cash award of $1,000. If you have attained a WSQ Certificate/ Higher Certificate/ Advanced Certificate, you are eligible for a cash award of $200. skillsfuture.sg/qualificationaward15SkillsFuture Mid-Career Enhanced Subsidy  Singaporeans aged 40 years and above can receive at least 90% funding for programme costs for courses funded by the Ministry of Education and up to 90% funding for course fees for certifiable skills-training courses supported by SkillsFuture Singapore.skillsfuture.sg/enhancedsubsidy16SkillsFuture Fellowships   Gain recognition for demonstrating skills mastery, advocating lifelong learning, and mentoring others. Award recipients will receive a monetary award of S$10,000 each to support their journey towards skills mastery in their respective fields.skillsfuture.sg/fellowships1710P-Max  Explore career opportunities with small andmedium-sized enterprises (SMEs) with good progression opportunities for Professionals, Managers, Executives, and Technicians (PMETs).  skillsfuture.sg/p-max11SkillsFuture for Digital Workplace  You can develop your understanding of emerging technologies and their impact on work, and gain and deepen skills such as the interpretation and use of data and information.skillsfuture.sg/digitalworkplace1463Enhanced InternshipsITE and polytechnic students can take up Enhanced Internships to learn through work placements. You can deepen and apply your technical and soft skills while gaining industry experience. skillsfuture.sg/enhancedinternships4Young Talent ProgrammeITE, polytechnic and university students can take up overseas internships and work-study programmes, to prepare for international assignments in your career. skillsfuture.sg/ytp52Education and Career Guidance (ECG)Meet ECG counsellors to learn about the range of education and career options available to help you make an informed choice. Secondary school students can learn about post-secondary education pathways. Those in ITE, polytechnics, junior colleges and universities will be exposed to a range of career choices. Adults may obtain career and training advice through career centres.skillsfuture.sg/ecg 1STARTSkillsFuture Advice Understand the importance of career planning, skills upgrading and find out more about the various government initiatives available to support you in your skills and career development. skillsfuture.sg/advice9SkillsFuture Study Awards Enjoy support while developing and deepening your skills in future economic growth clusters and areas of demand. You can get a monetary award of $5,000 to defray out-of-pocket expenses associated with your course. skillsfuture.sg/studyawardsSkillsFuture Credit Singaporeans aged 25 and above are given an initial credit of $500 which will be topped up periodically. This credit does not expire. You can use them for a broad range of courses.skillsfuture.sg/credit1213Find your career at an SME. SkillsFuture Work-Study Degree ProgrammesAcquire deep technical and other essential skills at the Singapore Institute of Technology (SIT) and the Singapore University of Social Sciences (SUSS). These programmes, developed and delivered in partnership with companies, will facilitate your transition to the workplace. skillsfuture.sg/workstudydegreeTechSkills Accelerator (TeSA)Fresh ICT graduates, and both ICT and non-ICT professionals, can upgrade and acquire new skills and domain knowledge to stay competitive and meet the challenges of a fast-moving digital economy through TeSA, a framework of initiatives for professional development in ICT.  skillsfuture.sg/tesa78SkillsFuture For You!18Get savvy with emerging and cri(cid:14)ical skills areas. SkillsFuture Series Choose from a suite of short courses in eight emerging and critical skills areas such as advanced manufacturing, data analytics, and cyber security. These short courses cater to learners with different skills proficiencies. skillsfuture.sg/series1860
+
+AN ONGOING 
+JOURNEY:  
+OUR RESILIENCE 
+EFFORTS
+
+Singapore  has  several  national  strategies  and  initiatives  that  go  towards  addressing  the 
+various long-term challenges that we face. The following featured strategies demonstrate 
+how  resilience  thinking  has  been  imbued  in  the  charting  of  their  recommendations  and 
+actions.  The strategies, which involved the engagement and consultation of a broad range of 
+stakeholders, take a long-term and systems approach to tackling the challenges identified, 
+including that of climate change and changing demographics. 
+
+Sustainable Singapore Blueprint (SSB)
+
+www.mewr.gov.sg/ssb/home     
+
+This  national  vision  for  a  more  liveable  and  sustainable 
+Singapore  arises  from  an  Inter-Ministerial  Committee  on 
+Sustainable Development chaired by the Ministry of Environment 
+and Water Resource and the Ministry of National Development. 
+Launched in 2009, and updated in 2015, the blueprint provides 
+all of us an opportunity to work together to create a better home, 
+environment, and future for all through the following visions: 
+
+- 
+- 
+- 
+
+A Liveable and Endearing Home 
+A Vibrant and Sustainable City
+An Active and Gracious Community
+
+The  SSB  took  in  the  views  of  more  than  130,000  people 
+via  consultation  on  land  transport  and  urban  development 
+master  plans,  public  dialogues,  and  surveys.  To  demonstrate 
+Singapore’s  ambition  in  practising  sustainable  development, 
+the plan sets out a variety of targets to be achieved by 2030, 
+including:  creating  more  quality  green  and  blue  spaces  for 
+the  population;  furthering  mobility  and  connectivity;  fostering 
+resource  sustainability;  improving  air  quality  and  drainage 
+systems;  and  expanding  community  stewardship  among  
+the people.
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+61
+61
+
+RESILIENCE ACTION: 
+
+“Eco-Smart” Endearing Towns 
+-  Embedding smart technologies and eco-friendly  
+ 
+
+features into towns and homes 
+
+Green and Blue Spaces  
+-  Creating accessible green and blue spaces for  
+  people to live, work, and play 
+-  Extending length of nature ways and park  
+  connector network 
+
+Improving our public transport network  
+
+A “Car-lite” Singapore 
+- 
+  and connectivity  
+-  Promoting cycling as a complement to public  
+ 
+transport through expanding cycling network 
+-  Encouraging walking as a healthy and convenient  
+  way to get around and experimenting with more  
+  pedestrian friendly streets 
+
+the population to raise recycling rate and  
+reduce wastage  
+
+Towards a Zero Waste Nation  
+-  Working with different sectors across  
+ 
+ 
+-  Forming national voluntary partnership  
+ 
+ 
+
+to develop and promote e-waste  
+recycling programmes 
+
+tropics and sub-tropics through the Building  
+
+A Leading Green Economy  
+-  Leading the way for Green Buildings in the  
+ 
+  and Construction Authority (BCA)  
+  Green Mark Award  
+-  Testing and developing energy-efficient  
+  building technologies  
+-  Raising adoption of solar power
+
+RESILIENCE VALUE: 
+
+01
+
+• 
+
+• 
+
+Long-term vision for a liveable and sustainable 
+Singapore 
+Approaching and addressing climate change 
+challenges on multiple fronts
+
+01 - Sustainable Singapore Blueprint 2015—sustainable development targets for 2030, Credit: Ministry of the Environment and Water Resources (MEWR)
+
+62
+62
+62
+
+Committee on the Future Economy (CFE) 
+
+www.gov.sg/microsites/future-economy 
+
+Some 30 representatives from different industries that operate 
+in  both  global  and  domestic  markets  as  well  as  from  large 
+and small enterprises convened in 2016 to review Singapore’s 
+economic strategies and propose ways to further a sustainable 
+and inclusive economic growth.
+
+After  engaging  over  9,000  stakeholders,  the  Committee  on 
+the  Future  Economy  (CFE)  released  a  report  in  February 
+2017  that  identified  seven  mutually  reinforcing  strategies  to 
+further Singapore’s economic growth and to build resilience in  
+our economy.
+
+The vision for the future economy is for people to develop deep 
+skills and be inspired to learn throughout their lives; businesses 
+to be innovative and nimble; the city to be vibrant, connected to 
+the world, and continually renewing itself; and the government to 
+be coordinated, inclusive and responsive. 
+
+Despite  the  challenging  global  environment  we  face  today, 
+there  are  many  opportunities  for  Singapore.  The  Committee 
+on  the  Future  Economy  report  outlines  how  Singapore  is  in 
+a  good  position  to  tap  into  several  growth  sectors,  and  the 
+importance  to  continue  to  be  well  connected  externally,  while 
+ensuring sufficient space to grow and to rejuvenate internally. 
+The  report  also  identified  key  future  actions,  such  as  the 
+need  to  build  up  strong  digital  and  cybersecurity  capabilities  
+and  implementing  tailored  Industry  Transformation  Maps  for 
+each industry. 
+
+RESILIENCE ACTION: 
+
+FOLLOWING UP ON FIVE AREAS:
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+Future Corporate Capabilities and Innovation  
+-  To enable companies and industry clusters across  
+  different scales to develop innovative capacities 
+  and use technology as well as new business  
+  models and partnership to create value   
+
+Future Growth Industries and Markets  
+-  Consider macroeconomic and technological trends,  
+  and Singapore’s comparative advantage in  
+ 
+  global economy of the future  
+
+industries and markets that will drive the  
+
+Future of Connectivity  
+-  Study how Singapore can remain well-connected  
+  as a competitive key hub in the future economy,  
+ 
+ 
+
+taking into account trends that will affect how  
+the global economy is configured 
+
+Future City  
+-  Study how Singapore can continue to sustain new  
+  growth opportunities as a leading global city and  
+  endearing home; enhances its infrastructure,  
+  overcome resource constraints and ensure a  
+  highly liveable environment.  
+
+Future Jobs and Skills  
+-  Examine trends, including demographic and  
+technological ones that will affect the landscape  
+ 
+ 
+for jobs and the requirements for workers,  
+  and recommend ways to prepare workers  
+ 
+
+for the future.
+
+RESILIENCE VALUE: 
+
+Long-term, systemic approach to build up Singapore’s 
+economic resilience 
+Developing mutually reinforcing strategies that create 
+impact across different sectors and groups of people
+
+01 - Seven Strategies identified by the Committee on the Future Economy, Credit: Committee on the Future Economy 
+02 - RafflesPlace wiki commons, Credit: Ramir Borja
+
+63
+63
+
+01
+
+02
+
+64
+64
+
+Smart Nation Singapore 
+
+www.smartnation.sg 
+
+This whole-of-nation movement harnesses digital technologies 
+to  build  a  future  Singapore.  The  vision  includes  improving 
+living and building a closer community, empowering citizens to 
+achieve their aspirations through good jobs and opportunities, 
+as well as encouraging businesses to innovate and grow. 
+
+is  not 
+
+just 
+A  key  aspect  of  becoming  a  smart  nation 
+adopting  technology  for  technology’s  sake  but 
+improving 
+the  lives  of  the  population  in  more  effective  and  meaningful 
+in  place  appropriate  policies 
+ways.  Singapore  has  put 
+and 
+to  create 
+the  ecosystem 
+that  facilitate  
+innovation by the public and the private sectors, and encourage 
+adoption of new ideas. 
+
+legislation 
+
+• 
+
+• 
+
+• 
+
+RESILIENCE ACTION: 
+
+Open Data 
+-  Making data sets collected by public agencies  
+  available and accessible to the public through  
+  online portals so they can also participate and  
+  co-create citizen-centric solutions. 
+
+ Remaining committed to investing in research  
+
+Living Laboratory 
+- 
+  and innovation to catalyse emerging breakthroughs  
+  and drive new areas of economic growth. We  
+  are also an ideal location for companies and  
+ 
+ 
+
+researchers to develop, prototype, and pilot their  
+technological solutions. 
+
+Cybersecurity and Data Privacy 
+-  Recognising cybersecurity as a key enabler of our  
+  Smart Nation. There are possible risks, and we  
+  have to prioritise privacy of data and safeguarding  
+  of critical systems and networks even as we make  
+ 
+
+them smart. 
+
+01 - Virtual Singapore—3D digital model of the area of Yuhua in Singapore, Credit: GovTech 
+02 - Action Plan for Successful Ageing, Credit: Ministry of Health
+
+01
+
+• 
+
+Computational Capabilities and Digital Inclusion 
+-  Re-skilling and promoting the learning of coding  
+  and computational thinking skills to ensure that  
+  all segments of the population benefit regardless  
+  of age or digital literacy. Resources are also in  
+  place to assist companies and SMEs as they seek  
+  opportunities in the digital economy.
+
+RESILIENCE VALUE: 
+
+• 
+• 
+
+• 
+
+Facilitating and creating spaces for innovation 
+Building capacity for different groups to be involved  
+in the digital economy
+Enabling greater transparency while ensuring security 
+
+Action Plan for Successful Ageing 
+
+www.moh.gov.sg/content/moh_web/ifeelyoungsg/about-the-action-
+plan/what-is-the-plan-about.html 
+
+This blueprint to prepare Singapore for rapid population ageing in 
+the next decade was jointly developed by government agencies, 
+voluntary  welfare  and  non-profit  organisations,  academia, 
+businesses, as well as community and union leaders. 
+
+Over  4,000  Singaporeans  were  engaged  through  focus  group 
+discussions, online consultation and “listening points” at public 
+spaces  like  libraries,  shopping  malls,  and  universities.  Union 
+members and different ethnic communities were also consulted. 
+
+The plan outlines more than 70 initiatives in 12 areas, including: 
+health  and  wellness, 
+learning,  volunteerism,  employment, 
+housing, transport, public spaces, respect and social inclusion, 
+retirement adequacy, healthcare and aged care, protection for 
+vulnerable seniors, and research. 
+
+02
+
+RESILIENCE ACTION: 
+
+KEY INITIATIVES AND TARGETS:
+
+• 
+
+• 
+
+Lifelong Employability 
+-  The re-employment age has been raised from 65  
+ 
+ 
+
+to 67 in 2017, to enable workers to work longer  
+if they are willing and able to. 
+
+Health and Wellness  
+-   A National Seniors’ Health Programme that will  
+ 
+-  A new workplace health programme that will target  
+  120,000 mature workers aged 40 and above.
+
+reach over 400,000 older adults. 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+65
+65
+
+to pursue their interests. 
+
+Senior Learning  
+-  A National Silver Academy that will eventually  
+  provide some 30,000 learning places for seniors  
+ 
+-  Target of 100 schools and Voluntary Welfare  
+  Organisations/community organisations to  
+  come on board the Intergenerational  
+  Learning Programme. 
+
+Senior Volunteerism  
+-  Recruit an additional 50,000 senior volunteers.  
+
+Community Befriending and  
+Inter-generational Harmony  
+-  Expand home visitation programmes in at least  
+  50 neighbourhoods to keep social isolation and  
+  poor health at bay among vulnerable seniors 
+-  Co-locate eldercare and childcare facilities in  
+  some 10 new Housing & Development Board  
+  housing developments. 
+
+than 50%. 
+
+-  More than double the number of Community  
+  Hospital beds. 
+-  Increase nursing home capacity by more  
+ 
+-  Increase home and community care places  
+  by 50% and 100% respectively. 
+
+Aged Care  
+-  Between 2015 and 2020:  
+ 
+ 
+ 
+ 
+ 
+ 
+-  planned another 40 day centres for seniors by  
+  2020. About a quarter of these centres will be  
+large Active Ageing Hubs in housing developments,  
+ 
+  providing active ageing and assisted living services  
+ 
+
+to seniors. 
+
+Implement 35 Silver Zones by 2020. 
+
+Transport  
+- 
+-  Double the number of Green Man Plus traffic lights  
+ 
+- 
+  bridges by 2018. 
+-  Replace all buses with wheelchair-accessible  
+  ones by 2020.
+
+from the current 500 to 1,000 by end-2018. 
+Install lifts at an additional 41 pedestrian overhead  
+
+RESILIENCE VALUE: 
+
+Holistic approach to managing an ageing population 
+
+• 
+•  Working across different sectors to plan for an  
+
+ageing population   
+
+66
+
+GOALS AND 
+OPPORTUNITIES
+
+Building  resilience  is  an  ongoing  process. 
+Through  engagements  with  stakeholders, 
+this  publication  has  identified  some  goals 
+and  opportunities—some  underway  and 
+some  new—that  can  further  our  resilience 
+and bring everyone along this journey. 
+
+interconnected  challenges  of  climate 
+The  complex  and 
+change  and  changing  demographics  require  more  open  and 
+non-conventional  solutions.  Traditional  approaches,  such  as 
+rules-based ones, have brought us to where we are today, and 
+enabled the necessary changes for our rapid development, but 
+they may not necessarily be suitable for today’s and tomorrow’s 
+challenges.  During  a  CLC-100RC  workshop  to  identify  key 
+resilience challenges and gaps in Singapore, stakeholders from 
+different parts of society discussed how new challenges need 
+to  be  addressed  with  a  different  approach—one  that  is  less 
+
+straightforward of rules and answers, but nevertheless adheres 
+to some of the core values and beliefs that Singapore ascribes 
+to as a nation. 
+
+This may mean a more values-based approach to our challenges 
+and  opportunities,  one  that  looks  and  frames  the  issue  and 
+solutions  with  a  set  of  values  that  residents  and  citizens  of 
+Singapore  believe  in  and  can  ascribe  to.  This  could  include 
+values such as being caring, confident, inclusive and resilient. 
+So  one  would  take  action  and  play  their  part  in  building  up 
+Singapore’s resilience because they care about the environment, 
+their neighbours and the city. 
+
+A resilient city can be many things. Essentially, it is about how 
+a  whole  city  can  come  together,  both  in  the  everyday  and 
+during times of crisis. As we anticipate new and ever-evolving 
+challenges, we have to face them with the same willingness to 
+learn  and  innovate  so  as  to  better  meet  future  problems  that 
+come our way. We need continued effort, commitment, and the 
+will to take us into the future. We have done it before, and can 
+do it again.
+
+01 - Minister for the Environment and Water Resource, Mr Masagos Zulkifli launching Singapore’s Year of Climate Action in 2018, Credit: Climate Action SG blog – 
+  Ministry of the Environment and Water Resources (MEWR) 
+02 - Logo for Climate Action in Singapore, Credit: Ministry of the Environment and Water Resources (MEWR)
+
+FROM AWARENESS 
+TO ACTION 
+
+There  is  still  much  room  to  enable  awareness  and  foster 
+actions. For example, many Singaporeans may find it difficult to 
+understand the urgent need to take action on climate change 
+as  we  do  not  experience  major  natural  disasters.  Even  when 
+extreme  events  are  felt,  such  as  flash  floods  or  heat  waves, 
+many feel climate change as something beyond them or it is the 
+“government’s responsibility” to do something about it.  
+
+There is scope for the community, be it individuals or businesses, 
+to be better educated and engaged on the risks and challenges  
+
+Singapore’s Climate Action Plan 
+
+https://www.nccs.gov.sg/resources/publications/plans-reports 
+
+As part of the Paris Agreement, Singapore pledged to reduce our 
+emissions intensity (emissions per dollar of GDP) by 36% from 
+2005 levels by 2030, and stabilise our emissions with the aim of 
+peaking around 2030. Singapore’s Climate Action Plan released 
+in  2016  outlines  our  strategies  for  climate  change  adaptation 
+and mitigation. 
+
+2018: Year of Climate Action
+
+https://www.mewr.gov.sg/climateaction
+
+To encourage greater awareness and action, the Ministry of the 
+Environment  and  Water  Resources  (MEWR)    has  designated 
+2018 as the “Year of Climate Action”. The tagline, “Take Action 
+Today, For A Sustainable Future; Reduce Our Carbon Footprint” 
+conveys the key message that tackling climate change cannot 
+be the work of the government alone. 
+ 
+Besides  reaching  out  to  the  private  companies  and  public  to 
+engage and educate them on how they can contribute, a Climate 
+Action Pledge was launched to get individuals and companies 
+to publicly declare their readiness to deal with climate change.
+
+6767
+
+arising  from  climate  change  and  be  encouraged  to  be  part 
+of  the  action.  We  must  start  a  conversation  across  the 
+community about the impacts of climate change, and conduct 
+it  in  a  manner  that  is  accessible  and  facilitates  different 
+stakeholders' participation in coming up with solutions.
+
+Some  actions  are  underway  or  planned  to  support  the  push 
+from awareness to action:
+
+01
+
+02
+
+HOW CAN YOU GET INVOLVED?
+Pledge now to take action 
+for Climate Change  
+https://www.mewr.gov.sg/
+climateaction   
+
+68
+68
+
+Supporting Climate Action 
+
+www.google.com/amp/s/climateaction.sg/2018/05/09/climate-
+action-grant-for-ngos-and-interest-groups/amp/ 
+
+A  Climate  Action  Grant  was 
+for  
+Non-Governmental  Organisations  (NGOs)  and  interest  groups 
+to support projects that promote the climate action messages, 
+including  the  3Rs  (Reduce,  Reuse,  Recycle)  as  well  as   
+energy conservation.
+
+launched  by  MEWR 
+
+Economy-wide Price Signal to Support 
+Singapore's Climate Action Plan
+
+www.nccs.gov.sg/climate-change-and-singapore/reducing-
+emissions/carbon-tax 
+
+Singapore’s  carbon  tax  is  an  efficient  method  of  maintaining 
+a  transparent  and  consistent  carbon  price  signal  across 
+the  economy  to  incentivise  emissions  reduction  where  cost 
+is  lowest.  The  Climate  Action  Plan,  launched  in  2016,  sets 
+out  four  strategies  to  achieve  a  carbon-efficient  Singapore: 
+improving  energy  and  carbon  efficiency  reducing  carbon 
+emissions  in  power  generation;  developing  and  deploying 
+low-carbon  technology;  and  encouraging  collective  climate 
+action. The carbon tax will enhance and support these climate  
+change strategies. 
+
+HOW CAN YOU GET INVOLVED?
+•  Explore your role in 
+ 
+  carbon footprint
+
+reducing your 
+
+https://mewr.gov.sg/get-
+involved-climate-action-sg 
+
+01 - Climate Action SG Grant, Credit: Climate Action SG blog – Ministry of the Environment and Water Resources (MEWR)
+02 - Carbon Tax Brochure, Credit: Prime Minister's Office – Strategy Group, National Climate Change Secretariat
+03 - Participants at the CLC-100RC Resilience Workshop, Credit: Centre for Liveable Cities
+
+Working with Companies for Change
+
+www.fsb-tcfd.org 
+
+Many companies in Singapore currently lack the knowledge and/
+or capacity to think about how they will be impacted by climate 
+change and how to build resilience within their businesses. 
+
+More  can  be  done  to  facilitate  greater  knowledge  sharing  on 
+this topic in the corporate sector. One example is the Task Force 
+on  Climate-related  Financial  Disclosures  (TCFD).  In  2017,  the 
+organisation  issued  a  voluntary  framework  for  disclosures  by 
+publicly  listed  companies  and  the  financial  sector.  The  Stock 
+Exchange  of  Singapore  (SGX)  is  also  encouraging  Singapore 
+listed companies to shift towards such a reporting framework. 
+This builds upon the mandatory sustainability reporting that was 
+recently introduced.
+
+Developing an Integrated Toolkit 
+on Resilience Thinking for Cities
+Drawing  on  Singapore’s  experience  and  the  100RC’s  network 
+and  resources,  CLC  will  be  working  with  100RC  to  research 
+and develop an integrated toolkit that seeks to help cities better 
+understand  and  apply  key  principles  and  actions  for  building 
+resilience, such as applying resilience thinking in planning and 
+development.  The  toolkit  will  reference  principles  from  the 
+Singapore Liveability Framework and City Resilience Framework, 
+and learn from best practices from CLC's and 100RC's networks.  
+
+6969
+
+03
+
+HOW CAN YOU GET INVOLVED?
+Get in touch with the 
+Centre for Liveable Cities 
+to find out more and 
+share your ideas at 
+MND_CLC_Enquiries@
+mnd.gov.sg 
+
+01
+
+02
+
+To give emitters time to adjust and implement energy efficiency improvement projects, the initial carbon tax rate has been set at S$5 per tonne of carbon dioxide-equivalent (tCO2e) for a five-year transitional period from 2019. Singapore intends to increase the carbon tax rate to S$10-15/tCO2e by 2030. Singapore will review the tax rate by 2023, taking into account international climate change developments, the progress of our emissions mitigation efforts, and our economic competitiveness.UNIFORM CARBON TAX RATE WITH NO EXEMPTIONSSINGAPORE’S CARBON TAXENHANCE SINGAPORE’S CLIMATE CHANGE STRATEGYA carbon tax will enhance and support Singapore’s climate change strategy to reduce emissions across all sectors of the economy by providing a uniform and economy-wide price signal on greenhouse gas emissions. By 2030S$10 — S$15/tCO2e Adopt more efficient technologies PowerHouseholds  IndustryWaste/WaterTransportBuildingsCARBON TAXprovides an economy-wide price signalImprove energyefficiency of desalination and NEWater Reduce plastics incinerationRaise Minimum Energy Performance for household appliancesIntroduce smart home technologyAchieve Green Mark standards for 80% of buildings by 2030Improve energy efficiency of building tenants and data centresAchieve 75% public mode share by 2030Encourage cycling and walkingAdopt cleaner fuelsEncourage better energy management practicesIncrease industrial energy efficiencyIncrease deployment of solar energy2019 — 2023S$5/tCO2e70
+
+CO-CREATING 
+SOLUTIONS 
+
+Resilience  needs  to  be  built  at  all  levels,  right  down  to  the 
+individual.  Everyone  has  a  part  to  play  to  understand  the 
+challenges  and  work  together  to  come  up  with  solutions.  
+
+Collaborating on Impactful Solutions 
+
+https://colabs.sg/  
+
+Singapore  has  embarked  on  and  will  continue  with  the  many 
+ongoing and pipeline efforts to reach out and co-create solutions 
+with various stakeholders to address our resilience challenges. 
+
+initiative  by 
+
+is  a  philanthropic 
+
+Colabs 
+the  Community 
+Foundation of Singapore (CFS) and the National Volunteer and 
+Philanthropy  Centre  (NVPC)  that  brings  together  the  public, 
+private  and  social  sectors  to  tackle  complex  social  issues.  It 
+enables  philanthropists,  businesses,  and  non-profits  sector 
+experts with a common focus to build insights and co-create  
+solutions together. 
+
+The  collaborative  process  typically  comprises  three  stages. 
+First,  stakeholders  go  on  a  learning  journey  to  gain  in-depth 
+knowledge of social causes. With new insights, members with 
+similar  interests  identify  opportunities  to  work  together  on  a 
+problem and get behind a common agenda. Lastly, they share 
+resources  and  expertise,  working  together  to  achieve  their 
+shared vision for social change.
+
+In 2017, Colabs focused on children and youth. In 2018, Colabs 
+will  examine  issues  around  two  other  communities—persons 
+with disabilities, and seniors.
+
+01
+
+02
+
+HOW CAN YOU GET INVOLVED?
+•  Find out more about  
+  Colabs and share  
+  your ideas
+
+https://colabs.sg/
+contact-us/ 
+
+HOW CAN YOU GET INVOLVED?
+•  Tap on Our Singapore  
+  Fund and start your 
+  own community project 
+
+https://www.sg/
+oursingaporefund
+
+7171
+
+03
+
+04
+
+Our Singapore Fund (OSF)
+
+www.sg/oursingaporefund 
+
+Our  Singapore  Fund  (OSF)  supports  meaningful  projects  by 
+passionate Singaporeans—projects that build national identity or 
+meet social and community needs. This umbrella fund is made 
+up of supporting funds from the Ministry of Culture, Community 
+and  Youth  (MCCY),  Tote  Board  (Singapore  Totalisator  Board), 
+and the Singapore Centre for Social Enterprise (raiSE).
+
+Some examples of OSF projects:
+
+Community Living Room at Block 52 
+This  project  brings  together  residents  and  stakeholders  from 
+Block  52  Cassia  Crescent,  in  the  planning  and  design  of  a 
+community space at the level 2 void deck. 
+
+The team from Participate in Design (P!D) has been engaging 
+the  block's  residents  through  a  series  of  intensive  house-to-
+house  interviews  conducted  with  some  50  households  to 
+understand  the  needs  and  opportunities  of  the  community.  
+Pop-up community design workshops were then held to suss 
+out ideas on how residents envision the void deck space. Based 
+on their collective insights, aspirations, and ideas, the void deck 
+at level 2 was eventually chosen as the site of intervention for the 
+team to design and activate in collaboration with the community.
+ 
+By applying a participatory design process with a community-
+driven  approach,  P!D  hopes  to  renew  a  sense  of  belief  that 
+everyone  has  something  positive  to  contribute  towards  the 
+design  and  planning  of  an  inclusive  community  space  that 
+residents can proudly call their own.
+
+More than Just 
+With a firm belief that proper civic discourse on race and racism 
+is important in multiracial Singapore, Lewis Liu and Chen Li Yi, 
+started this series of closed-door conversations.
+ 
+Over three dinner conversations, they created safe spaces for 
+people  from  diverse  backgrounds  to  explore  their  differences 
+together.  Putting  his  experience  as  a  facilitator  to  good  use, 
+Lewis  guided  participants  through  touchy  and  uncomfortable 
+topics such as race and racism in Singapore.
+ 
+Through  these  discussions,  participants  were  invited  to  share 
+their  views  and  personal  stories  in  a  safe  and  constructive 
+environment. Participants were able to see beyond labels and 
+build trust with people from other ethnicities, with some even 
+continuing their conversations long after the event had ended.
+
+01 - Members attending a session from the Colabs Children & Youth series, hosted in a primary school. Credit: National Volunteer and Philanthropy Centre & Community Foundation of Singapore 
+02 - A chef and trainer tells Colabs attendees what motivates him to work with persons with special needs, and how learning continues to be reciprocal as he discovers his trainees’ strengths and  
+ 
+
+abilities. Credit: National Volunteer and Philanthropy Centre & Community Foundation of Singapore 
+
+03 - Residents of Cassia Crescent being engaged by a member of Participate in Design (P!D) on the design of the new void deck, Credit: Ministry of Culture, Community and Youth (MCCY)
+04 - More than Just is a series of closed-door conversations on race and racism in Singapore, Credit: Ministry of Culture, Community and Youth (MCCY) 
+
+7373
+
+02
+
+72
+72
+
+01
+
+HOW CAN YOU GET INVOLVED?
+Tap on the Creating 
+Friendly and Lively Estates 
+Fund to enliven your 
+community spaces today 
+www.hdb.gov.sg/cs/infoweb/
+community/hdb-community-
+week/hdb-friendly-faces-lively-
+places-fund-page
+
+Creating Friendly and Lively Estates 
+
+www.hdb.gov.sg/cs/infoweb/community/hdb-community-week/hdb-
+friendly-faces-lively-places-fund-page     
+
+To enliven our common spaces and forge community spirit in 
+our estates, the Housing and Development Board (HDB) came 
+up  with  the  Friendly  Faces,  Lively  Places  Fund  in  2016.  The 
+fund  supports  residents'  ground  up  activities  and  has  been 
+well-received, with some 50 projects island-wide. Some of the 
+projects involve physical works like converting a grass patch to 
+a play and gardening yard, while others include handicraft and 
+gardening workshops. 
+
+All  of  these  initiatives  are  created  by  the  community,  for  the 
+community. The funding cap for the programme has since been 
+increased from $10,000 to $20,000 so that residents can plan 
+larger-scale and more impactful community projects. The fund 
+has also been extended to the Merchants’ Associations within 
+the HDB heartlands, so they too, can make use of this resource 
+to enliven HDB spaces near their businesses.
+
+01 - Welcome to our Backyard Co-creation Workshop: The Upcycled Play Yard, Credit: Housing and Development Board (HDB)
+02 - Phase 3 of the engagement process for Founders’ Memorial, Credit: Ministry of Culture, Community and Youth (MCCY)
+
+HOW CAN YOU GET INVOLVED?
+Be part of the 
+conversations
+https://www.nyc.gov.sg/
+youthconversations 
+
+Continuing Conversations
+The  Singapore  government  will  continue  to  reach  out  to 
+Singaporeans  in  different  stages  of  life  and  across  various 
+occupations. This will allow us to harness the diverse strengths 
+of our society, and work together with them to achieve something 
+greater than the sum of the different parts. 
+
+Empowering Our Youth 
+
+https://www.nyc.gov.sg/youthconversations
+
+Engaging  youth  is  a  key  priority  for  the  Ministry  of  Culture, 
+Community, and Youth (MCCY). Building on past efforts, such 
+as  the  National  Youth  Forum  and  YouthSPEAK,  the  Youth 
+Conversations was launched in April 2018 to provide a sustained 
+platform for the government to engage youth, and gather their 
+views, concerns and aspirations.  
+
+The  Youth  Conversations  aims  to  strengthen  our  social  
+compact with youths, and build strong national identity by giving 
+them a stake in the country. Youth will be able to meet peers 
+with diverse perspectives, have a say in key policy issues that 
+affect them, as well as co-create and co-deliver solutions with 
+the government.
+
+74
+74
+
+Looking Out for Our Seniors 
+As Singapore ages rapidly in the coming years, we need to build 
+a strong community-based support system to help our seniors 
+stay healthy for as long as possible, and provide seniors with 
+needs with the necessary help quickly.
+ 
+The  Community  Networks  for  Seniors  (CNS)  brings  together 
+different  stakeholders  on  the  ground  to  promote  the  ABCs  of 
+ageing well: 
+
+for  seniors 
+
+and engaged
+
+(i)  Active  Ageing 
+ 
+(ii)  Befriending  seniors  who 
+ 
+(iii)  Care coordination for seniors with health and social needs 
+
+live  alone  or  at-risk  of  
+
+to  keep  active,  healthy  
+
+social isolation
+
+The key idea in CNS is to draw on the energies of community 
+partners to jointly engage and support our seniors for maximum 
+impact,  rather  than  to  centralise  or  replace  their  efforts.  CNS 
+partners  include  voluntary  welfare  organisations,  grassroots 
+organisations, 
+regional  health  systems  and  government 
+agencies  such  as  the  Health  Promotion  Board  and  Social 
+Service Offices. 
+
+CNS  has  shown  the  potential  of  synergising  the  efforts  of 
+different stakeholders to engage more seniors to build a more 
+proactive community care system for seniors. Between January 
+to April 2018 alone, 55,000 seniors have been engaged on CNS 
+outreach. Over 7,000 seniors have attended functional screening 
+comprising  basic  eye,  oral  and  vision  checks  at  community 
+nodes  in  the  heartlands  such  as  senior  activity  centres, 
+Residents’ Committee centres and Community Clubs.
+
+HOW CAN YOU GET INVOLVED?
+•  Be a community  
+  volunteer and befriend  
+  a senior
+
+https://www.giving.sg/
+community/cns  
+
+7575
+
+02
+
+Furthering the Resilience Agenda Together 
+Drawing  on  participatory  design  approaches  from  best  
+practices, such as Rebuild by Design in New York City and the 
+Rail  Corridor  in  Singapore,  CLC  will  be  working  with  relevant 
+stakeholders  to  bring  together  communities,  government 
+officials,  and  experts  from  different  disciplines  to  better 
+understand  the  challenges  brought  about  by  climate  change 
+and empower communities to be more involved in coming up 
+with solutions for challenges and issues such as flash floods. 
+This  will  not  only  help  raise  awareness  about  the  resilience  
+challenge, but go a step further to work with the community, for 
+the community, in building up our resilience. 
+
+HOW CAN YOU GET INVOLVED?
+Get in touch with the 
+Centre for Liveable Cities 
+to find out more and 
+share your ideas at 
+MND_CLC_Enquiries@
+mnd.gov.sg
+
+01 - Details about Community Networks for Seniors, Credit: Agency for Integrated Care 
+02 - Pop-up engagement with residents on preferred themes of urban intervention, Credit: Centre for Liveable Cities
+
+01
+
+76
+76
+
+LEARNING FROM 
+THE 100RC NETWORK 
+
+As part of the 100RC Network, Singapore is inspired by the initiatives and efforts of member cities in building resilience. We look 
+forward to learning from each other and strengthening our partnerships through the sharing of best practices and collaborations. 
+Here are a few examples from various cities:
+
+RESILIENT VEJLE
+
+1
+
+San Francisco, Berkeley and Oakland  are  piloting  the  Bay  Area  Resilient by  Design  Challenge,  a 
+public-private partnership that seeks to pool the talents of the best minds in the region—experts in ecology, 
+technology, design and social activism—to translate advances in research into specific, place-based solutions 
+to  flood  risk  and  sea  level  rise.  These  innovative  ideas  address  long-term  threats,  in  addition  to  current 
+challenges, including the essential infrastructure needs of communities on the frontline of sea level rise. More 
+about the Challenge, including the final team presentations, can be found at http://www.resilientbayarea.org/.
+
+Vejle  is  promoting  collaboration  between  citizens  and 
+companies  on  the  topic  of  flooding,  encouraging  citizens 
+living in higher altitude areas of the valley, fjord and harbor to 
+take action on storm water management on their own land.
+
+ 
+
+Y
+R
+U
+T
+N
+E
+C
+ 
+T
+S
+1
+2
+ 
+E
+H
+T
+ 
+R
+O
+F
+ 
+Y
+D
+A
+E
+R
+
+ 
+.
+
+Y
+G
+E
+T
+A
+R
+T
+S
+ 
+E
+C
+N
+E
+I
+L
+I
+S
+E
+R
+ 
+M
+A
+D
+R
+E
+T
+T
+O
+R
+ 
+ 
+
+resources 
+
+is  driving 
+
+innovation 
+
+Boston 
+in 
+community  engagement  to  provide 
+comprehensive  and  informed  training 
+and 
+to  city  agencies 
+and  community  members  to  help 
+the  city  engage  Bostonians  more 
+effectively. This includes hosting design lab workshops,  
+fellowship 
+developing  a 
+program 
+to  participate 
+in 
+implementation  of  Resilient  Boston,  and 
+the 
+launching  a  partnership  with  the  creators  of  the 
+popular  game  Pokemon  Go  to  engage  middle  school 
+students 
+the  city’s  neighborhoods  
+and landmarks.
+
+for  vulnerable 
+
+in  exploring 
+
+community 
+
+resilience 
+
+residents 
+
+77
+77
+
+ROTTERDAM  
+ 
+RESILIENCE  STRATEGY.
+READY FOR THE 
+21ST CENTURY 
+
+CONSULTATION 
+DOCUMENT 
+
+Rotterdam 
+is  embedding 
+climate adaptation into the urban 
+fabric  of  the  city  through  Water 
+Sensitive  Rotterdam 
+(WSR). 
+This  action  encompasses  both 
+a large number of small citizen- 
+and business-led projects, as well as larger-scale 
+efforts  to  deepen  understanding  and  support 
+research  around  climate  action.  The  end  goal 
+is  to  promote  a  new  way  of  thinking,  in  which 
+rain water is seen not as a threat but a valuable 
+raw  material  that  should  be  locally  utilised. The 
+city's Zoho district is an example where climate 
+adaptation  projects 
+the  multifunctional 
+Benthemplein  water  square  have  acted  as  a 
+catalyst for sustainable development and greater 
+social cohesion.
+
+like 
+
+and 
+
+Los Angeles  is increasing 
+preparedness 
+building 
+social  cohesion  by  connecting 
+community  organisations  with 
+experts and resources to guide 
+and  efficiently  support 
+the 
+development of neighbourhood resilience hubs. 
+Hubs  will  be  fortified  with  the  most  up-to-date 
+electricity,  water,  communications,  and  seismic 
+technologies  to  ensure  that  critical  services 
+are  maintained  during  and  after  a  disaster.  On 
+an  everyday  basis,  Hubs  will  also  foster  social 
+cohesion  while  addressing  chronic  community 
+stressors  through  outreach,  education,  and 
+connections to existing social and environmental 
+stewardship programs and services.
+
+Medellin 
+has committed to 
+integrating 
+and 
+coordinating 
+the 
+city’s 
+information 
+in  a  single  system 
+so that public and private entities 
+and  communities  can  obtain  up-
+to-date  information.  To  achieve 
+its goal  of  an  equitable Medellin, 
+one of the flagship initiatives is to 
+set up A Colaboratorio, a citizens’ 
+meeting place to share knowledge 
+and learn, especially for the youth. 
+
+One New York
+The Plan for a Strong  
+and Just City
+
+Anthony Shorris 
+First Deputy Mayor
+
+The City of New York
+Mayor Bill de Blasio
+
+New York is 
+working to ensure that 
+its  neighbourhoods 
+and  public  services 
+are ready to withstand 
+and  emerge  stronger 
+from  the  impacts  of  climate  change 
+by  strengthening  community-based 
+organisations.  The  city  will  develop 
+a  comprehensive, 
+interactive  web-
+based platform to map both small and 
+large  community  organisations  and 
+activities, as well as local government 
+services and initiatives, across the city. 
+This  will  encourage  more  effective 
+coordination, 
+and 
+decision-making in these efforts. The 
+city will also enhance volunteerism by 
+enhancing  the  NYC  Service  platform, 
+which  connects  programs  in  need 
+of  support  with  available  volunteers, 
+including in emergency response and 
+recovery efforts.
+
+collaboration, 
+
+Surat 
+is  working  on  furthering  social 
+cohesion  through  awareness  generation.  A 
+center  for  cultural  resources  and  visual  arts 
+will  be  established  in  the  city  for  building 
+community 
+through  activities 
+festivals  and  cultural  conservation. 
+like 
+The  city  will  link  this  new  institution  to  campaigns  on 
+resilience  issues,  which  will  bring  community-level  events 
+like  street  plays  and  mock  emergency  drills  to  the  city’s 
+neighborhoods.  Citizens  will  also  be  encouraged  to  engage 
+further in the city’s development process via public debates 
+and presentations, online and offline polls, and a new Citizen  
+Collaboration Center.  
+
+resilience 
+
+A
+
+VIABLE
+SUSTAINABLE 
+LIVEABLE 
+PROSPEROUS
+
+Melbourne 
+is  kick-
+starting  the  Neighbourhood 
+Project, which will provide 12 
+months of capacity building, 
+resources  and  mentoring  to 
+participating  communities 
+on  how  to  turn  under-used  land  into  green 
+spaces. This will include training in design and 
+project  management.  The  Neighbourhood 
+Project will also tackle barriers that impede 
+community-led  place-making  projects,  such 
+as  planning  scheme  requirements.  It  will 
+work with councils to better understand and 
+remove  these  barriers,  while  still  ensuring 
+that councils can fulfil their legal and public 
+safety obligations. The action will transform 
+24  under-used  spaces  in  8  neighbourhoods 
+into useful community public spaces, using a 
+‘tactical urbanism’ methodology. 
+
+RESILIENT  BOSTONAN EQUITABLE AND CONNECTED CITYARESILIENT SAN FRANCISCOSTRONGER TODAY, STRONGER TOMORROW.RESILIENT  LOS ANGELESRESILIENT LOS ANGELESlamayor.org/resilienceMARCH 2018Introduction78
+
+Endnotes
+
+1Colony of Singapore (1947) Report of the Housing Committee, Singapore 
+
+2Refer to Mercer (2018) and Gray (2017). 
+
+3The statistics are updated as of January 2018 and retrieved from various sources quoted in the bibliography. 
+
+4The quote was retrieved from Lee Kuan Yew, From Third World to First: The Singapore Story, 1965 – 2000 (Singapore: Times Media Publishing, 2000), p.116
+
+5Resilience dividend is the idea that building resilience goes beyond withstanding a disruption more effectively to also enable individuals, communities, organisations to “build new relationships, take  
+ on new endeavours and initiatives, and reach out for new opportunities, one that may have never been imagined before”. Refer to Rodin (2014). 
+
+6Rebuild	by	Design	(RBD)	is	a	design	competition	that	brought	designers,	researchers,	government	officials	and	local	communities	together	in	search	of	solutions	to	make	flood-prone	regions	more	 
+ resilient to future threats. Adopting a collaborative research and design approach, it was launched as part of Hurricane Sandy’s Rebuilding Task Force. See more at www.rebuildbydesign.org.  
+
+7The quote was retrieved from Centre for Liveable Cities, Singapore. (2016). Transformative Partnerships: Case Studies on Urban Governance. p.30 
+
+8The quote was retrieved from Lee Kuan Yew, From Third World to First: The Singapore Story, 1965 – 2000 (Singapore: Times Media Publishing, 2000), p.19 
+
+9Professor	Eric	Klinenberg	defines	social	infrastructure	in	the	broad	sense	as	facilities	and	conditions	that	allow	connection	between	people.	Refer	to	Klinenberg	(2002).
+
+Bibliography
+
+79
+
+Housing & Development Board. (2018). HDB InfoWeb. Retrieved from http://www.hdb.gov.sg/cs/infoweb/homepage.
+
+Klinenberg, Eric. (2002). Heat Wave: A Social Autopsy of Disaster in Chicago. Chicago: University of Chicago Press.
+
+Lee Kuan Yew, From Third World to First: The Singapore Story, 1965 – 2000 (Singapore: Times Media Publishing, 2000)
+
+Mercer. (2018). Quality of living city ranking. Retrieved from https://mobilityexchange.mercer.com/Insights/quality-of-living-rankings
+
+Ministry of Communications and Information. (2018). Our Singapore Conversation. Retrieved from https://www.reach.gov.sg/read/our-sg-conversation. 
+
+Ministry of Communications and Information. (2018, 4 May) Future Economy. Retrieved from www.gov.sg/microsites/future-economy
+
+Ministry	of	Culture,	Community	and	Youth.	(2018).	IRCC,	Inter-Racial	and	Religious	Confidence	Circle.	Retrieved	from	https://www.ircc.sg/
+
+Ministry of Defence. (2018). Total Defence. Retrieved from https://www.mindef.gov.sg/oms/imindef/mindef_websites/topics/totaldefence/home.html
+
+Ministry of the Environment and Water Resources. (2018, 14 June). Climate Action 2018. Retrieved from https://www.mewr.gov.sg/climateaction
+
+Ministry of Environment and Water Resources. (2018, 7 Feb). Sustainable Singapore Blueprint. Retrieved from www.mewr.gov.sg/ssb/home 
+
+Ministry of Health Singapore, Ministerial Committee on Aging. (2016). I feel young in my Singapore. Action Plan for Successful Ageing. Retrieved from 
+https://www.moh.gov.sg/content/moh_web/ifeelyoungsg/about-the-action-plan/what-is-the-plan-about.html 
+
+Ministry of Home Affairs. (2018). SG Secure. Retrieved from https://www.sgsecure.sg/
+
+National	Climate	Change	Secretariat	Strategy	Group,	Prime	Minister’s	Office.	(2018,	19	February)	Carbon	Tax.	Retrieved	from	
+www.nccs.gov.sg/climate-change-and-singapore/reducing-emissions/carbon-tax
+
+National	Climate	Change	Secretariat	Strategy	Group,	Prime	Minister’s	Office.	(2018,	17	January).	Plans	&	Reports.	Retrieved	from	https://www.nccs.gov.sg/resources/publications/plans-reports
+
+AVA, Agri-Food & Veterinary Authority of Singapore. (2018). Homepage. Retrieved from https://www.ava.gov.sg/
+
+Boh, S. (2018, 7 January). First playground designed and built by residents opens in Sembawang Close. The Straits Times. Retrieved from 
+https://www.straitstimes.com/singapore/first-playground-designed-and-built-by-residents-opens-in-sembawang-close
+
+Centre for Liveable Cities, Singapore. (2012). Water: From Scarce Resource to National Asset. Urban System Studies Series. Singapore: Cengage Learning Asia. 
+
+National Environment Agency. (2018). Clean & Green Singapore. Retrieved from https://www.cgs.sg/
+
+National Environment Agency. (2018). Clean Air and Clear Skies. Retrieved from www.haze.gov.sg 
+
+National Environment Agency. (2018, 29 March). Waste Statistics and Overall Recycling. Retrieved from 
+http://www.nea.gov.sg/energy-waste/waste-management/waste-statistics-and-overall-recycling
+
+Centre for Liveable Cities, Singapore. (2013). Housing: Turning Squatters into Stakeholders. Urban System Studies Series. Singapore: Cengage Learning Asia. 
+
+National Parks Board. (2016). Community in Bloom Initiatives.  Retrieved from https://www.nparks.gov.sg/gardening/community-in-bloom-initiative
+
+Centre for Liveable Cities, Singapore. (2013). Sustainable Environment: Balancing Growth with the Environment Urban System Studies Series. Singapore: Cengage Learning Asia. 
+
+National Volunteer and Philanthropy Centre. (2017, 15 March). Individual Giving Survey 2016 Findings. https://www.nvpc.org.sg/resources/individual-giving-survey-2016-findings 
+
+Centre for Liveable Cities and Civil Service College. (2014). Liveable and Sustainable Cities: A Framework. Singapore: Centre for Liveable Cities. 
+
+People’s Association. (2017). Homepage. Retrieved from https://www.pa.gov.sg/ 
+
+Centre for Liveable Cities, Singapore. (2015). Biodiversity: Nature Conservation in the Greening of Singapore. Urban System Studies Series. Singapore: Cengage Learning Asia. 
+
+PUB, Singapore’s National Water Agency. (2018). Homepage. Retrieved from https://www.pub.gov.sg/
+
+Centre for Liveable Cities, Singapore. (2016). Cleaning a Nation: Cultivating a Healthy Living Environment. Urban Systems Studies. Singapore: Centre for Liveable Cities. 
+
+PUB, Singapore’s National Water Agency. (2018, 18 May). Flood Management. Retrieved from https://www.pub.gov.sg/drainage/floodmanagement
+
+Centre for Liveable Cities, Singapore. (2016). Urban Redevelopment: From Urban Squalor to Global City. Urban Systems Studies. Singapore: Centre for Liveable Cities. 
+
+Public Service Division. (2015). Overcoming Crises, Building Resilience. Retrieved from https://www.psd.gov.sg/heartofpublicservice/our-institutions/overcoming-crises-building-resilience/
+
+Centre for Liveable Cities, Singapore. (2016). Transformative Partnerships: Case Studies on Urban Governance. Singapore: Centre for Liveable Cities.
+
+Centre for Liveable Cities, Singapore. (2017). A City of Culture: Planning for the Arts. Urban Systems Studies. Singapore: Centre for Liveable Cities.
+
+Centre for Liveable Cities, Singapore. (2017). The Active, Beautiful, Clean Waters Programme: Water as an Environmental Asset. Urban Systems Studies. Singapore: Centre for Liveable Cities.
+
+Centre for Liveable Cities, Singapore. (2015). Urban Solutions – Issue 7: Resilience. Singapore: Centre for Liveable Cities.
+
+Centre for Liveable Cities, Singapore. (2016). Urban Solutions Issue 8: Building with Nature. Singapore: Centre for Liveable Cities. 
+
+Centre for Liveable Cities, Singapore. (2016). Urban Solutions Issue 9: Innovations. Singapore: Centre for Liveable Cities.
+
+Centre for Liveable Cities, Singapore. (2017). Urban Solutions Issue 10: Living with Diversity. Singapore: Centre for Liveable Cities.
+
+Centre for Liveable Cities, Singapore. (2017). Urban Solutions Issue 11: Public Spaces. Singapore: Centre for Liveable Cities.
+
+Report of the Committee on the Future Economy – Pioneers of the Next Generation. (2017, February). Ministry of Communications and Information. Retrieved from 
+https://www.gov.sg/~/media/cfe/downloads/cfe%20report.pdf?la=en
+
+Rockefeller Foundation. (2014, 10 April). Report: City Resilience Framework. Retrieved from https://www.rockefellerfoundation.org/report/city-resilience-framework/
+
+Rodin, Judith. (2014). The Resilience Dividend: Being Strong in a World Where Things Go Wrong. New York: Public Affairs.
+
+SARS Outbreak occurs in Singapore. (2003, February). HistorySG: An Online resource guide. Retrieved from www.eresources.nlb.gov.sg/history/events/187adv0f-841a-49cb-86e8-86734b65691a
+
+Skillsfuture. (2017). Homepage. Retrieved from http://www.skillsfuture.sg/ 
+
+Singapore tops list of 17 cities with highest greenery density (2017, 22 Feb). The Straits Times. Retrieved from 
+https://www.straitstimes.com/singapore/environment/singapore-tops-list-of-17-cities-with-highest-greenery-density.
+
+Smart	Nation	and	Digital	Government	Office.	(2018).	Smart	Nation	Singapore.	Retrieved	from	www.smartnation.sg
+
+Climate Action SG. (2018, 9 May) Climate Action SG Grant for NGOs and Interest Groups. Retrieved from https://climateaction.sg/2018/05/09/climate-action-grant-for-ngos-and-interest-groups/
+
+Speech	by	Prime	Minister	Lee	Hsien	Loong	at	the	10th	Anniversary	of	SARS	Commemoration	Event.	(2013,	31	May).	Prime	Minister’s	Office	Singapore.	Retrieved	from	
+http://www.pmo.gov.sg/newsroom/speech-prime-minister-lee-hsien-loong-10th-anniversary-sars-commemoration-event
+
+Department of Statistics Singapore. (2018, 13 June). Latest Data. https://www.singstat.gov.sg/whats-new/latest-data
+
+Department of Statistics Singapore. (2018, 14 May). Singapore Economy. https://www.singstat.gov.sg/modules/infographics/economy
+
+Department of Statistics Singapore. (2018, 4 May). Publication: Population Trends, 2017. https://www.singstat.gov.sg/-/media/files/publications/population/population2017.pdf
+
+Department of Statistics Singapore. (2018, 30 April). Infographics: Old-Age Support Ratio. Retrieved from https://www.singstat.gov.sg/modules/infographics/old-age-support-ratio
+
+Energy Market Authority. (2017, July). 2017 Singapore Energy Statistics. Retrieved from 
+https://www.ema.gov.sg/cmsmedia/Publications_and_Statistics/Publications/SES17/Publication_Singapore_Energy_Statistics_2017.pdf
+
+Gray, A. (2017, 26 Sep). These are the world’s 10 most competitive economies. World Economic Forum. Retrieved from 
+https://www.weforum.org/agenda/2017/09/global-competitiveness-2017-top-economies/ 
+
+Strategy Group. (2017). National Integration Council. Retrieved from https://www.nationalintegrationcouncil.org.sg/
+
+Sustainable Living Lab. (2018). Repair Kopitiam. Retrieved from http://repairkopitiam.sg/
+
+Task Force on Climate Related Financial Disclosures. (2018) Retrieved from https://www.fsb-tcfd.org/
+
+The Economist Intelligence Unit. (2017). Safe Cities Index 2017: Security in a rapidly urbanising world. http://safecities.economist.com/safe-cities-index-2017
+
+Urban Redevelopment Authority. (2018). Rail Corridor, Singapore’s Green Artery. Retrieved from 
+https://www.ura.gov.sg/Corporate/Get-Involved/Shape-A-Distinctive-City/Explore-Our-City/Rail-Corridor
+
+Urban Redevelopment Authority. (2018). Streets For People. Retrieved from https://www.ura.gov.sg/Corporate/Get-Involved/Go-Car-Lite/Streets-For-People
+
+80
+
+ACKNOWLEDGEMENTS
+
+This publication was funded in part by the 100 Resilient Cities—Pioneered 
+by  the  Rockefeller  Foundation.  The  Centre  for  Liveable  Cities  (CLC) 
+would like to thank the following stakeholders and their organisations 
+for their contribution:
+
+Centre for Liveable Cities (CLC)
+Hazelina Yeo, Manager
+Nicole Chew, Manager 
+Choo Min, Intern 
+Jasdeep Singh Hundal, Intern 
+Koay Xinyi, Intern 
+
+AECOM (Strategy Partner)
+Scott Dunn, Vice President, Strategy & Growth 
+South East Asia, AECOM
+Will Symons, Practice Leader, Sustainability & Resilience, AECOM
+Cecile Maria Noelle Corda, Environment Consultant, AECOM
+Victoria Chantra, Principal Environmental Consultant, AECOM
+
+Stakeholders and Workshop Participants 
+Aon Singapore 
+Community Foundation of Singapore (CFS)
+Duke-NUS Centre for Ageing Research and Education (CARE)
+Group Up Initiative Singapore (GUI) 
+Housing and Development Board (HDB)
+Lloyd’s Register Foundation Institute for the Public 
+Understanding of Risk  
+Ministry of Communications and Information (MCI) 
+Ministry of Culture, Communication and Youth (MCCY), 
+Resilience Division 
+Ministry of Defence (MINDEF) – Nexus 
+Ministry of Environment and Water Resources (MEWR)
+Ministry of Health (MOH)
+Ministry of Home Affairs (MHA), Home Team Behavioural 
+Science Centre (HTBSC)
+Ministry of National Development (MND) 
+Ministry of Trade and Industry (MTI)
+National Archives of Singapore (NAS)
+National Parks Board (NParks)
+National Research Foundation (NRF) 
+National University of Singapore, School of Design 
+and Environment 
+
+National Volunteer and Philanthropy Centre (NVPC) 
+Participate in Design (P!D)
+People’s Association (PA) 
+Prime Minister’s Office, National Security Coordination 
+Secretariat (NSCS) 
+Prime Minister’s Office – Strategy Group (PMO-SG), National 
+Climate Change Secretariat (NCCS)
+Prime Minister’s Office – Strategy Group (PMO-SG), National 
+Population and Talent Division (NPTD) 
+Prime Minister’s Office – Strategy Group (PMO-SG), Security & 
+Resilience Division 
+PUB, Singapore’s National Water Agency 
+Resilience Working Group (RWG) Secretariat 
+Singapore Environment Council (SEC)
+Singapore Telecommunications Limited (Singtel)
+Singapore Youth for Climate Action
+Sustainable Living Laboratory (SL2)
+Thought Collective 
+TOUCH Community Services
+Urban Redevelopment Authority (URA)
+Zeroth Lab 
+
+Photo Collage Credits
+
+Public housing in city centre - Pinnacle@Duxton, Credit: Wiki Commons
+
+Activities at the green rooftop of Marina Barrage, Credit: anahtiris
+
+Residents enjoying Sengkang floating wetlands, Credit: Alantankenghoe
+
+Launch of the Sustainable Singapore Gallery at the Marina Barrage, Credit: Ministry of the 
+Environment and Water Resources (MEWR)
+
+Cyclists at Car-free Sunday in the city centre, Credit: Tan Teck Siang
+
+Jubilee walk event by URA, Credit: Urban Redevelopment Authority (URA)
+
+Mobile library event for the community at Bishan-Ang Mo Kio Park, Credit: Lim Wei Da
+
+Spiral ramp leading up to the roof top garden at Marina Barrage, Credit: PUB, Singapore’s 
+National Water Agency
+
+Singapore’s Central Business District, Credit: Ramir Borja
+
+Night view of Gardens by the Bay, Credit: Kunchainub
+
+Night view of Marina Bay area, Credit: Centre for Liveable Cities
+
+View of Singapore during a haze episode in 2013, Credit: andrekusuma
+
+Car-Free Sunday, Credit: Urban Redevelopment Authority (URA)
+
+People at the stepping stones of Bishan-Ang Mo Kio Park, Credit: AtelierDreiseitl
+
+Seniors playing chess at Chinatown, Credit: Nathan_Allen
+
+Seniors participating in activity at a Senior Activity Centre, Credit: TOUCH 
+Community Services
+
+Pedestrianisation of Keong Siak Street, Credit: Urban Redevelopment Authority (URA)
+
+Singapore National Game 2012 Opening Ceremony, Credit: Singapore Sports Council 
+
+A RESILIENT  SINGAPORE
+
+How  can  cities  be  better  prepared  in  the  face  of  impending 
+stresses and shocks? What are the innovative solutions that 
+cities can adopt to address cross-cutting challenges such as 
+climate change and changing demographics? In a world where 
+cities are facing increasingly complex challenges, resilience is 
+critical for cities to not just survive, but adapt and thrive.
+
+A  Resilient  Singapore  maps  out  what  Singapore  has  done 
+and  will  continue  to  do  to  build  its  resilience.  Through  the 
+sharing of case studies and actions, this publication captures 
+Singapore’s  resilience  story—An  urban  transformation  into  a 
+highly  liveable,  sustainable  yet  high-dense  city-state  and  its 
+continued  pursuit  to  maintain  a  competitive  economy  while 
+ensuring a high quality of life for its residents.   
+
+Resilience requires us to take an integrated systems approach. 
+It  is  as  much  about  robust  infrastructure  and  plans  as  it  is 
+about involving and engaging diverse stakeholders. Everyone 
+has a part to play in this ongoing journey of building a resilient 
+Singapore,  to  make  the  city  better  in  times  of  peace  and  to 
+work together to weather any crisis.
+
+

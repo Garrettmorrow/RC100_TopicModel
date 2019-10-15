@@ -1,0 +1,5196 @@
+RESILIENT
+
+CAN 
+TH
+
+Cần Thơ Resilience Strategy 
+UNTIL 2030
+
+RESILIENT
+
+CAN 
+TH
+
+PEACEFUL – PROSPEROUS CẦN THƠ CITY
+
+Cần Thơ Resilience Strategy 
+UNTIL 2030
+
+Ngô Thanh © ISET-International, 2014
+
+RESILIENT
+
+CAN 
+TH
+
+Contents 
+
+6 
+6 
+8 
+
+INTRODUCTION 
+Message from the city leadership
+Message from 100RC 
+
+12  RESILIENCE APPROACH AND STRATEGY DEVELOPMENT  
+ 
+14 
+17 
+
+PROCESS
+Approach to building resilience 
+City Resilience Strategy Development Process 
+
+ 
+
+22  OVERVIEW OF CẦN THƠ CITY
+24 
+26 
+30 
+
+Brief history of the city 
+Natural, economic and social conditions
+Cần Thơ in the future 
+
+34  CITY RESILIENCE CHALLENGES
+36 
+40 
+
+Shocks and stresses
+Overview of the resilience of Cần Thơ City 
+
+50  CẦN THƠ RESILIENCE STRATEGY
+52 
+54 
+56 
+64 
+76 
+88 
+
+VISION AND GOAL 
+RESILIENCE ACTIONS
+Direction 1: Leadership and Strategy 
+Direction 2: Infrastructure and Environment 
+Direction 3: Economy and Society 
+Direction 4: Health and Well-being
+
+98  STRATEGY IMPLEMENTATION
+100 
+101  Monitoring and Evaluation 
+
+Implementation organization and stakeholder roles 
+
+104  ACKNOWLEDGEMENT
+
+106  APPENDICES
+
+110  REFERENCES
+
+Nguyễn Thơ © ISET-International, 2018
+
+MESSAGE FROM THE CITY LEADERSHIP
+
+RESILIENT
+
+CAN 
+TH
+
+Cần Thơ is a dynamic city located at the center of the Cửu Long River Delta, by the side 
+of the peaceful Hậu (Bassac) River. Cần Thơ prides itself with the unique beauty of a 
+dense network of interlacing rivers, channels and canals, which creates a distinctive 
+riverscape culture. Through the rise and fall and upheavals in its establishment and 
+development history, Cần Thơ City of today enjoys the status of a Category I City 
+under direct national administration, and the center of the Cửu Long Delta Key 
+Economic Zone. 
+
+In the process of its formation, development, and economic integration, Cần Thơ has 
+faced and will continue to face multiple shocks and stresses across different aspects, 
+such as flooding and inundation, tidal surges, extreme heat waves, aging infrastructure, 
+pollution, diseases, poverty, unemployment, unstable export markets and prices, legal 
+and technical barriers of export markets, and global economic recessions, among 
+others. These shocks and stresses are growing in frequency and intensity, and are 
+becoming more difficult to predict. In this context, building resilience of the people, 
+government, and systems of the city is a matter of critical urgency. 
+
+From the early days of the 100 Resilient Cities project in December 2016, we have 
+determined to pursue “working together to bring out the best from all resources” as 
+the overarching principle for the Resilience Strategy development process in Cần 
+Thơ City. With our great efforts, the Cần Thơ Resilience Strategy until 2030 has now 
+been completed. This is the result of almost two years of constant, highly committed 
+and dedicated efforts of local government leaders across levels, city departments, 
+associations, experts from institutes and universities in the city, technical staff of city 
+departments, enterprises, as well as local communities. The full cooperation of all 
+related stakeholders is a key highlight of the strategy development process. This makes 
+us realize that no single organization or partner can single-handedly resolve for us the 
+issue that our city is facing. Instead, building and strengthening resilience requires joint 
+efforts of the entire city government system and local people altogether. 
+
+MR. ĐÀO ANH DŨNG
+Vice Chairman 
+Cần Thơ City People’s Committee 
+
+The City Resilience Strategy (CRS) clearly identified the challenges in health and well-
+being, economy and society, infrastructure and environment, and governance that the 
+people, enterprises and government of our city have been and will be facing, as well 
+as specific immediate and long-term actions that our city has to implement to develop 
+Cần Thơ as a green, sustainable, proactive and integrated river city where people 
+enjoy prosperity and safety from shocks and stresses, and no one is left behind. 
+To successfully implement this strategy, the city will need the consensus and close 
+collaboration between local governments across levels, departments, associations, 
+enterprises and individuals. We need extensive cooperation with domestic and 
+international partners, and highly value all of your support. 
+
+We are tremendously proud to present the Cần Thơ Resilience Strategy, which represents 
+a new approach, new way of thinking, and new knowledge to connect our citizens 
+with our city government, towards the common goal of building Cần Thơ to be ever 
+thriving in the face of the expected shocks and stresses of the 21st century. Once again, 
+let us emphasize that “working together” is the key to the successful development and 
+implementation of the Cần Thơ Resilience Strategy. 
+
+In the capacity of a city government representative, I would like to call for the continued 
+cooperation and support of the people of Cần Thơ, as well as of organizations, individuals 
+and partners from Vietnam and internationally, with the city government to sustain and 
+push forward resilience building for our city in the years to come./.
+
+Yours sincerely,
+
+ 
+
+ĐÀO ANH DŨNG
+Vice Chairman of Cần Thơ City People’s Committee
+
+KẾ HOẠCH TĂNG CƯỜNG KHẢ NĂNG CHỐNG CHỊU ĐẾN 2030 CỦA THÀNH PHỐ CẦN THƠ 
+
+MESSAGE FROM 100RC
+
+RESILIENT
+
+CAN 
+TH
+
+On behalf of 100 Resilient Cities, it is my honor to congratulate the city of Can Tho on 
+the release of its Resilience Strategy. The strategy presents a significant shift in how the 
+city works – one that entails extensive stakeholder engagement, holistic assessment, 
+and partnership with leaders across the public and private sectors and the community. 
+None of that would have been possible without the unwavering support from Vice 
+Chairman Mr. Đào Anh Dũng and the tireless dedication of Chief Resilience Officer Dr. 
+Nguyen Hieu Trung and his remarkable team. 
+
+Can Tho is a rapidly growing city in the heart of the Mekong Delta. It is a city that faces 
+multiple threats to achieving its development goals – including seasonal flooding, 
+sea-level rise, water pollution, land subsidence, and uncontrolled urbanization, to 
+name just a few. Can Tho’s ambitious vision for its future is to transform into a regional 
+and national hub of industry, commerce, and services. Can Tho’s challenge is to use 
+the strength of its talented population, geographic advantages and natural resources 
+to bring dynamism to its economy, while creating opportunity and income for all 
+inhabitants – and at the same time, protecting the integrity of the river that flows 
+through the heart of the city.
+
+This strategy puts forward actions that directly seek to reconcile robust future growth 
+with environmental considerations. And the city has already demonstrated some 
+success. Dr. Trung and his team have piloted tactical urbanism at the neighborhood 
+scale to address community-level waste management and build an appreciation for 
+urban green spaces in managing flood risk. The city participated in the Resilience 
+Accelerator program – a partnership with the Center for Resilient Cities and Landscapes 
+at Columbia University and Can Tho University – to produce urban design principles 
+for nature-based infrastructure investments and conceptual urban design proposals. 
+
+MICHAEL BERKOWITZ
+President  
+100 Resilient Cities
+
+A public park in An Khánh ward has already been earmarked to test the effectiveness of 
+these concepts for stormwater management – and assess the wider social, economic, 
+and environmental benefits to the city.  
+
+As this strategy attests, only collective effort will enable Can Tho to achieve its vision 
+of becoming a green, safe, prosperous, and inclusive city. Together, the actions within 
+this document will have a transformational impact on the resilience of the city and 
+its inhabitants. But their successful implementation will require collective effort, 
+collaboration and coordination across departments and higher levels of government, 
+donor agencies and other international organizations, businesses and – of course – 
+residents themselves. I am excited to see this work unfold and believe that Can Tho is 
+poised to play a leading role in promoting urban resilience, not just within the Mekong 
+Delta region, but nationally and around the world.
+
+Yours faithfully, 
+
+ 
+
+ 
+
+MICHAEL BERKOWITZ
+President  of the 100 Resilient Cities   
+
+ABBREVIATION
+
+100 Resilient Cities
+
+100RC
+CCCO Climate Change Coordination Office 
+CIEM Central Institute for Economic Management 
+CISED Cần Thơ Institute for Socio-Economic Development
+
+City Resilience Framework
+
+CRF
+CRO City Resilience Office
+
+CSIRO Commonwealth Scientific and Industrial Research Organization
+DARD Department of Agriculture and Rural Development
+DOC Department of Construction
+
+DOCST Department of Culture, Sports and Tourism
+
+DOF Department of Finance 
+DOH Department of Health
+DOIC Department of Information and Communication
+DOIT Department of Industry and Trade
+
+DOLISA Department of Labors, War Invalids and Social Affairs
+
+DOST Department of Science and Technology
+DOT Department of Transport 
+DPI Department of Planning and Investment 
+GDP Gross Domestic Product
+GRDP Gross Regional Domestic Product
+
+Institute for Social and Environmental Transition
+
+ISET
+JSC
+M&E Monitoring and Evaluation
+
+Job Services Centre
+
+CẦN THƠ CITY & RESILIENCE 
+Living in a low-lying area, for hundreds of years now, people in Cần 
+
+Thơ in particular and in the Cửu Long River Delta (Vietnamese part 
+
+of the Mekong River Delta) in general have been subjected to the impacts of 
+flooding and inundation. Living conditions and livelihoods in the Delta were 
+historically well adapted to the regular pattern of seasonal flooding, which 
+residents and local governments describe as a “living-with-floods” strategy. 
+However, during the past few years, flooding has become less predictable 
+and more damaging due to a multitude of factors such as climate change, 
+land subsidence and urban development. This creates many challenges for 
+the living-with-floods strategy. In addition, the city has been facing many 
+other challenges such as extreme heat waves, infectious disease epidemics, 
+environmental pollution, water resource depletion, and economic recessions. 
+These challenges also have grown in severity and unpredictability, and 
+are often characterized by inter-disciplinary, inter-regional and even 
+global linkages. The city needs new systemic and integrated directions and 
+solutions that are robust enough for the local, regional and global challenges. 
+In this context, the concept of resilience is considered a useful way to 
+support the city in addressing these issues. This approach has been applied 
+in hundreds of cities around the world, including major cities such as New 
+York, Paris, Sydney, Rotterdam and Seoul. This is a key rationale for Cần 
+Thơ City to engage in the 100 Resilient Cities (100RC) program. 
+
+NAFOSTED National Foundation for Science and Technology Development 
+
+OCOP One Commune One Product
+ODA Official Development Aid
+
+PC
+
+People’s Committee
+
+PMU  Project Management Unit
+SECO Swiss State Secretariat for Economic Affairs
+VBSP
+VCCI
+VIDS
+
+Vietnam Institute for Development Strategy
+
+Vietnam Chamber of Commerce
+
+Vietnam Bank for Social Policies 
+
+WB World Bank
+
+Nguyễn Thơ © ISET-International, 2013
+
+RESILIENCE APPROACH   
+& STRATEGY 
+DEVELOPMENT  PROCESS  
+
+Ngô Thanh © ISET-International, 2014
+
+APPROACH TO BUILDING 
+RESILIENCE 
+
+The City Resilience Strategy of Cần Thơ has been 
+developed based on the City Resilience Framework 
+(CRF) and guided by the following principles: 
+
+•  Ensuring effective and pro-active 
+
+participation of all stakeholders, including 
+government agencies, the private sector, 
+local communities, civil society, associations, 
+research institutes and universities. 
+
+•  Analyses and assessments are conducted 
+
+in a comprehensive, systematic and 
+interdisciplinary manner. 
+
+•  Analyses and assessments consider not only 
+
+natural hazards but also other potential 
+economic, social and environmental shocks. 
+
+•  Analyses and assessments consider the 
+
+economic, social and environmental 
+conditions of the city both at present and in 
+the future. 
+
+CITY RESILIENCE 
+FRAMEWORK
+According to the CRF, Resilience is defined as the 
+capacity of individuals, communities, institutions, 
+businesses, and systems within a city to survive, 
+adapt, and grow, no matter what kinds of chronic 
+stresses and acute shocks they experience. 
+
+The resilience of a system, individual or community 
+is demonstrated in seven qualities: reflectiveness, 
+resourcefulness, robustness, redundancy, 
+flexibility, inclusiveness, and integration (see 
+Appendix 1).
+
+The CRF provides a basis to assess and analyze 
+cities’ complex issues and systems and identify 
+factors that constitute their resilience. The analysis 
+and consideration of these factors allow cities 
+to identify their strengths and weaknesses, as 
+well as their most pressing problems, so as to 
+design appropriate actions and programs for 
+resilience building. 
+
+The CRF is built on four essential dimensions of 
+urban resilience as seen on the next page.
+
+Ngô Thanh © ISET-International, 2016
+
+1
+
+2
+
+4
+
+3
+
+1. Leadership & Strategy 
+Effective leadership, empowered stakeholders, and 
+integrated planning.
+
+2. Infrastructure and Environment 
+The way in which manmade and natural 
+infrastructure provides critical services, and protects 
+and connects urban citizens.
+
+3. Economy and Society 
+The social and financial organizations that 
+enable urban population to live peacefully and 
+act collectively.
+
+4. Health & Wellbeing 
+The health and wellbeing of everyone living and 
+working in the city.
+
+14
+
+15
+
+RESILIENCE APPROACH AND STRATEGY DEVELOPMENT  PROCESSCAN THRESILIENT1234Figure 1.
+CITY RESILIENCE FRAMEWORK*
+
+CITY RESILIENCE STRATEGY 
+DEVELOPMENT PROCESS 
+
+The City Resilience Strategy development process 
+of Cần Thơ consists of two phases (see Figure 2). 
+In the first phase, the city focused on collecting 
+data, conducting overall resilience assessment, 
+mobilizing the participation of communities and 
+stakeholders, analyzing the current performance 
+of urban systems, and identifying priority areas of 
+
+actions. Phase I was also the opportunity to assess, 
+synthesize and begin connecting existing resilience 
+building efforts of the city with the City Resilience 
+Strategy.
+
+Figure 2.
+THE CITY RESILIENCE STRATEGY DEVELOPMENT PROCESS 
+
+PHASE I
+
+PHASE II
+
+I
+
+*According to the City Resilience Framework of the 100RC program
+
+Each dimension contains three drivers, which 
+reflect the actions cities can take to improve their 
+resilience. Each driver in turn is specified by specific 
+indicators (see Figure 1).
+
+Besides the CRF, Cần Thơ also applied tools 
+developed by 100RC such as City Resilience 
+Actions Inventory and City Resilience Perceptions 
+
+Assessment, and other tools, such as satellite 
+image analysis to identify changes in green and 
+blue surface coverage, VENSIM tool to calculate the 
+contribution of green infrastructure in improving 
+rainwater storage and infiltration capacity, in-depth 
+interviews, and focus group discussions.
+
+TEAM 
+MOBILIZATION 
+CRO Office
+Advisory Board
+Working group
+
+RESILIENCE 
+ASSESSMENT  
+•  Identifying shocks 
+
+and stresses 
+
+•  Assessing 
+
+perspectives 
+and analyzing 
+resilience actions 
+
+•  Analyzing city 
+
+context 
+
+Identifying 
+focus     
+areas
+
+Resilience 
+Strategy
+
+•  Analyzing 
+focus areas
+
+•  Defining 
+
+vision, 
+objectives, 
+and 
+resilience 
+actions 
+
+STAKEHOLDER PARTICIPATION AND SUPPORT
+
+16
+
+I
+
+M
+P
+L
+E
+M
+E
+N
+T
+A
+T
+I
+O
+N
+
+ 
+
+N
+S
+T
+I
+T
+U
+T
+I
+O
+N
+A
+L
+I
+
+Z
+A
+T
+I
+O
+N
+A
+N
+D
+
+ 
+
+ 
+
+17
+
+RESILIENCE APPROACH AND STRATEGY DEVELOPMENT  PROCESSCAN THRESILIENTBased on Phase I results, in Phase II, the city conducted in-depth research into the 
+discovery areas and used their results as the basis for identifying and designing actions to 
+build resilience for the city. Priority discovery areas investigated during Phase II include: 
+
+Improving the effectiveness 
+of cross-sectoral coordination 
+mechanisms of the other three 
+discovery areas to build resilience 
+for the city.
+
+Strengthening the resilience 
+of Cần Thơ City through green 
+infrastructure measures
+
+Strengthening the resilience of 
+disadvantaged and vulnerable 
+groups through livelihood and 
+living condition improvements
+
+Enhancing people’s lives and 
+the value of the city’s economy 
+through establishing and 
+improving the effectiveness of 
+key agricultural product value 
+chains
+
+CONSULTATION MEETINGS WITH RELATED STAKEHOLDERS
+Vũ Cảnh Toàn © ISET-International. 2017
+
+In Phase II of the project, the city expanded the 
+working groups and mobilized new partners and 
+resources to support answering key questions, and 
+applied systems thinking to address its resilience 
+challenges. One of the important results of Phase 
+II is the list of initiatives and priority actions 
+for implementation. 
+
+Phase I & II results provide an important basis to 
+develop the resilience strategy for Cần Thơ City. 
+This strategy is not a fixed document but needs 
+to be updated regularly to stay attuned to future 
+
+changes in the city as well as to catch up with 
+results of the implementation process. 
+
+Active participation of local stakeholders, 
+including local government agencies, enterprises, 
+communities, social organizations, associations, 
+unions, research institutes and universities, 
+throughout the process is a highlight of strategy 
+development in Cần Thơ City. Specifically, the 
+strategy development process received active 
+support from the multi-disciplinary working group, 
+which comprises of members from various city 
+departments and agencies. This working group 
+
+18
+
+19
+
+RESILIENCE APPROACH AND STRATEGY DEVELOPMENT  PROCESSCAN THRESILIENTFigure 3.
+STRUCTURAL ORGANIZATION AND STAKEHOLDER COORDINATION IN THE STRATEGY DEVELOPMENT PROCESS 
+
+and ward/commune level governments, related 
+communities, research organizations, training 
+agencies, and enterprises. Specifically, the 100RC 
+project in Cần Thơ organized 55 consultation 
+meetings, group discussion sessions, and in-depth 
+interviews with nearly 700 people.
+
+operates under the direction of an Advisory Board 
+of 38 members, who are leaders of various city 
+departments and agencies. In Phase II, these 
+groups were divided into specialized working 
+groups focusing on each of the identified discovery 
+areas (see Figure 3). Members of the working 
+groups participated throughout the strategy 
+development process. Moreover, the city also 
+engaged various local experts in the in-depth 
+studies associated with discovery areas. In addition 
+to members of the working groups, the Cần Thơ 
+100 Resilient Cities Project Office (CRO Office) and 
+the Institute for Social and Environmental Transition 
+(ISET) actively engaged and consulted with 
+other city stakeholders such as city departments 
+and agencies, unions and associations, district 
+
+20
+
+© CRO Office in Cần Thơ
+
+21
+
+RESILIENCE APPROACH AND STRATEGY DEVELOPMENT  PROCESSCAN THRESILIENTOVERVIEW OF 
+CẦN THƠ CITY 
+
+22
+
+23
+
+OVERVIEW OF CẦN THƠ CITYCAN THRESILIENTCẦN THƠFigure 4.
+HISTORY OF CẦN THƠ CITY’S ESTABLISHMENT AND DEVELOPMENT 
+
+1739
+
+1868
+
+1876
+
+1956
+
+1962
+
+1972
+
+1975
+
+1991
+
+2003
+
+2009
+
+Appeared on official maps of Vietnam in the name of 
+Trấn Giang
+The French joined Phong Phú district (Trấn Giang – Cần Thơ) 
+and Bãi Sào district (Sóc Trăng province) into a single district
+
+Cần Thơ County with Cần Thơ as the chief town established
+
+CẦN THƠ
+
+Cần Thơ province renamed as Phong Dinh province 
+
+Annexation of Thốt Nốt district (Long Xuyên province)
+
+Became a city directly under the administration of the Southwestern region
+
+Cần Thơ and Sóc Trăng merged together to become a new province named Hậu Giang
+
+Splitting of the Hậu Giang province into two provinces Cần Thơ and Sóc Trăng
+
+Cần Thơ province divided into Hậu Giang province and centrally-administered Cần Thơ City
+
+Cần Thơ classified as a level 1 city under direct national administration
+
+BRIEF HISTORY OF THE CITY
+
+The land of Cần Thơ was known from the period the Cửu Long River Delta 
+(Vietnamese part of the Mekong delta) area started to develop. However, it was not 
+until the 18th century (1739) that this land appeared in official maps of Vietnam in the 
+name of Trấn Giang. After many changes in administrative boundaries and name (see 
+Figure 4), Cần Thơ City of today was officially established. Cần Thơ was classified as a 
+level 1 city under direct national administration in 2009. 
+
+Physical area : 1,401 km2   
+Population in 2018: 1,283.161
+Average population density: 877 people/km2 
+Highest population density: 9,024 people/
+km2 ở quận Ninh Kiều
+
+Average annual precipitation: ~ 1700 mm 
+
+Average annual temperature: about 27oC,  
+increased by 0.7oC during the past 40 years 
+
+Minimum temperature increased by about 
+1.5oC during the past 40 years 
+
+*Source: Cần Thơ-CTK 2017; UBND-CầnThơ 2018
+
+*Source: UBND-CầnThơ 2014b
+
+24
+
+25
+
+OVERVIEW OF CẦN THƠ CITYCAN THRESILIENTFigure 5.
+CHANGES IN THE NUMBER OF DAYS ABOVE 35OC, PERIOD 1975-2015*
+
+Figure 6.
+LOCATION AND ADMINISTRATIVE MAP OF CẦN THƠ CITY*
+
+Number of days > 35oC
+
+Linear 
+(number of days >35oC)
+
+Year
+
+*Source: CCCO-Cần Thơ 2016
+
+NATURAL, ECONOMIC AND 
+SOCIAL CONDITIONS
+A typical Cửu Long river delta city, Cần Thơ is 
+covered by a dense network of rivers, channels and 
+canals with total length of 3,405 km, equivalent to 
+2 km per km2 (UBND-CầnThơ 2010). This system of 
+rivers, channels and canals play a major role in local 
+people’s lives and the city’s economic activities. The 
+city has low elevation, with most of its area lying at 
+0.8-1.0 m above sea level1.
+
+The city is divided into 9 districts, including 5 urban 
+districts and 4 rural districts (see Figure 6). However, 
+the districts with highest urban development and 
+population density are the three central districts of 
+Ninh Kiều, Bình Thủy and Cái Răng. 
+
+1 
+
+Based on the level recorded at the Hòn Dấu Station. 
+Information is based on the digital elevation map by the 
+Southern Institute for Water Resource Research – SIWRR 
+(2009).
+
+In Cần Thơ there are two seasons in a year: the rainy 
+season from May to November, with most rain in 
+October; and the dry season from December to 
+April, with driest weather in February. However, 
+the historical distinction between the seasons is 
+becoming blurred and unpredictable as the climate 
+shifts. Many major out-of-season rainfall events 
+have occurred in the middle of the dry season 
+in recent years, such as major rainfall events in 
+February 2010 and 2017. 
+
+Cần Thơ is considered the economic center and 
+development engine for the entire region. During 
+the past years, the economic growth rate of the 
+city has always been above the country average. 
+The city’s economic structure in 2018 is dominated 
+by services (59% of Gross Regional Domestic 
+Product – GRDP), industry and construction (33%) 
+and agriculture/fisheries (8%). There is continued 
+growth in industry (especially agricultural product 
+processing) and high-tech large-scale agriculture. 
+The combined size of the service and industry 
+
+*Source: Google Earth and; 
+ 
+
+According to the Plan to Respond to Climate Change of Cần Thơ period 2015-2030
+
+Figure 7.
+ECONOMIC STRUCTURE IN 2018*
+
+AGRICULTURE/FISHERIES 
+
+8.14%
+
+SERVICES
+59.61%
+
+INDUSTRY AND 
+CONSTRUCTION 
+
+32.7%
+
+*Source: UBND-Cần Thơ 2018
+
+GDP in 2015 equivalent to 16.01% of 
+GDP of the Cửu Long Delta 
+
+GRDP growth rate averaged at 
+7.25%/year in the 2011-2017 period 
+(UBND-CầnThơ 2017).
+
+GRDP in 2018 increased by 7.505% 
+from 2017
+
+GRDP per capita 80.48 million VND 
+(UBND-CầnThơ 2018).
+
+26
+
+27
+
+OVERVIEW OF CẦN THƠ CITYCAN THRESILIENTTechnology Center, research institutes (such as Cửu 
+Long River Rice Research Institute and Cửu Long 
+River Delta Research and Development Institute, 
+and Research Institute for Climate Change). 
+
+© Phạm Anh Khoa
+
+sectors is projected to reach 98% of the city 
+economy by 2030. (GoV 2013a).
+
+Cần Thơ City has the most well-developed and 
+modern infrastructure system in the Cửu Long 
+River Delta region. Some of the most notable 
+infrastructure include Can Tho International 
+Airport, Cái Cui Port which can receive 20,000-
+DWT vessels, and Ô Môn Electricity Generating 
+Station with capacity of 2,800 MW. The city is also 
+the center for education and research of the Cửu 
+Long delta region with a collection of well-known 
+universities such as Can Tho University, Can Tho 
+University of Medicine and Pharmacy, Software 
+
+Lê Thị Nguyệt Linh © Cần Thơ Department of Culture, Sports and Tourism
+
+28
+
+29
+
+OVERVIEW OF CẦN THƠ CITYCAN THRESILIENTCẦN THƠ 
+IN THE FUTURE
+
+The future Cần Thơ City will be shaped by a number of major strategies and 
+plans, including:
+
+Master plan of Cần Thơ City until 2030 
+with vision to 2050
+
+Socio-economic Development Plan 
+until 2020 with vision to 2030
+
+Resolution 120 by the National 
+Government on sustainable 
+development of the Cửu Long Delta for 
+climate change adaptation
+
+The regional plan of the Cửu Long 
+Delta and the master plan of Cần Thơ 
+City will be developed in accordance 
+with the new Planning Law approved 
+in 2017
+
+30
+
+Nguyễn Thơ © ISET-International
+
+31
+
+OVERVIEW OF CẦN THƠ CITYCAN THRESILIENTAccording to existing plans, in the future, 
+Cần Thơ will be directed towards becoming 
+a developed city with inter-connected 
+and modern infrastructure and linkages 
+to Southeast Asia, and the central growth 
+engine of the Cửu Long River Delta. The 
+city strives to become a hub for tourism, 
+trade and goods distribution, ecological 
+and high-tech urban agriculture. Regarding 
+spatial planning, the city will be developed 
+in an integrated, balanced, sustainable 
+manner, in harmony with natural landscapes, 
+and highlighting the identity of a river 
+city, which is a typical ecological feature 
+of the Cửu Long River Delta. In terms of 
+urban expansion, the city emphasizes the 
+principle of taking full advantage of the 
+natural terrain, preserving existing rivers 
+and channels, at the same time creating 
+new lakes, ponds and canals to improve 
+drainage and urban landscape. These targets 
+are consistent with Resolution 120 of the 
+Government of Vietnam. Related to future 
+socio-economic targets, box 1 presents some 
+official targets for Cần Thơ development 
+by 2030. These targets form the basis for 
+sectoral planning and public investment. 
+
+BOX 1. SOME HIGHLIGHTS OF CẦN THƠ CITY IN THE FUTURE (GOV 2013B)
+
+POPULATION: By 2030: about 1.9-2.0 million people, in which urban population is about 
+1.5-1.6 million
+
+URBANIZATION RATE about 75-80%
+
+Targeted average annual economic growth rate 10.5%/year in the 2021 – 2030 period
+
+Average income per capita by 2030: 14,200 USD.
+
+Percentage of rural population with connected clean water supply by 2020: 80-85%
+
+Percentage of waste collected and treated by 2020: 100%.
+
+Percentage of wastewater treated by 2020: 70-80%.
+
+Major infrastructure: developing the existing Cần Thơ International Airport, planning a 
+regional international airport after 2030 in Cờ Đỏ district; building railway infrastructure for 
+Hồ Chí Minh - Cần Thơ and Cần Thơ - Châu Đốc routes; Cái Cui International Port; building or 
+expanding the 16 water plants to supply water for the entire city at total capacity of 427,500 
+m3/day by 2030 and 01 regional level water plant - Sông Hậu 1 water plant with the capacity of 
+500,000 m3/day.
+
+(The above information was taken from the Master Plan of Cần Thơ City until 2030 with vision 
+to 2050. These are the targets set by the city. However, the realized results in the future might be 
+different from these targets.)
+
+Nguyễn Thơ © ISET-International
+
+32
+
+33
+
+OVERVIEW OF CẦN THƠ CITYCAN THRESILIENTCITY RESILIENCE 
+CHALLENGES   
+
+34
+
+Ngô Thanh © ISET-International, 2014
+
+35
+
+CITY RESILIENCE CHALLENGESCAN THRESILIENTSHOCKS  
+& STRESSES 
+
+According to the 100RC’s Phase I and II results, 
+Cần Thơ has been affected by various types of 
+shocks and stresses (see Figure 9 and Figure 10), 
+of which those requiring special attention include 
+flooding, riverbank erosion, pollution, poverty, 
+unemployment, unstable markets and export 
+prices, legal and technical barriers of international 
+markets, and aging infrastructure. These shocks and 
+
+stresses also interact, becoming more and more 
+complicated, dangerous and unpredictable.
+
+In the future, challenges related to flooding, 
+pollution, extreme heatwaves, water scarcity, 
+disease outbreaks (in humans and livestock), 
+land subsidence, lack of public green and blue 
+space, extraction and use of water in upstream 
+areas, and changes in global and regional markets 
+are considered potentially dangerous shocks 
+
+and stresses for Cần Thơ City. In addition, while 
+problems such as water shortage, saline intrusion 
+2 have not caused major damages in the 
+and storms1
+city yet, the intensity and frequency of these events 
+may increase and threaten Cần Thơ City in future. 
+
+2  According to the assessment of the Ministry of Natural 
+
+Resources and Environment (MONRE), storms are shifting 
+more southwards (MONRE, 2016).
+
+SHOCKS
+
+Figure 9.
+SHOCKS AFFECTING CẦN THƠ CITY
+
+Figure 10.
+STRESSES AFFECTING CẦN THƠ CITY
+
+STRESSES
+
+EXTREME RAINFALL
+Present threat and tends to grow in intensity, 
+difficult to predict due to climate change. 
+Average daily maximum rainfall in the southern 
+region might increase by 10-70% by the middle 
+of the century (scenario RCP4.5 and RCP8.5) 
+(MONRE 2016).
+
+ENVIRONMENTAL INCIDENT
+Present threat which tends to grow in 
+severity due to urban development, industrial 
+development and water scarcity
+
+EROSION
+Present threat which tends to grow in severity
+
+SALINE INTRUSION
+Has happened before but at low level and low 
+frequency. Might increase in the future due to 
+impacts of sea level rise and climate change. 
+
+STORM
+Has not happened but is a likely future threat. 
+According to statistics, tropical depression 
+and typhoon tracks are shifting southwards 
+(MONRE 2016).
+
+EXTREME HEATWAVE
+Has happened and tends to increase in intensity 
+and frequency. Number of days with average 
+temperature of 35oC or above might increase 
+by about 20 days in the Southern region by the 
+middle of the century according to scenario 
+RCP4.5 (MONRE 2016).
+
+36
+
+FLOODING
+Is a dangerous shock, which is becoming more 
+severe due to concurrent impacts of extreme 
+rainfall, high tides, river floods, the impacts of 
+hydropower reservoirs upstream of the Mekong, 
+land subsidence, climate change, etc. 
+
+INFRASTRUCTURE FAILURE
+There have not been major infrastructure failures 
+but they might become more threatening in the 
+future unless there are precautionary measures 
+for extreme situations. 
+
+HIGH TIDE
+Present threat which tends to grow in severity 
+
+POVERTY
+Ongoing issue which is declining thanks to 
+support policies of the city and economic growth. 
+
+LAND SUBSIDENCE
+Current problem, and might worsen in the future 
+due to the impacts of groundwater extraction and 
+urbanization, etc. Limited data on this issue. 
+
+AGING INFRASTRUCTURE 
+A current problem but the city is implementing 
+various urban infrastructure upgrading 
+programs and projects.
+
+REDUCTION OF GREEN AND BLUE 
+SPACE
+Existing problem, could worsen due to urban 
+development. 
+
+WATER SCARCITY
+Currently not a serious issue but might become 
+one in the future due to the impacts of climate 
+change, upstream water management, saline 
+intrusion, etc.
+
+INCREASING CRIME AND VIOLENCE 
+Some evidence for this but the problems are not 
+serious and the city has made many efforts to 
+address them.
+
+MIGRATION 
+Current stress and tends to grow in magnitude as 
+Cần Thơ is the center of the densely-populated Cửu 
+Long River Delta. 
+
+ENVIRONMENTAL DEGRADATION
+Ongoing issue which might increase in the future 
+due to population growth, urban development, 
+industrial development and water scarcity. 
+
+ECONOMIC RECESSION
+Has happened before and might become more 
+severe in the future as the economy becomes 
+more dependent on external markets 
+
+UNSTABLE EXPORT MARKET AND 
+PRICES
+Ongoing issue which might worsen in the future. 
+However, the city has been making efforts to 
+build capacity to respond to these situations. 
+
+UNEMPLOYMENT
+Ongoing issue which might increase with 
+economic shocks in the future
+
+LEGAL AND TECHNICAL BARRIERS 
+OF EXPORT MARKETS
+Ongoing issue which might worsen in the future. 
+However, the city has been making efforts to 
+build capacity to respond to these situations.
+
+37
+
+CITY RESILIENCE CHALLENGESCAN THRESILIENTFigure 11.
+IMPACTS OF HYDROPOWER DAMS IN THE MEKONG ON CẦN THƠ*
+
+*Source of map of dams on the Mekong: Hydropower dams 
+are killing the Mekong: http://news.zing.vn/dap-thuy-dien-
+dang-giet-dong-mekong-post634722.html
+
+With a chain of hydropower dams constructed, 
+in construction or planned upstream of the 
+Mekong River (as of 2014) (UBND-CầnThơ 2014a), 
+the issues of droughts, water scarcity (in the dry 
+season) and flooding (in the rainy season) in Cần 
+Thơ will be increasingly sensitive to upstream dam 
+and reservoir management practices over which 
+Vietnam has no control . Dam operation can also 
+reduce the amount of alluvial silt essential for 
+agriculture production, impact fisheries, and affect 
+water pollution and saline intrusion.
+
+© CRO Office in Cần Thơ
+
+BOX 2.  THE IMPACTS OF FLOODING AND INUNDATION ON CẦN THƠ CITY 
+
+The heavy rainfall even on Oct 05, 2009 caused serious flooding in the city, with flood depth up 
+to 1 m in some streets such as Mậu Thân and Lý Thường Kiệt.
+
+In 2011 in Ninh Kiều district, there were 22 rainfall related inundation locations and 56 high tide 
+related inundation locations (with tidal peak at 2.15 m), and 43 locations with inundation caused 
+by a combination of heavy rainfall and high tide (80 mm rainfall and 1.87 m tidal peak).
+
+A record tidal peak (from 2.20–2.25 m) in Oct 2018 inundated 62/63 streets in Ninh Kiều District, 
+with flood depth in many streets as high as 0.6 m. In the central city area, there were 107 
+inundated locations, with water level recorded at 0.1–0.65 m from the road surface and flood 
+duration from 2–4 hours.  
+
+(Source: Cần Thơ Hydrometeorological Station and Action Plan to Respond to Climate Chante in Cần 
+City period 2015-2030) )
+
+38
+
+39
+
+CITY RESILIENCE CHALLENGESCAN THRESILIENTOVERVIEW OF THE RESILIENCE 
+OF CẦN THƠ CITY
+
+During the past years, Cần Thơ City has made good progress towards 
+fulfilling many resilience objectives. For example, in the area of 
+Health and Well-being, the proportion of households with incomes 
+below the official poverty line has dropped to only 1.53% at the end 
+of 2018. Access to jobs and basic services such as electricity, water, 
+education and health care has been improved consistently. The city 
+has supported thousands of poor households through subsidies for 
+housing, health insurance, electricity, and often organizes vocational 
+training classes, or provides other support to households in hardship 
+to enable them to find employment. 
+
+Regarding infrastructure, during the past 15 years (2004-2018), Cần 
+Thơ City has implemented many projects to improve the quality of 
+the city’s infrastructure systems. Major and notable projects include 
+the urban upgrade project of the Mekong Delta region, and the Cần 
+Thơ Urban Development and Resilience Project. These projects are 
+building, upgrading and expanding hundreds of alleys, roads, bridges 
+and schools at the city center area; upgrading major river channels 
+such as Tham Tướng, Cái Khế, Chùa; upgrading Bún Xáng Lake and 
+Lưu Hữu Phước Park; revamping and improving the water drainage 
+and dyke systems to ensure protection of the core urban area of the 
+city against flooding impacts. The city has also been implementing 
+various projects to improve environmental quality such as building a 
+combined waste treatment and electricity generation plant, and water 
+drainage and wastewater treatment facilities in Cái Răng district. 
+
+Regarding Society and Economy, Cần Thơ is the province with most 
+stable and robust economy in the Cửu Long River Delta. It is regarded 
+as the economic center and driver of the entire region. During the 
+five years leading to 2017, the city’s economic growth rate (based on 
+GRDP) averaged 7.25%/year (UBND-CầnThơ 2017).
+
+Despite its many achievements, Cần Thơ’s economy still has many 
+limitations and is facing multiple challenges. These limitations and 
+challenges are summarized below according to the four dimensions of 
+the CRF.
+
+ 
+
+40
+
+© CRO Office in Cần Thơ
+
+Lê Thị Nguyệt Linh © Cần Thơ Department of Culture, 
+Sports and Tourism
+
+41
+
+CITY RESILIENCE CHALLENGESCAN THRESILIENTy
+
+g
+
+adership and Str a t e
+1
+
+e
+     L
+
+ 
+ 
+ 
+ 
+
+Under the resilience lens, Leadership and Strategy areas of the city still 
+have some limitations in the following aspects: integrated cross-sectoral 
+planning process; effectiveness in the implementation of policies and 
+plans; needed capacity to support integrated planning and policy 
+making; stakeholder participation.
+
+LIMITATIONS AND CHALLENGES
+
+STRATEGY, 
+POLICY AND PLAN 
+DEVELOPMENT 
+PROCESS 
+
+•  Mostly follows a top-down approach, which makes it difficult to achieve 
+
+diverse local outcomes.
+
+•  Planning driven by targets rather than assessing needs and available 
+
+resources for implementation, or the local impacts of shocks and stresses at 
+the regional and global scales.
+
+•  Plans for individual sectors lack integration and cohesion, thus are 
+
+overlapping or even conflicting. 
+
+•  Plans are poorly linked to implementation mechanisms. 
+
+•  The city lacks a mechanism/structure for integrated cross-sectoral 
+
+coordination. No agency is responsible for resilience building.
+
+CAPACITY TO 
+SUPPORT PLANNING 
+AND POLICY-
+MAKING
+
+•  The capacity to make projections is very limited. 
+
+•  The capacity to assess impacts of a sector/field’s plan on other sectors/
+
+fields is limited. According to experts, the implementation of existing urban 
+development and land use plans might cause the flood depth and flood 
+footprint in Cần Thơ to increase by as much as 18%.
+
+•  The capacity and awareness of city departments/ agencies and local people 
+
+to anticipate and respond to extreme events is limited.
+
+STAKEHOLDER 
+PARTICIPATION 
+AND 
+COORDINATION
+
+•  The participation of local people and city departments and agencies is not 
+
+substantial. Communities are notified of decisions but seldom consulted.
+
+•  The coordination among departments and agencies is limited. The city has 
+no mechanism for the development and implementation of cross-sectoral 
+plans.
+
+© CCCO Cần Thơ
+
+BOX 3.  EXAMPLES OF LIMITATIONS RELATED TO STAKEHOLDER PARTICIPATION AND 
+COORDINATION 
+
+Residents displaced by urban development projects are entitled to livelihood and training 
+support through resettlement programs, but the Department of Labor, War Invalids and 
+Social Affairs (DOLISA), despite being a lead government agent in this area, is not playing 
+an active role. According to Ninh Kiều district DOLISA and city Job Service Center (JSC), 
+they have not had substantial collaboration with any urban infrastructure development 
+project to provide training, or livelihood and job seeking support to affected households. 
+
+Urban flood management needs to be carried out using cross-sectoral approach as it 
+is affected by many factors. However, this is still being managed separately by multiple 
+actors such as Department of Agriculture and Rural Development  (DARD), Department of 
+Natural Resources and Environment (DONRE) and Department of Construction (DOC).
+
+42
+
+43
+
+CITY RESILIENCE CHALLENGESCAN THRESILIENT234            Sức khỏe và Phúc lợi                 Kinh tế và Xã hội                 Hạ tầng và Môi trườngUnder the resilience lens, key Infrastructure and Environment limitations 
+and challenges of Cần Thơ City concern the issues of: capacity to 
+respond to extreme events; database; decreasing green and blue space 
+coverage; increasing impacts of flooding; poorly-connected transport 
+system, and poor quality public transport system; solid waste and 
+wastewater management; water security; and energy. 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+I
+
+n
+
+f
+
+r
+
+a
+
+s
+
+t
+
+r
+
+u
+
+c
+t
+
+2
+d Environment
+
+u
+r
+
+e a
+n
+
+LIMITATIONS AND CHALLENGES
+
+RESPONDING TO 
+EXTREME EVENTS 
+
+•  Limited consideration of extreme events in designing and constructing urban 
+
+infrastructure system.  
+
+•  Mostly depend on hard infrastructure measures, which lack flexibility 
+
+and redundancy.
+
+DECREASED 
+GREEN AREA 
+AND WATER 
+SURFACE DUE TO 
+URBANIZATION 
+
+•  From 1990 to 2018, total green area in Cần Thơ City decreased by 22,845 ha. 
+
+•  Total length of the river and channel system in Cần Thơ has been cut 
+
+dramatically during the past 20 years, especially in the inner city area (Ninh Kiều 
+district lost more than 94 km, and Cái Răng district almost 116 km).
+
+•  As a result, natural water storage and drainage capacity has declined 
+
+significantly. 
+
+INCREASING 
+SOLID 
+WASTE AND 
+WASTEWATER 
+
+•  The amount of domestic solid waste generated is about 930 tons/day (2016) 
+and expected to reach 2,000 tons/day in 2030 (VIAP-SIUP 2013). However, the 
+city’s waste and wastewater treatment capacity is still very limited despite 
+considerable efforts. 
+
+•  The management and monitoring of disposal that causes pollution are still poor. 
+
+•  It is still very common that people dispose waste and wastewater directly to 
+
+roads and especially ponds, lakes, and channels. 
+
+MANAGEMENT 
+
+•  No systematic spatial database. Data are inconsistent in format, structure, 
+
+geographical referencing, and not inter-connected. Most spatial data are in 
+AutoCad format, which is difficult to synthesize and analyze. Information and 
+data are mostly managed by sector.  
+
+•  Lack of integrated database management system and information sharing 
+
+mechanism. 
+
+•  The operation and maintenance of infrastructure, especially the drainage 
+
+system, is very limited.
+
+44
+
+© CRO Office in Cần Thơ
+
+WATER SECURITY
+
+•  The future water resources in Cần Thơ might be heavily affected by many factors 
+
+such as saline intrusion, pollution, groundwater depletion, etc.
+
+•  Cần Thơ’s water leakage rate is still quite high (about 25%).
+
+ENERGY AND 
+INFRASTRUCTURE 
+
+•  Electricity demand increased by 14% in the 2011-2015 period. However, energy 
+
+in Can Tho is mostly fossil fuel sourced, although solar energy in Cần Thơ can 
+satisfy from 46-70% (or even more) of the city’s electricity demand  
+(Green-ID 2018).  
+
+ 
+
+•  The road transport system lacks compatibility and connectivity. The public 
+
+transport system is in poor condition with regards to both infrastructure and 
+service quality. 
+
+•  The water drainage system also lacks compatibility and connectivity.
+
+Figure 12.
+ LOST OF GREEN SPACES IN THREE INNER CITY DISTRICTS FROM 1965 TO 2017*
+
+*According to Phase II re-
+search result of the 100RC 
+program in Cần Thơ
+
+45
+
+CITY RESILIENCE CHALLENGESCAN THRESILIENT134            Sức khỏe và Phúc lợi                 Kinh tế và Xã hội   Chiến lược, chính sách và cơ chế  phối hợpUnder the resilience lens, the city’s Economy and Society areas still have 
+some limitations regarding: the planning process; linkages between 
+actors in value chains; diversification of key agriculture products; tariff 
+and technical barriers of export markets; post-harvest processing; and 
+regional connectivity.
+
+3
+
+          E c o
+
+ 
+
+n o m y and society
+
+LIMITATIONS AND CHALLENGES
+
+ECONOMIC 
+PLANNING  
+
+•  The ability to make projections is limited. Plans are highly sector-based, often lack 
+
+integration and cohesion, thus are overlapping, even conflicting. 
+
+VALUE CHAIN OF 
+KEY AGRICULTURE 
+PRODUCTS 
+
+•  Socio-economic objectives are often set without assessment of the actual needs 
+
+or potential impacts of shocks and stresses. 
+
+•  The assessment of market demand and supply is still limited.
+
+•  Economic planning process has not fully considered regional drivers and regional 
+
+connectivity. Economic cooperation between provinces is spontaneous and 
+limited to information exchange.
+
+•  Agriculture production and processing are mostly output-driven. 
+
+•  The linkage between stakeholders (such as producers and traders, processing 
+enterprises, exporters and government management agencies) in agriculture 
+value chains in general and the value chains of catfish and baccaurea* in 
+particular are still weak.
+
+•  Contract enforcement is weak and cannot ensure stakeholder accountability and 
+
+commitment in value chains.
+
+•  The ability to respond to shocks and stresses, especially extreme events and 
+
+abnormal circumstances in production and trading is still limited.
+
+* In-depth studies about these 2 value chains were conducted during phase II of the 100RC project in Cần Thơ 
+
+MARKETS AND 
+EXPORTING OF 
+KEY AGRICULTURE 
+PRODUCTS 
+
+•  The ability of exporters to respond to price fluctuations, high legal and technical 
+
+requirements of importing countries is limited. 
+
+•  The markets for some agricultural products are small due to limitations in brand 
+
+name development and product promotion. 
+
+•  Agriculture products lack diversity. 
+
+•  Lack of proper assessment of market needs, demand, characteristics 
+
+and preferences.
+
+46
+
+Lê Thị Nguyệt Linh © Cần Thơ 
+Department of Culture, Sports and 
+Tourism
+
+Ngô Thanh © ISET-International, 2014
+
+© Phạm Anh Khoa
+
+© CRO Office in Cần Thơ
+
+47
+
+CITY RESILIENCE CHALLENGESCAN THRESILIENT124            Sức khỏe và Phúc lợi   Chiến lược, chính sách và cơ chế  phối hợp                 Hạ tầng và Môi trường         Health and w
+4
+
+e
+
+ll-
+
+b
+
+e
+
+i
+
+n
+
+g
+
+Under the resilience lens, Health and Well-being supports provided by 
+the city are still limited with regards to: quality of vocational training, 
+livelihood improving and employment support, and post-training job 
+support; livelihood support to communities following a shock; and 
+responsive / backup plans for electricity, water, and health care under 
+abnormal situations. 
+
+LIMITATIONS AND CHALLENGES
+
+JOB AND INCOME  
+
+•  Supports are ad hoc and not strategic or long-term enough. 
+
+•  Supports are not really based on labors’ expectations, livelihood characteristics, 
+
+age, health, gender, production and business conditions, or the market’s 
+characteristics and demand.
+
+•  Consultation before and after delivery of vocational training is not effective. 
+
+•  Provision of business skills and support for market access are limited. 
+
+MANAGEMENT 
+
+•  Lack of synchronized, comprehensive and updated database on disadvantaged 
+and vulnerability groups. Data are housed separately by different departments 
+and are not well-linked.
+
+•  The evaluation of support effectiveness focuses mostly on number of 
+
+beneficiaries but does not assess the long-term impacts or sustainability 
+of policies.
+
+•  The city has not identified the group of people who tend to rely on 
+
+the government’s support and are not proactive enough in improving 
+their livelihood. 
+
+MIGRATION 
+
+•  The inflow of migrants into Cần Thơ tends to increase. This group of residents 
+
+create certain pressure on the urban infrastructure. Besides, these people, 
+especially the informal migrants, are often the vulnerable. However, they face 
+many difficulties in accessing basic social services. The city does not have official 
+records of informal migrant groups and offers little support to them. 
+
+RESPONDING 
+TO SHOCKS AND 
+STRESSES 
+
+•  People do not have back-up electricity and clean water supply in case a serious 
+
+disruption happens.
+
+•  Support policies and programs do not consider extreme events (such as 
+
+consideration of extreme storms or flooding, plans for cases of unemployment, 
+business loss due to price drops, etc.).  
+
+Ngô Thanh © ISET-International, 2014
+
+© CRO Office in Cần Thơ
+
+INTERVIEW MR. SON ON THE IMPACT OF 
+RESETTLEMENT ON HIS JOB/LIVELIHOOD, 
+AN BÌNH, CẦN THƠ
+© CRO Office - 100RC
+
+© CRO Office in Cần Thơ
+
+48
+
+49
+
+CITY RESILIENCE CHALLENGESCAN THRESILIENT123                 Kinh tế và Xã hội   Chiến lược, chính sách và cơ chế  phối hợp                 Hạ tầng và Môi trườngCẦN THƠ 
+RESILIENCE 
+STRATEGY  
+
+“
+
+a green, sustainable, proactive and 
+integrated river city where people enjoy 
+prosperity and safety from shocks and 
+stresses, and no one is left behind.”
+
+Ngô Thanh © ISET-International, 2014
+
+50
+
+51
+
+CẦN THƠ RESILIENCE STRATEGYCAN THRESILIENTA green, sustainable, proactive and integrated river 
+city where people enjoy prosperity and safety from 
+shocks and stresses, and no one is left behind.
+
+VISION 
+& GOAL
+
+Based on the orientations and vision of the Master 
+Socio-Economic Development Plan of Cần Thơ 
+City until 2020 with vision to 2030, and the Spatial 
+Master Plan of Cần Thơ City until 2030 with vision to 
+2050, and based on the results of Phase I and Phase 
+II of the 100RC program, the vision of Cần Thơ City 
+up to 2030 is identified as: 
+
+This vision is specified with four goals, corresponding to four dimensions of the CRF.
+
+VISION
+
+1. Leadership and 
+Strategy
+Policies and plans 
+are developed and 
+implemented in a 
+systematic, integrated 
+manner, with active 
+participation of all 
+relevant stakeholders. 
+
+2. Infrastructure 
+and Environment 
+A green and 
+sustainable river city 
+with an infrastructure 
+system that is well-
+connected, modern, 
+flexible, diverse, 
+resilient to extreme 
+natural hazards.
+
+3. Economy      
+and Society
+A knowledge 
+economy that is 
+proactive, diverse 
+and deeply-
+integrated, while 
+remaining steady 
+when facing regional 
+and global economy 
+fluctuations.
+
+4. Health and  
+Well-being
+Communities have 
+secured and stable 
+income, and live in 
+a green and clean 
+environment, safe 
+from the impacts of 
+economic, social and 
+environmental shocks 
+and stresses.
+
+RESILIENCE ACTIONS 
+
+Lê Thị Nguyệt Linh © Cần Thơ Department of Culture, Sports and Tourism
+
+52
+
+Ngô Thanh © ISET-International, 2016
+
+53
+
+CẦN THƠ RESILIENCE STRATEGYCAN THRESILIENT1234RESILIENCE ACTIONS 
+
+feasibility is one of the most important criteria in 
+the assessment and selection of actions.
+
+Proposed actions are organized into four goals, 
+corresponding to four dimensions of the CRF. 
+The list of resilience actions needs to be updated 
+regularly. The timeframe of these actions is until 
+2030, with some actions to be implemented 
+immediately. The other actions will be 
+implemented later depending on city budget and 
+mobilization of finances.
+
+To respond to shocks and stresses and address 
+resilience challenges, Cần Thơ City has been 
+implementing many different programs and 
+projects (See Appendix 2). Actions proposed under 
+this strategy do not cover all areas and issues of the 
+city, but only focus on specific priority areas and 
+issues from a resilience perspective.
+
+Actions proposed in this strategy are identified 
+based on results of Phase I & II of the 100RC 
+program in Cần Thơ, as well as recommendations 
+and results of various consultative meetings with 
+city departments, agencies, social organizations, 
+associations, experts and local communities. 
+Moreover, to ensure feasibility of the strategy, 
+beside other criteria (such as consistency with city 
+priority, linkage to challenges the city is facing), 
+
+ 
+
+R
+E
+S
+I
+L
+I
+E
+N
+C
+E
+C
+H
+A
+L
+L
+E
+N
+G
+E
+S
+
+VISION
+
+GOALS
+
+RESILIENCE ACTIONS
+
+P
+O
+L
+I
+
+ 
+
+ 
+
+C
+Y
+A
+N
+D
+P
+L
+A
+N
+A
+N
+A
+L
+Y
+S
+I
+S
+
+ 
+
+ 
+
+ 
+
+S
+T
+A
+K
+E
+H
+O
+L
+D
+E
+R
+C
+O
+N
+S
+U
+L
+T
+A
+T
+I
+O
+N
+
+LEGEND
+
+Related Resilience Goals
+
+Qualities of resilience
+
+Scale
+
+Strategies, policies 
+
+Coordination mechanisms
+
+Infrastructure 
+
+Environment
+
+Economy 
+
+Society
+
+Health
+
+Well-being
+
+Reflective
+
+Resourceful 
+
+Robust 
+
+Redundant
+
+Flexible
+
+Inclusive
+
+Integrated
+
+Individual/community
+
+District
+
+City
+
+54
+
+Ngô Thanh © ISET-International, 2014
+
+55
+
+CẦN THƠ RESILIENCE STRATEGYCAN THRESILIENT1
+
+Direction
+
+LEADERSHIP 
+AND STRATEGY
+
+GOAL
+Policies and plans are developed and implemented in a 
+systemic, integrated manner, with active participation of all 
+relevant stakeholders. 
+
+ACTIONS OVERVIEW
+
+PLAN AND POLICY DEVELOPMENT 
+1.1 Build capacity for city departments to undertake integrated and systemic planning, consistent 
+with the new Planning Law.
+Timeframe: 2020 - 2025
+1.2 Review and analyze key plans and policies of the city and make recommendations to ensure 
+they are consistent, systemic and integrated.  
+Timeframe: 2020 - 2025
+
+PLAN AND POLICY IMPLEMENTATION 
+1.3 Improve the effectiveness of monitoring and evaluation (M&E) of the implementation of city 
+plans.  
+Timeframe: 2022 - 2025
+1.4 Enhance the capacity for coordinating and monitoring the implementation of Cần Thơ City 
+Resilience Strategy.
+Timeframe: 2019 - 2021
+
+COORDINATION AND STAKEHOLDER PARTICIPATION
+1.5 Establish a flood management office and develop an integrated flood coordination and 
+management mechanism for Cần Thơ City.
+Timeframe: 2019 - 2021
+1.6  Engage communities in actions to build resilience in Cần Thơ City.
+Timeframe: 2019 - 2025
+1.7  Engage with and raise awareness of resilience and sustainable development among high 
+school students in Cần Thơ City.
+Timeframe: 2020 - 2025
+
+56
+
+Ngô Thanh © ISET-International, 2016
+
+57
+
+CẦN THƠ RESILIENCE STRATEGYCAN THRESILIENTPLAN AND POLICY DEVELOPMENT 
+
+Action 1.1
+Build capacity for city departments to undertake integrated and systemic planning, consistent with the 
+new Planning Law.
+
+The main objective of this 
+proposal is to organize training 
+courses, providing technical 
+instructions on methods and 
+tools to support integrated and 
+cross-sectoral planning and 
+methods to analyze and assess 
+the impacts shocks and stresses 
+have on the city’s development 
+objectives; and assess the 
+positive and negative impacts 
+of sectoral plans on other 
+sectors or plans.
+
+Project lead
+
+DPI
+
+Supporting partners
+
+DOC, DONRE, DARD, DOF, DOIT, CRO Office 
+
+Scale 
+
+Status
+
+Timeframe
+
+Funding sources
+
+New proposal
+
+2020 – 2025
+
+City and national budgets, international 
+donors
+
+Related actions
+
+1.2; 1.4; 3.4; 3.5; 3.10; 3.11; 3.12
+
+Resilience qualities
+
+DETAILS OF PROPOSED ACTIONS
+
+Action 1.2
+Review and analyze key plans and policies of the city and make recommendations to ensure they are 
+consistent, systemic and integrated.
+
+The purpose of this action 
+is to identify any limitations, 
+gaps, overlaps or conflicts in 
+existing plans of the city, and 
+to introduce modifications 
+as needed to improve these 
+policies and plans. The analysis 
+will be based on system 
+theories and the CRF.
+The result of this action will 
+provide important inputs 
+for Cần Thơ in the process 
+of implementing the new 
+Planning Law.
+
+Project lead
+
+DPI
+
+Supporting partners
+
+DOC, DONRE, DARD, DOF, DOIC, CRO Office, 
+ISET
+
+Scale 
+
+Status
+
+Timeframe
+
+Funding sources
+
+New proposal
+
+2020 – 2025
+
+City and national budgets, international 
+donors
+
+Related actions
+
+1.1; 1.3; 1.4; 3.4; 3.5; 3.10; 3.11; 3.12
+
+Resilience qualities
+
+Ngô Thanh © ISET-International
+
+© CRO Office in Cần Thơ
+
+58
+
+59
+
+CẦN THƠ RESILIENCE STRATEGYCAN THRESILIENTPLAN AND POLICY IMPLEMENTATION 
+
+COORDINATION AND STAKEHOLDER PARTICIPATION
+
+DETAILS OF PROPOSED ACTIONS
+
+Action 1.3
+Improve the effectiveness of monitoring and evaluation of the implementation of city plans.
+
+Although the city already has 
+regulations on monitoring and 
+evaluation, the effectiveness 
+of these policies and practices 
+is still limited. To address the 
+limitations, the city will develop 
+a rigorous M&E mechanism, 
+specifying indicators to assess 
+the achievements of objectives, 
+methods of evaluation, the roles 
+and responsibilities of agencies, 
+as well as requirements for 
+identifying and sharing lessons 
+from the evaluation.
+
+Project lead
+
+DPI
+
+Supporting partners
+
+City People’s Council Office, city  departments, 
+CRO Office. 
+
+Scale 
+
+Status
+
+Timeframe
+
+New proposal
+
+2022 – 2025
+
+Funding sources
+
+City and national budgets
+
+Related actions
+
+1.1; 1.4; 4.8
+
+Resilience qualities
+
+Action 1.4
+Enhance the capacity for coordinating and monitoring the implementation of Cần Thơ City Resilience 
+Strategy.
+
+The purpose of this action 
+is to build and strengthen 
+the capacity of the city in 
+general and of the CRO Office 
+in particular in developing 
+project proposals, coordinating 
+the implementation of the 
+CRS,  mobilize stakeholder 
+participation, and monitor and 
+evaluate resilience building 
+actions.
+
+Project lead
+
+CRO Office
+
+Supporting partners
+
+DOC, DPI, DOLISA, DARD, DOIC, Climate 
+Change Coordination Office (CCCO), CTU, ISET
+
+Scale 
+
+Status
+
+Timeframe
+
+New proposal
+
+2019 – 2021
+
+Funding sources
+
+City budget, international donors
+
+Related actions
+
+1.1; 1.3; 3.2; 3.3; 4.3; 4.8
+
+Resilience qualities
+
+60
+
+Action 1.5
+Establish a flood management office and develop an integrated flood coordination and management 
+mechanism for Cần Thơ City.
+
+The flood management 
+office is to be established 
+under the project Cần Thơ 
+Urban Development and 
+Resilience Project funded 
+by the World Bank (WB). The 
+office will be responsible for 
+cross-sectoral coordination of 
+flood management activities; 
+operating the information 
+system on flood risk 
+management; and supporting 
+city leadership, departments 
+and communities in 
+responding to floods. 
+
+Project lead
+
+DOC
+
+Supporting partners
+
+ODA Project Management Unit (PMU) of Cần Thơ 
+City, DONRE, DARD, DOIC, CRO Office
+
+Scale 
+
+Status
+
+New proposal
+
+Timeframe
+
+Funding sources
+
+2019 – 2021 (to be implemented)
+ODA funds from the World Bank (WB) and Swiss State 
+Secretariat for Economic Affairs (SECO) (approved)
+
+Related actions
+
+1.1; 1.3; 1.4; 2.2; 2.3; 2.4; 2.5; 2.7; 2.12; 2.13; 2.14; 4.8
+
+Resilience qualities
+
+© Văn Phòng CCCO Cần Thơ
+
+61
+
+CẦN THƠ RESILIENCE STRATEGYCAN THRESILIENTDETAILS OF PROPOSED ACTIONS
+
+Action 1.6
+Engage communities in actions to build resilience in Cần Thơ City.
+
+This action focuses on 
+mobilizing the participation of 
+communities in activities such 
+as: monitoring the infilling of 
+natural drainage channels, 
+community level waste 
+management and protecting 
+green areas, etc. The tactical 
+urbanism approach will be 
+applied to help mobilize 
+community participation. This 
+action will be prioritized for 
+implementation in vulnerable 
+areas in inner city districts. 
+
+Project lead
+
+CRO office
+
+Supporting partners
+
+PC and mass organizations at ward/commune 
+level, Cần Thơ University student Association, 
+Cần Thơ University
+
+Scale 
+
+Status
+
+Timeframe
+
+New proposal
+
+2019-2025
+
+Funding sources
+
+City budget and donors
+
+Related actions
+
+1.4; 1.7; 4.1; 4.4
+
+Resilience qualities
+
+Action 1.7
+Engage with and raise awareness of resilience and sustainable development among high school 
+students in Cần Thơ City.
+
+This action will focus on 
+developing communication 
+materials on shocks and 
+stresses in Cần Thơ City and 
+related actions for students 
+to participate in; organizing 
+activities to build knowledge 
+among school students; and 
+mobilizing the participation of 
+students in pilot activities, such 
+as planting trees, saving water, 
+saying no to plastic waste, etc.  
+
+Project lead
+
+CRO Office
+
+Supporting partners
+
+Department of Education and Training 
+(DOET), DOIC, district level DOET, and high 
+schools in the city, CTU, Bending Bamboo
+
+Scale 
+
+Status
+
+Timeframe
+
+High schools in the city
+
+New proposal
+
+2020 – 2025 
+
+Funding sources
+
+City budget and donors
+
+Related actions
+
+1.4; 1.6; 2.1 
+
+Resilience qualities
+
+Ngô Thanh © ISET-International, 2015
+
+© CRO Office in Cần Thơ
+
+62
+
+63
+
+CẦN THƠ RESILIENCE STRATEGYCAN THRESILIENT2
+
+Direction
+
+INFRASTRUCTURE 
+& ENVIRONMENT
+
+GOAL
+A green and sustainable river city with an infrastructure system that 
+is well-connected, modern, flexible, diverse and resilient to extreme 
+natural hazards.
+
+ACTIONS OVERVIEW
+
+PROTECT NATURAL GREEN AND BLUE SPACES
+2.1 Survey, identify and recover encroached and infilled channels and canals. Strengthen the monitoring 
+and surveillance of any encroachment, infill and waste disposal in channels and canals with community 
+participation.
+Timeframe: 2020 – 2022
+2.2 Conduct research to propose revision and addition to regulations to protect green and blue areas and 
+mechanisms to implement these measures.
+Timeframe: 2020 - 2025
+BUILD RESILIENCE WITH GREEN INFRASTRUCTURE MEASURES
+2.3 Assess the benefits of green infrastructure measures in Cần Thơ City.
+Timeframe: 2019-2021
+2.4 Pilot green infrastructure approach and measures to design and build a public park along Ngỗng 
+Channel, Thới Nhựt resettlement area in An Khánh Ward (pilot project).
+Timeframe: 2019-2021
+2.5 Pilot rain water harvesting and increase permeable surface at An Khánh Secondary School (pilot project).
+Timeframe: 2019-2021
+2.6 Develop guideline documents and tools to support the application of green infrastructure measures in 
+Cần Thơ City.
+Timeframe: 2021-2023
+2.7 Develop a master green infrastructure plan for core urban districts of Cần Thơ City (Ninh Kiều, Bình Thủy, 
+Cái Răng).
+Timeframe: 2023-2025
+WATER SECURITY, WATER AND ENERGY SUPPLY 
+2.8 Towards Climate Resilient Water Supply in the Southwestern Mekong Delta.
+Timeframe: 2017-2021
+2.9 Assess potential changes in water resources quality and availability in Cần Thơ in the future (until 2030 
+and 2040), causes of these changes and their impacts on the city.
+Timeframe: 2023-2025
+2.10 Conduct research on solar energy development strategy and plans, and mechanisms to attract 
+investment for solar energy development.
+Timeframe: 2022-2024 
+URBAN INFRASTRUCTURE SYSTEM PLANNING AND DESIGN 
+2.11 Conduct a study to improve the public transport system of Cần Thơ City.
+Timeframe: 2019-2021
+2.12 Assess land subsidence in Cần Thơ and develop a land subsidence monitoring system.
+Timeframe: 2020-2023 
+2.13 Develop well-connected and consistent GIS database on key urban infrastructure, and information 
+management and user interface system to support the planning and management of urban infrastructure.
+Timeframe: 2018-2025
+2.14 Integrate the resilience approach into urban infrastructure design and development plans. Pilot 
+applications for flood management plans and the design of flood protection infrastructure of the city. 
+Timeframe: 2020-2030
+
+64
+© Huy Nguyễn
+
+65
+
+CẦN THƠ RESILIENCE STRATEGYCAN THRESILIENTPROTECT NATURAL GREEN AND BLUE SPACES
+
+Action 2.1
+Survey, identify and recover encroached and infilled channels and canals. Strengthen the monitoring 
+and surveillance of any encroachment, infill and waste disposal in channels and canals with community 
+participation.
+
+During the past 20 years, a large 
+number of channels and canals in 
+Cần Thơ City have been filled by 
+residents, encroached by unauthorized 
+construction, or blocked by waste, 
+despite regulations restricting such 
+practices. This causes pollution and 
+has a major impact on the city’s water 
+storage and drainage capacity. The 
+city is aware of the problem, but not 
+certain of the extent of such infill 
+activity and the reasons for the failure 
+of existing regulations. They also need 
+to devise more effective solutions, in 
+collaboration with communities, to 
+prevent further encroachment and to 
+recover as many illegal filled drainage 
+channels as possible. This will include 
+devising mechanisms to support 
+community participation in monitoring 
+and management of these channels.
+
+Project lead
+
+DOC (urban areas), DARD (rural areas)
+
+Supporting partners
+
+district People’s Committees (PC), 
+DONRE, Youth Union, Women’s Union 
+(WU), Fatherland’s Front, CRO Office, etc.
+
+Scale 
+
+Status
+
+Timeframe
+
+new proposal
+
+2020-2022
+
+Funding sources
+
+City budget, donors 
+
+Related actions
+
+1.3; 2.1; 2.2; 2.6; 2.7
+
+Resilience qualities
+
+DETAILS OF PROPOSED ACTIONS
+
+Action 2.2
+Conduct research to propose revision and addition to regulations to protect green and blue areas and 
+mechanisms to implement these measures.
+
+Green areas and water surface 
+area in Cần Thơ City have been 
+reduced considerably due to 
+human interventions. This action 
+focuses on revising and improving 
+the enforcement of sanctions to 
+control encroachment and infilling 
+of natural water storage, drainage 
+and infiltration areas. The city will 
+explore mechanisms to encourage 
+investment in green infrastructure. 
+This action will contribute to 
+improving temporary rainwater 
+storage and infiltration capacity, and 
+help improve air quality and reduce 
+urban heat island effects.
+
+Project lead
+
+DOC
+
+Supporting partners
+
+DOF, DONRE, Institute of Construction 
+Planning, district Division of Urban 
+Management, CRO Office, Research Institute 
+for Climate Change of CTU (Dragon Institute)
+
+Scale 
+
+Status
+
+Proposal linked to existing efforts
+
+Timeframe
+
+2020-2025
+
+Funding sources
+
+City budget, donors
+
+Related actions
+
+1.3; 1.4; 1.6; 2.2; 3.1
+
+Resilience qualities
+
+© CRO Office in Cần Thơ
+
+Nguyễn Thơ © ISET-International
+
+66
+
+67
+
+CẦN THƠ RESILIENCE STRATEGYCAN THRESILIENTBUILD RESILIENCE WITH GREEN INFRASTRUCTURE MEASURES 
+
+Action 2.3
+Assess the benefits of green infrastructure measures in Cần Thơ City.
+
+This action focuses on the following 
+activities: identify potential green 
+infrastructure measures to apply in 
+Cần Thơ City; assess the benefits of 
+each set of measures in supporting 
+flood management; assess and 
+compare the costs of implementing 
+and operating conventional flood 
+control measures with green 
+infrastructure measures; analyze 
+the costs and benefits of various 
+green infrastructure scenarios. The 
+result of this research will provide 
+important inputs to the development 
+of the master green infrastructure 
+development plan for Cần Thơ City. 
+This project has received funding 
+from Nafosted and the Newton Fund, 
+and will commence in April 2019.
+
+Project lead
+
+CRO Office, Dragon Institute
+
+Supporting partners
+
+DOC, DONRE, Institute of Construction 
+Planning, ISET, Hue University, Loughborough 
+University, Stirling University
+
+Scale 
+
+Status
+
+Approved new proposal 
+
+Timeframe
+
+2019-2021 (on going)
+
+Funding sources
+
+Newton Fund and Nafosted (approved)
+
+Related actions
+
+1.3; 2.1; 2.4; 2.6; 2.7
+
+Resilience qualities
+
+DETAILS OF PROPOSED ACTIONS
+
+Action 2.4
+Pilot green infrastructure approach and measures to design and build a public park along Ngỗng 
+Channel, Thới Nhựt resettlement area in An Khánh Ward. 
+
+This action will apply a green 
+infrastructure approach in designing 
+and building the Rạch Ngỗng park 
+in Thới Nhựt resettlement area, An 
+Khánh Ward, Cần Thơ city. In addition 
+to creating a public space and building 
+community cohesion, this project is 
+expected to contribute to rainwater 
+infiltration and storage capacity and 
+release pressure on the underground 
+drainage system as well as to improve 
+water and air quality in the surrounding 
+area. Lessons and experience from 
+this pilot will be documented and 
+widely shared for model replication 
+and promotion of green infrastructure 
+measures and principles.
+
+Project lead
+
+Ninh Kiều district People’s Committee
+
+Supporting partners
+
+DOC, DONRE, Institute of Construction 
+Planning, DARD, CRO, Dragon Institute
+
+Scale 
+
+Status
+
+Timeframe
+
+ Approved 
+
+2019-2021 (in preparation for 
+implementation)
+
+Funding sources
+
+City budget (approved)
+
+Related actions
+
+1.6; 2.2; 2.3; 2.6; 2.7
+
+Resilience qualities
+
+3D LAYOUT OF THE FUTURE RẠCH NGỖNG PARK
+
+3D LAYOUT OF THE FUTURE RẠCH NGỖNG PARK
+
+68
+
+69
+
+CẦN THƠ RESILIENCE STRATEGYCAN THRESILIENTAction 2.5
+Pilot rain water harvesting and increase permeable surface at An Khánh Secondary School 
+
+Project lead
+
+CRO Office
+
+Supporting partners
+
+An Khánh Secondary School, Ninh Kiều 
+District DONRE, An Khánh PC, Dragon 
+Institute
+
+Scale 
+
+Status
+
+New proposal (pilot project)
+
+Timeframe
+
+2019-2021
+
+Funding sources
+
+donors
+
+Related actions
+
+1.6; 2.4; 2.6; 2.7
+
+Resilience qualities
+
+This action focuses on designing 
+and installing a system to harvest 
+rainwater from roofs of the school and 
+renovating school gardens to improve 
+their infiltration capacity. The acquired 
+rainwater will be treated and used in 
+bathrooms and for watering. This action 
+contributes to reducing the pressure 
+on the underground drainage system, 
+saving water, and raising awareness. 
+Lessons and experience from this 
+project will be documented and widely 
+shared for the replication of rain water 
+harvesting at the household level as 
+well as in public buildings (e.g. school, 
+hospital, government buildings, etc.). 
+The city is expected to mobilize the 
+engagement and contribution of local 
+communities and other stakeholders 
+during the replication process.
+
+Gutter
+
+Roof
+
+Rainwater collecting 
+
+system
+
+Waste Comber
+
+Rainwater 
+
+tank
+
+Uses that do not require high 
+
+water quality
+
+DETAILS OF PROPOSED ACTIONS
+
+Action 2.6
+Develop guideline documents and tools to support the application of green infrastructure measures in 
+Cần Thơ City.
+
+This action will produce guideline 
+documents and tools for applying 
+green infrastructure measures in 
+Cần Thơ City at the community/
+household level, in the design and 
+construction of public buildings 
+and spaces (parks, squares, 
+sidewalks, etc.), and in new urban 
+development and residential 
+projects. These are expected to 
+contribute to flood risk reduction, 
+air quality improvement, energy 
+savings and carbon sequestration. 
+These guidelines and tools will 
+be developed with reference 
+to models that were applied 
+successfully in other places in the 
+world and based on the specific 
+conditions of Cần Thơ. 
+
+Project lead
+
+DOC
+
+Supporting partners
+
+DONRE, Institute of Construction 
+Planning, district Division of Urban 
+Management, CRO Office, Dragon 
+Institute, ISET, UN-Habitat Vietnam
+
+Scale 
+
+Status
+
+Timeframe
+
+new proposal
+
+2021-2023
+
+Funding sources
+
+City budget, donors
+
+Related actions
+
+2.1; 2.2; 2.3; 2.4; 2.5; 2.7
+
+Resilience qualities
+
+Action 2.7
+Developing a master green infrastructure plan for core urban districts of Cần Thơ City (Ninh Kiều, Bình 
+Thủy, Cái Răng).
+
+With the advantages of a river city, 
+Cần Thơ has potential to develop 
+green infrastructure for multiple 
+objectives such as reducing flood, 
+improving environmental quality 
+(air and water), and creating public 
+space for community activities. This 
+action will include the following 
+tasks: overall review and analysis 
+of current land use, of existing 
+drainage system and flood issues 
+and the potential to apply green 
+infrastructure measures in the city; 
+analysis of green infrastructure 
+options and benefits of each 
+option; and development of a 
+master green infrastructure plan for 
+the city.
+
+Project lead
+
+DOC
+
+DARD, DONRE, Institute for Construction 
+Planning, estudioOCA Consultancy 
+Company, ISET, Dragon Institute
+
+New proposal
+
+2023-2025
+
+donors 
+
+1.2; 1.4; 2.1; 2.2; 2.3; 2.4; 2.5; 2.6; 2.7; 3.11; 
+3.5
+
+Supporting partners
+
+Scale 
+
+Status
+
+Timeframe
+
+Funding sources
+
+Related actions
+
+Resilience qualities
+
+70
+
+71
+
+CẦN THƠ RESILIENCE STRATEGYCAN THRESILIENTWATER SECURITY, WATER AND ENERGY SUPPLY
+
+Action 2.8
+Towards Climate Resilient Water Supply in the Southwestern Mekong Delta
+
+This is a project under the long-term 
+cooperation program named WaterWorX and 
+is co-funded by the Netherlands Ministry 
+of Foreign Affairs, Dutch and local water 
+companies. The project period is from 2017 
+until 2030, with three phases (this project is 
+under phase 1). WaterWorX’s stated objective 
+is to strengthen the capacity of local people to 
+access clean water resources and/or sanitary 
+facilities in a sustainable way. In Vietnam, Cần 
+Thơ together with Sóc Trăng and Hậu Giang 
+were selected to participate in this project. 
+The project’s objective is to support water 
+supply companies to: improve their capacity 
+to organize and operate effectively; improve 
+water supply system coverage; develop climate 
+change adaptation plans for the water supply 
+system until 2050; execute the Safe Water 
+Supply project of the Mekong delta region; 
+and seek funding for water supply and network 
+expansion activities. This project is expected 
+to help Cần Thơ and other provinces in the 
+Mekong Delta to receive and implement the 
+project Safe Water Supply for the Mekong delta 
+funded by the World Bank
+
+Project lead
+
+Supporting 
+partners
+
+Scale 
+
+Status
+
+Cần Thơ Water Supply and 
+Drainage Company (WASCCO)
+
+DOC, DARD, Dragon Institute, 
+Netherland’s water company Vitens 
+Evides International
+
+established and ongoing
+
+Timeframe
+
+2017-2021 
+
+Funding sources
+
+Netherlands Government 
+(approved) 
+
+Related actions
+
+1.1; 1.2; 2.9; 2.13; 2.14
+
+Resilience qualities
+
+DETAILS OF PROPOSED ACTIONS
+
+Action 2.9
+Assess potential changes in water resource quality and availability in Cần Thơ in the future (until 2030 
+and 2040), causes of these changes and their impacts on the city.
+
+This action focuses on the following 
+activities:
+•  Assess potential changes in future 
+
+water reserves (until 2030 and 
+2050) due to impacts such as 
+upstream water usage, hydropower 
+dam operation, climate change 
+related precipitation variations, and 
+salinization. 
+
+•  Assess future demand for water 
+in the city and impacts of water 
+resource changes on the water 
+demand for domestic and production 
+uses of the city.
+
+•  Propose measures to minimize these 
+
+impacts.
+
+Project lead
+
+DONRE
+
+Supporting partners
+
+DPI, DOF, Cần Thơ Institute for Social-
+economic Development (CISED), CTU, ISET
+
+Scale 
+
+Status
+
+                +    regional
+
+New proposal
+
+Timeframe
+
+2023-2025
+
+Funding sources
+
+City budget and donors
+
+Related actions
+
+1.1; 1.2; 2.8; 2.13; 3.4; 3.11
+
+Resilience qualities
+
+Action 2.10
+Conduct research on solar energy development strategy and plans, and mechanisms to attract 
+investment for solar energy development.
+
+Project lead
+
+DOIT
+
+Action focuses on research to 
+support the development of 
+solar energy in Cần Thơ city 
+until 2020. The research includes 
+an assessment of solar energy 
+potential, capacities and scale; 
+identification of the needed 
+roadmap and resources for solar 
+energy development until 2030; as 
+well as measures and mechanisms 
+to attract investment. 
+
+Supporting partners
+
+Scale 
+
+Status
+
+Timeframe
+
+Funding sources
+
+Related actions
+
+Resilience qualities
+
+DPI, DOF, Vietnam Electricity Group (EVN) 
+branch in Cần Thơ, GreenID, solar energy 
+enterprises and investors
+
+                
+
+New proposal
+
+2022-2024
+
+City budget 
+
+2.11; 2.14
+
+72
+
+73
+
+CẦN THƠ RESILIENCE STRATEGYCAN THRESILIENTURBAN INFRASTRUCTURE SYSTEM PLANNING AND DESIGN 
+
+Action 2.11
+Conduct a study to improve the public transport system of Cần Thơ City.
+
+This action focuses on: assessing 
+the current needs and projecting 
+future needs for public transport; 
+exploring ways to improve the 
+public transport network for the 
+city, including piloting a Bus Rapid 
+Transit (BRT) route and planning a 
+system of bike lanes; and proposing 
+measures for managing and 
+operating the bus system to ensure 
+transparency and service quality. 
+To ensure resilient public transport 
+system, the resilience approach 
+and relevant qualities need to be 
+considered in the analysis
+
+Project lead
+
+ODA PMU
+
+Supporting partners
+
+DOC, Department of Transport (DOT), 
+CRO Office
+
+Scale 
+
+Status
+
+                
+
+established and in preparation for 
+implementation 
+
+Timeframe
+
+2019-2021
+
+Funding sources
+
+ODA funds (WB and SECO) (approved)
+
+Related actions
+
+1.2; 2.9; 2.10; 2.13; 2.14
+
+Resilience qualities
+
+Action 2.12
+Assess land subsidence in Cần Thơ and develop a land subsidence monitoring system.
+
+This action focuses on the 
+following activities:
+•  Assess land subsidence in the 
+central urban area of the city 
+and its impacts; 
+
+•  Identify causes of land 
+
+subsidence; 
+
+•  Propose measures to minimize 
+
+subsidence; and 
+
+•  Establish a land subsidence 
+
+monitoring system. 
+
+Project lead
+
+DONRE
+
+Supporting partners
+
+DOC, DOT, DARD, Vietnam Department 
+of Survey, Mapping and Geographic 
+Information, CTU, CRO Office.
+
+Scale 
+
+Status
+
+Timeframe
+
+                
+
+New proposal
+
+2020 - 2023
+
+Funding sources
+
+City budget and donors
+
+Related actions
+
+1.5; 2.5; 2.7; 2.13; 2.14
+
+Resilience qualities
+
+DETAILS OF PROPOSED ACTIONS
+
+Action 2.13
+Develop well-connected and consistent GIS database on key urban infrastructure, and information 
+management and user interface system to support the planning and management of urban 
+infrastructure.
+
+This action focuses on: developing 
+a well-connected and consistent 
+GIS database on infrastructure 
+systems (transport, water supply, 
+drainage, elevation, flooding 
+management, etc.); developing a 
+mechanism for information update 
+and sharing and capacity building for 
+information management and use to 
+effectively support the planning and 
+management of urban infrastructure. 
+This action is closely related to and 
+is an integral part of Cần Thơ City’s 
+spatial data strategy, which is being 
+developed with the support of the 
+WB. The database in this strategy 
+focuses on three topics: integrated 
+flood management, public transport 
+connection, and social support 
+system for flood response.
+
+Project lead
+
+DOC
+
+Supporting partners
+
+DOIC, DARD, Department of Science and 
+Technology (DOST), DONRE, ODA PMU, 
+Construction Planning Institute.
+
+Scale 
+
+Status
+
+                
+
+approved and ongoing
+
+Timeframe
+
+2018-2025
+
+Funding sources
+
+ODA funds (WB and SECO) (approved)
+
+Related actions
+
+1.1; 1.2; 1.5; 2.8; 2.11; 2.13; 2.14
+
+Resilience qualities
+
+Action 2.14
+Integrate the resilience approach into urban infrastructure design and development plans. Pilot 
+applications for flood management plans and the design of flood protection infrastructure of the city.
+
+This action aims to strengthen the 
+city infrastructure system’s resilience 
+to extreme events in the context of 
+climate change. In the first phase, 
+the city plans to pilot the integration 
+of a resilience approach in flood 
+management plans and the design 
+of flood protection infrastructure. 
+The project will analyze and assess 
+the simultaneous impacts of shocks 
+and stresses (such as extreme 
+rainfall, high tide, land subsidence, 
+etc.) on urban infrastructure systems 
+and identify and integrate measures 
+to respond to extreme events into 
+urban infrastructure design and 
+planning.
+
+Project lead
+
+DOC
+
+Supporting partners
+
+DARD, DONRE, DPI, Dragon Institute, 
+ISET, CRO Office, etc.
+
+Scale 
+
+Status
+
+Timeframe
+
+                
+
+new proposal
+
+2020-2030 (2020 – 2023 for the pilot 
+project)
+
+Funding sources
+
+donors
+
+Related actions
+
+1.1; 1.2; 1.5; 2.7; 2.8; 2.11; 2.13
+
+Resilience qualities
+
+74
+
+75
+
+CẦN THƠ RESILIENCE STRATEGYCAN THRESILIENT3
+
+Direction
+ECONOMY 
+& SOCIETY 
+
+GOAL
+A knowledge economy that is proactive, diverse and deeply 
+integrated, while remaining steady when facing regional and global 
+economic fluctuations
+
+ACTIONS OVERVIEW
+
+STRENGTHEN STAKEHOLDER LINKAGES
+3.1 Improve linkages among baccaurea growers and develop baccaurea orchards for tourism activities 
+to build the resilience of baccaurea growers in Phong Điền district (pilot project)
+Timeframe: 2020 – 2021
+3.2  Revise and consolidate the coordination mechanism among related departments to support 
+sustainable agriculture value chains. Implement a pilot project on the coordination mechanism of 
+catfish value chain.
+Timeframe: 2020 – 2022
+3.3 Improve the effectiveness and scale up the platform for regular dialogues between enterprises, 
+investors, and scientists with city leadership and related department leaders. 
+Timeframe: 2020 – 2030
+STRENGTHEN COMPETITIVENESS AND MARKET ACCESS
+3.4 Integrate the resilience approach into the proposed project on strengthening the competitiveness 
+of Cần Thơ’s agriculture sector.
+Timeframe: 2021-2027
+3.5 Integrate the resilience approach into the implementation of the One Commune One Product 
+(OCOP) project period 2018-2020 with vision to 2030.
+Timeframe: 2018-2030
+3.6 Study the feasibility of an insurance mechanism for agriculture production.
+Timeframe: 2023-2025 
+3.7 Enhance the resilience of Cần Thơ City’s catfish value chain through improving the quality of 
+linkages between key actors and applying technology to control catfish quality (pilot project)
+Timeframe: 2019-2021
+3.8 Conduct a study on diversifying processed baccaurea products and improving post-harvest 
+processing to expand the market.
+Timeframe: 2020-2025
+3.9 Develop supporting mechanisms and policies to incentivize enterprises focusing on clean 
+agriculture products that also support livelihoods of the poor.
+Timeframe: 2020-2025
+IMPROVE PLANNING AND IMPLEMENTATION
+3.10 Strengthen the capacity to assess market demand and supply of agricultural products to inform 
+agriculture production planning
+Timeframe: 2020-2025
+3.11 Integrate resilience concepts into the implementation of the proposed project on restructuring 
+the agriculture sector for added value and sustainable development until 2020 with vision to 2030.
+Timeframe: 2017-2030
+3.12 Strengthen the capacity of city departments for economic projection, integrated and systemic 
+socio-economic development planning.
+Timeframe: 2020-2025
+
+Lê Thị Nguyệt Linh © Cần Thơ Department of Culture, Sports and Tourism
+
+76
+
+77
+
+CẦN THƠ RESILIENCE STRATEGYCAN THRESILIENTSTRENGTHEN STAKEHOLDER LINKAGES 
+
+Action 3.1
+Improve the linkages among baccaurea growers and develop baccaurea orchards for tourism activities 
+to build the resilience of baccaurea growers in Phong Điền district. 
+
+This proposal will 
+enhance the quality 
+of linkages among 
+baccaurea growing 
+households and diversify 
+their income sources by 
+developing baccaurea 
+orchards into attractive 
+ecotourism destinations. 
+The project will help to 
+address issues facing the 
+farmer households such 
+as weak and ineffective 
+collaboration, short-lived 
+appearance of fruits, 
+difficulties in accessing 
+and expanding in new 
+markets.
+
+Project lead
+
+Division of Agricultural Development of Cần Thơ City
+
+Supporting partners
+
+Phong Điền District Center for Trade and Tourism 
+Promotion, Phong Điền District DARD, Phong Điền 
+District Department of Culture and Information 
+(DOCST), CRO Office, CTU
+
+Scale 
+
+Status
+
+                
+
+new proposal (developed into pilot project proposal)
+
+Timeframe
+
+2020 - 2021
+
+Funding sources
+
+donors
+
+Related actions
+
+2.2; 3.5; 3.8
+
+Resilience qualities
+
+DETAILS OF PROPOSED ACTIONS
+
+Action 3.2
+Revise and consolidate the coordination mechanism among related departments to support 
+sustainable agriculture value chains. Implement a pilot project on the coordination mechanism of 
+catfish value chain.
+
+This action will develop a cross-sectoral 
+coordination mechanism to provide 
+support for key agricultural value chains. 
+This will facilitate coordination among 
+departments such as DARD (managing 
+agriculture production activities), DOIT 
+(marketing support), DOST (R&D for 
+agricultural production and processing), 
+DONRE (surveying and monitoring 
+environmental and resource quality). This 
+mechanism is expected to support actors 
+such as farmers, processing and exporting 
+enterprises, traders, etc. to add value to 
+agricultural production.
+
+Project lead
+
+DARD
+
+Supporting partners
+
+DOIT, DOST, DONRE 
+
+Scale 
+
+Status
+
+Timeframe
+
+Funding sources
+
+Related actions
+
+Resilience qualities
+
+                
+
+new proposal
+
+2020 - 2022
+
+city budget
+
+1.1; 3.7; 3.11
+
+78
+
+79
+
+CẦN THƠ RESILIENCE STRATEGYCAN THRESILIENTAction 3.3
+Improve the effectiveness and scale up the platform for regular dialogues between enterprises, 
+investors, and scientists and city leadership and related department leaders. 
+
+This proposal aims to strengthen the 
+mechanism for dialogues between 
+enterprises, investors, scientists and 
+the city government to improve the 
+effectiveness of the government’s 
+policies to support enterprises and 
+investors, at the same ensure that 
+they pay attention to their social and 
+environmental responsibilities. Currently, 
+dialogues between enterprises and 
+the city are organized twice a year. This 
+action proposes to: organize events by 
+sector; and develop a robust monitoring 
+mechanism with transparent reporting 
+on the implementation of the city 
+leadership’s direction in these platforms. 
+Cần Thơ City will consult the experience 
+of other provinces (such as Đà Nẵng and 
+Bình Dương) to support implementation 
+of this action.
+
+Project lead
+
+Center for Investment and Trade 
+Promotion and Trade Fair
+
+Supporting partners
+
+DPI, DOIT, Chamber of Commerce and 
+Industry of Cần Thơ (Cần Thơ VCCI), CRO 
+Office, Enterprise Association, ISET
+
+Scale 
+
+Status
+
+                
+
+Action linked to existing efforts of the 
+city
+
+Timeframe
+
+2020 - 2030
+
+Funding sources
+
+city budget
+
+Related actions
+
+1.1; 1.4; 3.1; 3.2; 3.9; 
+
+Resilience qualities
+
+DETAILS OF PROPOSED ACTIONS
+
+STRENGTHEN COMPETITIVENESS AND MARKET ACCESS
+
+Action 3.4
+Integrate the resilience approach into the proposed project on strengthening the competitiveness of 
+Cần Thơ’s agriculture sector.
+
+The project on strengthening the 
+competitiveness of Cần Thơ’s agriculture 
+sector focuses on strengthening policy and 
+institutional incentives and encouraging 
+investment in the agricultural sector, and 
+promote public-private cooperation in 
+commercializing key agricultural products. 
+Moreover, the project will also contribute 
+to building capacity in public investment 
+planning and expenditure management, 
+and promote private investments for 
+commercialization of agricultural products. 
+Currently, ADB supports the city to conduct 
+a feasibility study for this project. 
+The objective of this action is to ensure the 
+identification and analysis of shocks and 
+stresses, and their impacts on the agriculture 
+sector during the implementation of the 
+project to strengthen competitiveness of 
+the agriculture sector of Cần Thơ, based on 
+which results to identify measures to build 
+resilience to these shocks and stresses.
+
+Project lead
+
+DARD
+
+Supporting partners
+
+Scale 
+
+Status
+
+DPI, DOIT, DOF, DOST, Institute 
+for Agriculture and Rural 
+Development Strategy and 
+Policy, CRO Office.
+
+                
+
+Action linked to existing efforts 
+of the city
+
+Timeframe
+
+2021 - 2027
+
+Funding sources
+
+city budget and donors (partly 
+from ADB)
+
+Related actions
+
+1.1; 1.2; 3.5; 3.7; 3.9; 3.10; 3.11
+
+Resilience qualities
+
+Lê Thị Nguyệt Linh © Cần Thơ Department of Culture, Sports and Tourism
+
+Nguyễn Thơ © ISET-International
+
+80
+
+81
+
+CẦN THƠ RESILIENCE STRATEGYCAN THRESILIENTAction 3.5
+Integrate the resilience approach into the implementation of the One Commune One Product (OCOP) 
+project period 2018-2020 with vision to 2030.
+
+OCOP is the program to promote 
+rural economic development for 
+internal capacity development 
+and added value. At the core 
+of the OCOP program is the 
+development of advantaged 
+agriculture and non-agriculture 
+products and services of each 
+locality via their value chains, 
+involving private (enterprises, 
+production households) and 
+public economic actors. The 
+budget of this program in Cần Thơ 
+is about 1600 billion VND.
+The objective of this proposal 
+is to ensure that shocks and 
+stresses and their impacts on 
+selected products are identified 
+and analyzed, in order to propose 
+measures to build resilience to 
+these shocks and stresses.
+
+Project lead
+
+DARD
+
+Supporting partners
+
+City New Rural Development Program 
+Coordination Office, DOIT, DOST, DOCST, 
+Department of Health (DOH), Cần Thơ Center for 
+Investment and Trade Promotion and Trade Fair, 
+district level PCs, commune level PCs, and other 
+related agencies.
+
+Scale 
+
+Status
+
+                
+
+Action linked to existing efforts of the city
+
+Timeframe
+
+2018-2030 (ongoing)
+
+Funding sources
+
+city and national budgets 
+
+Related actions
+
+1.1; 1.2; 2.2; 3.4; 3.7; 3.8; 3.9; 3.10; 3.11
+
+Resilience qualities
+
+Action 3.6
+Study the feasibility of an insurance mechanism for agricultural production.
+
+This action will study the 
+feasibility of agricultural 
+production insurance to reduce 
+risks to producers from extreme 
+climate events, disease or 
+other hazards. The feasibility 
+study will focus on well-known 
+agricultural crops with well-
+understood risks that are widely 
+cultivated, in order that risks 
+are well understood and can be 
+broadly shared. This action is 
+consistent with the orientation 
+of the national Government on 
+agriculture insurance (see Decree 
+no. 58/2018/NĐ-CP)
+
+Project lead
+
+DARD
+
+Supporting partners
+
+DOIT, DOF, providers of agriculture insurance 
+services, enterprises, farmers and agriculture 
+cooperatives 
+
+Scale 
+
+Status
+
+                
+
+new proposal
+
+Timeframe
+
+2023-2025
+
+Funding sources
+
+city budget and donors 
+
+Related actions
+
+3.4; 3.11
+
+Resilience qualities
+
+DETAILS OF PROPOSED ACTIONS
+
+Action 3.7
+Enhancing the resilience of Cần Thơ City’s catfish value chain through improving the quality of linkages 
+between key actors and applying technology to control catfish quality.
+
+This action will strengthen the 
+linkages between actors in the 
+value chain and apply blockchain 
+based technology to monitor the 
+quality of catfish products. The 
+proposal is developed to address 
+constraints in the existing catfish 
+value chain. Producers and traders 
+need a verifiable independent and 
+transparent database system that 
+will track inputs, such as quality 
+of juveniles and feed, disease 
+treatment, and water quality, along 
+with measures of product quality 
+such as size, fat content, etc. A 
+shared but independent database 
+will enable better tracking of 
+product origins, but also provide 
+incentives for producers to 
+improve the quality of inputs and 
+environmental management. 
+
+Project lead
+
+Cần Thơ City Division of Aquaculture
+
+Supporting partners
+
+Scale 
+
+Status
+
+ Cần Thơ Aquaculture Association, related 
+agencies under DARD, CRO Office, enterprises 
+that purchase and process catfish, catfish 
+farming households, Faculty of Information 
+Technology and Communication and Faculty 
+of Aquaculture from CTU
+
+                
+
++ enterprises
+
+new proposal (developed into pilot project 
+proposal)
+
+Timeframe
+
+2020-2021 (pilot project)
+
+Funding sources
+
+city budget and donors 
+
+Related actions
+
+3.4; 3.11
+
+Resilience qualities
+
+Action 3.8
+Conduct a study on diversifying processed baccaurea products and improving post-harvest processing 
+to expand the market.
+
+The proposed action has three 
+main components: (i) Research 
+on processed baccaurea products 
+such as baccaurea juice and jam. (ii) 
+Research on post-harvest processing 
+and preservation techniques for 
+baccaurea fruit. Results of these 
+two activities will help to increase 
+value of baccaurea production by 
+expanding the market for baccaurea 
+and its processed products; (iii) 
+Branding and market research 
+to promote the baccaurea brand 
+name. This activity will expand the 
+market for baccaurea by promoting 
+customer demand and sales through 
+large retail enterprises such as 
+Coopmart, Vinmart, and Big C.
+
+Project lead
+
+DARD
+
+Supporting partners
+
+DOIT, DOST, DPI, VCCI Cần Thơ, 
+processing enterprises, baccaurea 
+growing households/cooperatives, major 
+supermarkets (such as Coopmart, Vinmart, 
+Big C), CTU.
+
+Scale 
+
+Status
+
+Timeframe
+
+                
+
+new proposal
+
+2020-2025
+
+Funding sources
+
+city budget and donors 
+
+Related actions
+
+3.1; 3.4; 3.5; 3.9; 3.11
+
+Resilience qualities
+
+82
+
+83
+
+CẦN THƠ RESILIENCE STRATEGYCAN THRESILIENTAction 3.9
+Develop supporting mechanisms and policies to incentivize enterprises focusing on clean agriculture 
+products that also support livelihoods of the poor.
+
+The objective of this 
+action is to encourage 
+clean and sustainable 
+high value-added 
+agricultural production 
+networks. In addition, 
+the city will develop 
+policies to incentivize 
+clean agricultural 
+enterprises to support 
+livelihood improvement 
+of disadvantaged 
+households by 
+hiring labors from 
+these households 
+or supporting them 
+in developing clean 
+agricultural production 
+activities. 
+
+Project lead
+
+DPI 
+
+Supporting partners
+
+DARD, DOST, DPI, DOF, DOLISA, district PCs, Cần Thơ 
+Enterprise Association, enterprises that are applying 
+clean agriculture production models (such as Minh 
+Hòa, Cần Thơ Farm), Small and Medium Enterprise 
+Supporting Center
+
+Scale 
+
+Status
+
+Timeframe
+
+                
+
+new proposal
+
+2020-2025
+
+Funding sources
+
+city budget and donors
+
+Related actions
+
+3.4; 3.11
+
+Resilience qualities
+
+DETAILS OF PROPOSED ACTIONS
+
+IMPROVE PLANNING AND IMPLEMENTATION 
+
+Action 3.10
+Strengthen the capacity to assess market demand and supply of agricultural products to inform 
+agriculture production planning.
+
+This proposal will train technical 
+staff and economists from DARD 
+and DOIT and related agencies to 
+enable them to better assess market 
+demand and supply of agriculture 
+products. This will help the city to 
+better plan for the production of 
+key agriculture products, especially 
+new products and products also 
+offered by other provinces in the 
+region. This action is also expected 
+to partly address the problems of 
+spontaneous crop adoption, good 
+harvest bad price / bad harvest good 
+price. 
+
+Project lead
+
+DOIT 
+
+Supporting partners
+
+DARD, DPI, CRO Office
+
+Scale 
+
+Status
+
+Timeframe
+
+                
+
+new proposal
+
+2020-2025
+
+Funding sources
+
+city budget and donors
+
+Related actions
+
+1.1; 3.4; 3.5; 3.8; 3.11; 3.12
+
+Resilience qualities
+
+© CRO Office in Cần Thơ
+
+84
+
+Lê Thị Nguyệt Linh © Cần Thơ Department of Culture, Sports 
+and Tourism
+
+85
+
+CẦN THƠ RESILIENCE STRATEGYCAN THRESILIENTAction 3.11
+Integrate the resilience approach into the implementation of the proposed project on restructuring the 
+agriculture sector for added value and sustainable development until 2020 with vision to 2030.
+
+The main objectives of the project on 
+restructuring the agriculture sector are: 
+(i) add value and develop agriculture 
+production for high quality, sustainability, 
+and improved competitiveness; (ii) Develop 
+key products and concentrated high-
+tech production areas, and strengthen 
+value chain linkages from production to 
+consumption. The project also develops 
+sources of high-quality seeds and 
+varieties to meet the needs of agriculture 
+development within the city and for other 
+provinces in the Mekong Delta. 
+The objective of this action is to ensure 
+that shocks and stresses and their impacts 
+on the agriculture sector are identified 
+and analyzed, and resilience qualities 
+are considered in identifying measures 
+for agriculture sector restructuring. By 
+integrating a resilience perspective in this 
+proposed project, the agriculture sector 
+will be better able to cope with climate and 
+market uncertainties in the future.
+
+Project lead
+
+DARD
+
+Supporting partners
+
+Scale 
+
+Status
+
+DPI, DOF, DOIT, DOC, DONRE, 
+DOST, district PCs and related 
+agencies, Cửu Long Delta Rice 
+Research Institute, CTU, etc
+
+                
+
+Action linked to existing efforts 
+of the city
+
+Timeframe
+
+2017-2030 (ongoing)
+
+Funding sources
+
+city budget and donors 
+
+Related actions
+
+1.1; 1.2; 1.3; 3.2; 3.4; 3.5; 3.8; 3.10; 
+3.12
+
+Resilience qualities
+
+DETAILS OF PROPOSED ACTIONS
+
+Action 3.12
+Strengthen the capacity of city departments for economic projection, integrated and systemic socio-
+economic development planning.
+
+This proposed project will 
+support the city in developing 
+and implementing its socio-
+economic plans according to 
+the new Planning Law, at the 
+same time builds capacity for 
+city departments and agencies. 
+This action includes training 
+on the approach, methods, 
+and tools to improve the 
+capacity of city departments 
+and agencies for economic 
+projection, integrated and 
+systemic planning, impact 
+assessment as well as 
+integration of measures to 
+build the city’s resilience to 
+shocks and stresses.
+
+Project lead
+
+DPI
+
+Supporting partners
+
+DOIT, DOC, DOF, CISED, Institute for 
+Construction Planning, CRO Office, ISET, 
+Central Institute for Economic Management 
+(CIEM), Vietnam Institute for Development 
+Strategy - VIDS (potential)
+
+Scale 
+
+Status
+
+Timeframe
+
+                
+
+new proposal
+
+2020-2025
+
+Funding sources
+
+city budget and donors 
+
+Related actions
+
+1.1; 3.4; 3.5; 3.10; 3.11
+
+Resilience qualities
+
+Ngô Thanh © ISET-International, 2014
+
+86
+
+© CRO Office in Cần Thơ
+
+87
+
+CẦN THƠ RESILIENCE STRATEGYCAN THRESILIENT4
+
+Direction
+
+HEALTH AND 
+WELL-BEING 
+
+GOAL
+Communities have secure and stable income, and live in a green and 
+clean environment, buffered from the impacts of economic, social 
+and environmental shocks and stresses.
+
+ACTIONS OVERVIEW
+
+VOCATIONAL AND JOB TRAINING
+4.1 Provide training in domestic service for disadvantaged women as a livelihood improvement 
+opportunity (pilot project)
+Timeframe: 2020 – 2021 
+4.2 Integrate the resilience approach into refining policies and programs related to job support and 
+vocational training 
+Timeframe: 2020 – 2025
+4.3 Develop and implement a collaborative mechanism and support programs on vocational training 
+and employment for resettled households.
+Timeframe: 2020 – 2025
+EMPLOYMENT, PRODUCTION AND HOUSING OPTIONS FOR DISADVANTAGED 
+GROUPS 
+4.4 Improve and replicate production systems for mud-free eel raising to diversify income sources for 
+disadvantaged households in rural and peri-urban areas (pilot project).
+Timeframe: 2020 – 2021
+4.5 Integrate the resilience approach into policies and programs for livelihood improvement and new 
+agriculture production models for disadvantaged groups in rural areas.
+Timeframe: 2020 – 2025
+4.6 Adjust housing support policies and programs to strengthen the resilience of poor and vulnerable 
+households.
+Timeframe: 2022 – 2025
+EVIDENCE-BASED POLICY 
+4.7 Conduct research to assess the conditions, characteristics and resilience of migrant groups in the 
+core urban area of Cần Thơ city and propose support measures.
+Timeframe: 2020 – 2022
+4.8 Develop a comprehensive database and information management system on disadvantaged and 
+vulnerable groups.
+Timeframe: 2019 – 2021
+4.9  Assess employment trends and forecast labor demand in Cần Thơ until 2030.
+Timeframe: 2022 – 2025
+
+© Văn Phòng CCCO Cần Thơ
+
+88
+
+89
+
+CẦN THƠ RESILIENCE STRATEGYCAN THRESILIENTVOCATIONAL AND JOB TRAINING
+
+Action 4.1
+Provide training in domestic service for disadvantaged women as a livelihood improvement 
+opportunity (pilot project).
+
+This action will improve the economic 
+resilience of women from disadvantaged 
+social groups in urban and peri-urban 
+areas of Cần Thơ City (including from 
+resettled households) by providing 
+training and certification for domestic 
+service. There is increasing demand from 
+wealthier households for full- or part-time 
+domestic staff for cleaning, cooking or 
+child care, but there are few vocational 
+training programs for this purpose, and 
+no recognized qualification standards. 
+The project is designed to help address 
+these limitations and provide training, 
+certification and employment for about 
+40 women from disadvantaged groups in 
+Cần Thơ City. Experience from this pilot 
+will be recorded and documented for 
+wide sharing and to promote scaling up 
+and replication. 
+
+Project lead
+
+Cần Thơ City Job Services Centre (JSC)
+
+Supporting partners
+
+CRO Office, Cần Thơ WU, Division of 
+Vocational Training under Cần Thơ 
+DOLISA, district DOLISAs
+
+Scale 
+
+Status
+
+                
+
+new proposal (pilot project, proposal 
+developed and submitted to donor) 
+
+Timeframe
+
+2020 - 2021
+
+Funding sources
+
+donors and matching funds from the 
+city
+
+Related actions
+
+4.2; 4.3; 4.8
+
+Resilience qualities
+
+URBAN DEVELOPMENT, RESETTLEMENT AND JOBS
+
+According to Phase II assessment, real estate development in Cần Thơ is increasing. In a recent 
+busy period, there were 23 construction projects underway in An Khánh alone, on a total land 
+area of 1,495.964 ha, which displaced about 2,298 households (UBND-An Khánh 2017b). 
+
+These households are resettled by the city under regulations that include provision of new 
+housing and support for finding new employment if needed. But resettlement  still causes 
+disruptions to production and business activities of the affected households. More than 90% 
+of surveyed households identified changes in livelihood and income as the most significant 
+negative impacts of resettlement.
+
+Policies to support these households are considered ineffective and inadequate.
+
+DETAILS OF PROPOSED ACTIONS
+
+Action 4.2
+Integrate the resilience approach into refining policies and programs related to job support and 
+vocational training. 
+
+This action focuses on refining and supplementing 
+existing policies on job support and vocational 
+training in general and for disadvantaged groups  in 
+particular. The refinement will introduce resilience 
+concepts to help ensure: 
+•  Efforts to support disadvantaged groups are 
+
+designed with a long-term vision and implemented 
+continuously in different phases; 
+
+•  Vocational training and related support programs 
+respond directly to the changing requirements of 
+the labor market, and the variable qualifications and 
+characteristics of program participants. Employment 
+support programs and advisory services should be 
+more responsive to these variables and consider 
+changing conditions and future scenarios;
+
+•  To support wage employees to identify and 
+
+prepare for potential shocks and stresses (such as 
+unemployment, labor market competition, changing 
+technology etc.);
+
+•  To further encourage and support participants who 
+are highly motivated to learn and find employment.
+
+Project lead
+
+DOLISA
+
+Supporting partners
+
+Scale 
+
+Status
+
+Timeframe
+
+CRO Office, WU, 
+Vocational training 
+division under Cần Thơ 
+DOLISA, district DOLISAs
+
+                
+
+new proposal 
+
+2020-2025
+
+Funding sources
+
+city budget and donors
+
+Related actions
+
+1.1; 1.2; 1.3; 4.1; 4.3; 4.8; 
+4.9
+
+Resilience qualities
+
+Action 4.3
+Develop and implement a collaborative mechanism and support programs on vocational training and 
+employment for resettled households. 
+
+This action will develop and implement a 
+collaborative mechanism among investors, 
+DOLISA, vocational training agencies, 
+employers, and JSC to provide advice 
+and support to individuals from resettled 
+households to help them find stable 
+employment in their new location. This 
+support includes various aspects, from 
+assessing the needs and demands of the 
+labor market, assessing the characteristics 
+and needs of employment seekers, providing 
+job advice, designing and organizing 
+vocational training classes based on 
+assessment results, and providing support 
+in accessing employers and job seeking. 
+After developing these mechanisms, at 
+specific project will be designed for pilot 
+implementation. Experience and lessons 
+from the pilot project will be the basis for 
+finalizing the collaborative mechanism.
+
+Project lead
+
+DOLISA
+
+Supporting partners
+
+DONRE, Land Development Center, 
+investors of projects involving 
+resettlement, companies with labor 
+demand, JSC, vocational training 
+agencies, and CRO Office.
+
+Scale 
+
+Status
+Timeframe
+
+                
+
+new proposal 
+2020-2025
+
+Funding sources
+
+city budget and donors
+
+Related actions
+
+1.1; 1.2; 1.3; 4.1; 4.2; 4.8; 4.9
+
+Resilience qualities
+
+90
+
+91
+
+CẦN THƠ RESILIENCE STRATEGYCAN THRESILIENTEMPLOYMENT, PRODUCTION AND HOUSING OPTIONS FOR 
+DISADVANTAGED GROUPS
+
+Action 4.4
+Improve and replicate production systems for mud-free eel raising to diversify income sources for 
+disadvantaged households in rural and peri-urban areas.
+
+This project aims to diversify the 
+livelihood and income sources of 
+disadvantaged small landholders 
+in rural and peri-urban areas 
+through enhancements to mud-
+free eel raising. This practice has 
+been applied successfully in some 
+areas of Cần Thơ City and has high 
+potential for replication thanks to 
+low land requirement and minimal 
+investment. If successful, this 
+practice could bring an additional 
+and stable supplementary income 
+source for households, building 
+their resilience to current and future 
+shocks and stresses. Experience 
+from this pilot project will be 
+synthesized and documented for 
+wide sharing to promote scaling up 
+this livelihood model. The project 
+is proposed to be implemented in 
+Vĩnh Thạnh and Bình Thủy districts.
+
+Project lead
+
+Cần Thơ’s Farmers’ Association
+
+Supporting partners
+
+Scale 
+
+Status
+
+CRO Office, Division of Aquaculture, 
+DOLISA, Vietnam Bank for Social 
+Policies (VBSP) in Cần Thơ, Agriculture 
+Promotion Unit, Bình Thủy and Vĩnh 
+Thạnh district DOLISAs, VBSP branches 
+and Farmers’ Associations in Bình Thủy 
+and Vĩnh Thạnh districts, Tam Lộc 
+Cooperative.
+
+                
+
+proposal for model replication (proposal 
+developed and submitted to potential 
+donors) 
+
+Timeframe
+
+2020 - 2021
+
+Funding sources
+
+donor and city budget 
+
+Related actions
+
+4.5; 4.8
+
+Resilience qualities
+
+DETAILS OF PROPOSED ACTIONS
+
+Action 4.5
+Integrate the resilience approach into policies and programs for livelihood improvement and new 
+agriculture production models for disadvantaged groups in rural areas.
+
+This action would review and update 
+existing policies and programs based on 
+resilience concepts to:
+•  Incorporate a more long-term orientation 
+
+and roadmap to improve livelihoods 
+over several different time scales (short, 
+medium and long-term);
+
+•  Integrate characteristics of people’s 
+livelihoods, production and business 
+conditions, awareness, experience and 
+needs in the design and implementation 
+of vocational support programs and 
+projects;
+
+•  Strengthen training to improve general 
+business skills and to access consumer 
+markets in addition to building technical/
+production skills;
+
+•  Provide training to disadvantaged groups 
+
+to help them prepare for unexpected 
+shocks and stresses and to develop 
+alternative plans in case of unemployment, 
+market losses, crop failure, etc.
+
+Project lead
+
+DARD 
+
+Supporting partners
+
+DOLISA, district Centers of Agriculture 
+Promotion, agriculture vocational 
+training agencies, associations such 
+as Farmers’ Association, WU, and CRO 
+Office, CTU
+
+Scale 
+
+Status
+
+                
+
+new proposal
+
+Timeframe
+
+2020 - 2025
+
+Funding sources
+
+city budget and donors
+
+Related actions
+
+1.1; 1.2; 1.3; 3.9; 3.11; 4.4; 4.8
+
+Resilience qualities
+
+Ngô Thanh © ISET-International, 2018
+
+92
+
+Nguyễn Thơ © ISET-International
+
+93
+
+CẦN THƠ RESILIENCE STRATEGYCAN THRESILIENTAction 4.6
+Adjust housing support policies and programs to strengthen the resilience of poor and vulnerable 
+households.
+
+This action aims to adjust policies and 
+programs (under the authority of Cần Thơ 
+City to issue and manage), to:
+•  Develop options for landless 
+disadvantaged households;
+
+•  Integrate resilience concepts, especially 
+related to shocks of storms and flooding, 
+into the process of designing and 
+building houses for disadvantaged 
+households; 
+
+•  Increase the level of support (such as 
+through combining multiple financial 
+sources) to ensure the minimum amount 
+needed for households to build or 
+retrofit their houses to be strong and 
+resilient to shocks and stresses. 
+
+Project lead
+
+DOC
+
+Supporting partners
+
+DOLISA, Fatherland’s Front, CRO Office, 
+Cần Thơ Institute for Planning and 
+Architecture, Cần Thơ City Architecture 
+Association, CTU, ISET.
+
+Scale 
+
+Status
+
+                
+
+new proposal
+
+Timeframe
+
+2022-2025
+
+Funding sources
+
+city budget  
+
+Related actions
+
+1.1; 1.2; 4.5; 4.7
+
+Resilience qualities
+
+DETAILS OF PROPOSED ACTIONS
+
+EVIDENCE-BASED POLICY 
+
+Action 4.7
+Conduct research to assess the conditions, characteristics and resilience of migrant groups in the core 
+urban area of Cần Thơ city and propose support measures.
+
+This action will identify the 
+characteristics (such as number, 
+age, gender, job, location and 
+condition of residence, migration 
+history, etc.) of unregistered migrant 
+groups in core urban areas of Cần 
+Thơ City. This group is generally not 
+documented in official population 
+or census data. The proposed 
+project will also assess shocks 
+and stresses facing migrants, their 
+vulnerability and resilience. Study 
+results are expected to support 
+the city in dealing with issues such 
+as social well-being, employment, 
+environment, etc.   
+
+Project lead
+
+CRO Office
+
+Supporting partners
+
+DOLISA, DARD, DOLISAs of core urban 
+districts, City Statistical Office, People’s 
+Committees of wards located in the 
+core urban districts, ISET, CTU
+
+Scale 
+
+Status
+
+Timeframe
+
+                
+
+new proposal
+
+2020-2022
+
+Funding sources
+
+city budget and donors
+
+Related actions
+
+1.1; 1.2; 1.3; 4.1; 4.3; 4.8
+
+Resilience qualities
+
+Nguyễn Thơ © ISET-International
+
+94
+
+Ngô Thanh © ISET-International, 2014
+
+95
+
+CẦN THƠ RESILIENCE STRATEGYCAN THRESILIENTAction 4.8
+Develop a comprehensive database and information management system on disadvantaged and 
+vulnerable groups.
+
+This action will develop a comprehensive and 
+synchronized database on disadvantaged and 
+vulnerable groups in Cần Thơ City. This database 
+will include many layers of information and will 
+be based on available data (such as poverty rate, 
+access to basic services, etc.) as well as newly 
+collected data (such as migrant data, locational 
+mapping, characteristics of livelihoods, health, 
+shocks and stresses, exposure and resilience, etc.). 
+Flood maps will also be developed, specifying areas 
+and households subject to high flood risk. This 
+database will be updated regularly. A mechanism 
+on the management, use and sharing of 
+information will also be developed to maximize the 
+effectiveness of this database. Most activities under 
+this proposed action will be implemented under 
+the technical assistance component of the Cần Thơ 
+Urban Development and Resilience Project. 
+
+Project lead
+
+DOLISA
+
+Supporting partners ODA PMU of Cần Thơ, DOIC, 
+
+DONRE, DOC, DARD, CRO Office
+
+Scale 
+
+Status
+
+                
+
+formed and in preparation for 
+implementation 
+
+Timeframe
+
+2020-2022
+
+Funding sources
+
+ODA funds from WB and SECO 
+(approved) 
+
+Related actions
+
+1.1; 1.3; 1.5; 4.4; 4.5; 4.6; 4.7
+
+Resilience qualities
+
+DETAILS OF PROPOSED ACTIONS
+
+Action 4.9
+Assess employment trends and forecast labor demand in Cần Thơ until 2030.
+
+The urbanization process and the 
+changing economic structure have 
+caused and will continue to cause 
+considerable changes in livelihoods 
+and employment. However, the city has 
+not undertaken any comprehensive 
+assessment of these changes. 
+Therefore, to support the city to 
+introduce appropriate plans and 
+policies, this proposed action will 
+assess employment trends and forecast 
+labor demand in Cần Thơ until 2030 
+in the areas of agriculture (including 
+aquaculture), construction, trade and 
+services. The research will also provide 
+suggestions and recommendations 
+for modifying existing city policies in 
+vocational training and livelihood and 
+job support.
+
+Project lead
+
+DOLISA
+
+Supporting 
+partners
+
+Scale 
+
+Status
+
+CISED, Cần Thơ JSC, Cần Thơ Chamber 
+of Commerce and Trade, CRO Office, Ho 
+Chi Minh City Center for Labor Demand 
+Forecasting and Labor Market Information 
+(potentially)
+
+                
+
+new proposal
+
+Timeframe
+
+2022-2025
+
+Funding sources
+
+city budget and donors
+
+Related actions
+
+1.2; 3.3; 3.12; 4.2; 4.8
+
+Resilience qualities
+
+96
+
+Ngô Thanh © ISET-International
+
+97
+
+CẦN THƠ RESILIENCE STRATEGYCAN THRESILIENTSTRATEGY 
+IMPLEMENTATION  
+
+Successful implementation of the Cần Thơ Resilience Strategy 
+will require close collaboration between the city government 
+and social organizations, local communities, businesses, 
+universities, institutes and other organizations. 
+
+98
+© Huy Nguyễn
+
+99
+
+STRATEGY IMPLEMENTATIONCAN THRESILIENTIMPLEMENTATION ORGANIZATION  
+& STAKEHOLDER ROLES
+
+The city People’s Committee assigns the CRO Office 
+to be the focal point for the implementation of 
+this strategy. Specifically, the CRO Office will be 
+responsible for: 
+
+• Collaborating with city departments and 
+
+agencies and other stakeholders to develop 
+detailed plans for strategy implementation. 
+
+• Coordinating the implementation of all actions 
+
+proposed in this strategy. 
+
+• Directly leading the implementation of 
+
+selected actions in the strategy for which they 
+are responsible.
+
+• Mobilizing the participation and support of 
+
+stakeholders, especially local communities in 
+strategy implementation. 
+
+• Mobilizing resources from donors and NGOs to 
+
+support the implementation of actions.
+
+• Working closely with research and training 
+
+institutions in Cần Thơ and the Cửu Long 
+Delta, especially the Dragon Institute in the 
+implementation of proposed actions.
+
+• Monitoring and Evaluation (M&E) of 
+
+strategy implementation. 
+
+• Communication and awareness raising 
+
+activities about resilience building for the city 
+population in general and for students and the 
+youth in particular. 
+
+• Periodic reporting (twice a year) to the 
+
+city leadership on the progress and results 
+of implementation. 
+
+The Cần Thơ PC assigns DOC, DARD, DOLISA and 
+their supporting agencies to take initiatives to 
+mobilize resources and implement actions directly 
+relevant to their departments, in collaboration with 
+the CRO Office. 
+
+DPI, DOF and DOFA, according to their roles and 
+functions, are responsible for allocating resources 
+and mobilizing support from international and 
+domestic sources to facilitate the implementation 
+of the Cần Thơ Resilience Strategy period  
+2019-2030.
+
+Other departments and agencies, districts, 
+wards and commune governments, and social 
+associations are responsible for taking the initiative 
+to work with the CRO Office, DOC, DARD, and 
+DOLISA to implement this strategy. 
+
+In the implementation process, if any adjustments 
+or additions are needed, relevant departments, 
+agencies and local governments, together with 
+the CRO Office, will report to the Cần Thơ PC for 
+consideration and decision.
+
+After the Strategy Release Workshop, city 
+leadership will organize a meeting with 
+relevant departments and the CRO Office 
+to identify activities that can be linked to 
+programs and projects of the city in 2020 
+and in the following years. This will be an 
+important basis to allocate and mobilize 
+resources for the implementation of the 
+Strategy.
+
+© CCCO Cần Thơ
+
+Cần Thơ City Government commits to play an active 
+role in directing city departments and agencies 
+and mobilizing stakeholders to implement the 
+actions proposed under this strategy. The following 
+principles must be followed in the implementation 
+process to ensure success: 
+
+• Maintain and strengthen resources for the CRO 
+Office to implement and promote the strategy 
+actions 
+
+• Ensure effective collaboration among 
+
+stakeholders 
+
+• Mobilize as much as possible the participation 
+
+of the whole society, especially the private 
+sector, communities and researchers 
+
+• Apply the principles of flexibility and 
+
+redundancy in the implementation process 
+
+• Document and widely share lessons and 
+
+experience 
+
+• Propose new ideas for resilience building 
+
+during the implementation process. 
+
+100
+
+101
+
+STRATEGY IMPLEMENTATIONCAN THRESILIENTMONITORING 
+& EVALUATION 
+
+Monitoring and Evaluation is an important task in the 
+process of building resilience for Cần Thơ City. M&E 
+results will help the city to draw experience and capture 
+lessons for the replication of effective models, and adjust 
+activities and implementation approach to optimize the 
+city’s efforts. For M&E to be effective, Cần Thơ City will:
+
+• Assign the CRO Office to be the focal point for 
+M&E activities.
+
+• Develop an M&E framework and work plan for 
+activities proposed in this CRS. 
+
+• Prepare annual reports on activity results to share 
+with related stakeholders. 
+
+• Engage other stakeholders in M&E work. 
+
+102
+
+Ngô Thanh © ISET-International, 2015
+
+103
+
+STRATEGY IMPLEMENTATIONCAN THRESILIENTAcknowledgement 
+
+Lời cảm ơn
+
+The Cần Thơ Resilience Strategy until 2030 is the result of nearly two years of constant, highly-
+committed and dedicated efforts and cooperation of the city leadership, local governments across 
+levels, city departments and agencies, associations, enterprises, local communities, and the CRO 
+Office, with the support of organizations and individuals both from Vietnam and internationally. 
+
+Cần Thơ City would like to extend our sincere thanks to all organizations and individuals who have 
+participated and provided valuable support for the completion of this Strategy:
+
+Mr. Đào Anh Dũng, Standing Vice Chairman of the Cần Thơ City People’s Committee, Head of 
+Advisory Board of the 100 Resilient Cities in Cần Thơ;
+
+Members of the Advisory Board of the 100 Resilient Cities in Cần Thơ;
+
+Members of core working groups in four discovery areas and members of the inter-disciplinary 
+technical working group of the city;
+
+Members of the CRO Office: Assoc. Prof. Dr. Nguyễn Hiếu Trung – City Resilience Officer (CRO); Ms. 
+Lê Đình Vân Khanh – Deputy CRO; and technical staff of the CRO Office: Ms. Quách Thanh Trúc; Ms. 
+Hoàng Hoài Thanh; Ms. La Sở Sen; Ms. Duy Minh Châu; Mr. Nguyễn Thanh Liêm; Mr. Lê Công Thành;
+
+The Institute for Social and Environmental Transition-Vietnam (Strategy Partner of the project);
+
+City departments and agencies: City People’s Committee Office; Department of Natural Resources 
+and Environment; Department of Agriculture and Rural Development; Department of Planning and 
+Investment; Department of Labors, War Invalids and Social Affairs; Department of Foreign Affairs; 
+Department of Finance, Department of Culture, Sports and Tourism; Department of Internal Affairs; 
+Department of Transport; Department of Education and Training; Department of Information 
+and Communication; Department of Industry and Trade; Department of Science and Technology; 
+Department of Health; Institute for Construction Planning; Cần Thơ Institute for Socio-Economic 
+Development; ODA Project Management Unit; Vietnam Chamber of Commerce and Industry, Cần 
+Thơ Branch; Cần Thơ Hydrometeorological Station;
+
+Agencies under city departments and local governments, especially: Cần Thơ Job Service 
+Center; Climate Change Coordination Office; Division of Aquaculture; Division of Crops and Plant 
+Protection; Division of Agriculture Development; Center for Investment and Trade Promotion and 
+Trade Fair; Small and Medium Enterprise Supporting Center; Cần Thơ Land Development Center; 
+Division of Environment Protection; Department of Urban Management of Ninh Kiều District; 
+Department of Labors, War Invalids and Social Affairs of Ninh Kiều District; Department of Education 
+and Training of Ninh Kiều District; An Khánh Secondary School;
+
+Ngô Thanh © ISET-International, 2014
+
+Ngô Thanh © ISET-International, 2015
+
+104
+
+People’s Committees of districts, wards and communes in Cần Thơ City, especially Ninh Kiều District 
+People’s Committee; Cái Răng District People’s Committee; Phong Điền District People’s Committee; 
+Vĩnh Thạnh District People’s Committee; An Khánh Ward People’s Committee; An Bình Ward People’s 
+Committee; Cái Khế Ward People’s Committee; Lê Bình Ward People’s Committee; Phú Thứ Ward 
+People’s Committee; Vĩnh Bình Commune People’s Committee; Thạnh Lộc Commune People’s 
+Committee; Vĩnh Trinh Commune People’s Committee; Thạnh Tiến Commune People’s Committee; 
+Nhơn Ái Commune People’s Committee; Phong Điền Town People’s Committee;
+
+Social organizations and associations in the city, especially Farmers’ Association; Women’s Union; 
+Architecture Association; Aquaculture Association; Enterprise Association; the Red Cross; Cần Thơ City 
+Labor Federation; Cần Thơ City Union.
+
+Independent experts and experts from Cần Thơ University, South Cần Thơ University, Research 
+Institute for Climate Change of Cần Thơ University, Cần Thơ Institute for Socio-Economic Development; 
+Cửu Long River Delta Research and Development Institute; Hồ Chí Minh City National University; 
+Vietnam Mekong River Commission;
+
+Enterprises in the city, especially: Cần Thơ Urban Jointstock Company ; Cần Thơ Water Supply and 
+Drainage Jointstock Company ; Cần Thơ Farm; Minh Hòa Investment and Development Jointstock 
+Company ; Đại Thuận Thiên Clean Agriculture Company, Ltd; Biển Đông Company; Nam Việt Company; 
+Sao Mai Company; Nam Phương Aquaculture Company, Ltd; Minh Tân Company, Ltd; Thắng Lợi 
+Cooperative; Bảy Thum Baccaurea Cooperative; VinaCAP Clean Agriculture Company, Ltd; Phạm Nghĩa 
+T&N Company; Thuận Hưng Company Ltd; Sông Hậu Food Processing Jointstock Company ;
+
+Local communities and people, especially communities in An Khánh Ward; An Bình Ward; Lê Bình Ward; 
+Phú Thứ Ward; Cái Khế Ward; Phong Điền Town; Vĩnh Trinh Commune; Thạnh Lộc Commune; Vĩnh Bình 
+Commune; Thạnh Tiến Commune; Nhơn Ái Commune; 
+
+Experts from the 100 Resilient Cities, Asia Pacific Office;
+
+International organizations, including: the Commonwealth Scientific and Industrial Research 
+Organization (CSIRO), Bending Bamboo, Deltares, EstudioOCA, and ACADIS.
+
+105
+
+RESILIENCE APPROACH AND STRATEGY DEVELOPMENT  PROCESSCAN THRESILIENTAPPENDICES
+
+APPENDIX 1. 
+TERMINOLOGY*
+*The concepts presented in this section are defined based on the City Resilience Framework of the 
+100RC Program. For more information, please see: https://assets.rockefellerfoundation.org/app/
+uploads/20160105134829/100RC-City-Resilience-Framework.pdf
+
+Shocks and stresses
+Cities are often threatened by chronic stresses 
+and acute shocks. Shocks are typically single 
+extreme events that cause serious damages to 
+public infrastructure and private property in a city, 
+such as storms, flooding, earthquakes, disease 
+outbreaks, and severe infrastructure failures. 
+Stresses are factors that apply pressure to a city’s 
+systems or residents on a daily or reoccurring 
+basis, with gradual harmful impacts. Examples 
+of stresses include high unemployment, water 
+resource depletion, increased air pollution, aging 
+infrastructure, and sea level rise.
+
+Qualities of a resilient system or city  
+To build a resilient city, actions need to be 
+designed and implemented to ensure that systems, 
+individuals, organizations and communities have 
+the following qualities of resilience. These qualities 
+ensure that the city can sustain, effectively and 
+timely respond, and quickly adapt to shocks 
+and stresses.
+
+Reflectiveness
+Is the ability of individuals and organizations to 
+draw from and use past experience and lessons 
+to inform future decisions, and modify standards 
+and behaviors accordingly to better respond to 
+changing circumstances and challenges. 
+
+Resourcefulness 
+is the ability of individuals and organizations 
+to recognize alternative ways to use resources 
+at times of crisis in order to meet their needs or 
+achieve their goals in periods of crisis (caused by 
+acute shocks). For example, the ability to mobilize 
+various resources (from the government, citizens, 
+businesses) for disaster relief and recovery efforts; 
+or the ability to maintain and use well water and 
+a filtering system to respond to water supply 
+interruptions following a disaster event. 
+
+Robustness, redundancy and flexibility are 
+qualities of a resilient system. A robust system 
+is a system that is conceived, constructed and 
+managed to make provision of potential failures 
+and ensure no catastrophic damages will occur 
+when design thresholds are exceeded. For example, 
+the sewage system is designed to handle 50mm/h 
+rainfall events when the actual rainfall exceeds 
+50mm/h.
+
+Redundancy
+Is the spare capacity purposively created to 
+accommodate disruptions due to extreme 
+pressures, surges in demand or an external event. 
+It also includes diversity where there are multiple 
+ways to achieve a given need. For example, back-
+up electricity source or water storage capacity 
+to accommodate supply network disruptions; or 
+
+106
+
+address needs of and problems faced by the 
+most vulnerable, and collectively create a resilient 
+city – for everyone. Specifically, inclusiveness 
+is recognized by ensuring the meaningful 
+participation of all stakeholders and that their voice 
+and expectations are accounted for in the city’s 
+resilience building process. Integrated process 
+is recognized by ensuring the participation of 
+stakeholders and that analysis and assessment are 
+conducted in a systematic, comprehensive and 
+inter-disciplinary manner
+
+contingency storage of medicines and food before 
+the storm season. 
+
+Flexibility 
+is the ability to adopt alternative strategies in 
+response to changing circumstances or sudden 
+crises. Systems can be made more flexible 
+through introducing new technologies or various 
+knowledge sources, including scientific and 
+indigenous knowledge. For example, community 
+flood and storm shelter (which can be used as a 
+public space for community activities in normal 
+times, and as shelter for local people when there is 
+a major storm or flooding event.
+
+Inclusive and integrated 
+Inclusive and integrated relate to the processes 
+of good governance and effective leadership that 
+ensure investments and actions are appropriate, 
+
+Ngô Thanh © ISET-International, 2015
+
+107
+
+APPENDICESCAN THRESILIENTAPPENDIX 2. 
+LIST OF IMPORTANT ONGOING PROGRAMS AND PROJECTS RELATED TO FOCUS 
+AREAS OF CẦN THƠ RESILIENCE STRATEGY*
+*This list is for reference only and is not inclusive of all programs and projects that the city is and will be 
+implementing.
+
+No.
+
+PROGRAM / PROJECT
+
+1
+
+2
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+Urban upgrade project of the Mekong Delta region, Cần Thơ City Component 
+
+Cần Thơ Urban Development and Resilience Project 
+
+Ô Môn Electricity Generating Station, Block B Ô Môn Gas Pipeline and Gas Distribution Center
+
+Construction of Trung Lương - Cần Thơ Highway; Sóc Trăng - Cần Thơ - Châu Đốc Highway; 
+Cần Thơ Port Upgrade and Expansion
+
+Construction of Cần Thơ 2, Vàm Cống Bridges
+
+Construction of concentrated information and technology zone and information and 
+technology enterprise incubation center
+
+Construction of solid waste treatment area in Thới Lai District
+
+Review and update rural water supply and sanitation plan for Cần Thơ City until 2020
+
+Water drainage and wastewater treatment project of Cần Thơ City
+
+Embankment to control erosion in Xóm Chài, Trà Niền River, Ô Môn River, Trà Nóc River
+
+Environmental landscape and water resource protection and control program
+
+Construction of Sông Hậu Park
+
+Cồn Ấu, cồn Sơn Ecotourism Area; Tân Lộc Island Tourism Area
+
+Construction of regional trade center 
+
+Construction of a system of regional-level warehouses, transportation and distribution centers 
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+30
+
+31
+
+32
+
+33
+
+Restructuring the agriculture sector for added value and sustainable development until 2020 
+with vision to 2030 
+
+“One commune, one product” project, period 2018 - 2020, with vision to 2030
+
+Agriculture development with application of high technology in Cần Thơ City period 2012-
+2020
+
+Development of aquaculture development center of Cần Thơ, with close association with 
+aquaculture production zones of the Cửu Long Delta
+
+Infrastructure development for concentrated catfish farming zones in Thốt Nốt, and Vĩnh 
+Thạnh districts
+
+Application of high technology in aquaculture production 
+
+Infrastructure development for concentrated catfish and carp nursery zones
+
+Construction of high technology industrial zones for agriculture production 
+
+Sustainable agriculture transition in Cần Thơ City
+
+Measures for shifting the economic structure of Cần Thơ City until 2020 
+
+Tourism development program until 2020 
+
+Renovation and development of social support, period 2018 - 2025 with vision to 2030
+
+Vocational training for rural labors in Cần Thơ City until 2020
+
+Human resource training program for Cần Thơ city until 2010 with vision to 2020
+
+Implementation plan of National Target Program on sustainability poverty reduction in the 
+city, period 2016 - 2020
+
+Action plan to respond to climate change, period 2015-2030
+
+Annual natural disaster prevention and control plan of Cần Thơ City
+
+108
+
+109
+
+APPENDICESCAN THRESILIENTREFERENCES
+
+Cần Thơ-CTK 2017, Statistical Yearbook of Cần Thơ City 2017, Cần Thơ Statistics Office.
+
+Đinh Tuấn, Võ Tuấn, Nguyễn Trung, Trần Phóng, Vũ Toàn & Nguyễn Minh 2019, Building resilience to flooding 
+and inundation for Cần Thơ City using green infrastructure measures, Can Thơ.
+
+GoV 2013a, Decision No. 1533/QĐ-TTg about the approval of the socio-economic development master plan 
+until 2020 with vision to 2030, The Central Government of Vietnam.
+
+GoV 2013b, Decision no. 1515/QĐ-TTg dated Aug 28, 2013 on Approval of the Adjustments to the Master 
+plan of Cần Thơ City until 2030 with vision to 2050, The Central Government of Vietnam.
+
+Green-ID 2018, Combining solar energy and agricultural production: International experience and potentials 
+for Vietnam, Green Innovation and Development Center-GreenID, Hanoi.
+
+MONRE 2016, Climate change and sea level rise scenarios for Vietnam, Ministry of Environment and Natural 
+Resources.
+
+UBND-CanTho 2015, Action Plan to respond to climate change of Cần Thơ city, 2015-2030, People’s 
+Committee of Cần Thơ city.
+
+UBND-CầnThơ 2010, Cần Thơ City Climate Change Resilience Plan, Cần Thơ People’s Committee - Steering 
+Committee for the Implementation of the Decision No. 158.
+
+UBND-CầnThơ 2014a, Synthesis report about the revision of Cần Thơ socio-economic development master plan 
+until 2020, with vision to 2030, Cần Thơ People’s Committee, Cần Thơ.
+
+UBND-CầnThơ 2015a, Synthesis report on solutions for economic structure shifts for Cần Thơ city until 2020, 
+People’s Committee of Cần Thơ.
+
+UBND-CầnThơ 2015b, Decision No. 3814/QĐ-UBND o the approval of the Project on solutions for economic 
+structure shifts for Cần Thơ city until 2020, Cần Thơ People’s Committee.
+
+UBND-CầnThơ 2017, Report about preliminary results of the five years of implementation of the socio-
+economic development master plan until 2020, with vision to 2030, Cần Thơ People’s Committee.
+
+UBND-CầnThơ 2018, Socio-economic Development Plan of Cần Thơ City 2019, issued with Decision no. 3228/
+QD-UBND dated Dec 10, 2018 by Cần Thơ People’s Committee.
+
+VIAP-SIUP 2013, Narrative report of project for modifying the master plan of Cần Thơ City until 2030 with vision 
+to 2050, Institute for Architecture, Urban and Rural Planning & Southern Institute for Urban and Rural 
+Planning, Can Tho.
+
+110
+
+© Văn Phòng CCCO Cần Thơ
+
+111
+
+REFERENCESCAN THRESILIENTRESILIENT
+
+CAN 
+TH
+
+112
+
+Lê Thị Nguyệt Linh © Cần Thơ Department of Culture, Sports and Tourism
+
+CAN THRESILIENT

@@ -1,0 +1,5016 @@
+Wellington  
+Resilience Strategy
+
+March 2017
+
+Contents
+
+ 
+
+Foreword 
+Resilient Wellington – a strategy 
+100 Resilient Cities 
+Reading this strategy 
+Our resilience story 
+ 
+ 
+ 
+ 
+Our goals and programmes 
+ 
+
+Chapter 1 – Looking back 
+Chapter 2 – 2020s: Our society is transforming 
+Chapter 3 – 2030s: The earth is moving 
+Chapter 4 – 2040s: The sea is rising 
+
+Everyone thrives 
+Community resilience 
+Economic resilience 
+
+Goal 1 –  Connected and empowered communities 
+ 
+ 
+ 
+Goal 2 – Integrated and informed decision making 
+ 
+ 
+ 
+ 
+Goal 3 – Healthy and robust homes, built and natural environment 
+ 
+ 
+ 
+
+Homes and telecommunication 
+Water and natural environment 
+Transport and energy 
+
+Governance 
+Information 
+Adaptation 
+Recovery 
+
+ 
+
+ 
+
+Implementing Wellington’s Resilience Strategy 
+References  
+Acknowledgements 
+
+4
+7
+10
+13
+
+17
+22
+28
+34
+
+40 
+42 
+48 
+56
+60 
+62 
+68 
+72 
+76
+80 
+82  
+90 
+98
+104
+106
+108
+
+2
+
+3
+
+100 Resilient CitiesWellington Resilience StrategyForeword
+
+Justin Lester 
+Mayor of Wellington
+
+Around the world, cities like ours are becoming the economic, social and cultural backbone 
+of our countries. This represents an opportunity to lead the way like never before – but it also 
+comes with challenges. 
+Here in New Zealand’s capital we’ve had our fair share, and we know that our future holds more. 
+Some – like earthquakes and sea level rise – have a measure of predictability. While we don’t 
+know when they might happen, we do know what the effects will look and feel like. We’ve 
+seen them before, often very close to home. For example, I believe we owe it to the people of 
+Christchurch to take what we can from what their city has been through over the last 6 years.
+But along with the more predictable challenges, there are shocks and stresses we don’t yet 
+know about. 
+What we do know is that resilient communities will pull together in times of adversity, while 
+also having better lives each and every day. 
+We also know there are things we can do today that will pay back exponentially when the 
+time comes. Some things are simple, like getting to know your neighbours, but others are 
+more complex, like investing in housing and transport frameworks to make them efficient 
+and robust. By preparing now, we’re making sure we can rise to meet the challenges in the 
+future.
+This strategy lays out a coherent blueprint for dealing with future shocks and stresses. Some 
+of the plans we have are short term and tactical; others are longer term and more strategic in 
+nature. All of them have people at the centre. 
+He aha te mea nui o te ao? He tangata, he tangata, he tangata.1
+In recent years climate experts, disaster responders and sustainability proponents have come 
+into rare alignment. They agree we have a once-in-a-lifetime opportunity to develop and 
+invest in a future for Wellington that ensures we will not only survive shocks and stresses, 
+but also thrive afterwards.
+On behalf of Wellingtonians, present and especially future, I would like to thank 100 
+Resilient Cities – Pioneered by The Rockefeller Foundation, for their support, and I would like 
+to thank the many people who contributed to the development of this document.
+I’m privileged to be able to launch Wellington’s inaugural Resilience Strategy.
+Tū whare ora.
+
+Michael Berkowitz 
+President  
+100 Resilient Cities
+
+Kia ora,
+On behalf of the entire 100 Resilient Cities family, I want to congratulate Mayor Lester and 
+the city of Wellington on the release of your Resilience Strategy. This is a major milestone for 
+the city and 100RC’s partnership with “the world’s coolest little capital”.  
+Wellingtonians have had a long history of resilient determination, whether as warriors, 
+or pioneers, creating strong communities in this beautiful but sometimes harsh harbour at 
+the southern tip of the North Island. Potentially destructive earthquakes, rising seas, and the 
+city’s famous winds have kept Wellingtonians acutely aware of their vulnerability and helped 
+hone their famous Kiwi ingenuity.
+With the strategy, Wellington continues the serious work of ensuring that the city becomes 
+resilient not only to the shocks of earthquakes but also the daily stresses that can be equally 
+destructive, such as social and economic inequality, the physical integrity of the city’s 
+houses, and issues of mental health and addiction that plague too many.
+Wellington is changing; its population is growing and becoming more diverse. It is also 
+getting older, and as the city welcomes newcomers who will enrich the city and ensure its 
+vibrant future, this strategy provides for programmes for their employment and integration. 
+As Wellington evolves, it must foster collaboration between its communities, provide access 
+to information and services to all, and ensure meaningful involvement in decision making. 
+This strategy emphasises that trust and collaboration are key – without them, true resilience that 
+takes into account all of Wellington’s voices and concerns cannot be achieved. The ancient Māori 
+legend of Ngake and Whātaitai beautifully illustrates the kind of inclusivity and resourcefulness 
+that will support Wellington’s resilience journey in the coming years and beyond. 
+Late last year the Kaikoura earthquake drove home the urgency of building this kind of 
+resilience. It also highlighted a major reason why Wellington will undoubtedly be able 
+to do so: Chief Resilience Officer Mike Mendonça. Mike’s work on the recovery after the 
+earthquake shows he and his team have already begun the work of embedding resilience 
+thinking into how the city manages its shocks and stresses. Rather than trying to defy nature, 
+the Wellington Resilience Strategy seeks to live in tandem with it, using the challenges it 
+poses as opportunities to become even stronger. 
+This document is just the beginning, of course. As the capital city of a progressive nation, 
+we’re looking to you to lead the way nationally and internationally; you’ve already begun to 
+lead by example, and we’ve come to expect nothing less.
+
+1 
+
+What is the most important thing in the world?  It is the people, it is the people, it is the people
+
+4
+
+5
+
+100 Resilient CitiesWellington Resilience StrategyMike Mendonça was appointed Wellington’s Chief Resilience Officer in 
+December 2015 to lead development of this strategy. He now also manages 
+the recovery efforts in Wellington following the Kaikoura earthquake and will 
+oversee the implementation of this strategy. 
+
+Resilient Wellington 
+– a strategy
+
+Fifty years ago, Wellington looked completely different to the way it looks today. It’s unlikely 
+that Wellingtonians of the 1960s could have dreamed of how connected their children and 
+grandchildren would be to each other and the rest of the world – virtually, through massive 
+advances in technology and telecommunications, and physically, through a bustling 
+international airport.
+They probably wouldn’t have thought that our population would be 13 percent Māori, 
+8 percent Pasifika and 8 percent Asian, with more than 80 ethnic groups and dozens of 
+languages spoken on the streets. Nor would they have thought that Wellington could be 
+transformed from a government town into “the coolest little capital in the world”.
+While they might have expected earthquakes to be an ongoing worry, they would not have 
+foreseen traffic congestion, people living rough in the central city, or that the climate would 
+have changed to the point that we need to adapt our city to rising sea levels, and to more 
+intense and frequent flash floods and high winds.
+In another few decades, people will reflect on our time and wonder at the change that will 
+have occurred between 2017 and 2050.
+This strategy sets out a blueprint to enable Wellingtonians to better prepare for, respond 
+to, and recover from disruptions. It is designed to maintain and build on the resilience 
+momentum that has been generated to date. It outlines accountabilities and actions for 
+change – its purpose is to make a positive difference. It is our vision that as Wellington moves 
+and changes, everyone here will survive and thrive.
+Three goals will support this vision: that people are connected, empowered and feel part 
+of a community; decision making is integrated and well informed; and our homes, natural 
+and built environment are healthy and robust. These goals will drive a series of strategic 
+projects designed to shape our future city. Each of the projects signals a need to change from 
+the status quo, such as preparing Wellington to adapt itself to the effects of sea level rise, and 
+integrating recovery planning for the earthquake that we know will strike Wellington.
+In developing this strategy, 200 people including infrastructure managers, researchers, 
+community members, businesses and council staff from across the Wellington region 
+imagined themselves in the shoes of their children and grandchildren in 35 years’ time. 
+What will be the shocks and stresses they are likely to encounter, and what can we do today 
+so that their lives – and ours – can be improved?  How can we be Resilient Wellington?
+To help bring these likely experiences to life, we developed a ‘resilience story’ through a 
+series of stakeholder workshops. The story follows a fictional family as they grapple with life 
+in Wellington over the coming decades.
+The story provided an inspiration and a test environment for a series of accelerated design 
+workshops, where the actions that form this strategy have been developed, building on 
+Wellington’s strengths.
+We developed the strategy using four principles: to co-design wherever possible, to accelerate 
+design, to use a strengths based approach, and to use story telling to communicate the 
+resilience agenda.
+
+6
+
+7
+
+100 Resilient CitiesWellington Resilience StrategyCo-design – To maximise involvement of the wide group of stakeholders and experts, covering all city resilience 
+dimensions, the strategy content is primarily driven by the outputs of a series of design workshops.
+
+Strength based approach – Specific focus to build on 
+Wellington strengths has been applied during the 
+appreciative enquiry workshops and led to development 
+of our resilience graphic novel as well opportunities that 
+were designed into resilience projects.
+
+Accelerated design – Projects underpinning this strategy 
+were developed at the Action Workshop modelled on a 
+hackathon methodology and building on ideas generated 
+through appreciative enquiry and story telling.
+
+Story telling – This approach has been integrated into the strategy development from early stages to ensure that the 
+strategy inspires and captures Wellingtonians’ imagination. Story telling was a focus of the Story Workshop and led  
+to the development of our graphic novel.
+
+This strategy heralds change – change that will require broad 
+
+collaboration, strong leadership and tenacity supported  
+
+by compelling evidence. 
+
+Wellington isn’t just Wellington City. The Wellington 
+region features a complex series of systems and 
+relationships covered by nine different council areas. 
+Shocks and stresses don’t respect the boundaries 
+between these areas and nor does this strategy.  
+While its primary focus is Wellington City, we have 
+
+looked at it in the context of the wider region, especially 
+the urban areas of Porirua and Hutt Valley. We have 
+indicated where projects have a regional scope. 
+In the middle of all this, the Kaikoura earthquake on 
+14 November 2016 gave Wellingtonians a stark reminder 
+of what an earthquake can do to a city.
+
+September 2015
+
+June 2016
+
+1
+ 
+e
+s
+a
+h
+P
+
+Strategy Launch
+Agenda setting 
+
+workshop
+
+Vision
+
+Discovery Areas
+
+Appreciative 
+
+enquiry workshops
+
+Challenge 
+workshop
+
+Preliminary 
+resilience 
+assessment
+
+ 
+
+2
+e
+s
+a
+h
+P
+
+Research  
+& story
+
+Programmes  
+& projects
+
+Analysis  
+
+& prioritisation
+
+Story workshop
+
+Action workshop
+
+Reflection workshop
+
+Wellington 
+Resilience 
+Strategy
+
+March 2017
+
+8
+
+9
+
+100 Resilient CitiesWellington Resilience StrategyLogotype
+
+Bristol
+Ending homelessness
+
+p.46
+
+Rotterdam
+Learning exchange
+
+Byblos
+Protecting heritage
+
+p.55
+
+Stamp
+Use when indicating partnership.
+
+Used as a graphic symbol across 
+collateral. Always filling the 
+space—supporting our values.
+
+p.95
+
+Paris
+Talking rubbish with Veolia
+
+Singapore
+Learning exchange
+
+Favicon or symbol
+For use as a favicon, or for future use as a certification mark (TBD).
+
+p.93
+
+Melbourne
+Conserving nature with 
+The Nature Conservancy
+
+Boulder
+Learning exchange
+
+Mexico City
+Great Model
+
+p.69
+
+p.102
+
+Mexico City
+Integrating the 
+mobility system
+
+Wellington
+
+05
+
+Christchurch
+Recovering from earthquake
+
+p.77
+
+New York City
+Rebuild By Design
+
+p.67
+
+p.86
+
+New Orleans
+Making homes 
+healthy and safe
+
+In 2014 Wellington joined 100 Resilient Cities (100RC) – 
+Pioneered by The Rockefeller Foundation. 100RC helps 
+cities around the world become more resilient to the 
+physical, social, and economic challenges that are a 
+growing part of life in the 21st century. 100RC provides 
+this assistance through funding for a Chief Resilience 
+
+Officer in each member city to lead resilience efforts; 
+resources for drafting a resilience strategy, including 
+extensive reports from our Strategy Partner AECOM; 
+membership in a global network of peer cities to share 
+best practices and challenges, and access to a variety 
+of resilience tools. 
+
+ROUND ONE CITIES 
+ROUND TWO CITIES
+ROUND THREE CITIES
+
+100RC has brought valuable experience, resources and connections 
+to Wellington.  
+Participation in the global network of cities developing their resilience 
+strategies enabled us to exchange experiences, and Wellington has been 
+an active member of the network. We shared knowledge and experience 
+with cities facing similar challenges, including Boulder, Rotterdam, 
+Singapore and Melbourne. Some of the ideas we came across are outlined 
+in this strategy.
+We are also working with a range of 100RC Platform Partners – a group 
+of leading service providers who offer in-kind support to member cities. 
+Among these are Veolia and The Nature Conservancy. 
+100RC supports a view of resilience that includes not just the shocks (such 
+as earthquakes, fires, and floods), but also chronic stresses that weaken the 
+fabric of a city on a day-to-day or cyclical basis. This view of resilience is 
+not only about how to maintain a functioning city in emergency situations, 
+but also how to contribute to a higher quality of life by enhancing 
+economic, environmental and social outcomes during good times.
+We used 100RC tools such as the City Resilience Framework (CRF) 
+to ensure all of our projects generate resilience co-benefits. Instead 
+of focussing on individual hazards we have focussed on actions 
+that will build qualities such as flexibility, robustness, integration, 
+resourcefulness, inclusivity and continuous learning into all of the city 
+systems – our regulation, communities, infrastructure, and knowledge 
+networks – so Wellington can survive and thrive no matter what shocks 
+or stresses occur. 
+At the action workshop we came up with 600 ideas to improve 
+Wellington’s resilience. Using the CRF as a guide we then developed 
+“power initiatives” that generate the most benefits across multiple 
+resilience drivers, engage a broad range of people, and generate equitable 
+outcomes in the short and long term. We have settled on 30 projects that 
+complement each other and apply across multiple goals and programmes.
+
+10
+
+11
+
+100 Resilient CitiesWellington Resilience StrategyReading this strategy
+
+The process allowed Wellingtonians to define resilience 
+for their own city, and to come up with the most important 
+areas for investment. This was no easy task, as it quickly 
+became clear that the word resilience means different 
+things to different people. It was very important to build 
+
+on experiences around the world and to understand what 
+resilience means for Wellington.  Once there was a common 
+understanding, it became much easier to challenge the 
+status quo, and to focus on the areas and initiatives that 
+could really make a difference.
+
+This strategy is about change. Current and future changes to the ocean, 
+
+land and our society will drive our decisions. 
+
+This strategy is divided in two parts
+
+City Resilience Framework
+
+The City Resilience 
+Framework (CRF), developed 
+by Arup and The Rockefeller 
+Foundation, identifies 12 
+drivers of resilient cities 
+across the areas of health 
+and wellbeing, economy 
+and society, infrastructure 
+and environment, and 
+leadership and strategy. 
+We used this tool to assess 
+the completeness of our 
+current initiatives and 
+understand various city 
+systems’ ability to cope 
+with shocks and stresses. 
+We also used it to ensure 
+we had a representative 
+sample of people and 
+organisations contributing 
+to the development of the 
+strategy. The tool enabled 
+us to broaden thinking in 
+Wellington beyond disaster 
+preparedness and recovery 
+and ensure that the initiatives 
+identified will make the 
+best ongoing contribution to 
+building the city's resilience. 
+
+Our resilience story
+Our resilience story tells how we coped 
+with challenges in the past and how we 
+hope to in the future, and sets the vision 
+for Resilient Wellington.
+
+Our goals and programmes
+We also provide further detail on our goals 
+and individual programmes, the challenges 
+they aim to address, and the specific actions 
+we are planning.
+
+Chapter 1
+Looking back.
+
+Chapter 2
+2020s – Our society is transforming.
+
+Chapter 3
+2030s – The earth is moving.
+
+Chapter 4
+2040s – The sea is rising.
+
+Goal 1
+People are connected, empowered 
+and feel part of a community.
+
+Goal 2
+Decision making at all levels is 
+integrated and well informed.
+
+Goal 3
+Our homes and natural and built 
+environments are healthy and robust.
+
+Many of the events in the story are the drivers behind our three goals and the actions contained 
+in this strategy. Look out for our characters in the goals and programmes sections to see how the 
+
+story and actions connect. Relevant project numbers are highlighted throughout the story.
+
+12
+
+13
+
+100 Resilient CitiesWellington Resilience StrategyOur Resilient Wellington vision is that:
+
+As Wellington changes, 
+everyone here will 
+survive and thrive.
+
+Wellington’s resilience challenges originate 
+from three big systems on the move. 
+
+Our society is transforming.
+
+Wellington’s population is growing. It is getting older, more diverse and less equitable. Some 
+of our homes, instead of being a source of resilience, are cold, wet and unaffordable. New 
+people are arriving – some will struggle to develop skills and find jobs. Some of our citizens are 
+disconnected from society, living on the streets at the mercy of their mental health issues or 
+substance addictions. Communities and the public and private sectors must share information, 
+trust one another, and work together more effectively to develop a better resilience culture.
+
+The earth is moving in Wellington.
+
+A significant seismic event is inevitable. Current efforts are focussed on saving lives but our 
+buildings will be damaged and it will take time before we can use them again. The energy, 
+transport, water and telecommunications infrastructure that serves our communities, our 
+Government and our business sectors are centralised and vulnerable. Central Wellington 
+generates eight percent of national GDP and 48 percent of regional GDP. If the robustness 
+and integration of knowledge, planning and governance in Wellington isn’t improved, the 
+consequences could be socially and economically significant. 
+
+The sea is rising.
+
+Extreme weather is already affecting our coastline and low-lying parts of the city, damaging 
+seawalls and flooding homes. More intense rain and wind will cause more flooding in our streets, 
+land slips on our hills, damage natural and built assets, and increase maintenance costs. We are yet 
+to understand climate change’s physical, financial, cultural and social implications, and how we 
+should adapt. We have many strengths – including a stunning natural environment and insights 
+from Māori culture on integrating human activities with nature – but we must collaborate within 
+Wellington, New Zealand and even globally to find long-term solutions.
+
+Goal 1
+p.40
+
+Goal 2
+p.60
+
+Goal 3
+p.80
+
+People are connected, empowered and feel part of a community.
+
+Programme 1.1
+Everyone thrives
+We will enable all Wellingtonians to have an opportunity  
+to enhance wellbeing for themselves and their communities.
+
+ 
+p. 42
+
+Programme 1.2
+Community resilience
+We will build on existing strengths to develop innovative 
+programmes that connect and empower communities to 
+improve their wellbeing.
+
+ 
+p. 48
+
+Programme 1.3
+Economic resilience
+We will support our business community to improve  
+preparedness and strengthen our economic activity.
+
+ 
+p. 56
+
+1
+
+2
+
+Improve access to household resilience items
+
+Prepare for an 
+
+ageing population
+
+3
+
+Reduce homelessness
+
+4
+
+6
+
+Help communities 
+build resilience
+
+Develop sustainable 
+
+food networks
+
+5
+
+7
+
+Support community spaces in taking 
+on wellbeing and post-disaster roles
+
+Develop disaster risk management 
+
+plans for heritage areas
+
+8
+
+9
+
+Increase economic resilience of central city 
+
+and outside hubs
+
+Help improve business 
+continuity planning
+
+10
+
+Improve understanding 
+
+of workforce trends
+
+Decision making at all levels is integrated and well informed.
+
+Programme 2.1
+Governance
+We will ensure that resilience is integrated 
+into our governance.
+
+ 
+p. 62
+
+Programme 2.2
+Information
+We will make information on all aspects 
+of living in Wellington easily accessible.
+
+ 
+p. 68
+
+Programme 2.3
+Adaptation
+We will raise awareness about the potential effects 
+of climate change and sea level rise to better 
+emphasise the need for decisions to be made.
+
+ 
+p. 72
+
+Programme 2.4
+Recovery
+We will develop a framework for successful 
+recovery from any disruption.
+
+ 
+p. 76
+
+11
+
+13
+
+Introduce regulatory 
+tools for resilience
+
+12
+
+Review Wellington 
+
+Lifelines Group
+
+Maintain monitoring and 
+evaluation of resilience goals
+
+14
+
+15
+
+Give Wellingtonians information 
+
+they need to make decisions
+
+Develop a virtual reality model of 
+the central city built environment
+
+16
+
+17
+
+Develop a communications and  
+
+engagement strategy for the Adaptation Plan 
+
+Undertake recovery planning for 
+
+the Wellington region
+
+18
+
+19
+
+Encourage climate adaptation actions
+
+Carry out post-earthquake housing study
+
+Our homes and natural and built environments are healthy and robust. 
+
+Programme 3.1
+Homes and telecommunication
+We will support initiatives that contribute to Wellington homes 
+forming the cornerstone of the city's resilience.
+
+ 
+p. 82
+
+Programme 3.2
+Water and natural environment
+We will ensure that Wellingtonians always have access to water 
+services, in a way that enhances our natural environment. 
+
+ 
+p. 90
+
+Programme 3.3
+Transport and energy
+We will work with infrastructure owners to ensure flexibility and 
+robustness of transport and energy services in Wellington.
+
+ 
+p. 98
+
+20
+
+22
+
+Help make homes warm, 
+
+safe and dry 
+
+Understand the scale of the  
+
+non-weathertight homes problem
+
+21
+
+23
+
+Support insurance 
+literacy campaign
+
+24
+
+Improve water systems 
+
+through ecological interventions
+
+25
+
+Explore options for 
+sewage sludge disposal
+
+Assess the capacity for  
+large-scale remote working
+
+26
+
+Ensure emergency water 
+
+27
+Invest in water and wastewater 
+
+supply for Wellington Hospital
+
+resilience and awareness
+
+28
+
+30
+
+Support flexible 
+energy supply
+
+29
+
+Support widespread 
+
+adoption of electric vehicles
+
+Leverage transportation investment to 
+
+improve Wellington's resilience
+
+14
+
+100 Resilient Cities
+
+15
+
+Wellington Resilience StrategyChapter 1 
+
+Looking back
+
+To achieve this vision we have 
+committed to three goals and 
+10 interrelated programmes, 
+each implemented through 
+
+a series of projects.
+
+17
+
+100 Resilient CitiesWellington region
+
+Territorial boundaries
+
+Porirua
+
+Hongoeka
+
+Hutt City
+
+Mana Island habitation sites 
+
+Wellington City
+
+m
+a
+e
+r
+t
+S
+
+ 
+i
+
+i
+
+w
+k
+o
+r
+o
+H
+
+Porirua City
+
+History – map key
+
+Current urban areas
+Māori Pa sites
+Early British settlements
+Peaks
+State Highway
+Railway
+Territorial boundary
+
+Takapuwahia
+
+1
+
+Wellington City
+
+Mt Kaukau 445m
+
+Hutt River
+
+2
+
+Te Tatau o Te Pō
+
+Waiwhetu
+
+First British settlement 
+(Brittania)
+
+Makara Hill 412m
+
+Early settlement 
+of Wellington
+
+Pipitea Pa
+
+Te Aro Pa
+
+Mt Victoria 196m
+
+Te Moana-a-kura Pa
+
+Hawkins Hill 495m
+
+1
+
+Hutt City
+
+Orongorongo River
+
+er
+
+ata Riv
+m
+uio
+Wain
+
+Wellington City 
+• Land area  29,024 ha
+
+Porirua City 
+• Land area 18,251 ha 
+
+Hutt City 
+• Land area 37,664 ha
+
+18
+
+19
+
+100 Resilient CitiesWellington Resilience Strategy20
+
+21
+
+100 Resilient CitiesWellington Resilience StrategyChapter 2 
+
+Related projects
+
+2020s –  
+Our society  
+is transforming
+
+Goal 1 – People are connected, empowered and feel part of a community
+Programme 1.1 – Everyone thrives
+2
+
+3
+
+Prepare for an ageing population
+
+Reduce homelessness
+
+Programme 1.2 – Community resilience
+4
+6
+
+Help communities build resilience
+
+Develop sustainable food networks
+
+Programme 1.3 – Economic resilience
+8
+
+Increase economic resilience of central city and outside hubs
+
+Goal 3 – Our homes and natural and built environments are healthy and robust
+Programme 3.1 – Homes and telecommunication
+20
+
+22
+
+Understand the scale of the  
+
+Help make homes warm, safe and dry
+
+Programme 3.3– Transport and energy
+29
+28
+
+Support flexible energy supply
+
+non-weathertight homes problem
+
+Support widespread adoption 
+
+of electric vehicles
+
+p. 40
+
+p. 80
+
+30
+
+Leverage transportation investment to improve Wellington's resilience
+
+22
+
+23
+
+100 Resilient CitiesWellington Resilience StrategyNote: Blue numbers relate to projects in this strategy
+
+Wellington region
+
+Territorial boundaries
+
+Porirua
+
+Hutt City
+
+Wellington City
+
+m
+a
+e
+r
+t
+S
+
+ 
+i
+
+i
+
+w
+k
+o
+r
+o
+H
+
+Porirua City
+
+2.96 persons per ha.
+
+Society – map key
+
+Urban areas
+High social deprivation
+Railway
+State Highway
+Territorial boundary
+
+Wellington City
+
+6.89 persons per ha.
+
+1
+
+2
+
+Hutt River
+
+1
+
+Hutt City
+
+2.7 persons per ha.
+
+Orongorongo River
+
+er
+
+ata Riv
+m
+uio
+Wain
+
+Wellington City 
+• Population: 200,000 
+• Population 2043: 249,997
+• GDP: $117,540
+
+Porirua City 
+• Population: 54,100
+• Population 2043: 64,843
+• GDP: $23,747
+
+Hutt City 
+• Population: 101,700
+• Population 2043: 109,885
+• GDP: $42,721
+
+4
+
+22
+
+24
+
+25
+
+100 Resilient CitiesWellington Resilience Strategy29
+
+8
+
+30
+
+3
+
+2
+
+20
+
+26
+
+28
+
+6
+
+27
+
+100 Resilient CitiesWellington Resilience StrategyChapter 3 
+
+Related projects
+
+2030s –  
+The earth is moving
+
+Goal 1 – People are connected, empowered and feel part of a community
+Programme 1.1 – Everyone thrives
+1
+
+Improve access to household resilience items
+
+Programme 1.2 – Community resilience
+5
+
+Support community spaces in taking on wellbeing and post-disaster roles
+
+Programme 1.3 – Economic resilience
+9
+
+Help improve business continuity planning
+
+Goal 2 – Decision making at all levels is integrated and well informed
+Programme 2.1 – Governance
+12
+
+13
+
+Review Wellington Lifelines Group
+
+Maintain monitoring and 
+evaluation of resilience goals
+
+Programme 2.2 – Information
+14
+
+Give Wellingtonians information 
+
+they need to make decisions
+
+Programme 2.4 – Recovery
+18
+
+Undertake recovery planning  
+
+for the Wellington region
+
+15
+
+19
+
+Develop a virtual reality model of 
+the central city built environment
+
+Carry out post-earthquake 
+
+housing study
+
+28
+
+for Wellington Hospital
+
+resilience and awareness
+
+Programme 3.2– Water and natural environment
+26
+
+Ensure emergency water supply 
+
+27
+
+Invest in water and wastewater 
+
+Goal 3 – Our homes and natural and built environments are healthy and robust
+Programme 3.1 – Homes and telecommunication
+21
+
+23
+
+Support insurance literacy campaign
+
+Assess the capacity for  
+large-scale remote working
+
+p. 40
+
+p. 60
+
+p. 80
+
+29
+
+100 Resilient CitiesWellington Resilience StrategyNote: Blue numbers relate to projects in this strategy
+
+m
+a
+e
+r
+t
+S
+
+ 
+i
+
+i
+
+w
+k
+o
+r
+o
+H
+
+Porirua City
+
+n
+
+Transmission Gully – new highway under constructio
+
+Hutt River
+
+Wellington region
+
+Territorial boundaries
+
+Porirua
+
+Hutt City
+
+Wellington City
+
+Earthquakes – map key
+
+Urban areas
+Tsunami evacuation areas
+Liquefaction zones
+Main active faults
+Second order faults
+Kaitoke water bulk main
+Transmission Gully
+State Highway
+Railway
+Territorial boundary
+
+West Wind Farm
+
+Wind turbines
+
+Wind farm
+Railway station
+Ferry terminal
+Airport
+Parliament
+
+Wellington City
+
+1
+
+2
+
+18
+
+1
+
+Hutt City
+
+Orongorongo River
+
+er
+
+ata Riv
+m
+uio
+Wain
+
+30
+
+31
+
+1
+
+14
+
+100 Resilient CitiesWellington Resilience Strategy12
+13
+
+5
+
+21
+
+9
+
+32
+
+23
+
+19
+
+27
+
+15
+
+26
+
+33
+
+100 Resilient CitiesWellington Resilience StrategyChapter 4 
+
+Related projects
+
+2040s –  
+The sea is rising
+
+Goal 1 – People are connected, empowered and feel part of a community
+Programme 1.2 – Community resilience
+7
+
+Develop disaster risk management plans for heritage areas
+
+Programme 1.3 – Economic resilience
+10
+
+Improve understanding of workforce trends
+
+Goal 2 – Decision making at all levels is integrated and well informed
+Programme 2.1 – Governance
+11
+
+Introduce regulatory tools (including enforcement) for resilience
+
+Programme 2.3 – Adaptation
+16
+
+Develop a communications and  
+
+engagement strategy for the Adaptation Plan
+
+17
+
+Encourage climate 
+adaptation actions
+
+Goal 3 – Our homes and natural and built environments are healthy and robust
+Programme 3.2 – Water and natural environment
+24
+
+25
+
+Improve water systems through 
+
+Explore options for sewage 
+
+ecological interventions
+
+sludge disposal
+
+34
+
+p. 40
+
+p. 60
+
+p. 80
+
+35
+
+100 Resilient CitiesWellington Resilience Strategym
+a
+e
+r
+t
+S
+
+ 
+i
+
+i
+
+w
+k
+o
+r
+o
+H
+
+Porirua City
+
+n
+tio
+c
+u
+r
+t
+s
+n
+o
+
+Transmission Gully – new highway under c
+
+Note: Blue numbers relate to projects in this strategy
+
+Wellington region
+
+Territorial boundaries
+
+Porirua
+
+Hutt City
+
+Wellington City
+
+Climate – map key
+
+Urban areas
+1m sea level rise
+High risk slope failure
+High wind zone
+Flooding zones
+Transmission Gully
+State Highway
+Railway
+Territorial boundary
+
+West Wind Farm
+
+Wind turbines
+
+Wind farm
+Railway station
+Ferry terminal
+Airport
+Parliament
+
+Wellington City
+
+1
+
+2
+
+Hutt River
+
+1
+
+Hutt City
+
+Orongorongo River
+
+er
+
+ata Riv
+m
+uio
+Wain
+
+16
+
+36
+
+37
+
+100 Resilient CitiesWellington Resilience Strategy17
+
+24
+25
+
+10
+
+11
+
+7
+
+38
+
+39
+
+100 Resilient CitiesWellington Resilience StrategyGoal 1
+People are connected, 
+empowered and feel 
+part of a community
+
+Our connections in the community provide us with informal support 
+and shared resources, such as locally grown food, car pooling options, 
+and opportunities to socialise. As our city grows and our systems are 
+stretched, people in communities that are cohesive and empowered will 
+be better able to support each other through disasters, as well as thrive 
+in the face of everyday challenges.
+
+Programme 1.1
+Everyone thrives
+We will enable all Wellingtonians to have an opportunity to enhance 
+wellbeing for themselves and their communities.
+
+p. 42
+
+Programme 1.2
+Community resilience
+We will build on existing strengths to develop innovative programmes 
+that connect and empower communities to improve their wellbeing.
+
+p. 48
+
+Programme 1.3
+Economic resilience
+We will support our business community to improve preparedness and 
+strengthen our economic activity.
+
+p. 56
+
+40
+
+41
+
+1980
+
+2011
+
+Between 1980 and 2011,  
+
+New Zealand was in the top five OECD countries in terms of income 
+
+inequality, with the increasing divide believed to be a significant handbrake 
+on overall economic growth; nationally, income inequality is estimated to 
+have reduced economic growth by almost 15 percent over the last 20 years. 
+
+(OECD, 2014) 
+
+29 percent of Māori 
+and almost half of 
+Pasifika were living 
+in the most deprived 
+
+neighbourhoods. 
+
+(CCDHB, 2015)
+
+Māori and Pasifika were 
+twice as likely as others to 
+be admitted to hospital for 
+an avoidable condition in 
+the Hutt Valley DHB area, 
+
+with Māori 70 percent 
+
+more likely in the Central 
+and Coast DHB area (which 
+takes in Wellington City, 
+Porirua, Tawa and the 
+
+Kāpiti Coast). 
+(CCDHB, 2015)
+
+Programme 1.1 
+Everyone thrives
+
+We will enable all Wellingtonians to have 
+an opportunity to enhance wellbeing for 
+
+themselves and their communities.
+
+While most Wellingtonians 
+
+have high levels of education 
+and income, there are 
+
+pockets of severe deprivation with high 
+support needs and more limited access 
+to services. Māori, Pasifika and refugee 
+populations are over-represented in 
+these areas. We are also not comfortable 
+with the number of people living rough 
+on our streets in recent years.
+This sort of inequality can be a self-
+fulfilling cycle that entrenches existing 
+disadvantage. Due to increasing 
+pressures on housing affordability, 
+people on lower incomes often have 
+to settle for cold and damp housing 
+in areas with limited access to public 
+transport and other essential services. 
+These factors can contribute to poorer 
+health, reinforcing existing economic 
+
+Wellington is in an area prone to a 
+range of acute shocks. Our essential 
+services are vulnerable to disruption, 
+meaning that Wellingtonians need to 
+take greater responsibility for their 
+preparedness and ability to ensure 
+their basic needs are met. At present, 
+many Wellingtonians may be unable 
+to access household items and services 
+that can improve their resilience. Some 
+may not be able to afford them, while 
+others may not have access to them due 
+to lack of awareness, physical isolation, 
+or language barriers.
+
+deprivation and social isolation 
+through reduced ability to work, 
+and lower capacity to be prepared for 
+disruptive events.
+Wellington’s population is also 
+ageing – by 2030 the number of people 
+over 65 will double. This will place 
+increased pressure on our healthcare 
+system and aged care support services, 
+and there will be a smaller percentage 
+of working aged people to fund these 
+services through taxes. We need to 
+reassess how our infrastructure, 
+including housing and our transport 
+system, supports the needs of older 
+residents. Employers will need to 
+prepare for a higher percentage of older 
+workers. Wellington’s ethnic mix and 
+skills pool are also changing but we 
+have even less information on that.
+
+42
+
+43
+
+100 Resilient CitiesWellington Resilience Strategy2
+Prepare for an 
+ageing population
+
+1
+Improve access 
+to household 
+resilience items
+
+Lead
+WCC and WREMO
+Scaling up existing regional project
+We will improve access to household items that enhance preparedness and 
+recovery, ensuring that all Wellingtonians can survive in their own home for 
+at least the first 7 days after a major shock event.
+
+Action
+This project will promote and scale up existing education programmes, services 
+and products such as household water tanks, items for urban agriculture and 
+Grab&Go bags. In addition, we will explore partnership opportunities with 
+the private sector around new, affordable products that improve personal 
+preparedness for shock events and improve day-to-day wellbeing, such as 
+home kits to secure house foundations, and partnerships with nurseries to 
+supply fruit trees and other produce that can be grown at home. The project will 
+also investigate how to reduce cost barriers to access these products through 
+subsidisation and private sector involvement. Other barriers will be considered too 
+– we will partner with local trusted networks (for example, community groups and 
+elders) to broaden the reach into more communities.
+
+Resilience co-benefits
+This project will build the capacity of vulnerable Wellingtonians to support 
+themselves in the event of a shock (Project 18). Resilience resources will increase 
+community confidence and also benefit Wellingtonians outside times of shock, 
+improving social cohesiveness and reducing inequality (Project 4).
+
+Key partners
+WREMO, Universities, Office for Seniors
+
+Lead
+WCC
+New Wellington City project
+We will plan our transport, housing, health system and social spaces to enable our 
+ageing population to fully participate and contribute to the economic and social 
+life of our city.
+
+Action
+The Council will host a symposium to discuss and share existing local efforts and 
+international best practice in approaches to catering for ageing populations. It will 
+bring together people from a wide range of backgrounds including senior and youth 
+associations, health sector, sport and aged care industry, as well as architects, 
+transport and urban planners. Topics will include examples from other 100RC cities 
+and the WHO Global Network of Age Friendly Cities and Communities.
+The symposium will be followed by a research project and spatial mapping of 
+existing services for seniors and a loneliness index. The project will provide 
+recommendations for changes required to prepare for a larger aged population. 
+A multiagency steering group is proposed to oversee the project.
+
+Resilience co-benefits
+As a result of this project, our aged population will, over time, have access to 
+more suitable housing, mobility options and healthcare. The project will focus 
+on enabling this growing subset of our community to contribute actively to the 
+economic (Projects 8, 10) and social life (Projects 4, 5) of our city, thus generating 
+benefits for us all. Applying universal design principles will make our housing and 
+open spaces more flexible and inclusive (Project 20). This will also ensure seniors 
+are able to cope in an emergency as well as to provide support for others.
+
+By better integrating seniors into society 
+we will enhance their ability to cope 
+in an emergency as well as provide 
+support for others.
+
+44
+
+45
+
+100 Resilient CitiesWellington Resilience Strategy3
+Reduce homelessness
+
+Key partners
+Housing New Zealand, Te Whakamura Ai te Ahi
+
+Lead
+WCC
+Scaling up existing city project
+We will reduce street homelessness in Wellington and integrate the most 
+vulnerable people into society by enabling access to housing and partnering with 
+health, social services and other support agencies.
+
+Action
+Te Mahana is a community driven strategy to reduce homelessness in Wellington. 
+Given that Māori are over-represented in those experiencing homelessness, the 
+strategy has been built with strong Māori input, providing a cultural perspective 
+on homelessness, which is essential to changing outcomes for Māori in this area.
+The work of Resilient Wellington has identified that the additional success of 
+this strategy will require greater investment and focus. The programme will be 
+expanded so that frontline staff can work one-on-one with homeless people – 
+this project will provide funding and training for these staff.
+
+Resilience co-benefits
+As well as building greater awareness of the challenge posed by homelessness in 
+Wellington, this project will give more of our citizens a chance to be self-sufficient  
+and an opportunity to contribute meaningfully to our communities (Projects 4, 10, 18).
+
+Preventing homelessness should start with 
+looking after our mental health.
+
+Bristol
+
+Inspiration from the 100RC Network  
+– Homes4Bristol
+Rather than searching for the elusive ‘silver bullet’ solution to homelessness, Bristol 
+has settled on a mature and realistic mix of approaches to combat what is invariably 
+a complex problem.
+Bristol is building on already successful programmes (such as better use of otherwise 
+empty homes) to combat homelessness.
+The city is now investing in early intervention and better co-ordinated social services 
+to prevent homelessness in the first place, with a particular focus on youth. At the same 
+time, Bristol deals assertively with the existing problem. This is supported by analysis 
+that reinforces co-benefits to healthcare and other policy areas if homelessness can be 
+prevented in the first place. There is further focus on making it easy for people to move 
+on as soon as they are ready, and to prevent repeat homelessness.
+Wellington will continue to look to Bristol and other parts of the 100RC network to 
+combat homelessness.
+
+46
+
+47
+
+100 Resilient CitiesWellington Resilience StrategyProgramme 1.2 
+Community resilience
+
+We will build on existing strengths to develop 
+
+innovative programmes that connect and empower 
+
+communities to improve their wellbeing.
+
+Resilient cities are integrated 
+
+and resourceful. They harness 
+connections between systems 
+and institutions to generate multiple 
+benefits, seeking better ways to use 
+existing resources. At the core of these 
+principles is sharing – something 
+most Wellingtonians do regularly. We 
+have a number of start-ups related to 
+car sharing and communal gardens, 
+and we have realised the benefits of 
+shared spaces for innovative thinking 
+through initiatives such as the 
+BizDojo community space and Urban 
+Agriculture programme.
+This idea of sharing is nothing new to 
+Māori, for whom manaakitanga2 and 
+papakāinga3 are traditional values. 
+These values came to the fore in the 
+response and recovery phases of 
+the Canterbury earthquakes. Marae 
+
+facilities around the country, including 
+Wellington, were opened up to the 
+whole community for accommodation, 
+catering and support. Māori 
+communities were among the hardest 
+hit by the earthquakes, and marae 
+became a central hub for the Māori 
+response and recovery. 
+Following the earthquakes, the marae 
+network wasn’t just about buildings 
+and facilities. It was as much about 
+leadership and governance – leaders 
+with the autonomy to act quickly 
+within an existing chain of command. 
+These same attributes will be critical 
+in addressing Wellington’s next major 
+shock and chronic stresses.
+Wellington’s changing size and 
+demographics require us to think 
+differently about how we design and use 
+
+our urban areas and common spaces. A 
+key part of this will be multi-purpose 
+places that enable safe gathering during 
+or immediately after a shock, drive 
+social connections and innovation 
+every day, and provide a location for 
+shared and distributed infrastructure. 
+If these spaces are to meet the needs of 
+our communities, we’ll need to forge 
+meaningful partnerships to understand 
+their diverse and evolving needs, 
+ensuring they are actively involved 
+in decisions around new spaces and 
+infrastructure. While neighbourhoods 
+will always be important, it’s also about 
+engaging with communities of interest, 
+as well as virtual communities who 
+connect online.
+
+Hospitality, kindness, generosity, support - the process of 
+showing respect, generosity and care for others
+
+3 
+
+Original home, home base, village, communal Māori land
+
+2 
+
+48
+
+90%
+
+10%
+
+Currently, 90 percent of Wellingtonians feel they 
+
+have someone to rely on for help if faced with physical 
+
+injury or illness, or if in need of support during 
+
+an emotionally difficult time. 
+
+(WCC, 2015a)
+
+Ten percent do not. That’s not acceptable. 
+
+We are working to develop 
+
+‘zero tolerance to loneliness’ 
+
+in Wellington.
+
+PROJECT
+
+We are looking at how we can expand successful ideas 
+in our #wellynextdoor programme such as Neighbours 
+Day Aotearoa and Growing Neighbourhoods.
+
+Neighbours Day Aotearoa’s purpose is to build 
+community resilience, stronger neighbourhoods 
+and to encourage neighbours to get to know each 
+other because in emergencies they’re likely to be 
+the first to help. 
+Growing Neighbourhoods connects people with  
+food and is a great way to increase social interaction.
+
+Existing efforts to 
+build our resilience – 
+Strathmore 44
+
+Strathmore 44 is an example of a programme where challenges including 
+poor urban design, aged social housing and high levels of deprivation 
+were addressed with a community-led process. A community priority is 
+the need for an innovative space that delivers services, social interaction, 
+and meets cultural needs, ensuring a resilient, collaborative community. 
+This grows trust, pride and collaboration.
+
+WELLINGTON REGION
+EMERGENCY MANAGEMENT
+
+I
+
+E
+C
+F
+F
+O
+
+In July 2012, the nine councils of the Wellington region 
+amalgamated their respective Civil Defence Emergency 
+Management functions. The resulting organisation, 
+WREMO, is a semi-autonomous organisation with a 
+small core of staff that draws on the resources of the 
+region’s councils, as well as the benefits of modern 
+technology. The organisation has been structured 
+
+with more than one-third of its resources dedicated to 
+working with and empowering communities to build 
+resilience to an emergency event. 
+This approach includes heavy investment in community 
+development and participation, placing a strong 
+emphasis on end-user perspectives and fostering robust 
+social networks that help people address the challenges 
+in their day-to-day lives, as well as those that occur 
+following a major shock event.
+With the Joint Centre for Disaster Research, WREMO is 
+a founder of the International Centre of Excellence for 
+Community Resilience.
+
+49
+
+100 Resilient CitiesWellington Resilience Strategy4
+Help communities 
+build resilience
+
+Lead
+WCC,WREMO 
+
+Key partners
+Communities, Neighbours Day Aotearoa, NZ 
+Red Cross, NZ Post
+
+Scaling up existing regional and Wellington City projects
+We will develop and grow innovative programmes that empower communities 
+to increase people’s wellbeing and emergency preparedness, connecting them 
+to each other and their city.
+
+Action
+This project builds on existing engaged and connected communities, as well 
+as current community resilience programmes. It will be run in two streams 
+coordinated by the Council and WREMO.
+The Council will expand the #wellynextdoor programme and, with the 
+community, develop a series of events in streets and apartment buildings. It 
+will also expand the existing participatory, place-based, co-design approach to 
+community planning used in Strathmore Park and Newtown to develop similar 
+projects in other communities in the future. The team will identify opportunities 
+to develop new community spaces, such as community dojos, where a range of 
+people and organisations can use the space to increase social connection and 
+cohesion. All of these places need to be included in disaster planning as alternative 
+shelter and work spaces. We will explore options to make funding accessible to 
+groups and organisations that may not be legal entities.  
+WREMO will scale up its community response and resilience planning with 
+councils throughout the region to expand opportunities to address community 
+vulnerabilities and incorporate urban planning at the neighbourhood level. They 
+will work with local leaders to build on their existing strengths and develop 
+tailored community-led initiatives. WREMO, with support from key partners, 
+will be offering emergency preparedness training and community preparedness 
+workshops with schools, businesses, NGOs and residents. This will include a new 
+Community Leadership module that will focus on helping local leaders direct their 
+communities through change and times of stress.
+The two streams of work are complementary, and a collaborative, participative 
+approach to their design and delivery activities will be taken. They will also link 
+the initiatives with wider planning frameworks.
+
+Resilience co-benefits
+Engaged and empowered communities are at the heart of Wellington’s resilience. 
+This project builds further opportunities for neighbours to meet and make changes 
+to their community that improve their day-to-day wellbeing, while at the same time 
+developing connections and collaboration skills that are essential in emergencies.
+The project will support flexible and inclusive local initiatives with specialist 
+knowledge and resources. The Council and WREMO will ensure the initiatives 
+are coordinated at a regional level and are well connected to urban planning 
+and other city functions.
+Increased community investment in neighbourhoods will lead to healthier and 
+safer communities, generating education and employment opportunities and 
+improving day-to-day wellbeing.
+This project relates strongly to action on household resilience (Project 1), 
+community spaces (Project 5), new economic hubs (Project 8) and climate 
+action (Project 17).
+
+Helping communities to become resilient is 
+not just about disaster preparedness. Increased 
+
+community investment in neighbourhoods 
+
+will lead to healthier and safer communities, generating 
+education and employment opportunities and 
+improving day-to-day wellbeing.
+
+50
+
+51
+
+100 Resilient CitiesWellington Resilience Strategy5
+Support community 
+spaces in taking  
+on wellbeing and 
+post-disaster roles
+
+Lead
+WCC,WREMO 
+
+Key partners
+Communities, Victoria University School 
+of Architecture and Design
+
+Scaling up a Wellington City project
+We will optimise new and existing multi-purpose spaces where communities can 
+interact in good times, as well as after emergency events.
+
+6
+Develop sustainable 
+food networks 
+
+Action
+Drawing on WREMO’s community response planning and the Council’s urban 
+development process, the project team will work with land use planners, 
+infrastructure owners, iwi and businesses to draw greater benefits from multi-
+purpose spaces in Wellington. 
+The project team will build on existing work by Victoria University of Wellington 
+School of Architecture and Design to expand their research on the city’s open 
+space network for post-disaster housing, economic continuity, education and 
+healthcare provision. The team will undertake an assessment to identify the 
+potential for new and existing spaces such as parks, gardens, community dojos, 
+offices and cultural venues to be developed or redeveloped to incorporate a 
+disaster resilience component (such as water sources, food production, electricity, 
+shelter and so on) while enhancing them to maximise their contribution to 
+community wellbeing. A special focus will be given to providing space for 
+volunteers. Ensuring these spaces are accessible to vulnerable Wellingtonians, 
+such as the elderly, ill and recent arrivals, will be a key consideration in this 
+process. Enabling local communities to be part of the design/redesign of those 
+spaces is also critical to ensure they meet evolving needs.
+These places will be the key locations for back-up power and water supply as well 
+as for storage of maintenance and emergency supplies.
+
+Resilience  co-benefits
+All Wellingtonians have the opportunity to benefit from this project. Rethinking 
+our existing open and community spaces so they can serve multiple purposes 
+supports the quality of resourcefulness – seeking to do more with what we have, 
+sometimes at little additional cost (Project 6 and 24). When well designed, those 
+new or redeveloped spaces will provide people with enhanced opportunities to 
+connect and collaborate in good times (Project 4), build valuable knowledge and 
+networks (Project 8) (like skills or resources to help recovery), as well as enable 
+people to self-organise more easily in the event of a major disaster.
+Those spaces will play a major role in ensuring people have access to basic 
+services – food, water, shelter, warmth and so on – soon after a major disruptive 
+event (Project 18).
+
+52
+
+Key partners
+Food distribution network, Sustainability Trust
+
+Lead
+WCC
+Scaling up a Wellington City project
+We will develop a sustainable food network building on current initiatives and 
+creating new programmes that meet social and health needs as well as ensuring a 
+robust food distribution network post emergency event.
+
+Action
+The Council will expand its current urban agriculture programme to map 
+and connect existing community food projects. We will identify partnership 
+opportunities with groups targeting child obesity, type 2 diabetes, families 
+in need, marae, mental health, seniors, refugees, and prisons to develop new 
+community gardening projects. We will also identify communities in need and 
+establish coordinators there to run community garden programmes.
+We will support the establishment and growth of local food businesses through 
+the Good Food educational and mentoring programme and community funding. 
+We will also explore food distribution models to develop a plan for Wellington in 
+the event of a shock.
+
+Resilience  co-benefits
+This project will teach potentially vulnerable Wellingtonians how to grow food 
+for their own use and to establish small businesses. This can support their 
+physical and mental health, wellbeing and provide a new source of income 
+(Projects 1, 2, 10). The project provides an opportunity for refugees, aged or 
+other people disconnected from the wider society to integrate back into their 
+neighbourhoods (Project 3).
+It also makes more local food available in an event where Wellington has reduced 
+connection with the rest of the country (Project 18).
+
+Urban agriculture can support physical and mental health, 
+wellbeing and provide a new source of income.
+
+Wellington Resilience Strategy7
+Develop disaster 
+risk management 
+plans for heritage 
+areas
+
+A sense of place – of who 
+we are and what we stand 
+for – is a big part of resilience. 
+We need to protect it.
+
+Key partners
+Building owners, MBIE
+
+Lead
+WCC
+Scaling up a Wellington City project
+We will develop risk management plans for selected heritage areas to guide pre-
+disaster investment.
+
+Action
+This initiative sets out to identify the most highly valued heritage areas, and to 
+formally plan to invest in their resilience.
+The Government has recognised that unreinforced masonry facades and parapets 
+in Wellington present a risk to public safety, and has allocated funding to mitigate 
+the risk. Many of the relevant buildings are in heritage areas. The Council will use 
+a risk management framework to work with relevant agencies and building owners 
+to better secure these heritage assets.
+Wellington is already strengthening earthquake-prone buildings; this initiative 
+will provide prioritisation for funding and the development of guidance for post-
+event decision making. It will also consider ways disaster resilience investment 
+can improve the use of heritage places.
+
+Resilience  co-benefits
+Pre-event preparedness will allow robust and considered post-event action, 
+enabling us to better protect our sense of who we are and what we stand for. 
+This project will enable more inclusive management of our heritage. It will be 
+incorporated into wider community resilience building work (Project 4, 5, 14).
+
+Byblos
+
+Inspiration from 100RC network  
+– Byblos's approach to managing their heritage
+Byblos has dedicated a pillar of its Resilience Strategy to the protection and celebration 
+of its natural and cultural heritage as a catalyst for improved economic development, 
+community engagement, participation and social cohesion. The city worked with 
+Platform Partner Swiss Re to conduct a tsunami simulation on the Old Port after it was 
+damaged by storm Zina in January 2015. Old Port and some older religious buildings 
+have been confirmed to be at risk from coastal flooding. It is predicted that the largest 
+tsunami could create a 6-metre wave in the port area; this type of event has a return 
+period of around 2000 years, while a smaller tsunami of 1–3 metres may re-occur every 
+300–1000 years. Following the work undertaken, Byblos is  developing measures, 
+guidelines and frameworks to protect the city’s historic assets, including developing 
+affordable restoration techniques for property owners to carry out. Training and 
+implementation is being incentivised by loans and tax deductions.
+
+54
+
+55
+
+100 Resilient CitiesWellington Resilience StrategyProgramme 1.3 
+Economic resilience
+
+We will support our business community 
+to improve preparedness and strengthen 
+
+our economic activity.
+
+Over 90 percent of businesses 
+
+in Wellington have nine or 
+fewer employees. While small 
+
+can mean agile, small-to-medium 
+enterprises (SMEs) can also be 
+especially vulnerable to disruptions 
+to their supply chain and essential 
+services, particularly if they have not 
+planned ahead (Grow Wellington Ltd, 
+2011). Over the last year, WREMO has 
+run free business continuity planning 
+
+workshops attended by 120 Wellington 
+businesses. However, this is only a 
+fraction of all businesses in Wellington 
+– among many SMEs there is still 
+limited understanding and uptake of 
+business continuity planning.
+But building Wellington’s economic 
+resilience is not just about being 
+prepared for disruptive events – it 
+also means better understanding 
+
+what segments of our economy 
+will grow and provide future 
+employment. An important element 
+of this work will be partnering with 
+our educational institutions and 
+the private sector to ensure we have 
+the right mix of skills for future 
+industries. This will mean providing 
+opportunities for workers to retrain 
+and upskill for the jobs of the future.
+
+Over recent years, Wellington 
+
+has experienced significant 
+growth in the numbers of people 
+
+working, living and playing in the 
+central city. This has helped enhance 
+Wellington’s compact urban form, with 
+more people living close to where they 
+work, with easy access to essential 
+services and little need to own a car. 
+A major challenge will be continuing 
+to provide access to quality services as 
+the residential population of the central 
+city more than doubles by 2043.
+As home to New 
+Zealand’s Parliament 
+and Government, 
+higher skilled services 
+and public governance 
+services contribute about two-thirds 
+of Wellington City’s GDP. This leaves 
+us vulnerable to disruptive events such 
+as earthquakes and terrorist attacks. 
+As large tracts of the central city are also 
+vulnerable to inundation in a future 
+affected by sea level rise, there is a strong 
+case to be made for spreading the risk 
+by strengthening our central city at the 
+same time as other commercial centres.
+
+Our central city currently provides
+77%
+48%
+
+of total GDP for Wellington City
+
+for the Wellington region
+
+8% of national GDP
+
+(Infometrics, 2015a)
+
+1-2%
+
+A significant earthquake in Wellington could result in New Zealand 
+
+losing about 1-2% of its current GDP per year.
+
+The Net Present Value of such a loss over time would be about
+
+$30-$40 billion
+
+(BERL, 2015)
+
+8
+Increase economic 
+resilience of central 
+city and outside hubs
+
+Key partners
+Chambers of Commerce
+
+Lead
+WCC
+New regional project
+We will reduce the vulnerability of the central city and improve the capacity of 
+outside hubs to carry out more economic activity.
+
+Action
+The Council, in partnership with other councils, business and community groups, 
+will assess the economic resilience of the central city, Karori, Johnsonville, Tawa, 
+Lower Hutt, Upper Hutt and Porirua. The product will be a set of recommendations 
+on how to reduce vulnerability in the central city and generate economic 
+opportunities in the hubs.
+
+Resilience co-benefits
+The central city is both the most productive and the most vulnerable part of 
+Wellington. This project sets out to involve interested parties in a structured way, 
+ensuring inclusiveness with broad consultation and communication; and learning 
+from the positives and negatives from Wellington’s story so far, as well as from 
+Christchurch and overseas (Project 18).
+The project will improve Wellington’s resilience to major disasters by building 
+economic redundancy throughout the region, but it will also generate an 
+opportunity to diversify our economy and prepare it for future demands and 
+a changing workforce (Projects 8, 5, 10).
+
+The central city is both the most productive and the most 
+vulnerable part of Wellington. This project aims to build 
+economic redundancy targeting new areas and new industries.
+
+56
+
+57
+
+Wellington Resilience Strategy100 Resilient Cities9
+Help improve 
+business 
+continuity 
+planning
+
+Key partners
+WCC, WREMO
+
+Lead
+Chambers of Commerce
+Scaling up existing regional project
+We will improve the level of business continuity planning by small-to-medium 
+enterprises (SMEs) in Wellington.
+
+Action
+Currently, around 100 SMEs per annum participate in the existing WREMO 
+business continuity programme. At little or no cost to businesses, this project 
+aims to improve the reach of the existing WREMO programme by enlisting the 
+support of other agencies, such as the Chambers of Commerce, the Wellington 
+Region Economic Development Agency and the Earthquake Commission, to 
+promote the programme and other opportunities for planning, with a view to 
+1,000 SMEs per annum participating.  The intent is to develop an SME culture 
+where continuity planning, including insurance, even at a rudimentary level, is 
+part of normal business in Wellington.  The mode of delivery will be active, with 
+positive engagement on business locations, as well as the current offering.
+
+Resilience co-benefits
+Wellington’s business community will be better prepared to face shocks and 
+quickly resume operations following a major disruptive event, such as an 
+earthquake. This will help keep Wellington’s economy ticking over, as well as 
+provide Wellingtonians with access to the services they need.
+Business continuity planning will also help SMEs reduce the impact of minor 
+disruptive events (such as equipment failures). The benefits also go beyond 
+preparedness – business continuity planning requires organisations to examine 
+their business process, which can identify opportunities to make operational 
+improvements that increase overall competitiveness and efficiency as well 
+as engagement within the business. This also relates to recovery planning 
+(Project 18), connective capacity for working from home (Project 23) and 
+
+insurance literacy (Project 21).
+
+In a disaster it is critical that SMEs can quickly resume their 
+operations. By investing to resilience SMEs will also improve 
+their competitiveness and efficiency.
+
+10
+Improve 
+understanding of 
+workforce trends
+
+Key partners
+Chambers of Commerce
+
+Lead
+WCC
+New Wellington City project
+We will work with a range of partners to undertake a study to better understand 
+future workforce trends and investigate ways to prepare for them.
+
+Action
+We recognise a resilience challenge for Wellington in relation to changing 
+workforce requirements. The future economy will need different skills and we 
+need to adapt to it. We will undertake a study to better understand this challenge 
+and how we can respond to it. This will include an analysis of short to medium-
+term economic predictions, the offerings of existing tertiary learning institutions 
+throughout the region, and how existing resources can be better harnessed to 
+capitalise on future opportunities.
+
+Resilience co-benefits
+Changes in the economy and the way products and services are developed 
+are transforming the way we work. This project aims to reduce Wellington’s 
+overreliance on government services and allow the city to take opportunities to 
+diversify the economy. There are clear links with our work on ageing population 
+(Project 2) and economic hubs outside of central city (Project 8).
+
+The future economy will 
+need different skills and 
+we need to adapt to it.
+
+58
+
+59
+
+100 Resilient CitiesWellington Resilience StrategyGoal 2
+Decision making at 
+all levels is integrated 
+and well informed 
+
+While we can’t predict the future, we can help people make more 
+informed decisions that take into account not only the shocks we are 
+likely to face, such as earthquakes, but also the slow-burning trends and 
+stresses that undermine our quality of life. The result will be a well-
+prepared city with the services and facilities that support the evolving 
+needs of our communities.
+
+Programme 2.1
+Governance
+We will ensure that resilience is integrated into our governance.
+
+Programme 2.2
+Information
+We will make information on all aspects of living in Wellington 
+easily accessible.
+
+p. 62
+
+p. 68
+
+Programme 2.3
+Adaptation
+We will raise awareness about the potential effects of climate change 
+and sea level rise, and develop an adaptation plan that emphasises the 
+need for future decisions and actions.
+
+p. 72
+
+Programme 2.4
+Recovery
+We will develop a framework for successful recovery from any disruption.
+
+p. 76
+
+60
+
+61
+
+Programme 2.1 
+Governance
+
+We will ensure that resilience is integrated 
+
+into our governance.
+
+Many Wellington organisations 
+
+and institutions are 
+implementing programmes 
+
+aimed at improving the resilience 
+
+of the city and region. While it is 
+important for grassroots programmes 
+to be allowed to flourish without 
+unnecessary administrative burdens, 
+
+there is a risk that we will miss 
+opportunities for collaboration and 
+co-benefits without appropriate 
+coordination and governance.
+
+There is a clear business case for investing now to improve 
+
+the resilience of our critical infrastructure.
+
+The seismic strengthening done by Orion Energy, 
+a utility provider in Christchurch, is a prime example 
+of how good investments pay off.
+
+Approximately
+
+$6 million
+
+was spent before the earthquakes on 
+
+increasing the resilience of their network
+
+which is estimated to have saved Orion
+
+$30-$50 million
+
+in direct asset replacement costs. This does not take into 
+
+account the broader social and economic benefits.
+
+(Kestrel Group Ltd., 2011).
+
+Despite this benefit, our current governance models 
+and methods of prioritising investment – which may be 
+based on relatively short payback periods – don’t often 
+encourage this kind of proactive approach. 
+Prioritisation will be different for each asset, and we 
+will need to consider how different assets depend 
+on each other. For energy, this requires strategic 
+engagement with the Government regarding the 
+regulatory framework, supported by economic analysis. 
+For transport and water, asset owners need to be 
+explicitly aware of the costs and risks of investing in 
+resilience, and the costs and risks to the community if 
+choosing not to invest. Ultimately, it is communities 
+that will pay for resilient infrastructure, and they 
+must be able to make conscious choices with the best 
+information available.
+
+The expected growth in our 
+
+central city will require 
+innovative thinking around 
+
+service provision. Achieving this will 
+also require innovative governance 
+– rather than thinking first about 
+
+infrastructure, we will need to support 
+businesses and retailers in talking 
+directly with communities. This 
+will help them to better understand 
+the vulnerability of services and 
+infrastructure that is needed in mainly 
+
+apartment-based living, and a service-
+based economy, as well as coordinate 
+the physical risk management activities 
+of Wellington utility and transport 
+service providers.  
+
+Wellington Lifelines Group 
+(WeLG) brings together 
+in-depth technical 
+knowledge of the risks 
+and management of of 
+Wellington’s key assets. 
+The challenge is to 
+use this knowledge to 
+stimulate effective action.
+
+Following a major shock, we 
+need to ensure the basic needs of 
+Wellingtonians can be met. The best 
+time to do this is before a shock rather 
+than during or following an event.
+Convincing communities to invest can 
+be difficult when there is no immediate 
+need. If investment in resilience 
+can somehow improve people’s daily 
+lives, then this becomes easier.
+Combining traditional infrastructure 
+solutions with decentralised and natural 
+approaches will require new skills and 
+take time, meaning our current lifelines 
+remain extremely important. Thinking 
+about resilience during the planning, 
+construction and operation of our key 
+infrastructure assets and other future 
+projects provides an opportunity to 
+achieve more balanced outcomes. By 
+taking a more inclusive and integrated 
+approach aimed at understanding the 
+specific needs of end users, we can better 
+prioritise future investment in assets 
+and recovery planning. For example, 
+an electric fleet of buses could be used 
+as mobile generators in an emergency.
+
+62
+
+63
+
+100 Resilient CitiesWellington Resilience Strategy12
+Review Wellington 
+Lifelines Group
+
+11
+Introduce regulatory 
+tools (including 
+enforcement) for 
+resilience 
+
+Lead
+WCC
+New Wellington City project
+We will assess regulatory options to mitigate future liabilities of liquefaction, flooding, 
+sea level rise and other hazards, and to build resilience into our city’s decision making.
+
+Action
+The Council will assess possible regulatory responses to improve resilience to 
+the impacts of sea level rise, earthquake, liquefaction, and tsunami, including 
+options to amend land use through the District Plan, building regulation and non-
+regulatory options to require residents to secure their homes (including chimneys, 
+joists and verandahs), and emergency water storage requirements. Options for 
+supporting wider resilience through regulation will also be explored. The project 
+will include assessment of the economic impact of regulating and not regulating.
+
+Resilience co-benefits
+This project seeks to reflect on the lessons learned from the Christchurch 
+earthquakes and make sure they inform Wellington’s planning. It will prepare 
+the city for both response to and recovery from natural disasters (Project 18), 
+but will also ensure the city continues to learn and innovate during quiet times 
+(Project 5, 20, 24).
+
+Wellington City has a number of regulatory tools 
+at its disposal. We need to use them well. 
+
+Key partners
+Wellington City, Porirua, Lower Hutt councils
+
+Lead
+Wellington Lifelines Group
+Existing regional project
+In partnership with the Wellington Lifelines Group (WeLG), we will better 
+communicate the vulnerabilities of our city’s lifelines to leaders and decision 
+makers in order to prompt and prioritise action.
+
+Action
+WeLG will coordinate a programme to ensure asset owners are making 
+Wellington’s decision makers aware of the effect on communities of vulnerabilities 
+in lifelines (power, water, telecommunications and transport in particular), and 
+that the interdependencies of these lifelines is a key focus. This programme will 
+centre on what is required to ensure community needs (such as clean water, 
+sanitation, energy, and communications) are met under all circumstances, which 
+will then inform decision making about infrastructure.
+The programme will bring Transpower, WWL, WE* and NZTA together with 
+Wellington, Porirua and Lower Hutt councils to assess the vulnerabilities 
+associated with local authorities in our region.
+The programme will also include analysis of all Wellington infrastructure to 
+provide a clear understanding of the benefits and costs of investing and failing 
+to invest appropriately. It is expected the existing Measuring the Economics 
+of Resilient Infrastructure (MERIT) tool will be used as it is well understood 
+by Treasury, who will be a key player in future investment decisions, but other 
+approaches will also be investigated.
+
+Resilience co-benefits
+This project will help set expectations for decisions makers, while strengthening 
+key relationships with partners. It will help to communicate the risks of living 
+in Wellington and lead to formal commitment from key players. More reflective 
+collaboration and action will in turn lead to more resilient approaches to meeting 
+community needs, including more robust networks. This will result in water, 
+energy, telecommunication and transport services able to withstand significant 
+shocks while enabling communities and economy to thrive every day.
+The Resilient Wellington initiative has revealed that we do not fully understand 
+the likely economic impacts of a major shock to Wellington. Results from the 
+MERIT study would greatly enhance our understanding of where to focus 
+investment to maximise benefits for disaster resilience. The analysis will also 
+outline the costs and consequences of inaction and failure to invest in resilient 
+homes and infrastructure. WLG will be an essential partner in the recovery 
+planning (Project 18).
+
+64
+
+65
+
+100 Resilient CitiesWellington Resilience Strategy13
+Maintain 
+monitoring and 
+evaluation of 
+resilience goals
+
+We will maintain momentum 
+generated in the strategy 
+phase to empower various 
+stakeholders to build 
+resilience into their projects, 
+facilitating ongoing learning 
+and collaboration with the 
+100RC network.
+
+Key partners
+Resilient Wellington Steering Group
+
+Lead
+WCC
+New Wellington City project
+We will maintain the momentum generated by the strategy development process 
+through a formal governance structure to oversee the implementation and review 
+of the strategy.
+
+Action
+The Resilient Wellington Steering Group brought together for the development 
+of this strategy will remain in place to oversee strategy implementation and to 
+coordinate resilience efforts across the city. 
+Steering Group members will be expected to contribute to robust and constructive 
+discussion to ensure implementation of the strategy is a success. They will 
+consider the progress of each project in regards to timeliness, budget, outcomes 
+and barriers to implementation. Members will also have a public role, acting as 
+champions of Wellington’s resilience and celebrating key achievements with 
+the community and media. The Steering Group is expected to formally report 
+to the Wellington City, Lower Hutt and Porirua councils annually in February. 
+We will link the project to other Wellington governance bodies such as the Joint 
+Committee and the Coordinating Executive Group to ensure integration, good 
+governance and strategic overview.
+In 2019 the Steering Group will be asked to make recommendations on 
+improvements to the strategy to the Council, including recommendations 
+for adding or removing projects, objectives, shocks and stresses, and other 
+recommendations as members see fit. This is an opportunity to revise the 
+strategy’s approach in light of progress and changes to the local, regional, national 
+and international situation.
+The Chief Resilience Officer will manage the implementation of the strategy as set 
+out in the Implementation Plan. This will maintain momentum generated in the 
+strategy phase and empower various stakeholders to build resilience into their 
+projects, facilitating ongoing learning and collaboration with the 100RC network.
+
+Resilience co-benefits
+The Resilient Wellington Steering Group acting as Wellington resilience champions 
+will ensure the strategy is implemented in an efficient and collaborative way, and 
+will ensure that resilience efforts continue in the future.
+This project will hold key people to account for the resilience tasks they have 
+
+been allocated. This in turn will provide elected officials and others with the 
+
+assurance and transparency required for good governance.
+
+New York City
+
+Inspiration from the 100RC network  
+– New York Rebuild By Design
+Following Superstorm Sandy, the city of New York realised that a shift in thinking was 
+required. A shift away from simply responding to disasters, and towards investing in 
+planning, preparing and designing the City to deal with the disruptions that will be 
+part of the next century.
+The Rockefeller Foundation and the Department of Housing and Urban Development 
+used the Rebuild By Design competition to achieve a collaborative approach to build 
+resilience into future New York. The process ocussed strongly and deliberately 
+on collaboration, engagement and understanding challenges before starting to 
+contemplate potential solutions. This avoided the temptation to leap to conclusions, 
+and ensured the groundwork was properly completed.
+The approach was a popular success, and Rebuild By Design is now its own 
+organisation, using its design approach to help cities to invest before disasters strike. 
+Mexico City, San Francisco, Rotterdam and others now use the approach for specific 
+planning challenges in their own environments, using ecological and landscape design 
+techniques to address climate related challenges.
+As Wellington works to understand and respond to vulnerabilities like sea level rise and 
+flooding, we will take heed of Rebuild By Design’s collaborative and visionary approach.
+Wellington is not in the business of waiting for disasters and responding to them. Like 
+Rebuild By Design, Wellington is in the business of coming together with communities 
+to invest in smart interventions that benefit people – today and tomorrow.
+
+66
+
+67
+
+100 Resilient CitiesWellington Resilience StrategyProgramme 2.2 
+Information
+
+We will make information on all aspects 
+of living in Wellington easily accessible.
+
+We hold tremendous amounts 
+
+of data about our city, 
+but despite this, most 
+
+Wellingtonians still find it hard to access 
+reliable and easy-to-use information 
+to inform key life decisions, such as 
+the earthquake and climate risks of a 
+property they are interested in. This 
+sometimes means Wellingtonians make 
+decisions that place them at heightened 
+risk from disruptive events, which 
+increases the burden on government 
+and community organisations to provide 
+support if this happens.
+
+We have some difficult decisions to 
+make, like the future of our coastal 
+properties. We need to improve how 
+we bring our economic, demographic, 
+scientific and other information 
+together to inform decision making 
+and future investments. A key part 
+of this will be using more open-
+source approaches that empower 
+our residents to make well-informed 
+decisions of their own.
+
+As a knowledgeable and creative city, 
+we also have the resources at our 
+disposal to build our resilience in more 
+innovative ways. We can combine 
+these strengths to cater for a range 
+of different audiences and learning 
+styles. For example, creating virtual 
+reality environments to help visualise 
+the impacts of natural hazards and 
+collaborate on solutions, or devising 
+art installations, films and events that 
+encourage creativity and steer action 
+around adaptation and preparedness.
+
+44%
+
+of Wellington City’s workforce holds a bachelor’s degree or higher
+
+We are also the film and creative 
+
+capital of New Zealand
+
+ 
+
+o
+t
+e
+m
+o
+h
+e
+r
+a
+e
+w
+
+ 
+
+ 
+
+3
+3
+
+Crown research 
+institutes
+
+universities
+
+Mexico City
+
+Inspiration from 100RC network  
+– The Great Model in Mexico
+Mexico City is developing an interactive city model, La Gran Maqueta de la Ciudad 
+de México, which represents a technological leap toward sustainable urban planning 
+for the city. The model allows experts, citizens and the private sector to have a visual 
+and manageable representation of city data, past and present. “The Great Model” is 
+accompanied by a technological display that explores the complexity of the Mexican 
+capital, its origins, its emotions and its urban evolution. There are also multimedia 
+installations, most of which are interactive and participative; a consultation room; 
+a large format audio-visual installation; the latest generation touch screens; maps; 
+plans; and hundreds of photographs, giving visitors an experience for all the senses. 
+Mexico City is the only city in the country to be a member of C40, so alongside the 
+100 Resilient Cities programme, they are ahead of the majority with the formation 
+of databases and high regulatory benchmarks aligned to international standards.
+
+(Profile.id, 2016c).
+
+68
+
+69
+
+100 Resilient CitiesWellington Resilience Strategy14
+Give Wellingtonians 
+information they 
+need to make 
+decisions
+
+Key partners
+NEC
+
+Lead
+WCC
+Existing Wellington City project
+We will bring together a wide range of data on Wellington and make it available 
+so that citizens, researchers, investors and visitors can use it to make their own 
+decisions and plans.
+
+15
+Develop a virtual 
+reality model of the 
+central city built 
+environment
+
+Action
+Working closely with end users and partners, the Council will develop an 
+online information hub to connect citizens with available information about all 
+aspects of living in Wellington. In the first instance this will involve developing 
+an intelligence system to support post-earthquake building inspections – this 
+will draw on emerging sensor technology to better inform decision making.  
+The hub will also include information around hazards such as sea level rise, 
+liquefaction, tsunami, ground shaking, as well as opportunities like volunteering, 
+social support, funding and shared community resources. This will be a 
+virtual collaboration space building on and connecting existing services like 
+#wellynextdoor, Neighbourly and the Community Resilience Map. It will be based 
+on open source data and informed by real-time sensors around the city.
+The hub will be robust and designed to be accessible during a major shock event.
+
+Resilience co-benefits
+The project enables responders, citizens, researchers, investors and visitors to 
+better participate in decision making. While the project will enable people to 
+better understand the types of natural disasters they might encounter (Project 
+18), it will also provide for more engaged and connected communities (Project 4). 
+People will be able to make their own decisions in light of the available data.
+
+Key partners
+NEC
+
+Lead
+WCC
+New Wellington City project
+We will develop a model of Wellington’s central city that uses 3D, virtual reality 
+(VR) and augmented reality (AR) techniques to better communicate information 
+about Wellington and its hazards.
+
+Action
+Technology plays an increasingly important role in how Wellingtonians 
+communicate and engage with information. We have an opportunity to draw on 
+our gaming and tech sectors to improve awareness of Wellington’s hazards by 
+developing a 3D/VR model of the central city and simulations of how it could be 
+affected by events such as earthquakes and sea level rise. This could be used by 
+emergency management agencies and first responders, as well as the general public.
+
+Resilience co-benefits
+This project will increase awareness and preparedness among groups in 
+Wellington that may otherwise be unprepared (Project 18), as well as continuing 
+to build capacity within our technology and academic sectors (Project 10). It will 
+also be a mechanism for further public conversations and engagement across 
+levels of government.
+
+We will draw on our gaming and tech 
+sectors to inspire action on resilience. 
+
+70
+
+71
+
+100 Resilient CitiesWellington Resilience StrategyProgramme 2.3 
+Adaptation
+
+We will raise awareness about the potential effects 
+of climate change and sea level rise, and develop 
+an adaptation plan that emphasises the need for 
+
+future decisions to be made.
+
+However, this won’t be easy. In 
+
+a city where most people live 
+within three kilometres of the 
+
+coastline, we face some challenging 
+discussions about future land use. 
+One of the most difficult aspects 
+of rising sea levels is the impact on 
+people’s homes, which for many are 
+not just their homes but also their 
+financial security now and for their 
+grandchildren. While coastal property 
+owners are increasingly seeking to 
+protect their property, some measures 
+
+may conflict with the wider public and 
+environmental values of preserving 
+natural coastal character, amenity, 
+and public access. There is also a wider 
+community conflict of who pays, and 
+who gets to make decisions.
+In Wellington we have an opportunity 
+with National Institute of Water and 
+Atmospheric Research (NIWA) to develop 
+a participatory approach to discussions 
+with coastal communities about coastal 
+adapation issues, including supporting 
+tools and information.
+
+Our Māori communities have been 
+here the longest; they have recovered 
+from more shocks and stresses than 
+most, and have evolved a network 
+and knowledge that is pivotal for 
+Wellington’s resilience. The concept 
+of kaitiakitanga4, guardianship 
+of the natural environment, will 
+remain prominent.
+
+A truly forward-looking resilience strategy must spare more than a thought 
+for our Pacific Island neighbours such as Cook Islands, Tokelau and Niue. The 
+Intergovernmental Panel on Climate Change (IPCC) has identified these small 
+island states as being the most vulnerable countries in terms of adverse climate 
+change impacts. Not only are we geographically close to many of these nations, 
+but we share strong cultural ties. Today, eight percent of Wellington’s population 
+is Pasifika – many of these Wellingtonians have people they know and love who 
+will look to them for support in a future affected by rising sea levels. 
+(Profile.id, 2016b).
+
+Climate change presents some 
+
+extremely difficult decisions 
+around the future of existing 
+
+infrastructure. As we operate, 
+maintain and rebuild our assets,  
+
+we have an opportunity to build 
+resilience qualities, including 
+preparedness for climate change 
+and earthquakes, into much of the 
+infrastructure that will service 
+
+Wellingtonians for decades to come. 
+Achieving this requires climate 
+adaptation to be embedded into the 
+decision making of our governments, 
+utilities and businesses.
+
+In partnership with Central Government and aid agencies, we will need to be prepared for a likely future where a 
+large number of climate refugees seek new homes in our region. This means ensuring we can continue to meet the 
+needs of our residents while also meeting international obligations and maintaining Wellington’s reputation as a 
+welcoming and compassionate city. This means providing adequate support services to allow new arrivals to flourish 
+and contribute meaningfully, such as English language lessons and vocational training.
+
+By 2090, Wellington is projected to have:
+
+30%
+
+2–3%
+
+waves in Wellington could 
+be approximately 30% higher
+
+increase in frequency of 
+extremely windy days
+
+0.6–1.5m
+
+sea level rise between 
+
+0.6 - 1.5 m
+
+6 to 40
+
+extra days per year where maximum 
+
+temperatures exceed 25º C
+
+rainfall
+
+More frequent and intense 
+
+heavy rainfall events
+
+72
+
+73
+
+4 
+
+Guardianship, stewardship, trusteeship, trustee
+
+100 Resilient CitiesWellington Resilience Strategy16
+Develop a 
+communications 
+and engagement 
+strategy for the 
+Adaptation Plan
+
+The project will prepare us for 
+difficult decisions concerning 
+sea level rise.
+
+Key partners
+Hutt City Council
+
+Lead
+WCC
+New Wellington City project
+We will raise awareness among coastal communities about the potential effects of 
+sea level rise to better emphasise the need for decisions to be made in this area and 
+prepare ground for the future Adaptation Plan.
+
+Action
+This project is a preliminary step to prepare communities for the likelihood that 
+decisions will need to be taken in the future to adapt to the effect of changing sea 
+levels and behaviours. 
+We will talk with coastal communities to decide how we will plan for sea level 
+rise. Engagement could be through a series of formally constituted community 
+representative groups/panels, including elected officials, iwi, schools and other 
+educational facilities to co-design approaches for dealing with sea level rise. 
+The project will look for ways to preserve our natural coastal environment and its 
+ecosystem services.
+
+Resilience co-benefits
+The project will start conversations with communities about climate change and 
+especially sea level rise to make the process of developing our Adaptation Plan 
+more inclusive and reflective (using good experiences from our other community 
+resilience work – Project 4).
+The project will maximise the use of natural infrastructure to protect the coast 
+from storm damage and preserve our beaches and dunes, which are essential to 
+Wellington’s quality of life (Project 24).
+
+17
+Encourage climate 
+adaptation actions 
+
+Key partners
+Research and education, arts and sports sectors
+
+Lead
+WCC
+Existing Wellington City project
+We will encourage action on climate adaptation by providing funding for 
+innovative projects and increasing awareness of the issues.
+
+Action
+We will work with the education, arts and sports sectors to develop new, creative 
+and engaging ways of communicating about climate change and take every 
+opportunity to communicate about sea level rise.
+We will also modify the Low Carbon Challenge to include climate change 
+adaptation initiatives that promote environmental restoration and community 
+cohesion. Finally, we will introduce a Wellington climate change adaptation fund 
+to help cover the future costs of infrastructure redevelopment and other works 
+required to deal with the effects of sea level rise.  
+We will work with climate entrepreneurs in other 100RC cities such as New 
+Orleans, New York and Rotterdam to forge new links and inspire new ideas. 
+
+Resilience co-benefits
+By using co-design principles and allocating funding to grassroots initiatives we 
+will generate an opportunity to build stronger and more engaged communities 
+(Project 4) by empowering people to make informed decisions about their future.
+
+By collaborating with people around the world, using co-design principles, 
+and allocating funding to grassroots initiatives we will turn climate threat 
+into an opportunity.
+
+74
+
+75
+
+100 Resilient CitiesWellington Resilience StrategyProgramme 2.4 
+Recovery 
+
+We will develop a framework for successful 
+
+recovery from any disruption.
+
+While the Wellington region 
+
+includes eight Territorial 
+Authorities (TAs) and a 
+
+regional authority – each with its own 
+jurisdiction – our cities and districts 
+are inseparable. Many of us live in one 
+city or district and work in another, 
+and much of our critical infrastructure 
+serves multiple parts of the region. 
+Large-scale shock events – such as big 
+earthquakes, water contamination 
+incidents or major storms – have no 
+regard for jurisdictional boundaries. 
+One issue we already know to be a 
+challenge for our recovery across 
+
+the Wellington region is temporary 
+housing. We lack good information on 
+what percentage of homes would be 
+uninhabitable in the event of a major 
+natural disaster, although the number 
+is expected to be significant.
+At present, the Wellington region 
+has limited arrangements and plans 
+in place to deal with regional scale 
+coordination after a major shock 
+event felt across the region. The 
+Kaikoura earthquake tested those 
+systems and we now have a better 
+idea of what is needed. By having 
+
+tough discussions now about post-
+event leadership and governance, 
+we can strengthen partnerships 
+and improve coordination for when 
+disaster strikes, as well as building 
+more cohesive communities in good 
+times. This will need to include all TAs 
+in our region, Central Government, 
+lifelines, private sector organisations, 
+and communities themselves. This 
+increased coordination may also help 
+find solutions to other problems, such 
+as growing inequality and housing 
+affordability constraints.
+
+Christchurch
+
+Inspiration from 100RC network  
+– Learning from our sibling, Christchurch
+As Christchurch has recovered from the trauma of the earthquakes, people have rightly 
+been focussed on future promise rather than past trauma. For Wellington, that past 
+contains some valuable pieces of information given the seismic profile of the capital, 
+and given the Kaikoura earthquake experience. While Wellington and Christchurch 
+do not share exactly the same geography, they have similar governance and decision-
+making environments, infrastructure networks and cultures.
+The 100RC network has given Wellington extra impetus and resource to allow the 
+lessons from Christchurch and Kaikoura, good and bad, to be considered and, where 
+appropriate, included in Wellington’s planning and business.
+We are working closely with the Department of the Prime Minister and Cabinet and the 
+Canterbury Earthquake Recovery entities, analysing information around governance, 
+collaboration with Central Government, effects of liquefaction and vulnerability of 
+centralised infrastructure. Some of the examples especially relevant for Wellington 
+include the following.
+•  Recovery planning: Clear recovery expectations, roles and responsibilities are 
+
+often discussed but rarely actioned. There is no reason not to plan for post-shock 
+Wellington and to be open about who will be expected to do what. 
+
+•  Focus on small business: Generally, corporates can take care of themselves. But 
+
+SMEs are a large part of Wellington’s economy. There are some simple things SMEs 
+could have done in Christchurch to reduce the trauma. Wellington SMEs have the 
+opportunity to do these things pre-event.
+
+•  Your home is your castle: Without a safe haven, people are emotionally vulnerable. 
+
+There are simple things we can do in our homes so they can be the social, 
+emotional and economic mainstay of our personal and collective resilience.
+
+76
+
+77
+
+100 Resilient CitiesWellington Resilience Strategy18
+Undertake recovery 
+planning for the 
+Wellington region
+
+Lead
+WREMO 
+ 
+
+Key partners
+Wellington, Hutt and Porirua councils, 
+Wellington Chamber of Commerce, Wellington 
+Regional Economic Development Agency
+
+New regional project
+We will develop a Pre-disaster Recovery Framework and facilitated process to 
+guide post-event decision making.
+
+Action
+WREMO will develop a recovery framework addressing all types of shocks and 
+stresses to “prepare the region to partner” by addressing the varied interests of 
+local councils, the region as a whole, the private and community sectors as well 
+as central government. The framework will be developed to inform resilience 
+investments across the built, social, economic, natural and cultural environments. 
+We will facilitate a planning process with key stakeholders in the private, 
+community and government sectors to develop a shared recovery vision and 
+provide greater clarity of governance arrangements, roles and responsibilities, 
+decision-making frameworks and clear linkages to resilience related investments. 
+Ultimately, it will aim to create the right conditions for a positive recovery by 
+preparing the region’s many diverse stakeholders to partner effectively through a 
+shared recovery framework. 
+The framework will embody the lessons learned from the Kaikoura and Canterbury 
+earthquakes. We will explore the balance of life safety and earthquake damage. 
+The project will link closely to other resilience projects such as Wellington 
+Lifelines (Project 12) and Info Hub (Project 14).
+
+While preparing the city for 
+recovery from a major disaster, 
+this planning process will also 
+help strengthen relationships 
+between key stakeholders.
+
+Resilience co-benefits
+The planning process will help to communicate the risks of living in Wellington 
+and get formal commitment from key players that would be needed to work 
+towards a shared recovery vision in a post-event environment. While preparing 
+the city for recovery from a major disaster, this planning process will also help 
+strengthen relationships between key stakeholders. It will allow us to continue 
+mitigating risks and improve Wellington’s resilience to ongoing stresses.
+
+19
+Carry out post-
+earthquake 
+housing study
+
+Key partners
+Wellington, Hutt and Porirua councils
+
+Lead
+WREMO
+New regional project
+We will undertake a study to understand the constraints and opportunities for 
+providing shelter and housing through the response and recovery phases after 
+a significant seismic event or other shock affecting property.
+
+Action
+WREMO will undertake a temporary housing study to understand options for 
+emergency response and recovery planning. It will address emergency and 
+transitional shelter options, temporary housing options, live-in-place and repair 
+options, alternative uses for existing open spaces, as well as potential finance 
+assistance models for housing recovery. This project will examine options for 
+various earthquake and flooding scenarios where temporary accommodation 
+might be required, and will outline any gaps in capacity, with recommendations 
+for how this might be addressed.
+
+Resilience co-benefits
+This project will provide decision-makers with a clearer understanding of the 
+capacity and capability for temporary accommodation, enabling this to be built 
+into response and recovery planning (Project 18). While this is primarily focussed 
+on earthquakes, as these are most likely to require large-scale temporary housing, 
+the outcomes of this project could apply to other shocks as well. A co-benefit of 
+this study will be identifying possible sources of temporary accommodation that 
+could assist with the ongoing challenge of homelessness (Project 2) or temporary 
+housing for climate refugees (Project 16).
+
+While largely focussed 
+on earthquake response, 
+this study could assist 
+with homelessness and 
+temporary housing 
+for refugees.
+
+79
+
+100 Resilient CitiesGoal 3
+Our homes and natural 
+and built environments 
+are healthy and robust
+
+Access to safe, warm, affordable and physically robust housing is a basic 
+human right. Providing this for all Wellingtonians will boost quality of life 
+across our city, supporting better health and education, particularly among 
+our most vulnerable. Our homes will be supported by the right mix of assets 
+and infrastructure – one in which natural and built assets work together in 
+the face of a changing climate to sustainably meet Wellingtonians’ basic 
+needs, such as clean air, safe drinking water and energy.
+
+Programme 3.1
+Homes and telecommunication
+We will support initiatives that contribute to Wellington homes forming 
+the cornerstone of the city’s resilience.
+
+p. 82
+
+Programme 3.2
+Water and natural environment
+We will ensure that Wellingtonians always have access to water 
+services, in a way that enhances our natural environment.
+
+Programme 3.3
+Transport and energy
+We will work with infrastructure owners to ensure flexibility and 
+robustness of transport and energy services in Wellington.
+
+p. 90
+
+p. 98
+
+80
+
+81
+
+Programme 3.1 
+Homes and telecommunication
+
+We will support initiatives that contribute to 
+Wellington homes forming the cornerstone  
+
+of the city’s resilience.
+
+Safe, warm housing is a basic 
+
+human need, but meeting 
+this need can be expensive in 
+
+Wellington. Nationally, New Zealanders 
+spend around 23 percent of their gross 
+disposable income on housing (seventh 
+among OECD countries – OECD, 2015), 
+while in Wellington City housing is 
+considered severely unaffordable 
+due to median prices approaching six 
+times the median household income. 
+It is estimated the city will need an 
+additional 21,400 houses by 2043 to 
+meet demand (WCC, 2015b).
+Despite the high prices, the standard 
+of housing for many Wellingtonians is 
+inadequate. Wellington’s hilly terrain 
+means some areas do not receive much 
+
+sun, and housing can be cold, damp 
+and prone to mould and borer. It is 
+well documented that poor quality 
+housing drives significant health 
+and energy costs across the country, 
+although the scale of the problem is 
+not well understood in Wellington. 
+The greatest concerns about housing 
+quality are most often about rental 
+properties, which are the homes of our 
+most vulnerable citizens including 
+immigrants, students and young 
+families. In many cases these homes are 
+also the least resilient to earthquakes.
+Improving the quality of these 
+homes will not be cheap, and 
+limited insurance literacy means 
+that restoring homes following 
+
+a major shock event may prove 
+difficult for many. This stems from 
+recent changes to house insurance, 
+where only a fixed sum is insured, 
+rather than the total replacement 
+cost. The result is that many 
+Wellingtonians may not have 
+sufficient cover to resume the same 
+standard of living following a shock 
+like a major earthquake. In addition, 
+research by Massey University (2013) 
+found that only 21 percent of New 
+Zealanders had income protection 
+or disability insurance, meaning 
+most would have limited income if 
+a major shock disrupted their place 
+of employment.
+
+O ur homes should be spaces 
+
+to feel safe and recover 
+following a major seismic 
+
+event, but at the moment many 
+cannot serve this function. The 
+central city could be compromised 
+
+and people might need to work from 
+home at a large scale. At this point, 
+we are not sure if our homes and 
+telecommunications networks can 
+support this.
+
+The Mayoral Taskforce on Housing 
+acknowledges our future challenges – 
+as does the Future Central City project. 
+These initiatives complement the 
+Resilience Strategy and will be linked 
+through the Resilience Steering Group.
+
+If the central city was significantly 
+damaged in a major shock event
+
+107,000
+
+people would need to work 
+
+from another location.
+
+for many of them, working from 
+home is the next best option.
+
+Wellington City Council has established an earthquake 
+
+prone buildings programme. 
+
+Since it started
+
+5,500
+
+buildings have been assessed
+
+720
+
+have been deemed earthquake prone 
+
+and in need of structural changes
+
+82
+
+83
+
+100 Resilient CitiesWellington Resilience Strategy20
+Help make homes 
+warm, safe and dry
+
+Lead
+WREMO 
+
+Key partners
+BRANZ, Earthquake Commission, 
+insurance sector
+
+New Wellington City project
+We will investigate options to improve the resilience of Wellington’s new and 
+existing housing stock so that homes can better withstand earthquakes and 
+storms, and can be used post-event as workplaces.
+
+Action
+The Council will lead two work streams: new homes and existing homes.
+We will investigate regulatory and non-regulatory options for improving the 
+resilience of new homes. This will include the potential requirement for new 
+homes to be constructed with emergency water tanks, collection of grey water, 
+solar panels and for multi-unit buildings to have “connected” or “bumping” spaces 
+where people can meet and work together.    
+We will also investigate regulatory and non-regulatory options and tools 
+for existing homes. This will include the potential requirement for subfloor, 
+foundation and roof bracing within structures to be secure, dry and adequately 
+ventilated. In addition we will promote chimneys to be seismically secure 
+and undertake analysis of the extent and risk of borer infestations. Existing 
+homeowners will also be informed of other co-benefits linked to a variety of 
+seismic strengthening options available, which will increase the resilience of 
+their home. We will investigate opportunities to link earthquake strengthening 
+to interventions improving the health of home environments through ventilation, 
+insulation and double glazing. 
+Both work streams will work closely with the Mayoral Housing Taskforce. We 
+will widely communicate the lessons learned from Christchurch. We will develop 
+a housing warrant of fitness for owners to ensure they understand the level of 
+maintenance needed to keep homes warm, resilient and dry. We will work with 
+banks and insurers to explore incentives for home owners. This project will 
+enable the Council to better evaluate the risk to the city of doing nothing. More 
+widely, it will also improve guidance for working on older homes and develop 
+training models on home renovations through the Building and Construction 
+Industry Training Organisation.
+This project is closely connected to the telecommunication sector assessment 
+to enable large-scale working from home (Project 23) and improving access to 
+household resilience items (Project 1). 
+
+Resilience co-benefits
+The project will give home owners, tenants, insurers and planners confidence 
+that housing stock can withstand a moderate level earthquake so that people can 
+remain in their homes, and possibly work from home in the event that commercial 
+buildings are compromised (Projects 18, 19, 23).
+Improving the quality of our homes – making them warmer, safer and healthier 
+– can also generate benefits in terms of productivity and education, becoming 
+spaces where people can build their personal resilience to any shocks or stresses 
+(Projects 1, 2). The project will also strengthen communities by providing an 
+opportunity to design resilience into shared spaces (Project 5).
+
+Our homes should be the 
+cornerstone of our resilience.
+
+84
+
+85
+
+100 Resilient CitiesWellington Resilience Strategy21
+Support insurance 
+literacy campaign
+
+Lead
+WCC 
+
+Key partners
+Insurance Council of New Zealand, 
+Earthquake Commission (EQC), banks
+
+New regional project
+We will support home, business and asset owners to make informed decisions 
+about their insurance cover. 
+
+Action
+The Insurance Council of New Zealand (ICNZ) will conduct a survey to test 
+the level of knowledge about insurance and better understand the social 
+consequences of underinsurance. We will also assess people’s ability to access 
+insurance. Depending on survey results, ICNZ will undertake a targeted campaign 
+to make home and asset owners aware of the gap between assumption and reality, 
+with advice on where to find out more information, and what to consider when 
+calculating the right level of insurance cover.
+
+Resilience co-benefits
+Reflecting on Canterbury, better information about insurance will allow systems 
+to be integrated with response, recovery and risk reduction planning. It will open 
+doors to debate on other tools to build resilience into Wellington’s homes. EQC will 
+be able to better communicate its role and responsibilities.
+It is also an opportunity to engage with communities, and to connect them to 
+key information and knowledge so they can make better decisions. Home owners 
+will have a more realistic understanding of their liability 
+and responsibility, and will make sure they have the right 
+level of insurance. This work will support the objectives 
+relating to home resilience (Project 20) and business 
+resilience (Project 9).
+
+Talking about insurance is an opportunity to give home 
+owners more realistic understanding of their liabilities.
+
+New Orleans
+
+Inspiration from 100RC network  
+– Warm, safe and dry homes in New Orleans
+We know that Wellington’s homes leave a lot to be desired. We can deal with new 
+homes through regulations, but most of our homes are already built, and are very 
+difficult and expensive to retrofit to make warm, dry and safe to natural hazards. 
+Typically, the people who are most vulnerable in their homes are those who can least 
+afford to do anything about it.
+Through its Resilience Strategy, New Orleans has developed ways to encourage and 
+support home owners in vulnerable areas to modify their homes to the effects of 
+flooding. In particular, we noted the financial incentives and levers New Orleans has 
+successfully implemented to change home owners’ behaviours, and we are keen to 
+explore similar options to achieve warmer, drier and safer homes in Wellington.
+
+86
+
+Wellington Resilience Strategy22
+Understand the 
+scale of the non-
+weathertight 
+homes problem
+
+Lead
+WCC 
+
+Key partners
+Ministry of Business Innovation and 
+Employment
+
+New Wellington City project
+We will undertake a study of Wellington homes to assess the risk of water ingress 
+in our new and existing housing leading to health issues resulting from cold, 
+dampness and mould.
+
+Action
+The Council will undertake a targeted analysis to determine the scale of 
+weathertightness issues in Wellington’s housing stock. The project report will 
+provide recommendations or actions required for home improvements, and 
+be accompanied by guidance developed for home owners; promoting regular 
+maintenance, adequate insulation and ventilation and outlining options for 
+cost-effective repairs.
+The project will provide information to support discussions with central 
+government and the building sector to address this issue. It will also support a 
+balanced public debate and provide an opportunity to talk with communities and 
+offer them key information to make better decisions.
+
+Resilience co-benefits
+The project will improve the Council’s understanding of the scale of the problem. 
+This will enable decisions to be made around what, if any, action is required 
+to ensure these homes can withstand future shocks from seismic and extreme 
+weather events. Warmer and drier homes lead to better health and comfort 
+for the occupants, improving their chances in regards to social, educational 
+and economic outcomes. The outcomes of this project will inform our work on 
+resilient homes (Project 20).
+
+23
+Assess the 
+capacity for  
+large-scale remote 
+working 
+
+Key partners
+Vodafone, Spark, Porirua and Hutt councils
+
+Lead
+WCC
+New regional project
+We will assess the telecommunications sector’s capability to support high 
+numbers of people working from home after a seismic event or other significant 
+shock. This initiative is undertaken in conjunction with Project 5 – supporting 
+community spaces for wellbeing and post-disaster roles.
+
+Action
+WCC and other councils will work with the asset owners to assess the 
+telecommunications sector’s ability to support remote working for a large number of 
+Wellingtonians over a prolonged period, based on a common understanding of levels 
+of service. The assessment will make recommendations on any gaps identified.
+
+Resilience co-benefits
+This project will help us understand the gaps we need to fill to ensure a large 
+percentage of Wellington’s workforce and economy can continue operating after 
+a major shock. At the same time, this work could also see a reduced need for 
+travel and encourage more flexibility in ways of working, even when not faced 
+with a disruptive event. This could benefit employers and employees, potentially 
+reducing an existing barrier to workforce participation; for example, by enabling 
+more part-time work by those caring for children or returning from maternity 
+leave, as well as older people or those with mobility constraints. This project 
+is related to promotion of new economic hubs (Project 8) and development of 
+community spaces for post-disaster roles (Project 5) and has relevance to work 
+with ageing population (Project 3).
+
+Well-connected homes provide more 
+flexibility during disruptions and are 
+more inclusive for people who can’t 
+or don’t want to travel to work.
+
+88
+
+89
+
+100 Resilient CitiesWellington Resilience StrategyProgramme 3.2 
+Water and natural environment 
+
+We will ensure that Wellingtonians always have 
+access to water services, in a way that enhances 
+
+our natural environment.
+
+a network of over
+
+4000
+
+hectares of parks, 
+reserves and beaches
+
+Wellington City has
+
+4
+
+botanic gardens
+
+340
+
+kilometres of walking 
+and mountain bike trails
+
+Wellington region has
+
+33,000ha
+
+over
+
+of land
+
+including
+
+It is estimated that in the event of a 
+
+significant earthquake, water supply 
+in Wellington will not be restored for 
+
+up to 70 days in some locations. Most 
+Wellingtonians only store water for 3 days. 
+Rainwater collection could significantly 
+improve levels of self-sufficiency, but very 
+few houses are equipped for this. This also 
+represents a missed opportunity to future-
+proof our water supply from threats that 
+may seem remote today, but could arise in 
+an uncertain future, such as droughts.
+
+Population growth will put further 
+pressure on our wastewater 
+infrastructure, which is already at 
+capacity, posing a risk for human health 
+and the environment. Wellingtonians 
+are not prepared to manage their 
+wastewater without reticulated 
+wastewater infrastructure. Any disaster 
+is likely to be compounded by health 
+risks related to contamination of public 
+spaces with untreated sewage.
+
+Climate change is expected to bring 
+more intense rainfall, which will put 
+additional stress on our highly modified 
+(by culverts, for example) urban 
+water systems. Urban intensification 
+in response to population growth in 
+our city is also generating demand 
+for available land, placing increased 
+pressure on our natural assets, while 
+increasing demand for fresh water and 
+generating more wastewater and runoff.
+
+WREMO recommends
+
+people store a minimum of
+
+5
+
+regional parks
+
+water catchment areas
+
+swimming holes
+
+Areas managed by the Department of Conservation
+
+include large tracts of intact indigenous forest, pest-free offshore islands and marine reserves
+
+We depend on a healthy natural 
+
+environment to provide a 
+range of benefits known 
+collectively as “ecosystem services”, 
+which include water and air purification, 
+recreation and wellbeing, and pollination. 
+The biodiversity that contributes to these 
+services exists in our reserves, parks, 
+urban gardens, waterways, wetlands 
+and coast. While some of this may be 
+under increasing pressure, Wellington is 
+fortunate to have abundant natural assets.
+
+A key element in the City Resilience 
+Framework used across the 100RC 
+network is protecting and enhancing 
+these natural assets. This is especially 
+relevant for adapting to rising sea levels 
+and increased storm surges – “soft” 
+measures, such as dune nourishment 
+and protecting natural kelp beds, can 
+be highly effective for dissipating wave 
+energy and reducing the extent and 
+severity of erosion and inundation. From 
+an urban resilience perspective, the 
+
+great advantage of these approaches is 
+the opportunity for co-benefits – natural 
+defences can provide recreational 
+values, generate habitat for indigenous 
+biodiversity, and make an area more 
+attractive. They may also be combined 
+with harder defences to provide flexible 
+community spaces and active transport 
+corridors along a raised shoreline.
+
+7 days'
+
+worth of emergency 
+
+drinking water,
+
+20 litres
+
+per person.
+
+90
+
+91
+
+100 Resilient CitiesWellington Resilience Strategy24
+Improve water 
+systems through 
+ecological 
+interventions 
+
+We have an opportunity 
+to improve the quality 
+of our urban spaces, 
+enhancing biodiversity 
+and our wellbeing, while at 
+the same time improving 
+our city’s ability to cope 
+with heavy rainfall or 
+earthquakes.
+
+Key partners
+The Nature Conservancy, Wellington Water
+
+Lead
+WCC
+New Wellington City project
+We will integrate ecological interventions into how we manage Wellington’s water 
+system to improve the quality of stormwater entering our streams and coast, 
+improve resilience to flash floods and enhance urban biodiversity.
+
+Action
+The Council’s urban ecology team will reduce the barriers to the uptake of water 
+sensitive urban design (WSUD) by delivering a series of studies and demonstration 
+projects in partnership with infrastructure managers and environmental groups.
+Specifically, we will assess the costs and benefits of ecologically enhanced 
+stormwater systems, investigate alternative financing instruments and map 
+existing expertise. We will also develop a large-scale demonstration project in a 
+number of hydrologically linked locations in urban settings and bigger open public 
+spaces. The project will also include a series of training seminars delivered by 
+international experts from The Nature Conservancy and other 100RC cities.
+
+Resilience co-benefits
+The project will improve understanding of the feasibility and value case for 
+applying ecological interventions in fresh water management, including stream 
+daylighting, developing wetlands, and other WSUD such as rain gardens, ponds 
+and tanks, permeable pavements, and green walls and roofs. It will provide an 
+opportunity for traditional water engineers and landscape designers to collectively 
+develop effective, place-based approaches by learning from each other and 
+international experts.
+Effective WSUD slows down rainwater flow and improves its quality by capturing 
+contaminants. As a result, it minimises damage associated with slips and erosion 
+and reduces need for water treatment. This type of measure is likely to form part 
+of our climate Adaptation Plan (Project 16). In addition, better capture of rainwater 
+provides an efficient alternative to expensive infrastructure development and 
+reduces impact on water sources in our regional parks. WSUD will also improve 
+the quality of urban spaces for our communities (Project 5), enhancing our 
+biodiversity and our wellbeing, as well as being increasing our robustness and 
+resilience in a seismic event (Project 18).
+
+Melbourne
+
+Working with Platform Partners 
+- Conserving nature with The Nature Conservancy
+Wellingtonians love nature. As a port city, we especially acknowledge Tangaroa and te 
+mana o te wai5. As the city grows and changes, we will need to work hard to retain and 
+maybe enhance what we have for future generations.
+The Nature Conservancy, one of the 100RC Platform Partners, will be an important 
+partner in helping us improve water systems through ecological interventions.
+The Nature Conservancy has a wealth of experience in this area, and we have looked 
+to the work undertaken with the city of Melbourne in biodiversity to understand the 
+strength of this opportunity. We are looking to make better use of Wellington’s natural 
+resources through initiatives such as transforming some stormwater pipes into open 
+streams, enhancing the city’s biodiversity and  amenity while managing hydraulic flows.
+
+Urban SOS
+Victoria University students’ future vision for a water sensitive Wellington has been 
+shortlisted from 200 participants in a global competition, Urban SOS: Fair Share, which 
+is run jointly by 100RC, AECOM and Van Alen Institute.
+
+5 
+
+Tangaroa is the Māori god of the sea. The concept of te mana o te wai reflects the recognition of 
+fresh water as a natural resource whose health is integral to the social, cultural, economic and 
+environmental wellbeing of communities.
+
+92
+
+93
+
+100 Resilient CitiesWellington Resilience Strategy25
+Explore options 
+for sewage sludge 
+disposal 
+
+Lead
+WCC
+New Wellington City project
+We will reduce carbon and landfill liability related to sewage management.
+
+Key partners
+Veolia, Wellington Water
+
+Action
+The Council will undertake an options assessment for sewage sludge disposal to 
+identify preferred options.
+
+Resilience co-benefits
+This project directly addresses the stress on infrastructure, and puts in place a 
+suite of investment options that mitigate future capacity issues. At the same time, 
+the city’s financial exposure to carbon markets will be reduced.
+Additionally, a better sludge disposal operation can be linked to energy 
+production, making Wellington less dependent on external energy supply. 
+Finally, the status quo is not consistent with how Wellington perceives itself 
+environmentally. A better disposal option will bring Wellington’s aspirations into 
+alignment with what actually happens on the ground.
+
+A city waste disposal system needs to be in line with its environmental aspirations.
+
+Paris
+
+Working with Platform Partners  
+– Talking rubbish with Veolia
+Wellington aspires to be an eco-city that is a leader in environmental practice. One 
+of the biggest differences the city can make is to improve the way we dispose of 
+organic waste – currently this makes up the largest proportion of the Council’s carbon 
+emissions inventory.
+Facilitated by 100RC, Veolia and Wellington Water have come together to examine 
+the opportunity to change the current practice, and are developing proposals to 
+convert organic waste, and sewage sludge in particular, into energy. This would not 
+only solve several complex waste management issues, but also build redundancy into 
+Wellington’s vulnerable energy supply chain.
+Veolia is one of the 100RC platform partners. It works with hundreds of diverse cities 
+around the world on water, energy, and waste management.
+
+94
+
+95
+
+100 Resilient CitiesWellington Resilience Strategy26
+Ensure emergency 
+water supply 
+for Wellington 
+Hospital 
+
+Lead
+WCC
+Existing Wellington City project
+We will ensure robust emergency water supply for Wellington Hospital in Newtown.
+
+Key partners
+Capital and Coast District Health Board
+
+Action
+The Council will work with Wellington Water, the District Health Board and 
+relevant Central Government agencies to agree on delivery methods and funding 
+for the emergency water supply for Wellington Hospital and implement the project.
+The project will investigate synergies related to restoration of existing 
+watercourses and irrigation of urban agriculture projects in the neighbourhood.
+
+Resilience co-benefits
+This project improves the likelihood that Wellington Hospital will be able to 
+function after an earthquake and may also identify water efficiency opportunities 
+for the day-to-day operation of the hospital.
+The project presents an opportunity to create a new amenity in Newtown, perhaps 
+connecting with some of the local streams (Project 24) and providing irrigation for 
+the local urban farm (Projects 5 and 6).
+
+27
+Invest in water 
+and wastewater 
+resilience and 
+awareness
+
+While creating emergency water storage we can 
+also create new amenity and an irrigation system 
+to support urban agriculture. 
+
+Key partners
+WCC, WREMO
+
+Lead
+Wellington Water
+Scaling up of existing regional project
+We will accelerate investment in water resilience and promote emergency water and 
+sewage preparedness options to citizens, businesses and institutions to encourage 
+them to take action and be self-sufficient for at least 7 days following a disaster.
+
+Action
+Wellington Water will design and implement an accelerated investment 
+programme supported by an initiative that reinforces the need for all individuals, 
+communities and institutions to take responsibility for their own emergency water 
+and sewage. This includes further promotion of household emergency water tanks 
+and increased use of grey and rain water. The communication will also aim to grow 
+awareness of the sewage disposal challenge if reticulation is unavailable.
+
+Resilience co-benefits
+The project will improve Wellington’s ability to cope with a shock, and the 
+ability of Wellingtonians to withstand a water and a sewage network outage 
+for longer periods of time. This will be beneficial in the immediate response 
+during a disaster and recovery minimising health risks and contamination of the 
+environment (Project 18).
+At the same time, promotion of grey water use and rainwater retention measures 
+will reduce demand for water from the mains network, reducing pressure on 
+water supply, as well as reducing costs of water treatment and pumping. This will 
+also have a beneficial effect for stormwater management (Project 24), slowing 
+down the runoff during the flash floods expected as a consequence of climate 
+change (Project 16).
+
+97
+
+100 Resilient CitiesProgramme 3.3 
+Transport and energy 
+
+We will work with infrastructure owners to ensure 
+flexibility and robustness of transport and energy 
+
+services in Wellington.
+
+The current and future 
+
+prosperity of Wellington relies 
+on mobility of people, goods 
+
+and information. Despite higher 
+levels of cycling and walking than 
+most other parts of New Zealand, 
+Wellington remains highly reliant 
+on road transportation. Seventy-one 
+percent of trips were made by car in 
+the Wellington region between 2010 
+and 2014, and 70 percent of freight was 
+moved by road in 2012.
+The way our region’s transport corridor 
+is shaped means it can be easily 
+disrupted. Around 27% of workers in 
+Wellington use it each day, and if it is 
+closed, even briefly as it was after the 
+Kaikoura earthquake, traffic comes to a 
+standstill. Projects like the Transmission 
+Gully motorway are important for the 
+robustness of our region’s transport 
+networks, but we also need to look 
+at other approaches for generating 
+
+flexibility and relieving congestion. 
+While Wellington Harbour is also 
+important for inter-island transport 
+between Aotea Quay and Picton, it is 
+also the main backup point of entry 
+should land access be compromised. 
+The Kaikoura earthquake has 
+highlighted the fact this is a significant 
+vulnerability for Wellington.
+Wellington’s public transport continues 
+to improve, but it is likely that private 
+vehicle travel will remain important in 
+Wellington. There is a trend towards 
+types of vehicle that are less reliant on 
+our vulnerable fuel supply chains and 
+also produce fewer emissions. As 82 
+percent (MBIE, 2016) of Wellington’s 
+electricity comes from renewable 
+sources – chiefly from a windfarm 
+located within the boundary of 
+Wellington City – we are especially well 
+positioned for use of electric vehicles.
+
+Wellington’s strong use of renewables 
+is a great asset for our ability to cope 
+with oil price shocks and breakdown 
+in supply chains, but we know that 
+our electricity distribution network is 
+vulnerable to high winds, earthquake, 
+fires and other natural and manmade 
+hazards. Most citizens are unaware 
+of the high degree of vulnerability, or 
+of how reliant our economy is on its 
+power supply. While we are currently 
+looking to build robustness into the 
+physical network, Wellingtonians are 
+also increasingly discussing the idea 
+of distributed infrastructure such us 
+mini hydro, solar and wind generators. 
+Distributed generation infrastructure 
+builds our ability to cope with fuel and 
+power supply disruptions following 
+major shocks, and in the future may 
+be able to help relieve the pressures on 
+households from rising energy costs.
+
+Map key
+
+Train
+Transmission Gully 
+Under construction
+State Highway
+Substation
+Transmission Lines
+
+1
+
+2
+
+Wellington City
+
+1
+
+2
+
+1
+
+98
+
+100 Resilient Cities 99
+99
+
+100 Resilient CitiesWellington Resilience Strategy28
+Support flexible 
+energy supply
+
+Key partners
+Wellington Electricity, Transpower
+
+Lead
+WCC
+New regional project
+We will work with Wellington’s electricity sector to build in redundancy and 
+flexibility into our energy supply.
+
+Action
+The Council will work with Wellington Electricity and the Commerce Commission 
+to make the network less vulnerable and perform to the agreed service levels. 
+This will include investigation into incorporating network resilience in price 
+setting mechanisms. We will also investigate options for incentivising uptake of 
+technology that will build household energy independence, which could include 
+microgeneration, battery packs, solar roofs, small-scale wind, tidal energy and 
+neighbourhood microgrids.
+
+Resilience co-benefits
+The project seeks an energy network that is robust and flexible. A more 
+decentralised network that includes multiple small-scale generation sources will 
+perform better in an earthquake or a storm (Project 18), and will have an added 
+benefit of reducing reliance on fossil fuels.
+This approach can also generate economic opportunity, positioning Wellington as 
+a leader in alternative technologies and building on our existing reputation as a 
+low-carbon city (Projects 8,10).
+
+29
+Support widespread 
+adoption of electric 
+vehicles
+
+Key partners
+Wellington Electricity
+
+Lead
+WCC
+New Wellington City project
+We will enable widespread use of electric vehicles (EVs) in Wellington, reducing 
+dependence on the vulnerable fuel supply chain, as well as our carbon footprint.
+
+Action
+This project will see the Council lead by example by switching its fleet to EVs as 
+they become due for replacement. We will give priority to contractors that use EVs, 
+including waste, recycling and street cleaning contractors.
+We will support use outside of the Council by investing in charging 
+infrastructure across the city, as well as working with other regional councils 
+to establish a broader charging network. Uptake of EVs will also be supported 
+through the District Plan, particularly in regards to charging infrastructure for 
+apartments and new homes.
+
+Resilience co-benefits
+A significant increase in electric vehicles will drive reductions in air pollution 
+and noise, resulting in health benefits for all Wellingtonians. In the event of a 
+major shock that disrupts fuel supply chains, EVs may provide ongoing mobility, 
+particularly if they are able to be recharged through renewable and distributed 
+sources of energy (Project 28). EV batteries may also be able to provide emergency 
+household power sources in the event of a seismic emergency. 
+The project will also generate alternative income/business development 
+opportunities in the clean technology industry (Project 8 and 10).
+
+A more decentralised network 
+that includes multiple small-
+scale generation sources 
+will perform better in an 
+earthquake or a storm, and 
+will have an added benefit of 
+reducing reliance on fossil fuels.
+
+Electric vehicles are better for the environment, 
+and in a disaster there are more recharging 
+options. Their batteries could supply emergency 
+
+power to households if the lines are down.
+
+100
+
+101
+
+100 Resilient CitiesWellington Resilience Strategy30
+Leverage 
+transportation 
+investment to 
+improve Wellington's 
+resilience
+
+Key partners
+WCC
+
+Lead
+New Zealand Transport  
+Agency (NZTA) 
+Existing Wellington City project
+We will work with NZTA to build and maintain resilient transport infrastructure 
+for critical routes and all transport modes.
+
+Action
+This project is effectively an advisory project, where the Council will be an active 
+partner and resilience champion for the following projects:
+
+•  Coastal cycleways: improving cycle network and coastal defence
+•  Petone to Ngauranga link: addressing vulnerability of link between Hutt and 
+
+central Wellington 
+
+•  Let’s Get Wellington Moving: reducing congestion in the central city 
+•  Future of the Port: reducing vulnerability of the port
+This will involve the Council strongly advocating for application of resilience 
+principles in these projects. This could include greater inclusiveness through more 
+meaningful engagement on end-user needs during project design and delivery, 
+resourcefulness by encouraging infrastructure that serves multiple purposes, or 
+robustness by ensuring that worst-case climate change projections are considered 
+during project design phases.
+
+Resilience co-benefits
+As a group, these projects will improve access into the city for people and goods, 
+as well as encouraging active lifestyles. All road users will benefit. It will provide 
+redundancy in transport while improving everyday options. Advocating strongly 
+for active use of resilience principles will ensure that co-benefits are maximised. 
+Key projects that will connect with this initiative are encouraging adoption of 
+electric vehicles (Project 29), undertaking recovery planning (Project 18) and 
+developing a climate adaptation plan (Project 16).
+
+A resilient transport network has 
+inbuilt redundancy and flexibility 
+to cope with disaster. It can also 
+encourage an active lifestyle.
+
+Mexico City
+
+Inspiration from 100RC network  
+– Mexico’s integrated mobility system
+Mexico’s vision is to have an integrated mobility system that prioritises public 
+transportation over private vehicles and provides a safe urban environment for 
+pedestrians and cyclists.
+Rather than accept traffic congestion, the city has decided to act decisively to promote 
+an integrated mobility system to revitalise Mexico; discourage the use of private 
+vehicles; create a safe and accessible city for pedestrians and cyclists; prepare the 
+mobility system for the potential risks and effects of climate change, and promote the 
+use of data to improve decision making on mobility.
+Mexico City focusses on mobility, not cars, which resonates with many 
+Wellingtonians, as does the explicit connection to climate change and revitalisation. 
+Improved mobility also has a very real benefit in reducing air pollution and traffic 
+congestion, with health and social co-benefits. 
+
+102
+
+103
+
+100 Resilient CitiesWellington Resilience StrategyImplementing Wellington’s 
+Resilience Strategy
+
+Producing a strategy is 
+not the end of thinking 
+about resilience – 
+it’s the beginning.
+
+We are currently working on an Implementation Plan that will assign responsibilities, 
+time frames and resources to ensure the projects are delivered and their resilience 
+value realised. Collectively, the projects will begin the process of integrating resilience 
+thinking into all decisions affecting the future of our city, including long-term 
+planning. Many Wellingtonians have already put up their hand to join the project teams. 
+We hope many more will join in as we start delivering our resilience projects.
+A number of leaders have been identified and organised into a Resilience Steering Group 
+that will empower key sectors to integrate and adapt resilience thinking into their work.
+Steering Group members have been drawn from Central Government; the social and 
+housing sectors; Wellington, Hutt City and Porirua City councils; Civil Defence; the 
+insurance and commercial sectors; and academia.  
+As well as monitoring progress, the group will undertake a 3-year review early in 
+2020 to provide recommendations to further improve the strategy. This could include 
+amending the project list in consideration of lessons learned, refining our goals and 
+programmes, and reviewing our resilience challenges to ensure they remain relevant. 
+The Steering Group will formally report to Wellington, Porirua and Hutt City councils 
+annually in February.
+
+104
+
+100 Resilient CitiesWellington Resilience StrategyEnd notes
+
+References
+
+BERL (Sanderson, K., and Fareti, N.), (2015) 
+Wellington – essential to NZ’s Top Tier:  
+Its resilience is a national issue 
+BERL, December 2015, p.3 
+
+Capital and Coast DHB (CCDHB), (2015) 
+2015: Health Needs Assessment for Wairarapa, Hutt 
+Valley and Capital and Coast District Health Boards 
+www.ccdhb.org.nz/aboutus/Documents/3DHB%20
+Health%20Needs%20Assessment%202015_final.pdf
+
+Forecast.id, (2016) 
+Population forecasts 
+forecast.idnz.co.nz/wellington/population-summary
+
+GNS Science: Te Pū Ao, (2016) 
+Where do earthquakes happen in New Zealand?  
+gns.cri.nz/Home/Learning/Science-Topics/Earthquakes/
+New-Zealand-Earthquakes/Where-do-earthquakes-
+happen-in-NZ
+
+Grow Wellington Ltd, (2011) 
+The Wellington Regional Economy  
+Prepared by Freeth, A., p.7  
+www.growwellington.co.nz/document/6-21/Wellington_
+Regional_Economy__Feb_2011_(SP_edits).pdf
+
+• 
+
+ 
+
+• 
+
+• 
+
+• 
+
+Infometrics 
+Wellington City at a Glance, (2015a) 
+ecoprofile.infometrics.co.nz/Wellington%2bCity/
+Infographics/Overview
+Industry Diversity: Wellington City, (2015b) 
+ecoprofile.infometrics.co.nz/Wellington%2BCity/Gdp/
+IndustrialDiversity
+
+Kestrel Group Ltd, (2011) 
+Resilience Lessons: Orion’s  2010 and 2011 Earthquake 
+Experience: Independent Report. Kestrel Group Ltd, p.i  
+www.oriongroup.co.nz/assets/Customers/Kestrel-report-
+resilience-lessons.pdf
+
+Massey University, (2013) 
+Kiwis under-insured by $650billion – new study.  
+www.massey.ac.nz/massey/about-massey/news/article.
+cfm?mnarticle_uuid=2D84646C-D135-A24D-5271-
+47FBA32B4F0A
+
+Ministry for Environment (MFE) 
+Climate change projections for the Wellington 
+and Wairarapa region (2016) 
+www.mfe.govt.nz/climate-change/how-climate-change-
+affects-nz/how-might-climate-change-affect-my-region/
+wellington
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+106
+
+ 
+
+• 
+
+• 
+
+• 
+
+ 
+
+• 
+
+ 
+
+ 
+
+• 
+
+Preparing New Zealand for rising seas: Certainty 
+and Uncertainty: November 2015.  
+www.pce.parliament.nz/media/1380/preparing-nz-for-
+rising-seas-web-small.pdf 
+
+National Business Review (NBR), (2016) 
+NZ’s ageing workforce not being catered to 
+www.nbr.co.nz/article/nz-aging-workforce-
+not-being-catered-cg-p-190665?utm_
+source=newsletter&utm_medium=email&utm_
+campaign=NBR%252520Heads%252520Up  
+
+NIWA, (2011) 
+Coastal adaptation to climate change 
+www.niwa.co.nz/climate/research-projects/coastal-
+adaptation-to-climate-change 
+
+Organisation for Economic Cooperation and 
+Development (OECD) 
+Perspectives on Global Development 2012:  
+Social Cohesion in a Shifting World (2012) 
+OECD Publishing, Paris, 2011, p.17
+Better Life Index: Housing (2015) 
+www.oecdbetterlifeindex.org/topics/housing/
+
+Profile.id 
+Wellington City: Workforce industry sector 
+of employment (2016a) 
+profile.idnz.co.nz/wellington/workforce-
+industries?BMID=30
+Wellington City: Ethnic groups (2016b) 
+profile.idnz.co.nz/wellington/ethnic-group
+Wellington City: Workforce highest qualification 
+achieved (2016c) 
+profile.idnz.co.nz/wellington/workforce-level-of-
+qualifications
+
+Rockefeller Foundation, (2015) 
+Remarks by Dr. Judith Rodin at the Cities for Tomorrow 
+Conference 
+www.rockefellerfoundation.org/about-us/news-media/
+remarks-by-dr-judith-rodin-at-the-cities-for-tomorrow-
+conference/
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+ 
+
+• 
+
+Statistics New Zealand (Stats NZ), (2016) 
+Workers aged 55+ keen to stay working full-time 
+www.stats.govt.nz/browse_for_stats/income-and-work/
+employment_and_unemployment/workers-aged-55plus-
+article.aspx 
+
+Wellington City Council (WCC) 
+Survey of Central City Dwellers: Final Report (2015a) 
+wellington.govt.nz/~/media/services/environment-and-
+waste/urban-development/files/survey-of-central-city-
+dwellers-final-report.pdf
+
+Wellington City Council (WCC) 
+Wellington Urban Growth Plan: Urban Development 
+and Transport Strategy: 2014-2043 (2015b) 
+wellington.govt.nz/~/media/your-council/plans-policies-
+and-bylaws/plans-and-policies/a-to-z/wgtn-urban-
+growth/wgtn-urban-growth-plan2015.pdf
+
+Wellington Lifelines Group, (2012) 
+Lifeline Utilities Restoration Times for Metropolitan 
+Wellington Following a Wellington Fault Earthquake: 
+Report to the Wellington CDEM Group Joint Committee 
+from the Wellington Lifelines Group, November 2012 
+www.gw.govt.nz/assets/Emergencies--Hazards/
+Emergency-Planning/12-11-13-WeLG-report-to-CDEM-
+Joint-Committee-restoration-times-FINAL.pdf
+
+Wellington Region Emergency Management 
+Office (WREMO) 
+Annual Plan 1 July 2015- 30 June 2016 (2015) 
+www.getprepared.org.nz/sites/default/files/u75/2015-
+2016%20WREMO%20Annual%20Plan.pdf
+Group Plan 2013-2018 (2013) 
+www.getprepared.org.nz/sites/default/files/
+uploads/2013%20-%202018%20Group%20Plan.pdf
+
+www.infrastructure.govt.nz/plan/2011implementation/
+ipifd-mar13.pdf
+
+107
+
+100 Resilient CitiesWellington Resilience StrategyAcknowledgements
+
+The development of the Resilience Wellington Strategy has been 
+underpinned by the participation of numerous individuals and 
+
+organisations that were willing to provide their expertise. 
+
+Chief Resilience Officer
+
+Mike Mendonça
+
+The Wellington Chief Resilience Officer would like to thank the following 
+people and organisations for their contribution to the development of the 
+
+Wellington 100 Resilient Cities Strategy: 
+
+600
+
+people received Resilient Wellington newsletters
+
+170
+
+ people responded to the survey identifying 
+
+Wellington’s key resilience factors
+
+160
+
+people participated in the Agenda Setting Workshop
+
+100
+
+people discussed resilience with the CRO in 
+
+one-on-one interviews
+
+75
+
+95
+
+people participated 
+in focus groups and 
+workshops in Phase I
+
+people participated 
+in focus groups and 
+workshops in Phase II
+
+Behind the scenes
+
+This is how our resilience story was born.
+
+100 Resilient Cities Relationship Managers
+Sam Kernaghan and Nicola Thomson
+
+Steering Group
+Celia Wade-Brown 
+Mayor (2016), Wellington City Council
+Justin Lester 
+Mayor (2017 onwards), Wellington City Council
+Professor David Johnston 
+Director, Joint Centre for Disaster Research
+Elizabeth McNaughton 
+Executive Director (CERLL), 
+Department of the Prime Minister and Cabinet
+Jo Taite 
+Chief Executive Kaihautu,  
+Ngati Kahungunu Whanau Services
+Colin Crampton 
+Chief Executive, Wellington Water Limited
+Tim Grafton 
+Chief Executive, New Zealand Insurance Council
+John Milford 
+Chief Executive, Wellington Chamber of Commerce
+Bruce Pepperell 
+Manager, Wellington Region Emergency Management Office
+Alison Cadman 
+Chief Executive, Dwell
+Platform Partners
+Christine Rodwell, Veolia 
+Michael Looker, The Nature Conservancy
+
+Iwi Partners
+Lee Rahina-August, Port Nicholson Block Settlement Trust
+Leanna Barriball, Te Rūnanga o Toa Rangatira Incorporated
+
+Strategy Partner: AECOM
+Marta Karlik-Neale
+Zoe Thompson
+Kerry Griffiths
+Kieran Power
+Will Symons
+
+Support Group
+Rebecca Adams, WCC
+Celestina Sumby, WCC
+Sean Audain, WCC
+Boris Kirov, WCC
+Alex Robertson, WCC
+Stuart Bayly, WCC
+Nicky Karu, WCC
+Trevor Himona, WCC
+Bart de Vries, Motif
+League of Live Illustrators
+
+Publication Design
+Jacob Howard, WCC
+Amanda McGlone, WCC
+Solène Constant, WCC
+Ben Crotty, WCC
+Cass Hesom-Williams, WCC
+Ned Wenlock, Oneedo Studio
+
+108
+
+109
+
+100 Resilient CitiesWellington Resilience StrategyWe shared the moments when Wellington made us proud. That’s how our resilience vision was developed.
+
+A story telling approach was integrated throughout. We were not afraid to be creative.
+
+Discovery Area Groups
+
+Climate Change Adaptation
+Project Lead
+Moana Mackey, WCC
+Discovery Group Members
+Bryce Davies, IAG
+Professor Dave Frame, Victoria University
+David Mitchell, WCC
+Geraint Breese, HCC
+Jone Sumasafu, WCC
+Dr Kate Crowley, NIWA
+
+Project Manager
+Nicci Wood, WCC
+
+Lisa McLaren, WREMO
+Lorelei Schmitt, Opus International
+Mike Frew, Abide
+Monique Cornish, Tonkin & Taylor
+Myfanwy Emeny, WCC
+Stu Farrant, Morphum Environmental
+Tom Pettit, WCC
+
+Earthquake Recovery
+Project Lead/Deputy Chief Resilience Officer
+Dan Neely, WREMO
+Discovery Group Members
+Alex Geogouras, WCC
+Amelia Dalley, MCDEM
+Anthony Wilson, WCC
+Brent Neale, WCC
+Carolina Lukkien, DPMC
+Ilan Noy, VUW
+Jamuna Rotstein, Red Cross
+John Lucas, Insurance Council
+Lucy Hicks, WCC
+Luke Troy, GWRC
+Mark Futter, Hutt Valley Chamber of Commerce
+Mark Kinvig, Wellington Water Limited
+Paki Maaka, HCC
+
+Project Manager
+Mischa Hill and Sam Ripley, WREMO
+
+Pam Johnston, MBIE
+Raj Prasanna, JCDR, Massey University
+Ray Hardie, Wellington Electricity
+Richard Mowll, Wellington Lifelines Group
+Richard Smith, EQC
+Roger Fairclough, Treasury
+Saarb Johal, Massey University
+Sarah Jardine, DPMC
+Selwyn Blackmore, Cardno
+Simon Fleisher, WCC
+SR Uma, GNS
+Stephen Cody, WCC
+Vanessa Tanner, WCC
+
+110
+
+111
+
+100 Resilient CitiesWellington Resilience StrategyWe looked at the challenges and built on our strengths.
+
+Economic Prosperity
+Project Lead
+Phil Becker, WCC
+
+Discovery Group Members
+Andrew Macleod, The Property Group
+Ayolt Wiertsema, WIAL
+Chris Wilkinson, FRG
+Colin Drew, GWRC
+Dylan Firth, Hospitality NZ
+Greg Thomas, WIAL
+James Bushell, MOTIF
+Jeremy Harding, WREDA
+John Clarke, WCC
+
+Quality of Life
+Project Lead
+Jenny Rains, WCC
+
+Discovery Group Members
+Andrea Boston, Regional Public Health
+Angela Rampton, WCC
+Ben Keat, YMCA
+Charlie Devenish, Community Networks Wellington
+Donna Wilson, WCC
+Jamie Shackleton, Red Cross
+Jonathan Moore, WCC
+
+Project Manager
+Zoe Thompson, AECOM, and Lara Rapson, WCC
+
+Matt Paterson, Property Council
+Miles Crawford, Massey University
+Nancy Brown, JCDR, Massey University
+Neville Cherry, Westpac
+Philippa Howden-Chapman, CfSC
+Sam McKinnon, WECC
+Thomas Wutzler, Enterprise Miramar Peninsula Incorporated
+Tim Packer, NEC
+Wendy McGuinness, McGuinness Institute
+
+Project Manager
+Carolyn Dick, WCC
+
+Julie Rushton, WCC
+Linda Weterman, YMCA
+Louise Parkin, Nikau Foundation
+Nick Moat, Athfield Architects
+Nigel Taptiklis, WCC
+Paula Comerford, The Property Group
+Robyn Steel, PCC
+Simon Tendeter, WCC
+
+In-depth analysis underpinned the softer story telling approach.
+
+Other stakeholders consulted
+A
+Abide
+Accessibility Advisory Group
+Accident Compensations Corporation
+AECOM
+Athfield Architects
+ANZ Bank
+Arts Access Aotearoa
+Arts Wellington
+Auckland Council
+B
+Blaschke and Rutherford
+Boffa Miskell
+Brooklyn Community Association
+Business NZ
+C
+Cable Car Co
+Canterbury Earthquake Recovery 
+Authority
+Cardno
+CBRE New Zealand
+Capital & Coast DHB
+
+Centreport
+Chamber of Commerce
+Chorus
+Christchurch City Council
+City of Melbourne
+City of Sydney
+Community Housing Aotearoa
+Community Law
+Community Networks Wellington
+Community Patrols
+Commonsense Organics
+Common Unity Project
+Compass Health
+Countdown
+D
+Deloitte
+Department of Corrections
+Department of Internal Affairs
+Department of Conservation
+Downtown Community Ministry
+Dwell
+
+E
+Eco Landscapes
+EECA
+EQC
+Enterprise Miramar Peninsula 
+Incorporated
+Enspiral
+Environmental Reference Group
+F
+First Retail Group Ltd
+Foodstuffs NZ
+G
+Garden to Table Trust
+Generosity NZ
+GHD
+GNS
+Greater Wellington Regional Council
+H
+Hack Miramar
+Hospitality NZ
+Housing NZ
+Home of Compassion Soup Kitchen
+
+112
+
+113
+
+100 Resilient CitiesWellington Resilience StrategySix hundred ideas were generated at the  
+Action Workshop.
+
+We took care of our personal resilience too.
+
+Many committed people gave their time and brain power to develop this strategy.
+
+Hutt City Council
+Hutt Valley Chamber of Commerce
+Hutt Valley DHB
+Hydra Environmental Consulting
+I
+IAG New Zealand Ltd.
+Insurance Council of New Zealand
+Inland Revenue Department
+Inner City Association
+Inspiring Communities
+IPENZ
+Isthmus
+J
+Joint Centre for Disaster Research
+K
+Kaibosh
+Kāpiti Coast Airport
+Kāpiti Coast District Council
+Kestrel Group
+Kiwi Community Assistance
+Kiwibank
+KiwiRail
+L
+Land Information New Zealand
+Lifehack
+Lions Club
+Local Government New Zealand
+Loomio
+
+114
+
+M
+Maori Arts
+Massey University
+Ministry of Business, Innovation and 
+Employment
+Ministry of Civil Defence and 
+Emergency Management
+McGuiness Institute
+McKee Fehl Ltd
+Mckenzie Higham
+Ministry of Education
+Ministry of Health
+Ministry of Social Development
+Miramar BID
+Morphum Environmental
+MOTIF
+N
+Natural Hazards Research Platform
+National Cyber Security Centre
+NEC
+Neighbourhood Support NZ
+Neighbours Day Aotearoa
+Ngāti Kahungunu ki Pōneke
+Community Services
+Nikau Foundation
+NIWA
+NZ Centre for Sustainable Cities
+NZ Fire Service
+NZ Institute of Architects
+
+NZ Planning Institute
+NZ Police
+NZ Post Group
+NZ Recreation
+NZ Society of Earthquake Engineering
+NZ Transport Agency
+O
+Opus
+OraTairio: NZ Climate and Health 
+Council
+Our Space
+P
+Pacific Advisory Group
+Palantir
+Parliamentary Services
+Philanthropy NZ
+PNBST/Ngati Toa
+Porirua City Council
+Property Council
+R
+RCA
+Red Cross
+Refugee Services
+Regional Public Health
+ResOrgs
+Resourceful Planning
+RMS
+Regional Public Health
+
+S
+Salvation Army
+School of Medicine (Otago)
+Skylight Trust
+Solity
+Stratum
+Storymaker Research Institute
+Stimpson and Co
+Sustainability Trust
+Sustainable Coastlines
+T
+Te Awakairangi Health Network
+The Nature Conservancy
+The Property Group
+The Wellington Company
+Think Tank
+Timor-Leste Community Policing 
+Programme
+Tonkin & Taylor
+Transpower
+Treasury
+Trimble
+Trinity Group
+TSA Oasis
+
+U
+Urban Development Agency
+University of Auckland
+Upper Hutt City Council
+V
+Veolia
+Viclink
+Victoria University
+Volunteer NZ
+Volunteer Wellington
+W
+Warren and Mahoney Architects
+Wellington City Mission
+Wellington City Youth Council
+Wellington Civic Trust Inc
+Wellington Community Trust
+Wellington Electricity
+Wellington Employers Chamber of 
+Commerce
+Wellington Free Ambulance
+Wellington International Airport
+Wellington Lifelines Group
+Wellington Māori Business Network 
+Inc.
+
+Wellington Night Shelter
+Wellington Tenths Trust
+Wellington Timebank
+Wellington Water
+Wellington YMCA
+Wellington Zoo
+Weltec
+Westpac NZ
+WETA Workshop
+Wharton, University of Pennsylvania
+Whiterea Community Polytechnic
+WINTEC
+Wellington Regional Economic 
+Development Agency
+Wellington Regional Emergency 
+Management Office
+World Wildlife Fund
+Work and Age Trust NZ
+Z
+Zeal Education Trust
+
+115
+
+100 Resilient CitiesWellington Resilience Strategyresilient.wellington@wcc.govt.nz
+
+

@@ -1,0 +1,6590 @@
+Resilience Strategy of the  
+City of Rio de Janeiro
+
+1
+
+Resilience Strategy of the  
+City of Rio de Janeiro
+
+100 Resilient Cities - Pioneered by The Rockefeller Foundation (100RC) helps cities around 
+the world become more resilient to the physical, social, and economic challenges that are 
+a growing part of the 21st century. 100RC provides this assistance through: funding for a 
+Chief Resilience Officer in each member city who will lead the resilience efforts; resources 
+for drafting a resilience strategy; access to private sector, public sector, academic, and NGO 
+resilience tools; and membership in a global network of peer cities to share best practices 
+and challenges. Rio Resiliente was completed in partnership with 100 Resilience Cities.  
+
+For more information, visit: http://www.100ResilientCities.org 
+
+2
+
+Mayor of the City of Rio de Janeiro
+Eduardo Paes
+Deputy Mayor
+Adilson Nogueira Pires
+Special Advisor to the Mayor
+Rodrigo Rosa
+Municipal Secretary of the Civil Cabinet
+Guilherme Schleder
+Municipal Secretary of Conservation and Public Services
+Marcus Belchior Corrêa Bento
+Chief Executive of Resilience and Operations -COR 
+Pedro Rodrigues dos Santos e Junqueira
+Deputy Chief Resilience Officer - COR
+Luciana Álvares Nery
+Deputy Chief of Operations - COR
+Marcio Almeida
+
+CREDITS
+General Coordination: Pedro Junqueira
+Text: Luciana Álvares Nery
+
+SPECIAL ACKNOWLEDGEMENTS
+
+• Cristina Mendonça, Alfredo Redondo, Ilan Cuperstein, Antoine Metten, Mandy Ikert, Katie Vines, C40 Cities.  
+• Eduarda La Rocque, Pacto do Rio.  
+• Jean Caris e Ramon Ortiz, Civil Cabinet of the City of Rio de Janeiro. 
+• Katerina Elias, Lauretta Burke e Magdala Aioli, WRI/Embarq Brasil. 
+• Kirsten Kramer, Accenture. 
+• Emb. Laudemar Aguiar and Bruno Neele, International Affairs - Mayor`s Office. 
+• Luisa Santiago, Ellen MacArthur Foundation. 
+• Marcello Augusto Lopes, Senior Graphic Designer, Mayor`s Office. 
+• Marcio Motta, Civil Defense of the City of Rio de Janeiro. 
+• Marcus Belchior, Secretary Conservation. 
+• Pedro Paulo Carvalho Teixeira, Federal Deputy. 
+• Pedro Ribeiro, Pedro Miranda and Thaís Miquelino, Rio Resiliente Team. 
+• Rodrigo Rosa, Special Advisor to the Mayor of Rio de Janeiro. 
+• Sergio Besserman, President of Instituto Pereira Passos.
+
+ACKNOWLEDGEMENT TO THE PARTNERS OF 100 RESILIENT CITIES
+
+• Michael Berkowitz • Bryna Lipper • Andrew Salkin • Aaron Spencer • David Schreiner • Emilia Carrera • Leah Flax • Lauren Sorkin  
+• Max Young • Paul Nelson • Stewart Sarkozy-Banoczy, and all the team.
+
+OTHER ACKNOWLEGDEMENTS
+
+• Ana Sarkovas • Ananda Siqueira • André Marques • Bernardo Tarbes • Betina Durovni • Beto Mesquita • Bruna Santos • Camila Pontual  
+• Carlos Augusto Góes • Carlos Nobre • Cézar Busatto • Cris dos Prazeres • Cristina Lemos • Daniel Soranz • Daniella Gobbo Bordon  
+• David Stevens • Emily Hosek • Fabiano Leal • Fabio Palma • Felipe Mandarino • Flavia Carloni • Florencia Estrade • Graça Matos  
+• Helena Bomeny • João Vítor Meirelles • Juliana Hemsdorff • Luís Firmino • Luisa Cavalcanti • Luiz Roberto Arueira • Luiza Laera  
+• Marcelo Haddad • Marcio Machado • Marco Simões • Martha Barata • Megan Meyer • Nilton Moraes • Pablo Cerdeira • Patrick Fontes  
+• Paulo Canarim • Paulo Fonseca • Pedzi Makumbe • Pierre Batista • Ricardo Dorsi • Rodrigo Medeiros • Sandra Ortiz-Diaz  
+• Santiago Uribe Rocha • Sérgio Bastos • Thomas Trebat • Tomás de Lara • Valeria Saraceni • Vicente Loureiro • Viviane Mosé  
+• Washington Fajardo • Wolfram Lange • Yara Valverde.
+
+5
+
+resilient Rio strategy enables us to build expertise and have 
+processes in place to continue developing a city ready to 
+support our citizens and decrease future risks to all. 
+
+As we look at immediate applications of resilience, one only 
+has  to  look  at  our  exciting  upcoming  2016  Olympic  and 
+Paralympic  Games.  We  are  already  defining  a  legacy  of 
+resilience through important investments in city mobility, the 
+creation of public spaces and opening new public venues. 
+
+But  another  kind  of  legacy  can  be  incorporated,  adding 
+to what already exists at the Center of Operations Rio: an 
+operational  legacy.  The  Olympic  Games  involve  complex 
+matters  related  to  mobility,  logistics,  and  security,  and 
+require the extensive coordination and partnership of several 
+governmental departments working in an integrated manner. 
+All  our  efforts  feed  into  new  experiences  for  future  traffic 
+operations, contingency plans and first responder activities 
+to  address  crises  and  disasters.  All  that  we  are  going  to 
+learn during the Games will not disappear after the closing 
+ceremony, and it will work to make Rio more resilient.
+
+In sum, the pursuit of resilience across the globe offers an 
+extraordinary opportunity for Rio to support our peers based 
+on what we have and continue to learn. We envision enabling 
+cities to develop their own integrated resilience strategies to 
+make them more capable of dealing with their shocks and 
+chronic stresses and, above all, to prosper. I am therefore 
+proud to share our Rio de Janeiro Resilience Strategy with all 
+of you and thank all of our residents and visitors for helping 
+us embrace resilience in our lives. 
+
+Mayor Eduardo Paes
+
+ 
+EDUARDO PAES, 
+
+Mayor of the City of Rio de Janeiro
+
+Rio de Janeiro is today a city with many ambitions. In 2016, 
+we released Vision Rio 500, the result of an exciting and 
+inclusive process that enabled thousands of Rio residents to 
+share their aspirations for the future of our city. Our residents 
+collectively  agree  that  Rio  should  be  a  gentle  city,  one 
+that appreciates and pushes for creativity, one focused on 
+celebrating and preserving its natural beauty, and one that is 
+a source of opportunity and distinguished living for everyone. 
+
+One of Vision Rio 500’s goals is to have Rio serve as a global 
+reference  for  city  resilience.    Rio  de  Janeiro’s  Resilience 
+Strategy is an important step towards achieving that goal, 
+in that it defines priorities, guidelines and specific targets for 
+developing a resilient model to share globally. 
+
+In January 2015, the city released “Rio Resiliente: Diagnostic 
+and Focus Areas,” which identified Rio’s main shocks and 
+stresses. This critical work continued to be developed by the 
+city  and  our  citizens,  thanks  in  large  part  to  the  energetic 
+support of 100 Resilient Cities, pioneered by the Rockefeller 
+Foundation; the culmination of which is the publication of this 
+strategy book. Our journey to become a more resilient city 
+was made possible by the combined guidance and effort of 
+hundreds of thoughtful individuals within our community and 
+experts  from  across  Rio  and  around  the  globe.  I  am  truly 
+thankful to all of you and the plan you have helped us define. 
+
+A city becomes more resilient when it is further prepared to 
+face its challenges, be it social, environmental or economic. 
+Resilience does not mean having an answer to every possible 
+challenge, as nature continues to evolve. However, having a 
+
+6
+
+7
+
+But what resilience thinking allows us to do is to consider 
+these challenges together in an integrated way. It demands 
+that we ask ourselves how can we solve for the environmental 
+challenges – around climate change, floods and heat islands 
+– at the same time as we think about how to plan for and 
+create an economically prosperous and inclusive city for all 
+the citizens of Rio de Janeiro. It is then that we can begin to 
+realize the full benefits of building urban resilience.  
+ 
+Going forward, we could not be more excited to continue 
+working with Rio de Janeiro to support the implementation of 
+key initiatives and solutions for the city and its citizens. Though 
+today is only the beginning, this strategy gives me confidence 
+that Rio de Janeiro will continue to be a pioneer of resilience 
+thinking, and a leader on the world stage in executing on its 
+strategic priorities. Congratulations once again, and let the 
+great work ahead begin!
+
+Sincerely,
+Michael Berkowitz
+President, 100 Resilient Cities 
+
+ 
+MICHAEL BERKOWITZ,
+
+CEO of 100 Resilient Cities
+
+100 Resilient Cities is honored to partner with the city of 
+Rio de Janeiro to release its first ever resilience strategy, Rio 
+Resiliente.  The resilience roadmap outlined in this strategy is 
+the culmination of more than two years of research, analysis, 
+outreach, and hard work by the entire Rio Resiliente team. 
+
+First  and  foremost,  I  would  like  to  thank  Mayor  Eduardo 
+Paes and congratulate him on the release of this strategy.  
+None of this could have happened without his commitment 
+to creating a better future for all of Rio de Janeiro, and his 
+unwavering support for the resilience work. Additional thanks 
+must be given to the entire Rio Resiliente team, including 
+Chief Resilience Officer Pedro Junqueira, and Luciana Nery, 
+Deputy  CRO. Their  dedication  to  producing  a  plan  of  this 
+quality is already inspiring colleagues in cities all around the 
+world.  This strategy establishes Rio de Janeiro as being on 
+the cutting edge of innovative urban solutions and sends a 
+strong message to cities globally to join the coming urban 
+resilience revolution along with the 100 Resilient Cities network.  
+
+The initiatives in Rio Resiliente not only apply a resilience 
+lens to the short-term challenges of the city but also support 
+long-term city planning. The resilience office research created 
+inputs  and  insights  that  informed  Rio Vision  500  and  the 
+Strategic Plan 2017-2020. The resilience strategy achieves 
+an  important  alignment  of  these  three  city  documents. 
+
+There is no doubt that the release of this strategy comes at a 
+critical time for Rio.  The challenges and pressures of climate 
+change,  urban  density,  social  cohesion  and  demands  on 
+infrastructure, will continue to confront the city and its leadership.  
+ 
+
+8
+
+9
+
+“The resilience strategy of Rio de Janeiro proposes a set of guidelines and policies intended to bring the 
+city and the metropolitan area the conditions to meet the challenges ahead. The ability to look to the future 
+and recognize both the prospects and needs for the scientific, urban and social development was the most 
+valuable experience that we in Rio Resiliente had in the sense of dreaming, proposing and organizing this 
+set of urgent measures.” 
+
+Pedro is Chief Resilience and Operations Officer of the municipality of Rio de Janeiro. Head of the Center of Operations 
+since  2013,  he  is  responsible  for  coordinating  integrated  actions  for  operational  agencies.  His  performance  aims  at 
+reducing  the  government’s  response  time  to  any  incident  that  impacts  the  routine  of  the  population.  In  addition,  he 
+manages the exploration and implementation of new technologies and the development of science for operations of the city. 
+Graduated in business administration, Pedro has expertise in marketing and over 15 years of experience in Project and People 
+Management. In the public sector, he worked in the dialogue between the public administration and the interests of civil society 
+as a special advisor of the Municipal Departments of Transportation and Conservation and Public Services.
+
+“Building resilience is to think of alternatives, it is to identify co-benefits in projects and public policies. The 
+best way to do this is by integrating various points of view, always applying a resilience lens. Our thanks 
+to the Resilience Champions and to the many collaborators who have supported us, it was because of their 
+cooperation that the Resilience Strategy became more innovative and robust.”
+
+Luciana Nery is the Deputy Chief Resilience Officer of the City of Rio de Janeiro and has over 10 years experience in the public 
+sector in the areas of resilience, sustainability and project management. Worked as advisor to Mayor Eduardo Paes and also 
+served as a special advisor for strategic projects to the CEO of Furnas Centrais Elétricas S.A. In 2014 she decided to dedicate 
+herself to the theme of resilience full time. Was editor and co-author of the book “Rio Resiliente: Diagnostic and Focus Areas”. 
+She holds a master’s degree in management of international businesses (PUC-Rio / Université de Grenoble) and a degree in 
+Literature (UERJ).
+
+Pedro Junqueira
+
+Chief of Resilience and Operations
+
+Luciana Nery
+
+Deputy Chief Resilience Officer
+
+10
+
+11
+
+Photo credit: Alexandre Macieira, Riotur
+
+12
+
+13
+
+Resilience Strategy of the 
+City of Rio de Janeiro 
+
+CONTENTS
+Executive Summary
+1. Introduction
+2. Shocks and Chronic Stresses of Rio
+3. Context of the City
+4. Vision Rio 500 and Strategic Plan 2017-2020
+5. Values of Rio Resiliente
+6. Resilience Challenges
+7. Resilience Vision
+8. Goals and Initiatives
+
+1. Better understand and mitigate impacts of severe weather 
+and climate change 
+ 
+2. Mobilize Rio to be prepared to respond to extreme  
+weather   events and other shocks. 
+ 
+3. Cultivate green, cool, safe and flexible urban spaces 
+ 
+4. Provide high quality basic services to all citizens, through  
+sustainable and resilient use of resources 
+ 
+5. Promote an inclusive, diversified, circular and 
+low-carbon economy 
+ 
+6. Increase resilience of the population and 
+promote social cohesion
+
+14
+
+15
+
+Rio de Janeiro’s Resilience Strategy is an intermediary step 
+between the Strategic Plan 2017-2020, which targets the 
+near future, and Vision Rio 500, which involves aspirations 
+for  the  longer  term.  The  Resilience  Strategy  establishes 
+goals focused on resilience issues identified through the 100 
+Resilient Cities Preliminary Risk Assessment, a process that 
+involved more than 300 people between 2014 and 2016, 
+resulting in the discovery of the main shocks and stresses 
+affecting Rio. 
+
+Rio’s  Resilience  Strategy  helps  define  new  projects  with 
+longer-term results and clear benefits aimed at diminishing 
+the  city’s  vulnerabilities  while  increasing  its  resilience. The 
+strategic proposal recommends multiple programs including 
+the  creation  of  the  Rio  Panel  of  Climate  Change;  the 
+development of a disaster recovery plan for the metropolitan 
+area; an agency for the promotion of circular economy; and 
+a  course  on  Urban  Resilience,  to  reach  100,000  school 
+children  until  2020.  All  the  projects  also  entirely  aligned 
+with Vision 500 and aim at achieving the aspirations of the 
+citizens of Rio. 
+
+ The Resilience Strategy also features a selection of projects 
+from the Strategic Plan 2017-2020, many of which were 
+proposed by Rio Resiliente, the Rio de Janeiro’s Resilience 
+Office,  including  LED  public  lighting,  individual  resilience 
+indicators, an urban solar strategy, and an open, large-scale 
+online course on urban resilience to train school teachers, 
+public servants and the general population. 
+
+in 
+
+the 
+
+initiatives 
+
+the  Resilience  Strategy 
+
+All 
+involve 
+concepts, projects and specific actions that are transversal, 
+multidisciplinary  and  aim  at  reducing  the  shocks  and 
+chronic  stresses  of  the  city.  Connection,  collaboration  and 
+the  identification  of  co-benefits  comprise  the  basis  of  the 
+Resilience  Strategy  and  constitute  the  main  values  of  Rio 
+Resiliente. 
+
+EXECUTIVE SUMMARY
+
+The Resilience Strategy of the City of Rio 
+de Janeiro aims to tackle the city’s main 
+vulnerabilities and to make it more resilient. 
+Rio’s Resilience Strategy is the culmination of 
+a multi-year partnership of the City of Rio de 
+Janeiro with 100 Resilient Cities, pioneered by 
+the Rockefeller Foundation. 
+
+Urban  resilience  is  defined  as  the  capacity  of  individuals, 
+communities, institutions, businesses and systems within a city 
+to survive, adapt, and grow, no matter the chronic stresses and 
+acute shocks they experience. 
+
+Rio strives to become a global reference for resilience by 2035. 
+This ambition is a core tenet of the Vision Rio 500, a pioneering 
+citizen engagement project released in 2016 that focuses on 
+the development of a long-term vision for the city. The creation 
+of Vision Rio 500 provided Rio’s citizens, of all ages and social 
+background, a unique opportunity to share their aspirations for 
+what Rio de Janeiro should become by 2065, the city’s 500th 
+anniversary.
+
+Our vision for a more resilient Rio is based on 
+developing a better relationship between the 
+city and its water, infrastructure, and most 
+importantly, its citizens. A resilient Rio is one 
+that embraces its water, builds for the future 
+and empowers its citizens. 
+
+Thus, the City of Rio has developed the 
+following goals based on its resilience vision:
+#1: Better understand and mitigate impacts of 
+severe weather and climate change 
+#2: Mobilize Rio to be prepared to respond to 
+extreme weather events and other shocks
+#3: Cultivate green, cool, safe and flexible 
+urban spaces
+#4: Provide high quality, basic services to all 
+citizens, through sustainable and resilient use of 
+resources
+#5: Promote an inclusive, diversified, circular 
+and low-carbon economy
+#6: Increase the overall resilience of citizens 
+and promote social cohesion
+
+16
+
+17
+
+Photo credit: Alexandre Macieira, Riotur
+
+18
+
+19
+
+top  priorities  for  public  action  and  capturing  stakeholder 
+perceptions surrounding the perceived positive impacts of 
+these actions for the city. 
+
+In June 2015 the City of Rio began a discovery process 
+to identify what citizens wished for the city over the next 
+50 years. It was named Vision Rio 500 in reference to the 
+city’s 500th anniversary in 2065 and involved thousands of 
+citizens in various sessions, meetings, debates and online 
+consultation.  Soon  after,  the  city  started  to  develop  its 
+Strategic Plan 2017-2020, using an innovative approach 
+of  ample  consultation  and  transversely  of  themes,  unlike 
+the  former  ones.  Furthermore,  this  Strategic  Plan  is  fully 
+aligned to Vision Rio 500, establishing goals, timeframes 
+and budgets that, together, constitute a first step towards 
+achieving the aspirations for the next 50 years. Those two 
+plans,  for  2020  and  2065  were  released  in  March  1, 
+2016  during  a  ceremony  at  the  Museum  of  Tomorrow, 
+marking  a  new  phase  in  Rio  de  Janeiro’s  history;  one 
+in  which  Rio’s  own  citizens  helped  develop  an  ambition 
+of what they wanted in their city and how they intend to 
+achieve that vision. 
+
+The  Resilience  Strategy  points  to  initiatives  that 
+constitute an intermediary step between Plan 2017-
+2020, which targets the near future; and Vision Rio 
+500,  which  is  about  longer-term  aspirations.  This 
+Strategy also features a small selection of projects 
+from the Strategic Plan 2017-2020, because of their 
+relevance in increasing overall city resilience. 
+
+01/
+
+Introduction
+
+Urban resilience is defined as the capacity of individuals, 
+communities, institutions, businesses and systems within 
+a city to survive, adapt, and grow, no matter the chronic 
+stresses and acute shocks they experience. 
+
+This publication outlines the Strategy of Resilience of the 
+City of Rio de Janeiro. It is the result of more than two years 
+of work and the start of a new phase: the implementation of 
+projects with clear benefits to increase  the city’s resilience 
+from an integrated point of view, and fully aligned to the 
+city’s most recent strategy documents: the Strategic Plan 
+2017-2020 and Vision Rio 500. 
+
+The Resilience Strategy is being released in a key moment 
+of  the  city’s  transformation:  451  years  of  history,  the 
+2016  Olympic  and  Paralympic  Games,  and  a  vision  for 
+the next 50 years, named Vision Rio 500. The Resilience 
+Strategy was developed from 2014 through 2016 by the 
+City of Rio de Janeiro, with the direct participation of 300 
+people, and more than 800 people engaged, from various 
+backgrounds,  with  the  support  of  100  Resilient  Cities1, 
+pioneered  by  the  Rockefeller  Foundation,  which  aims  to 
+support resilience in cities around the world. 
+
+of  city  challenges.  Furthermore,  the  COR  has  access  to 
+a multitude of data regarding the daily routine of the city 
+and  many  tools  for  the  mobilization  of  resources  and 
+communication  with  society.  The  COR  therefore  fosters 
+an  ideal  environment  for  long-term  urban  planning  that 
+incorporates the management of recurrent city risks. 
+
+The development of the Resilience Strategy involved two 
+phases. The first identified the main risks to city resilience, 
+its vulnerabilities. The end of this first phase was marked by 
+the January 2015 release of “Rio Resilient: Diagnostic and 
+Focus Areas”, a book that included a preface by the former 
+Vice-President of the United States, Al Gore. This document 
+identifies Rio’s main shocks and chronic stresses, features 
+a classification of city’s risks and an analysis of city projects 
+related to resilience and what they represent in terms of 
+prevention,  monitoring,  mobilization,  communication  and 
+constant learning. 
+
+The development of the Resilience Strategy is led by Rio 
+Resiliente, a multidisciplinary team linked to the Center of 
+Operations Rio (COR). The incorporation of the resilience 
+theme by the COR took place primarily due to its integrative 
+and  horizontal  nature,  which  favors  transversal  analyses 
+ 
+1.  http://www.100resilientcities.org. 
+
+Once the city’s resilience priorities were mapped, the city 
+began the second phase of the 100 Resilient Cities program 
+aimed at defining a core resilience strategy. Members of 
+the Rio Resiliente team consulted multiple expert working 
+groups  throughout  2015,  with  the  goals  of  establishing  
+ 
+
+20
+
+21
+
+02/
+
+Shocks and 
+Chronic 
+Stresses of Rio
+
+During 2014 through 2015, Rio Resiliente involved more 
+than 300 people in a series of workshops and interviews 
+focused on identifying the city’s main threats to resilience. 
+With the support of the 100 Resilient Cities’ methodology, 
+public  managers,  service  company  representatives  (e.g. 
+trash collection, electricity and water utilities), academics, 
+community  leaders  and  other  members  of  civil  society 
+were interviewed. 
+
+The  Rio  Resiliente  team  assessed  resilience  across 
+socioeconomic,  behavioral,  management  and  climate 
+issues. The  team’s  findings  informed  the  identification  of 
+Rio’s key shocks and stresses: 
+
+I - INTENSE RAINS 
+Strong  rains  cause  flooding  and  landslides,  damage 
+buildings, provoke economic losses and spread diseases 
+through  contamination  of  sewage  and  solid  waste  in  the 
+rainwater, such as leptospirosis and diarrhea. They can also 
+prompt energy black-outs, lower public safety, toppling of 
+trees and traffic accidents. 
+
+In  2010,  between  April  6  and  7,  13  inches  of  rain  in 
+24  hours  caused  the  death  of  66  people,  mostly  due 
+to  landslides.  Climate  models  indicate  that  rains  in  the 
+Southeast of Brazil might become less frequent, but that 
+rainfall  can  be  concentrated  in  a  shorter  period  of  time, 
+which increases potential to cause damages. 
+
+II - STRONG WINDS 
+The strongest winds registered in Rio de Janeiro reach 
+the  speed  of  100Km/h.  Many  climate  models  indicate 
+the  possibility  of  increase  in  frequency  and  intensity  of 
+
+winds in Brazil. In Rio, strong winds can cause damage 
+to rooftops, power lines and trees, with the blockage of 
+streets, closure of bridges, paralysation of waterways and 
+threaten human lives. 
+
+III - HEAT ISLANDS AND HEAT WAVES 
+Heat waves are extreme climate events with high mortality 
+potential.  Heat  waves  occur  when  temperatures  remain 
+high for multiple days (above the 98th percentile in Rio’s 
+case). With climate change, it is estimated that heat waves 
+will  become  even  more  extreme.  Besides  death,  heat 
+waves generate thermal discomfort, increase in respiratory 
+and  cardiovascular  diseases,  increase  in  stress  and  loss 
+of  productivity,  mainly  when  people  work  under  sun 
+exposure. High temperature also causes an increase in the 
+consumption  of  electric  energy,  with  possibility  of  black-
+outs  due  to  excessive  demand;  and  also  more  dry  days 
+which, increase the chance of fires in slopes. 
+
+Heat islands happen in areas which, due to geography and 
+urbanization patterns, tend to accumulate more hot air in 
+comparison to surrounding areas. Rio has had a significant 
+increase  in  its  heat  islands  since  1980.  Examples  from 
+around the world indicate that neighborhoods, which are 
+exceedingly  hot  have  lower  economic  development  and 
+quality of life. 
+
+IV - SEA LEVEL RISE
+A study developed in 2010 indicates that if the sea level 
+rises by half a meter, then approximately 30 km2 of Rio de 
+Janeiro would be at risk of being submerged by sea water2. 
+For  example,  one  at-risk  area  surrounds  the  Baixada  de 
+Jacarepaguá lake system, whose water-covered area can 
+
+Areas susceptible to redefinition of coastal line due to sea level rise in the city of Rio de Janeiro.
+Source: IPP/Prefeitura do Rio de Janeiro
+
+expand and reach inhabited districts including Itanhangá, 
+Rio  das  Pedras,  Vargem  Pequena  and  Vargem  Grande, 
+which are already susceptible to storm surges. 
+
+The rise in the average level and reach of storm surges 
+may also affect coastal ecosystems, cause the salinization 
+of  potable  water,  damage  streets  infrastructure,  and 
+overburden rainwater retention drainage system, increasing 
+the number of floods. Rio de Janeiro’s identity is closely 
+intertwined with its beaches. Sea level rise poses a serious 
+threat to Rio’s iconic beaches and their key economic pull 
+from tourism. 
+
+Sea  level  rise  can  also  affect  neighboring  cities  located 
+around the Guanabara Bay, with negative consequences to 
+the economy, mobility and population health.
+
+2. Sea Level Rise Vulnerability for the City of Rio de Janeiro. Source: Coleção Estudos Cariocas.  
+Felipe Cerbella Mandarino, Luiz Roberto Arueira - IPP/Prefeitura da Cidade do Rio de Janeiro, 2012.
+
+V - EPIDEMICS AND PANDEMICS 
+The mosquito Aedes aegypti, endemic in Rio since 1982, 
+is a vector of Dengue, Chikungunya and Zika. The presence 
+of these mosquitoes may increase through climate change-
+driven  outcomes  such  as  increase  in  urban  heat  islands 
+that accelerate reproduction and extend the months that 
+reproduction  occurs  throughout  the  year.  Prevention 
+systems  and  victim  epidemic  treatment  are  applied 
+irregularly in the metropolitan region, which constitutes a 
+vulnerability for Rio.
+
+VI - DROUGHTS 
+Droughts driven by insufficient rain throughout the southeastern 
+regions of Brazil after the summer of 2011 caused considerable 
+water scarcity for citizens. Additionally, given Brazil’s reliance on 
+hydroelectric power, the lack of water caused electricity prices 
+to increase, making it less affordable for the majority of users. 
+In the City of Rio, 92% of residences
+
+22
+
+23
+
+In  general,  the  challenges  to  be  tackled  regarding  urban 
+infrastructure  are  related  to  their  predicted  asset  life  time, 
+such as the adequate service time and related maintenance 
+for bridges, overpasses, antennas, canopies, rooftops, seaside 
+kiosks, windows, and others. 
+
+IX  -  AGGLOMERATION  OF  PEOPLE  WITH  IMPACT 
+IN NORMALCY
+The  presence  of  a  large  number  of  people  in  the  same 
+place can pose risks to those involved and take a city out of 
+its normality. Rio’s street Carnival parades move millions of 
+people and events such as New Year’s Eve gather around 
+2  million  people  to  watch  the  fireworks  in  Copacabana. 
+Music festivals, the World Cup and the Olympic Games also 
+affect  the  normal  movements  of  the  city.  Besides  these, 
+some events happen with little or no previous warning, like 
+demonstrations  and  protests.  Public  manifestations  are  a 
+valid tool for democracy, whose main purpose is to show 
+the dissatisfaction of segments and groups in society. More 
+specifically,  the  agglomeration  of  people,  depending  on 
+how it develops, may cause the following impacts: 
+
+- Obstruction of streets without previous warning, resulting 
+in traffic jams.
+- Attacks and depredation of the private and public property 
+in case of extreme violence 
+- Sound pollution and disturbance of resident living
+-  Interruption  of  essential  services,  due  to  strikes  or 
+demonstrations
+- Decrease in the perception of personal safety.
+
+depend on water supplied from the River Guandu Treatment 
+Station  located  outside  the  city  limits  in  Nova  Iguaçu.  This 
+constitutes a vulnerability, as Rio is heavily dependent on a sole 
+source of water, with limited alternatives actively used to date. 
+
+VII - SATURATION OF THE ROAD INFRASTRUCTURE 
+Between 2004 and 2014, one million new vehicles were 
+added  to  the  existing  fleet  of  1.5  million  cars3.  Despite 
+recent gains in average city commuting times following the 
+implementation of Bus Rapid Transit, Bus Rapid System and 
+better traffic operations, traffic jams are still a major chronic 
+stress of the city, causing the following negative impacts:
+- Worsened air quality, affecting human health, such as asthma
+-  Increased  sound  pollution  and  diminishing “walkability” 
+in the city
+- Increased traffic accidents with fatalities 
+- Increased greenhouse gas emissions
+- Decreased productivity and increased economic losses to 
+companies and citizens
+- Increased transit delays for emergency vehicles
+-  Decreased  quality  of  life,  because  increased  commuting 
+diminishes free time for leisure, study and family.
+
+VIII - ACCIDENTS WITH URBAN INFRASTRUCTURE 
+In  1900,  Rio  had  little  more  than  800,000  inhabitants;  in 
+1950,  2,377,451;  and  in  2015,  the  Brazilian  Institute  for 
+Statistics and Geography estimates Rio is home to more than 
+6,500,000  residents.  This  population  growth  has  occurred 
+without  concurrent  expansions  and  modernizations  of  urban 
+infrastructure,  causing  increases  in  infrastructure-associated 
+accidents. The main consequences of accidents in the urban 
+infrastructure are: 
+- Increases in traffic delays due to accidents with trains, buses 
+and subways 
+- Gas explosions and leaks
+-  Regular  and  long-term  power  outages  associated  with 
+underground  electric  reactor  explosions  and/or  damage  to 
+aerial power lines
+- Water supply disruption due to increased bursting of high-
+pressure water and sewage pipes
+
+3. There were 1,548,393 vehicles in Rio in August 2004, and 2,533,504 in August 2014.  
+Source: Denatran.
+
+24
+
+X - CRIMINAL ACTS IN URBAN SPACES 
+The actsion of criminal groups can affect the resilience of 
+the city in many ways, causing abrupt shocks, like crime 
+waves;  but  also  chronic  stresses,  like  increasing  the 
+sensation of insecurity, which affects negatively real estate 
+prices, tourism and the psychological health of citizens. The 
+main consequences are:
+
+- Depredation and vandalism
+- Difficulty in the provision of public services and resulting 
+offer of clandestine services
+- Threats to the civil society, like murders, thefts, abuses, 
+etc.
+- Depreciation of property values and economic depression. 
+
+Safety and public order are key elements to the resilience 
+of a city, because they are linked directly to the preservation 
+of life, property and the physical and psychological well-
+being of citizens. 
+
+XI - INSUFFICIENT SANITATION4 
+In  the  city  of  Rio,  57%  of  people  have  access  to  the 
+complete  cycle  of  basic  sanitation.  The  unequal  access 
+to  sanitation  causes  various  impacts  in  public  health, 
+increasing  the  number  of  infectious  diseases,  including 
+those transmitted by Aedes aegypti, and infant mortality.
+
+Insufficient sanitation causes environmental and economic 
+degradation of the areas surrounding all types of bodies of 
+water, reaching mainly the ecosystems of the Guanabara 
+and Sepetiba bays, lakes, rivers and beaches, with various 
+negative impacts to human health, tourism and the city’s 
+branding. The metropolitan governance for sanitation is in 
+its  early  stages,  similar  to  infrastructural  investments  and 
+the connections of the sewage lines to treatment stations. 
+Illegal sewer plumbing pollutes nascent rivers that could be 
+utilized for water consumption. It also mixes with the city’s 
+rainwater  system,  lowering  the  city’s  capacity  to  absorb 
+intense rains, resulting in flooding in case of heavy rains.   
+
+4. This last item, Insufficient Sanitation, was mapped as important to the resilience of the city after 
+consultation with many stakeholders during the development of the Second Phase of the project, 
+and for this reason it is not featured in the book “Rio Resiliente: Diagnostic and Focus Area”.
+
+25
+
+03/
+
+Context of 
+the City
+
+The city of Rio de Janeiro was founded 451 years ago, 
+and  today  it  is  the  second  largest  city  in  Brazil  in  terms 
+of  population  and  GDP.  It  is  a  large  city  with  6,5  million 
+people, in a metropolitan area with more than 10 million 
+inhabitants. 
+
+The city developed between the sea and the mountains. It 
+is surrounded by the Atlantic Ocean, the Guanabara Bay 
+and the Sepetiba Bay and  hosts three urban forests, the 
+Forest of Tijuca, the Pedra Branca Massif and the Geriçinó 
+Massif. Together, they form a unique scenery, which makes 
+Rio famous worldwide for its natural beauty. It is also known 
+as  the Wonderful  City  and  is  the  main  tourist  destiny  in 
+Brazil, visited by two million international tourists every year. 
+
+Beyond the natural wealth, politics and culture have always 
+been present in the city. Capital of Brazil between 1763 
+and  1960,  Rio  de  Janeiro  harbored  many  important 
+political  and  historical  events,  and  recently  hosted  major 
+events,  such  as  the World  Cup  in  2014  and,  soon,  the 
+Olympic and Paralympic Games in 2016.  
+
+The  economy  of  the  city  is  mainly  based  on  services  - 
+86%.  The  rest  is  largely  comprised  by  the  industrial 
+sector, with intense participation of Brazilian multinationals 
+like  Petrobras  and Vale,  in  the  fields  of  oil  and  minerals, 
+respectively. Only a small portion is related to agriculture 
+- less than 1%. 
+
+The  Human  Development  Index  of  the  city,  in  2010,  is 
+0.799,  and  it  varies  from  a  high  to  0.970  in  the  most 
+prosperous neighborhood, to 0.700 in the poorest. This 
+disparity in development can also be perceived in the map 
+
+26
+
+POPULATION EVOLUTION IN RIO DE JANEIRO
+
+EVOLUÇÃO POPULACIONAL NO RIO DE JANEIRO
+
+ 7.000.000
+
+ 6.000.000
+
+ 5.000.000
+
+ 4.000.000
+
+ 3.000.000
+
+ 2.000.000
+
+ 1.000.000
+
+ -
+
+POPULAÇÃO
+POPULATION
+
+1900
+811.443
+
+1950
+
+2.377.451
+
+2015
+
+6.476.631
+
+Censos demográ(cid:31)cos do IBGE
+Demographic data from the Brazilian Institute of Geography and Statistics
+
+SOCIAL PROGRESS INDEX
+
+showing the Social Progress Index of Rio de Janeiro on 
+p. 25. 
+
+Rio’s  commitment  towards  resilience  is  demonstrated 
+through  many  initiatives,  such  as  the  creation  of  the 
+Center  of  Operations  Rio,  the  acquisition  of  a  weather 
+radar,  heavy  investments  on  slope  contention  and  flood 
+control, installation of early warning systems in favelas and 
+evacuation drills in areas prone to landslides. In 2014 the 
+city created Rio Resiliente, a strategic office that acts as 
+an  interlocutor  between  other  city  departments,  private 
+sector, NGOs and international institutions, next to planning 
+and  developing  its  own  projects  aimed  at  increasing  the 
+resilience of Rio. 
+
+The map shows the development level across the administrative regions of the City of Rio de Janeiro. Based on the Social Progress Index of Rio de Janeiro, the results 
+compound 36 variables forming 12 parameters. It includes nutrition, primary medical care, access to water and housing, personal safety, basic and higher education, 
+health and well-being, freedom and civil rights, tolerance and social inclusion. The regions in dark green have the best overall results, according to the Index, while those 
+in red feature the worst conditions. Source: Instituto Pereira Passos (IPP), April 2016.
+
+27
+
+04/
+
+Vision Rio  
+500 and 
+Strategic Plan 
+2017- 2020
+
+In June 2015 the city of Rio started an ample process of public consultation for the formulation of a vision for the next 
+50 years, named Vision Rio 500, because in 2015 Rio celebrated the 450o anniversary of its foundation. The objective 
+was to engage the population and answer the following question: What Do We Want for the Future of our City? 
+
+More than one million people dreamed, liked, shared and 
+helped write what we want for the future of our city
+1,400
+citizens
+participating 
+in polls
+
+More than
+1,000
+
+posts in 
+social media
+
+400
+participants
+through the 
+collaborative 
+platform
+
+4,500
+inputs
+through the 
+collaborative 
+platform
+
+30
+days
+of events 
+with dialogues
+
+1,300
+essays
+sent by school 
+children ages 8 and 9
+
+210,000
+visualizations in
+www.visãorio500.rio
+
+300,000
+internet users
+reached
+
+users32,000
+
+Starting from the priorities and insights identified at the development of Vision Rio 500, a process for engagement began 
+for the development of Strategic Plan 2017-2020, which defines specific goals, indicators and budget. Those are first 
+steps towards achieving the objectives of Vision 500. 
+
+High human 
+High human 
+High human 
+High human 
+High human 
+High human 
+value: equity 
+value: equity 
+value: equity 
+value: equity 
+value: equity 
+value: equity 
+of opportunites 
+of opportunites 
+of opportunites 
+of opportunites 
+of opportunites 
+of opportunites 
+and citizenship
+and citizenship
+and citizenship
+and citizenship
+and citizenship
+and citizenship
+
+Rio de Janeiro: 
+Rio de Janeiro: 
+Rio de Janeiro: 
+Rio de Janeiro: 
+Rio de Janeiro: 
+Rio de Janeiro: 
+source of 
+source of 
+source of 
+source of 
+source of 
+source of 
+well-being, 
+well-being, 
+well-being, 
+well-being, 
+well-being, 
+well-being, 
+quality and 
+quality and 
+quality and 
+quality and 
+quality and 
+quality and 
+honorable life
+honorable life
+honorable life
+honorable life
+honorable life
+honorable life
+
+Green, 
+Green, 
+Green, 
+Green, 
+Green, 
+Green, 
+sustainable and 
+sustainable and 
+sustainable and 
+sustainable and 
+sustainable and 
+sustainable and 
+resilient city
+resilient city
+resilient city
+resilient city
+resilient city
+resilient city
+
+Democratic, 
+Democratic, 
+Democratic, 
+Democratic, 
+Democratic, 
+Democratic, 
+integrated 
+integrated 
+integrated 
+integrated 
+integrated 
+integrated 
+and connected 
+and connected 
+and connected 
+and connected 
+and connected 
+and connected 
+territory
+territory
+territory
+territory
+territory
+territory
+
+Competitive 
+Competitive 
+Competitive 
+Competitive 
+Competitive 
+Competitive 
+and Innovative 
+and Innovative 
+and Innovative 
+and Innovative 
+and Innovative 
+and Innovative 
+city, with 
+city, with 
+city, with 
+city, with 
+city, with 
+city, with 
+oppportunities
+oppportunities
+oppportunities
+oppportunities
+oppportunities
+oppportunities
+
+Governance 
+Governance 
+Governance 
+Governance 
+Governance 
+Governance 
+and sustainable 
+and sustainable 
+and sustainable 
+and sustainable 
+and sustainable 
+and sustainable 
+reinvention 
+reinvention 
+reinvention 
+reinvention 
+reinvention 
+reinvention 
+of the public 
+of the public 
+of the public 
+of the public 
+of the public 
+of the public 
+administration
+administration
+administration
+administration
+administration
+administration
+
+Rio Resiliente contributed actively to Vision Rio 500 and the Strategic Plan 2017-2020, by identifying transversal impacts 
+and co-benefits of resilience to proposed goals and projects.
+
+28
+
+29
+
+05/
+
+ 
+Values
+of Rio 
+Resiliente
+
+CONNECT 
+We recognize that excellent practices and initiatives exist in the public, private and academic 
+sectors and in the civil society, and that connections between these parties can increase the 
+resilience  of  our  City  significantly.  Rio  Resiliente  holds  as  a  main  principle  the  connection 
+between  parties  with  common  objectives  in  order  to  profit  more  from  the  co-benefits  of 
+collaboration.  
+
+COLLABORATE
+Collaboration is at the core of resilience projects. Collaboration means even more success for 
+all parties, and therefore we promote and foster with great care our strategic relationships 
+within the City Hall, with civil society, NGOs and the private sector, always looking to openly 
+share information, ideas and bring people together in our projects and initiatives.
+
+CO-BENEFITS
+This is our raison d’être, as the transversal analysis of impacts and identification of co-benefits 
+can add quality to already existing projects and make a difference in evaluating and comparing 
+business cases. By looking through the resilience lens, Rio Resiliente can help the city tackle 
+more challenges with the same initiative, the result of ample and intersectorial analyses of 
+impacts.
+
+RESILIENCE CHAMPION
+
+Sérgio  Besserman  is  president  of  the  Municipal  Institute  Pereira  Passos  and  the  Sustainable 
+Development Technical Chamber of the City of Rio de Janeiro. He is a Professor of Economics and Environmental 
+Engineering at PUC-RJ. He is advisor to various organizations such as Fundação Roberto Marinho, WWF, 
+CI-Brazil, ITDP, Funbio, Bolsa Verde, and Rio Clima. He writes regularly for the newspaper O Globo. He was 
+planning director of BNDES between 1996 and 1999 and president of the Brazilian Institute of Geography 
+and Statistics. One of the pioneers on the theme resilience in Brazil, he is part of the Steering Committee of Rio 
+Resiliente since its inception in 2014.
+
+IDENTIFIED SHOCKS AND CHRONIC STRESSES 
+Heavy rains, strong winds, waves and heat islands, sea level rising, epidemics and pandemics, prolonged drought, saturation 
+of road infrastructure, accidents with urban infrastructure, overcrowding impacting normality, insufficient sanitation.
+
+FOCUS AREAS
+Climate Change, Socioeconomic Resilience, Resilient Behavior, and Resilient Management. 
+
+The City Resilience Framework
+Developed by Arup with support from the Rockefeller Foundation, The City Resilience Framework (CRF) provides a lens to 
+understand the complexity of cities and the drivers that contribute to their resilience, and a common language that enables 
+cities to share knowledge and experiences. Rio Resiliente uses this tool to evaluate the scope and quality of the City’s 
+initiatives and projects. 
+
+The CRF is built on four essential dimensions of urban resilience: Health & Wellbeing; Economy & Society; Infrastructure & 
+Environment; and Leadership & Strategy.
+
+RESILIENCE INDICATORS
+
+LEADERSHIP AND STRATEGY
+• Promotes leadership and effective management
+• Strengthens a wide range of stakeholders
+• Encourages long-term and integrated planning
+
+ECONOMY AND SOCIETY
+• Promotes economic prosperity,
+• Ensure social stability security and justice
+• Promotes cohesive and committed communities
+
+RESILIENCE QUALITIES
+
+HEALTH AND WELLNESS
+• Meets basic needs
+• Supports livelihood and means of employment 
+• Ensures public health services
+
+INFRASTRUCTURE AND ENVIRONMENT
+• Ensures continuity of critical services
+• Provides and increases the protection of natural and artificial resources
+• Provides reliable communication and mobility
+
+REFLECTIVE
+Uses past experience to inform 
+future decisions.
+
+RESOURCEFUL
+Recognizes alternative ways to 
+use resources.
+
+INCLUSIVE
+Prioritizes broad consultation to 
+create a sense of shared owner-
+ship in decision making.
+
+INTEGRATED
+Bring together a range of 
+systems and institutions.
+
+ROBUST
+Well-conceived, constructed 
+and managed systems.
+
+REDUNDANT
+Spare capacity purposively 
+created to accommodate 
+disruption.
+
+FLEXIBLE
+Willingness and ability to adopt 
+alternative strategies in response 
+to changing circumstances.
+
+30
+
+31
+
+06/
+
+Resilience 
+Challenges
+
+A. RELATIONSHIP OF THE CITY WITH WATER 
+
+“Rio” means “river”, and Rio de Janeiro is all about water: it is in the name, in the images that attract visitors and in the self-
+identity  of  Cariocas.  However,  mismanagement,  wasteful  practices,  over-reliance  on  a  single  source  of  potable  water  and 
+disorganized urbanization also mean that water constitutes a major challenge to the resilience of Rio. 
+Water seems to be abundant in the lakes, mountains, beaches and in the thousands of rivers that cross the city. But, as the 
+Southeast of Brazil experienced from 2011 onwards, water scarcity is a real threat, due to the increased irregularity of rain 
+patterns in the region, which unpredictably intersperse intense rainfall with longer periods of drought.
+The production of energy from water also disrupts the flow of the river and lowers the amount of water available to the Guandu 
+system, which supplies water to 92% of the people living in Rio and is located in the neighboring city of Nova Iguaçu. This 
+over-reliance on a single source of water makes the city fragile to any irregularity of supply or upstream disturbances not in the 
+hands the Rio municipality.  
+Polluted bodies of water affect the integrity of ecosystems and contribute to an array of health problems, ranging from vector-
+borne diseases to increased infant mortality. Insufficient sanitation, poor waste management, industrial pollutants and lack of 
+metropolitan governance translate into increased pollution of the Guanabara Bay and the river systems of the West Zone, 
+among other affected areas. The pollution of beaches also negatively affects the image of the city and the economic potential 
+of the coastal area. 
+The strong rains during summer cause flooding and landslides in the city, causing significant economic losses and fatalities, 
+mainly in the vulnerable communities in the mountain slopes. In April of 2010, 66 people died in the favelas after record-
+breaking storm, and the city’s infrastructure was heavily damaged. 
+The global tendency to sea level rise, estimated to range from 28 to 98cm in 2100, according to IPCC 2013, may cause the 
+salinization of rivers and aquifers, thus reducing availability of water for industries and for human consumption. 
+
+Community of São Carlos, North zone of Rio de Janeiro. Photo credit: Raphael Lima
+
+Rio de Janeiro, like many cities, has a complicated ecosystem of natural and built environments that require an integrated 
+resilience strategy. The greatest challenges come from three primary areas - water, infrastructure, and social vulnerability. Water 
+can be both abundant or scarce, life provider or disease vector, and thus needs to be better managed. Infrastructure must be 
+permanently and sustainably improved to meet the needs, protections and expectations of citizens. Social vulnerability must 
+be reduced, because citizens with insufficient access to basic services are the most exposed and take longer to recover from 
+shocks and chronic stresses. Climate change and economic instability are multipliers that can worsen or exacerbate these 
+challenges.
+
+32
+
+Photo credit: Pedro Peracio / Mayor`s Office
+
+33
+
+B. RELATIONSHIP OF THE CITY WITH ITS INFRASTRUCTURE 
+
+C. RELATIONSHIP BETWEEN EACH CITIZEN WITH THE CITY
+
+The city of Rio was founded 450 years ago in a beautiful and yet challenging natural environment. There was an intense 
+population growth in the 20th century, and now 6.8 million people must live and thrive in this expanding and densifying urban 
+space. 
+Due to fast and disorganized growth, urban spaces are often poorly equipped to deal with the needs of citizens. Some areas 
+of the city lack adequate access to basic services, like sanitation and legal access to water and energy. Macro drainage of 
+rainwater is often insufficient, thus contributing to flooding. The expansion of the city towards the West put pressure on the 
+creation of new infrastructure for the new demands. In favelas, many houses were built in areas prone to landslides, often without 
+proper design and materials, and investments on social housing has been insufficient to reach demand. 
+The quality of the urban spaces varies within the city, with many neighborhoods lacking green and recreational areas, artistic 
+expressions and enough businesses to employ residents and diminish need for commuting for employment. 
+Poor sanitation and inadequate disposal of solid waste in the city and metropolitan area are the greatest contributors to water 
+pollution.
+The coverage of primary health care has increased in the past years, but still must be expanded to reach even more people. 
+As the number of cars increase and people live farther away from jobs, mobility has become less efficient and traffic is often 
+congested. The investments in mobility tend to be reactive and often do not anticipate future needs. 
+Strong winds are acute shocks that cause many disruptions in the city, such as damaged power lines, toppled trees and various 
+other accidents. 
+Energy, water and waste are resources whose potential is underutilized. The city does not produce its own energy, despite the 
+immense potential for solar energy production. Water is wasted as it flows along outdated infrastructure and is spent unwisely5. 
+Solid waste, which carries the potential to be reused, recycled and transformed, is mostly buried in landfills, not generating value 
+and causing negative environmental impact. 
+The  sea level rise and the intensification of storm surges put at risk the coastal infrastructure and the income from tourism. 
+Even though the city has made significant advances in mobilization for shocks and disasters with the implementation of the 
+Center of Operations, mobilization of resources at city and metropolitan levels should be better integrated, so that the region is 
+ready to respond adequately to recurrent or rare shocks.
+
+Social inequality means that there are  different cities for different citizens. Favelas and the “formal” city are in close proximity 
+throughout Rio de Janeiro, and yet the experience of living in one or the other varies immensely. The provision of services 
+and economic opportunities are unequal, with insufficient access to sanitation, transportation, health services, culture, sports, 
+education and employment. 
+Citizens must be aware of how their behavior impacts their everyday life in the city. The conscientious use of water and energy 
+not only conserves natural resources, but also means lower bills and taxes, and guarantees safer and steadier supply. The proper 
+disposal of solid waste lowers the risk of flooding due to clogged pipes. Protecting trees not only helps carbon sequestration 
+and biodiversity but, more tangibly to citizens, reduces temperature and air and noise pollution while improving access to green 
+space. Using public instead of private transportation reduces air pollution, carbon emissions and diminishes traffic congestions. 
+To support the reuse and recycling of materials is to lower demand on natural resources and create a market for composting 
+and solid waste, both of which have immense potential for job creation, as is the case in cities worldwide. 
+Criminality lowers trust in the public spaces, damages social cohesion and cause psychological and economic losses to citizens. 
+It is recognized around the world that the most socially vulnerable populations are the ones who suffer the most impact from 
+natural disasters and economic downturns. They also take longer to recover and rebound from shocks. Efforts to make the city 
+more resilient, therefore, must acknowledge the increased vulnerability of those with little economic resources or social safety 
+nets and act upon it with special attention.  
+Few schools in the city, public or private, teach children resilience to the shocks and stresses of the city, what impacts of climate 
+change they may experience or what constitutes sustainable consumption of resources. Consequently, few citizens know how 
+to act in the course of a disaster and what risks they face in their neighborhoods and everyday lives, let alone how to prevent 
+and prepare for those. 
+Climate change is increasing the intensity and number of extreme weather events and also destabilizing provision of resources 
+like water, energy and food. Brazilians cannot anymore count on the abundance of resources, and the risk of scarcity must be 
+incorporated in public policies and individual behavior. Those risks, for their potential impacts, cannot be addressed separately 
+by different spheres of government, city departments or discrete projects. Citizens and city administration must collaborate to 
+prevent and monitor those risks, to incorporate new knowledge and, moreover, to find opportunities to thrive despite challenges 
+posed by shocks and chronic stresses.  
+
+FOTO ELEVADO
+
+Urban heat islands are worsening due to increasing urbanization and warming climate. As demonstrated in cities 
+worldwide, increased temperatures pose a threat to human health, reduce productivity, cause thermal stress and 
+reduce walkability in a city.
+
+5. It is estimated that more than 30% of the water treated in the Guandu System is lost during distribution, which is wasteful and causes leaked 
+pipes, damaging city infrastructure.  (Source: “O Rio do Amanhã, Vision 500 and Strategic Plan 2017-2020”, 2016.)
+
+34
+
+Expansion works in the sanitation of the West zone. Photo credit: Cidade Olímpica
+
+35
+
+34
+
+Photo credit: George Soares / Center of Operations Rio
+
+35
+
+07/
+
+Resilience 
+Vision
+
+Our vision of a resilient Rio is more than just a city that protects itself and its Cariocas from a 
+wide range of shocks and stresses - it is a city that supports a fulfilling life for citizens of all 
+ages and backgrounds in the coming decades by embracing our social, environmental and 
+infrastructure issues head on.  We see a future Rio that is safe, beautiful and gentle, as well as 
+economically prosperous and just. In order to tackle our challenges, we must make all aspects 
+of the city and our people more resilient, specifically we will…
+
+A. EMBRACE OUR WATER 
+water in the rivers, lakes and beaches will be clean, fostering vibrant tourism and economic 
+activities; it will be managed and consumed conscientiously and there will be potable water for 
+the metropolitan region at all times.  
+
+B. BUILD FOR OUR FUTURE 
+the urban spaces will be safe, green, climate-smart and will promote the well-being of citizens; 
+no Carioca will live in a high-risk area; and housing and high-quality basic services, especially 
+sanitation, will be available for all. 
+
+C. EMPOWER OUR PEOPLE 
+Cariocas  will  have  plenty  of  jobs  within  a  diversified,  inclusive,  low-carbon  and  circular 
+economy; they will participate actively in the decisions that affect them; and will be ready to 
+learn, prevent, mobilize and grow from the shocks and stresses that affect the city and the 
+planet.
+
+36
+
+Photo credit Alexandre Macieira / Riotur
+
+37
+
+08/
+
+Goals and 
+Initiatives
+
+1. BETTER UNDERSTAND AND MITIGATE IMPACTS 
+OF SEVERE WEATHER AND CLIMATE CHANGE
+#1.A:Establish Rio de Janeiro Climate Change Panel
+#1.B: Implement Portfolio of Climate Mitigation and 
+Adaptation 
+#1.C: Monitor Climate Trends and Impacts 
+#1.D: Integrate Multi-hazard Risk Maps 
+
+2. MOBILIZE RIO TO BE PREPARED TO RESPOND 
+TO EXTREME WEATHER EVENTS AND OTHER 
+SHOCKS. 
+#2.A: Create a Disaster Recovery Plan for the Metropolitan 
+Region 
+#2.B: Develop an Operational Olympic Legacy
+#2.C: Execute Simulations for Crisis Response 
+#2.D: Expand the Program Resilient Communities 
+
+3. CULTIVATE GREEN, COOL, SAFE AND FLEXIBLE 
+URBAN SPACES 
+
+#3.A: Implement LED Street Lighting 
+#3.B: Stimulate Arbored-Squares 
+#3.C: Improve Resilience in Mobility*
+#3.D: Equal Access to Culture* 
+#3.E: Carioca Forests*
+#3.F: Rio Always Olympic*
+ 
+4. PROVIDE HIGH QUALITY BASIC SERVICES TO 
+ALL CITIZENS, THROUGH SUSTAINABLE AND 
+RESILIENT USE OF RESOURCES
+#4.A: Develop a Water Strategy 
+#4.B: Implement a Solar Energy Strategy 
+
+*Initiatives of the Strategic Plan 2017-2020 with Resilience co-benefits.
+
+38
+
+#4.C: Realize Energy and Water Efficiency in Public 
+Buildings 
+#4.D: S Universal Access to Sanitation*
+#4.E: Access to Safe Housing*
+#4.F: Public Authority for the Guanabara Bay*
+
+5. PROMOTE AN INCLUSIVE, DIVERSIFIED, 
+CIRCULAR AND LOW-CARBON ECONOMY
+#5.A: Create an Agency for the Promotion of Circular 
+Economy
+#5.B: Valorization of Solid and Organic Waste 
+#5.C: Realize Rio + B
+#5.D:  Promote a Culture of Entrepreneurship
+#5.E: Evaluate Social and Environmental Impacts of 
+Investments
+
+6. INCREASE RESILIENCE OF THE POPULATION 
+AND PROMOTE SOCIAL COHESION 
+#6.A: Educate Youth for Resilience
+#6.B: Create a MOOC for Urban Resilience 
+#6.C: Develop Resilience Indicators
+#6.D: Primary Health Care*
+#6.E: Social Regions*
+#6.F: Right to the City*
+#6.G: Listen to Govern*
+
+GOAL #1  
+Better understand and mitigate impacts of severe weather 
+and climate change
+#A:  Establish Rio de Janeiro Panel on Climate Change
+#B:  Implement portfolio of climate mitigation and 
+
+adaptation
+
+#C: Monitor Climate Trends and Impacts 
+#D: Integrate Multi-hazard Risk Maps  
+
+E
+l o
+i n t e
+
+o u r a g e s
+r m   a n d
+t e
+-
+e d   p l a n n ing
+t
+
+a
+
+c
+
+g
+
+r
+
+y
+
+n
+
+n
+
+g
+
+g
+
+Strengthens a wide 
+range of stakeholders
+Leadership and Strate
+
+hip and
+ement
+
+ers
+g
+a
+d
+n
+a
+a
+ le
+ m
+s
+e
+e
+v
+t
+i
+o
+t
+c
+m
+e
+o
+f
+f
+r
+e
+P
+
+P
+
+r
+
+o
+
+v
+
+i
+
+d
+
+c
+
+o
+m
+m
+
+a
+
+n
+
+I
+
+e
+
+n
+
+d
+
+u
+
+s
+
+f
+
+ 
+
+ 
+
+r
+
+m
+
+n
+
+r
+
+i
+
+e
+
+a
+
+o
+
+c
+
+l
+i
+
+b
+
+a
+
+a
+
+i
+l
+i
+t
+
+t
+i
+
+b
+
+o
+
+l
+
+e
+
+y
+
+n
+
+ 
+
+s
+
+t
+r
+
+u
+
+c
+t
+u
+r
+
+e a
+n
+
+c
+
+ritic
+
+c
+
+o
+
+E
+
+n
+
+s
+
+ntin
+ure
+s 
+uity of
+al s
+ervices
+
+d Environment
+Provides and increases
+the protection of natural 
+and artificial resources
+
+Meets 
+basic needs
+
+Supp
+
+Health a
+
+of e
+
+a
+
+orts liv
+n
+d m
+elih
+plo
+
+e
+
+a
+
+n
+
+m
+
+y
+
+m
+
+s
+
+o
+
+o
+
+d
+
+n
+d 
+
+e
+
+n
+t
+
+W
+
+e
+
+ll
+
+n
+
+e
+
+s
+
+s
+
+h
+
+E
+
+e
+
+n
+
+a
+
+s
+
+l
+
+t
+
+u
+
+h
+
+ 
+
+r
+
+e
+
+s
+
+s
+
+e
+
+r
+
+ 
+
+p
+
+v
+
+u
+
+i
+
+c
+
+e
+s
+
+b
+
+l
+
+i
+
+c
+
+ 
+
+d
+s
+n
+e
+a
+i
+t
+ 
+i
+e
+n
+siv
+u
+m
+e
+m
+h
+o
+o
+s c
+d c
+c o n o m y and Society
+Promote
+mitte
+com
+E nsure social stability
+security and justice
+
+E
+
+o m i c
+y
+
+c
+Pro m o t e s   e
+p r o s p e
+
+o
+
+n
+r it
+
+City Resilience Framework: in blue, aspects of resilience targeted in the initiatives of Goal #1  
+Credit: The Rockefeller Foundation/ Arup, 2014.
+
+39
+
+GOAL #1 Better understand and mitigate impacts of severe weather and climate change
+
+FLAGSHIP INITIATIVE #1.A: 
+
+Establish Rio de Janeiro Panel on Climate Change
+
+be  informed,  prepared  and  engaged  to  deal  with  climate 
+change impacts.
+
+STRATEGIC PLAN 2017-2020
+Initiative 3.12 – Increase the resilience of the city doubling 
+the number of climate risk under monitoring and quadrupling 
+the number of simulations for emergency response with at 
+least 15 departments until 2020. 
+
+VALUE AND CO-BENEFITS 
+Insertion of Rio in the forefront of climate change knowledge, 
+so  that  urban  spaces,  zoning  laws,  public  buildings  and 
+services can face the challenge of more intense and frequent 
+extreme weather events, minimizing damage and saving lives. 
+Stimulation of fundamental transversal knowledge building to 
+improve  the  resilience  of  the  city  through  cross-functional 
+research  combining  climate  change  and  socioeconomic 
+data to inform urban decision makers. 
+
+INDICATORS
+Annual meeting and report with conclusions and suggestions 
+for future research. 
+
+FOCAL POINTS 
+Rio Resiliente, Mayor’s Office and IPP.
+
+POTENTIAL PARTNERS
+NASA, INPE, C40, UCCRN.
+
+DESCRIPTION AND OBJECTIVE:
+Set up a Climate Change Panel for the city of Rio de Janeiro 
+involving experts from various scientific fields to study climate 
+trends with the Panel of Climate Change (IPCC 2013) and 
+future iterations as basis. This panel, pioneer in Latin America, 
+is  inspired  by  a  similar  initiative  in  New York  City,  and  its 
+mission  will  be  to  investigate,  publish  and  communicate 
+results of climate change research and its impacts on the 
+city of Rio, as well as provide support for decision-making 
+on urban planning and inform other fields of knowledge and 
+the civil society. 
+
+The  Panel  aims  to  incorporate  state  of  the  art  scientific 
+knowledge on climate, at global and national levels, in order 
+to indicate possible climate change scenarios and its impacts 
+specifically  to  Rio  de  Janeiro  and  its  metropolitan  region. 
+The reports released should foster scientific research on the 
+effects of climate change at city level and foster conversation 
+on the related environmental, social and economic aspects. 
+
+Furthermore, the Panel encourages a connection between 
+climate change and other disciplines, with focus on transversal 
+analyses of impacts, for example: a) analysis of how extreme 
+temperatures impact vector-borne diseases such as Dengue, 
+Chikungunya  and  Zika,  b)  economic  valuation  of  various 
+scenario-based  impacts  of  sea  level  rise.  The  knowledge 
+generated will support public policies for the mitigation and 
+adaptation of climate change in Rio, specifically those related 
+to strong rains and winds, sea level rise, heat islands and 
+waves, droughts and epidemics.  
+
+The initiative to create a Panel on Climate Change for Rio 
+was proposed by Rio Resiliente and the Mayor’s Office and 
+is in its planning stage.
+
+VISION RIO 500  
+Aspiration (III.2.b): The City will be ready and adapted to face 
+climate change and its impacts, having mapped and planned 
+for its main threats; Aspiration (II.2.a). No family in the city 
+will live in high-risk areas; Aspiration (III.2.c): All citizens will 
+
+Real time modeling of heat islands in the Center of Operations Rio. Source: Alerta Rio and Rio Resiliente
+
+RESILIENCE QUALITIES
+
+REFLECTIVE
+Uses past experience to inform 
+future decisions
+
+INTEGRATED
+Bring together a range of 
+systems and institutions
+
+ROBUST
+Well-conceived, constructed 
+and managed systems
+
+FLEXIBLE
+Willingness and ability to 
+adopt alternative strategies 
+in response to changing 
+circumstances. 
+
+RESILIENCE CHAMPIONS 
+
+Dra. Dalia Kirschbaum and Dr. Douglas Morton are scientists at NASA’s Goddard Space Flight 
+Center. In 2016, NASA and the City of Rio signed a bilateral cooperation agreement for data exchange. Dra. 
+Kirschbaum has been helping the city of Rio improve its use of satellites for city monitoring and environmental 
+management purposes. Her current research focuses on the development of a regional system for prediction 
+and risk management of landslides.
+
+Dr. Douglas Morton who speaks Portuguese fluently, works since 2000 with the Brazilian Amazon 
+forest in collaboration with scientists from both INPE (Brazilian Institute of Space Research) and Imazon (Human 
+and Environment Institute). He's member of the Global Fire Emissions Database (GFED), an initiative that aims 
+to combine several satellite’s data in order to understand the correlation between fire and the greenhouse effect 
+and the changes on tropical savannas and forests caused by fire.
+
+40
+
+41
+
+GOAL #1 Better understand and mitigate impacts of severe weather and climate change
+
+FLAGSHIP INITIATIVE #1.B:  
+
+Implement portfolio of climate mitigation and adaptation 
+
+for its main threats; Aspiration (III.2.a): No family in the city 
+will live in risk areas. 
+
+STRATEGIC PLAN 2017-2020 
+Initiative  3.12  –  Expected  Results:  Better  knowledge 
+about  GEE  emissions,  climate  interactions  and  air  quality, 
+for  mitigation,  disaster  prevention,  health  policies  and 
+increased quality of life. Initiative 4.10 – Urban renewal in 
+neighborhoods with precarious or nonexistent infrastructure, 
+focusing on regions AP 3 and AP 5. Initiative 4.11 – Urban 
+planning of the Vargens neighborhood. 
+
+VALUE AND CO-BENEFITS 
+Promotion of wider utility and durability of urban infrastructure, 
+planning  for  areas  vulnerable  to  climate  change,  including 
+the  neighborhood  of Vargens  and  its  susceptibility  to  sea 
+level rise; capacity to attract more investments and generate 
+better  quality  of  life;  less  GHG  emissions;  investment  for 
+crisis and disasters, especially those related to climate risks.
+
+INDICATORS
+Projects  developed;  projects  implemented;  attraction  of 
+private national and international investments; lower carbon 
+emissions; preservation of human life.
+
+FOCAL POINTS 
+Rio  Resiliente  and  departments  for  urban  planning  and 
+finance.
+
+POTENTIAL PARTNERS 
+C40, World Bank, Rio de Janeiro Panel on Climate Change, 
+departments of conservation, environment, private sector and 
+universities.
+
+DESCRIPTION AND OBJECTIVE
+Develop a portfolio of projects for mitigation and reduction 
+of GHG emissions, and also adaptation projects to reduce 
+the existing and future effects of climate change, suited for 
+public, private and international financing. This portfolio must 
+incorporate  the  conclusions  related  to  climate  in  the  local 
+level, as informed by the Rio de Janeiro Panel on Climate 
+Change (initiative 1A).
+
+Having  as  a  basis  the  citywide  GHG  emission  inventories 
+and the Climate Change Adaptation Municipal Plan, led by 
+the  Secretary  of  Environment,  the  city  of  Rio  will  develop 
+a portfolio of actionable projects focused on targeting the 
+greatest  emitters,  with  the  establishment  of  goals,  and 
+fostering  better  management  of  resources  though  the 
+promotion  of  a  circular  economy  (initiatives  5A  and  5B). 
+The plan for mitigation and reduction of GHG emissions will 
+involve  projects  related  to  renewable  energy,  low-carbon 
+economy and sectors, and transportation. 
+
+The Portfolio of Climate Mitigation and Adaptation will aim to 
+provide guidelines for urban interventions of Rio de Janeiro, 
+so  that  urban  planning,  public  works  and  maintenance 
+internalize  concepts  and  practices  that  make  Rio  more 
+resilient to climate change. Those projects will be related to 
+rainfall  harvesting,  permeable  paving,  tree  planting,  green 
+roofs,  among  others  (see  Goal  #3, “Cultivate  green,  cool, 
+safe and flexible urban spaces”), and must be formulated 
+already considering available and innovative financial options. 
+
+The  portfolio’s  objective  it  to  foster  the  development  of 
+projects to tackle the vulnerabilities of the city to strong rains 
+and winds, heat islands and waves, sea level rise, epidemics 
+and accidents with urban infrastructure. 
+
+The first stages for the implementation of a portfolio of climate 
+mitigation  and  adaptation  is  featured  in  the  Strategic  Plan 
+2017-2020 and Rio Resiliente supports its development on 
+an amplified scope. 
+
+VISION RIO 500 
+Aspiration (III.2.b): The City will be ready and adapted to face 
+climate change and its impacts, having mapped and planned 
+
+Landslide susceptibility map, developed by Geo-Rio in 2010. Source: Geo-Rio
+
+RESILIENCE QUALITIES
+
+REFLECTIVE
+Uses past experience to inform 
+future decisions
+
+RESOURCEFUL
+Recognizes alternative ways to 
+use resources
+
+INTEGRATED
+Bring together a range of 
+systems and institutions
+
+ROBUST
+Well-conceived, constructed 
+and managed systems
+
+REDUNDANT
+Spare capacity purposively 
+created to accommodate 
+disruption 
+
+FLEXIBLE
+Willingness and ability to 
+adopt alternative strategies in 
+response to changing circum-
+stances
+
+RESILIENCE CHAMPIONS 
+
+Camila Pontual  is an associate in Rio's Mayor's Office, specialized in public policies for sustainable 
+development and resilience. She holds a master degree from the universities of Sorbonne (France), KULeuven 
+(Belgium) and Padova (Italy) in Sustainable Development of Lands. Camila is the one of the main links between 
+Rio Resiliente and an international network that acts on mitigating climate changes impacts, such as the C40 
+and the Bloomberg Associates. “Rio Resiliente is about making city and citizens readier to face their daily 
+challenges". 
+
+Cristina Mendonça works in Rio as advisor to the Chair of C40 Cities, currently  Mayor Eduardo 
+Paes, and to the C40's Steering Committee. In this role she advises and supports city leaders to develop 
+and implement mitigation strategies against greenhouse emissions and climate risks. She also works in close 
+collaboration with Rio Resiliente.
+
+42
+
+43
+
+POTENTIAL PARTNERS
+CSIRO,  INPE,  UCCRN,  CEMADEN,  Museum  of  Tomorrow, 
+universities. 
+
+RESILIENCE CHAMPION 
+
+Juliana Hermsdorff is a meteorologist of Rio’s Alert System since 2012 and currently, she leads 
+a team of technicians executing the weather forecast and monitoring for the city. Together with her team she 
+collected, modeled and studied temperature data from Rio Alert and other similar institutions, aiming to improve 
+the descriptions of such variable. “After this work, we increased our comprehension about heat waves, which 
+is a first step towards building a set of measures to minimize the negative impacts of extreme heat to the 
+population of Rio”.
+
+GOAL #1 Better understand and mitigate impacts of severe weather and climate change
+
+INITIATIVE #1.C:
+
+Monitor Climate Trends and Impacts
+
+ESCRIPTION AND OBJECTIVE 
+Monitor  and  support  research  on  climate  trends  and 
+impacts, analyzing socioeconomic data in order to generate 
+crosscutting  analyses  of  costs  and  benefits  of  projects 
+and  public  policies  for  climate. The  risk  modelling  will  be 
+developed with the support of georeferenced risk mapping 
+(initiative 1D), involving shocks and chronic stresses such as 
+strong rains and winds, heat islands, air quality, flooding and 
+landslides, high tides and storm surges, and epidemics.
+ 
+The aim of this initiative is to establish permanent, integrated 
+and multidisciplinary climate monitoring, with the involvement 
+of  city  departments,  other  spheres  of  government,  NGOs 
+and  citizens.  To  this  continuous  and  evolving  monitoring, 
+other analyses will be added, for example, such as the social 
+and economic impacts of sea level rise in the next decades. 
+This initiative also entails the monitoring of the winds in the 
+city, for the development of historical data and support for 
+academic  research  on  the  theme,  adding  to  the  existing 
+knowledge about rains. Finally, this project supports research 
+on the interactions of heat waves and heat islands with the 
+air quality of Rio. 
+
+Furthermore, the monitoring of climate trends and impacts 
+involves  the  active  participation  of  citizens,  through  the 
+voluntary and collaborative collection of climate data with the 
+use of simple homemade sensors, thus supporting actions 
+of Citizen Science. 
+
+This initiative, including the monitoring and Citizen Science, 
+was  proposed  by  Rio  Resiliente  and  incorporated  by  the 
+Strategic  Plan  2017-2020.  Itis  currently  partly  being 
+implemented,  as  the  Center  of  Operations  is  stating  to 
+monitor heat waves and incorporate wind data already, and 
+partly in the planning phase, for example for the sea level 
+rise studies. 
+
+VISION RIO 500 
+Aspiration (III.2.b): The City will be prepared and adapted to 
+
+face  climate  change  and  its  impacts,  having  mapped  and 
+planned for its main threats; Aspiration (III.2.a): No family in 
+the city will live in risk areas; Aspiration (III.2.c): All citizens 
+will be informed, prepared and engaged to deal with climate 
+change impacts. Aspiration (III.3.a):   Rio will have enough 
+water for its supply, having mapped all the risks and defined 
+strategies; Aspiration (IV.2.b): All cariocas will have access to 
+safe, legal and adequate housing.
+
+STRATEGIC PLAN 2017-2020 
+Initiative 3.12 – Increase the resilience of the city doubling 
+the number of climate risk under monitoring and quadrupling 
+the number of simulations for emergency response with at 
+least  15  departments  until  2020;  Initiative  4.11  –  Urban 
+planning of the Vargens neighborhood. 
+
+VALUE AND CO-BENEFITS  
+Amplification  of  the  climate  data  being  monitored  in  the 
+Operations Center Rio and with that allowing for the deep 
+analyses  of  climate  interactions,  currently  little  integrated; 
+more  comprehensive  knowledge  about  risks,  support  for 
+public policies and more information to citizens about risks. 
+
+INDICATORS 
+In the Strategic Plan 2017-2020: Climate change mapped 
+and  incorporated  in  the  monitoring  of  the  Center  of 
+Operations Rio.  Number of public policies formulated and 
+scientific research published using data from the integrated 
+risk mapping of climate interactions and air quality. 
+
+Timeframe:  Heat 
+islands  monitored  until  12/2017; 
+Interactions between climate and air quality until 12/2018; 
+Strong winds until 12/2019; Droughts until 12/2020.
+  
+FOCAL POINTS
+Rio Resiliente, COR and IPP.
+
+44
+
+45
+
+GOAL #1 Better understand and mitigate impacts of severe weather and climate change
+
+INITIATIVE #1.D:  
+
+Integrate Multi-hazard Risk Maps
+
+FOCAL POINTS  
+Rio Resiliente, COR, Alerta Rio, RioÁguas.
+
+ 
+
+POTENTIAL PARTNERS  
+CCRN, CEMADEN, INPE, C40, UFRJ, Rio de Janeiro Panel on 
+Climate Change, departments of urban planning, transport, 
+environment, utilities and public services. 
+
+RESILIENCE CHAMPIONS 
+
+Dra. Martha Macedo de Lima Barata  is a professor and researcher at Oswaldo Cruz 
+Foundation (Fiocruz), where she leads and develops research works in economics and mental health fields. 
+She has developed a post-doctoral paper entitled “Convergence of the city’s climate changes evaluation with 
+mitigation and risk prevention” at the Center for Climate Systems Research, Earth Institute, Columbia University. 
+Her post-doctorate research aims to contribute with the planning and management of more resilient cities in 
+Brazil. With Rio Resiliente, she is developing studies related to heat islands and impacts on health.
+
+Cristina Lemos  is a nurse and works for the Municipal Secretary of Health since 1986. Currently, 
+she is the Superintendent of Sanitary Health and working hard to combat Dengue, Chikungunya and 
+Zika. She also coordinates the implementation of the Immunization Program, and has been helping Rio 
+Resiliente with information and new insights since 2013. “I am very proud of this job, because it is possible 
+to follow, over time, the control of diseases that could be prevented by vaccines and were causing the 
+death of many children".
+
+Valéria Saraceni also works for the Municipal Secretary of Health, and she graduated in Medicine 
+25 years ago. Vanessa has witnessed several improvements on public health and the subsequent actions 
+from Rio’s city administration. “What currently draws my attention is the influence of environmental changes, 
+especially the climate ones, in the population. To be in a position where I can work on studying how to mitigate 
+these impacts, together with Rio Resiliente, has been very eye-opening”.
+
+in  its  early  stages  and  was  fully  incorporated  by  Strategic 
+Plan 2017-2020.
+
+VISION RIO 500
+Aspiration (III.2.b): The City will be ready and adapted to face 
+climate change and its impacts, having mapped and planned 
+for its main threats; Aspiration (II.2.a). No family in the city 
+will live in high-risk areas; Aspiration (III.2.c): All citizens will 
+be  informed,  prepared  and  engaged  to  deal  with  climate 
+change  impacts.  Aspiration  (III.3.a)  Rio  will  have  enough 
+water for its supply, having mapped all the risks and defined 
+strategies Aspiration (IV.2.b): All cariocas will have access to 
+safe, legal and adequate housing. 
+
+STRATEGIC PLAN 2017-2020 
+Initiative  3.12  –  Implement  computational  modelling  to 
+learn  more  about  heat  waves,  winds  and  droughts,  and  a 
+predictive system to determine the effects of meteorological 
+interactions and air quality. 
+
+VALUE AND CO-BENEFITS 
+The knowledge acquired supports operations of services in 
+the city during crises and provides information for real-life 
+and tabletop simulations, supporting Goal #2 to be prepared 
+and adequately respond to extreme climate events or other 
+shocks. Besides, it informs the initiatives in Goal #3 for the 
+development of more green, cool, secure and flexible urban 
+spaces
+
+INDICATORS 
+Development of multi-hazard risk assessment mapping, with 
+analyses of cascading impacts.
+
+DESCRIPTION AND OBJECTIVE
+Develop multi-hazard assessment mapping, with the use of 
+computational  models,  real-time  sensoring  and  Big  Data, 
+for better integration of the main risks that affect the urban 
+space  of  Rio. These  maps  aim  to  support  analyses  about 
+possible interactions of risks in the urban space, mainly but 
+not limited to those related to intense rains and winds, heat 
+islands and waves, air quality, flooding and landslides, high 
+tides and storm surges, epidemics and accidents with urban 
+infrastructure. 
+
+The aim is to identify the interactions between climate-related 
+challenges and other types of risks in the city, in order to 
+form a solid knowledge basis for public managers, academia 
+and cities. It must allow for a comprehensive visualization of 
+risks and their impacts in the region, to help identify priorities 
+for intervention. For example, it is known that excessive heat 
+and pollution can diminish the lifespan of concrete structures, 
+with  implications  in  the  durability  of  urban  infrastructure. 
+Moreover, rain flooding and overflowing of rivers can affect 
+mobility.  Therefore  a  map  with  storm  flooding  patterns  is 
+supported  by  Strategic  Plan  2017-2020  (Initiative  3.10, 
+Flood Control). The Center of Operations Rio monitors in real 
+time the heat waves of the city. These two types of maps 
+constitute examples of risks that will be present in the multi-
+hazard  assessment  maps,  which  will  allow  for  studies  on 
+cascading effects. 
+
+With  the  support  of  Big  Data,  historic  data  from  sensors 
+and  climate  scenarios,  these  integrated  climate  risk  maps 
+become sophisticated tools for urban planning and, in case 
+of crises, for the deployment of sufficient and adequate first 
+response. This initiative promotes the collaboration between 
+public departments and public concessions. 
+
+This initiative is currently being implemented by Rio Resiliente 
+
+46
+
+47
+
+GOAL #2
+Mobilize Rio to be prepared to respond to extreme weather 
+events and other shocks 
+
+GOAL #2 Mobilize Rio to be prepared to respond to extreme weather events and other shocks
+
+FLAGSHIP INITIATIVE #2.A: 
+
+Create a Disaster Recovery Plan for the Metropolitan Region
+
+#A:  Create a Disaster Recovery Plan for the 
+
+Metropolitan Region 
+
+#B: Develop an Operational Olympic Legacy
+#C: Execute Simulations for Crisis Response 
+#D: Expand the Program Resilient Communities 
+
+E
+l o
+i n t e
+
+o u r a g e s
+r m   a n d
+t e
+-
+e d   p l a n n ing
+t
+
+a
+
+c
+
+g
+
+r
+
+y
+
+n
+
+n
+
+g
+
+g
+
+Strengthens a wide 
+range of stakeholders
+Leadership and Strate
+
+hip and
+ement
+
+ers
+g
+a
+d
+n
+a
+a
+ le
+ m
+s
+e
+e
+v
+t
+i
+o
+t
+c
+m
+e
+o
+f
+f
+r
+e
+P
+
+P
+
+r
+
+o
+
+v
+
+i
+
+d
+
+c
+
+o
+m
+m
+
+a
+
+n
+
+I
+
+e
+
+n
+
+d
+
+u
+
+s
+
+f
+
+ 
+
+ 
+
+r
+
+m
+
+n
+
+r
+
+i
+
+e
+
+a
+
+o
+
+c
+
+l
+i
+
+b
+
+a
+
+a
+
+i
+l
+i
+t
+
+t
+i
+
+b
+
+o
+
+l
+
+e
+
+y
+
+n
+
+ 
+
+s
+
+t
+r
+
+u
+
+c
+t
+u
+r
+
+e a
+n
+
+c
+
+ritic
+
+c
+
+o
+
+E
+
+n
+
+s
+
+ntin
+ure
+s 
+uity of
+al s
+ervices
+
+d Environment
+Provides and increases
+the protection of natural 
+and artificial resources
+
+Meets 
+basic needs
+
+Supp
+
+Health a
+
+of e
+
+a
+
+orts liv
+n
+d m
+elih
+plo
+
+e
+
+a
+
+n
+
+m
+
+y
+
+m
+
+s
+
+o
+
+o
+
+d
+
+n
+d 
+
+e
+
+n
+t
+
+W
+
+e
+
+ll
+
+n
+
+e
+
+s
+
+h
+
+E
+
+s
+
+e
+
+n
+
+a
+
+s
+
+l
+t
+
+u
+
+h
+
+ 
+
+r
+
+e
+
+s
+
+s
+
+e
+
+r
+
+ 
+
+p
+
+v
+
+u
+
+i
+
+c
+
+b
+
+e
+
+s
+
+l
+
+i
+
+c
+
+ 
+
+d
+s
+n
+e
+a
+i
+t
+ 
+i
+e
+n
+v
+u
+i
+s
+m
+e
+m
+h
+o
+o
+s c
+d c
+c o n o m y and Society
+Promote
+mitte
+com
+E nsure social stability
+security and justice
+
+E
+
+o m ic
+
+Pro m o t e s   e
+
+c
+
+n
+o
+p r o s p e rit y
+
+STRATEGIC PLAN 2017-2020
+Initiative 3.12 – Develop disaster recovery plan that includes 
+inventory  of  resources,  improvements  for  first  response 
+and post-disaster humanitarian logistics, to be released by 
+06/2018.
+
+VALUE AND CO-BENEFITS
+Integration of actions through multiple spheres of government; 
+support in the identification of weak points in first response 
+to disasters, minimization of economic losses and protection 
+of human lives.
+
+INDICATORS 
+Number of inventoried departments, frequency in the updating 
+of inventories, number of recommendations implemented
+
+FOCAL POINTS 
+Civil  Defense,  COR  and  the  Metropolitan  Chamber  of  the 
+State of Rio
+
+POTENTIAL PARTNERS
+UNISDR,  CEMADEN,  World  Bank,  Civil  Defense,  and 
+departments  of  first  response  of  the  other  cities  in  the 
+metropolitan  area,  department  of  metropolitan  integration, 
+and other national and international institutions specialized in 
+crisis and disaster management.
+
+DESCRIPTION AND OBJECTIVE 
+Develop  a  Disaster  Recovery  Plan  for  the  metropolitan 
+region of Rio de Janeiro, promoting integration of actions 
+for first response and post-disaster humanitarian logistics.
+
+The  Plan  must  include  an  inventory  of  intellectual  and 
+physical  resources  of  all  the  areas  of  Rio  de  Janeiro 
+and  its  metropolitan  region,  with  direct  involvement  of 
+the  departments  related  to  post-disaster  assistance,  like 
+fire  brigade,  civil  defense,  social  services,  health,  among 
+others, in all spheres of government. The aim is to make the 
+metropolitan region more efficient, agile and cooperative 
+in  the  response  to  all  shocks,  including  those  related  to 
+resource scarcity, such as water and energy, but mainly the 
+shocks related to strong rains and winds, epidemics and 
+accidents with urban infrastructure. 
+
+The plan must involve the population, providing guidance 
+on how to act in the prevention and recovery after disasters, 
+and  indicate  opportunities  for  improvement  in  actions, 
+based on the best practices from all over the world. 
+
+Rio  Resiliente  proposed  a  disaster  recovery  plan  for  the 
+city of Rio and the Project was incorporated in the Strategic 
+Plan 2017-2020. However, the initiative is more ambitious, 
+in the fact that it also incorporates the metropolitan region. 
+This initiative is in the planning stage. 
+
+RIO VISION 500  
+Aspiration (III.2.b): The City will be ready and adapted to face 
+climate change and its impacts, having mapped and planned 
+for its main threats.  
+
+RESILIENCE QUALITIES
+
+REFLECTIVE
+Uses past experience to inform 
+future decisions
+
+RESOURCEFUL
+Recognizes alternative ways to 
+use resources
+
+INCLUSIVE
+Prioritizes broad consultation to 
+create a sense of shared owner-
+ship in decision making
+
+INTEGRATED
+Bring together a range of 
+systems and institutions
+
+ROBUST
+Well-conceived, constructed and 
+managed systems
+
+REDUNDANT
+Spare capacity purposively 
+created to accommodate 
+disruption 
+
+FLEXIBLE
+Willingness and ability to adopt 
+alternative strategies in response 
+to changing circumstances. 
+
+48
+
+City Resilience Framework: in blue, aspects of resilience targeted in the initiatives of Goal #2
+Credit: The Rockefeller Foundation/ Arup, 2014.
+
+49
+
+GOAL #2 Mobilize Rio to be prepared to respond to extreme weather events and other shocks
+
+GOAL #2 Mobilize Rio to be prepared to respond to extreme weather events and other shocks
+
+INITIATIVE #2B: 
+
+Develop an Operational Olympic Legacy
+
+INITIATIVE #2C:  
+
+Execute Simulations for Crisis Response
+
+Aspiration (VI.1.a): The city will be recognized for its quality on 
+planning, execution, maintenance, auditing and intersectoral 
+coordination. 
+
+the 
+
+STRATEGIC PLAN 2017-2020  
+Initiative  3.12  –  Capacity  of  Mobilization  and  Response: 
+incorporate 
+logistics  and  operational  knowledge 
+acquired  during  large  events  (e.g.  the  Olympics  2016)  in 
+the  routine  of  operations;  Initiative  6.10  –  Management 
+strategies maximizing the efficiency of departments involved 
+in city planning, improving information, control, auditing and 
+monitoring systems, focused on developing limited growth 
+areas.  
+
+long-term  planning  and 
+
+VALUE AND CO-BENEFITS
+Supports 
+integrated  actions; 
+improves knowledge on preparation for crises and disasters; 
+increases  mobilization  capacity  for  efficient,  agile  and 
+coordinated response in crisis situations. 
+
+INDICATORS
+Report of lessons learned during the Olympics. 
+
+FOCAL POINTS
+Center of Operations Rio.
+
+POTENTIAL PARTNERS 
+Olympic Municipal Company.
+
+IMPLEMENTATION
+until March 2017.
+
+DESCRIPTION AND OBJECTIVE
+Incorporate  the  operational  and  logistics  legacy  of  the 
+Olympics  and  Paralympic  Games  of  2016,  internalizing 
+protocols  and  processes  practiced  before  and  during  the 
+Games. The Olympic Games constitute a unique opportunity 
+for  the  integration  of  various  operational  forces  of  all 
+governmental spheres, for an extended period, with common 
+objectives. During the Games the city is submitted to high 
+stress situations, related to the mobility of workers, athletes 
+and  public;  public  safety  and  antiterrorism  measures;  and 
+intense exposure in the international media. 
+
+The  preparation  for  the  operations  of  the  Olympics  starts 
+more  than  one  year  earlier,  and  it  involves  trainings  and 
+simulations  of  low,  medium  and  high  impact  scenarios, 
+involving  shocks  and  stresses  related  to  extreme  weather 
+events,  accidents  with  urban  infrastructure,  agglomeration 
+of people with impact in normalcy and criminal acts in the 
+urban space. 
+
+The  lessons  learned  during  the  operations  of  the  city  in 
+high alert situations and crises management must generate 
+reports at the Center of Operations Rio and be integrated to 
+the routine procedures of Rio de Janeiro, so that this newly 
+acquired knowledge becomes one more Olympic legacy for 
+the City. 
+
+The proposal to develop an operational Olympic legacy was 
+made by Rio Resiliente and fully incorporated by the Strategic 
+Plan 2017-2020. The initiative is being implemented and 
+dozens of general and regional simulations for the Olympics 
+have already taken place at the Center of Operations Rio. 
+
+RIO VISION 500 
+Aspiration (III.2.b): The City will be ready and adapted to face 
+climate change and its impacts, having mapped and planned 
+for its main threats; 
+
+50
+
+DESCRIPTION AND OBJECTIVE
+Execute  simulations  for  crisis  response  four  times  a  year, 
+involving federal, state and municipal operational departments. 
+These  simulations,  led  by  the  Center  of  Operations  Rio, 
+should incorporate the lessons learned during the Olympics 
+and test the resilience of the city to different types of crises, 
+focused on the main vulnerabilities of the city, as identified 
+in the chapter “Shocks and Chronic Stresses of Rio”, in the 
+multi-hazard  risk  assessment  maps  of  initiative  1D,  and  in 
+the reports produced by the Rio de Janeiro Panel on Climate 
+Change, initiative 1A.
+
+The simulations aim to practice the first response capabilities 
+of different public departments and private concessions for 
+highly complex problems with significant negative impacts, 
+thus  increasing  the  effectiveness  in  real  life  situations  and 
+the practical knowledge of public operators and managers. 
+The  simulations  provide  opportunity  for  the  self-evaluation 
+of  departments  and  the  identification  of  weak  points  or 
+insufficiency of resources for crisis response. The simulations 
+should  involve  as  much  as  possible  the  metropolitan 
+departments and support the execution of initiative 2A, for 
+the creation of a disaster recovery plan for the metro region. 
+
+The proposal for the execution of simulations was advanced 
+by Rio Resiliente and adopted by the Strategic Plan 2017-
+2020. The initiative is in its planning stage.
+
+RIO VISION 500  
+Aspiration (III.2.b): The City will be prepared and adapted to 
+face  climate  change  and  its  impacts,  having  mapped  and 
+planned for its main threats. 
+
+STRATEGIC PLAN 2017-2020 
+Initiative 3.12 – Execute simulations for extreme situations at 
+the Center of Operations Rio; Initiative 6.10 – Management 
+strategies maximizing the efficiency of departments involved 
+
+in city planning, improving information, control, auditing and 
+monitoring systems, focused on developing limited growth 
+areas. 
+
+VALUE AND CO-BENEFITS
+Integration of actions through multiple spheres of government; 
+support in the identification of weak points in first response 
+to disasters; minimization of economic losses and protection 
+of lives.
+
+INDICATORS
+Number  of  departments  and  public  utility  concessions 
+involved  in  the  simulations;  qualitative  analyses  of  lessons 
+learned; and actions developed inside departments fostered 
+by the participation in the simulations. 
+
+FOCAL POINTS 
+COR and subprefectures.
+
+POTENTIAL PARTNERS
+CICC,  Civil  Defense,  Municipal  Guard,  Fire  Fighting 
+Department, Federal, Military and Civil Police, universities.
+
+IMPLEMENTATION
+Starting March 2017.
+
+Operational simulations for the Olympics– Photo credit: Marcus Carmo - COR
+
+51
+
+GOAL #2 Mobilize Rio to be prepared to respond to extreme weather events and other shocks
+
+INITIATIVE #2D: 
+
+Expand the Program Resilient Communities
+
+DESCRIPTION AND OBJECTIVE
+Expand  the  program  of  training  of  community  leaders 
+in  resilience,  and  the  issuing  of  certificates  to  engage 
+communities  in  the  theme  of  resilience,  with  knowledge 
+about risk, ability to take preventive measures and act during 
+and after crises.
+The project Resilient Communities began in 2015, led by the 
+Civil Defense of the City of Rio, and has as basis the Project 
+“Creating  Resilient  Cities:  my  city  is  getting  ready”,  of  the 
+United Nations International Strategy for Disaster Reduction 
+(UNISDR). In 2015, leaders of 17 vulnerable communities 
+signed a certificate declaring their commitment to resilience. 
+It is an opportunity to spread basic notions of civil defense 
+and  increase  awareness  about  the  recurrent  risks  within 
+those communities. 
+The objective of this initiative is to involve more communities 
+in the signing of this commitment, which is the last step in 
+a  process  of  engagement  that  involves  information  about 
+shocks and chronic stresses, regular drills for evacuation of 
+buildings and assessment of local risks.
+This  initiative  aims  to  lower  the  vulnerability  of  citizens  to 
+strong  rains  and  winds,  and  in  particular  impacts  related 
+to  landslides  and  flooding.  It  is  integrated  with    initiative 
+2.C,  which  provides  multi-hazard  maps  through  which 
+communities gain knowledge about their own exposure to 
+risk.  
+
+VISION RIO 500 
+Aspiration (III.2.c) All citizens will be informed, prepared and 
+engaged to respond to the impacts of climate change.
+
+VALUE AND CO-BENEFITS 
+Increases  social  cohesion  in  and  between  communities; 
+empowers  citizens;  fosters  a  culture  of  prevention  and 
+preparation. 
+
+INDICATORS 
+Number of leaders trained, number of communities involved.  
+
+FOCAL POINTS
+Civil Defense and Rio Resiliente.
+
+POTENTIAL PARTNERS
+ UNISDR, NGOs located in the communities.
+
+Buildind Resilient Communities – Photo credit: Nelson Duarte
+
+RESILIENCE CHAMPION 
+
+Marcio Moura Motta, Lieutenant Colonel of the Military Fire Brigade for the state of Rio de Janeiro, 
+Marcio Moura Motta is undersecretary of the municipal Civil Defense. He is a member of United Nations 
+International Strategy for Disaster Reduction committee since 2103. Col. Motta leads the Civil Defense in 
+Schools project, the main inspiration for Initiative 6.3 of our Resilience Strategy, Resilient Youth. Finally, he also 
+actively participates in the Steering Committee of Rio Resiliente since its beginning in 2014.
+
+GOAL #3
+Cultivate green, cool, safe and flexible urban spaces
+#A: Implement LED Street Lighting 
+#B: Stimulate Arbored - Squares 
+#C: Improve Resilience in Mobility
+#D: Equal Access to Culture 
+#E: Carioca Forests
+#F: Rio Always Olympic
+
+E
+l o
+i n t e
+
+o u r a g e s
+r m   a n d
+t e
+-
+e d   p l a n n ing
+t
+
+a
+
+c
+
+g
+
+r
+
+y
+
+n
+
+n
+
+g
+
+g
+
+Strengthens a wide 
+range of stakeholders
+Leadership and Strate
+
+hip and
+ement
+
+ers
+g
+a
+d
+n
+a
+a
+ le
+ m
+s
+e
+e
+v
+t
+i
+o
+t
+c
+m
+e
+o
+f
+f
+r
+e
+P
+
+P
+
+r
+o
+
+v
+
+i
+
+c
+
+o
+m
+m
+
+a
+
+n
+
+d
+
+d
+
+e
+
+I
+
+n
+
+ 
+
+u
+
+s
+
+f
+
+m
+
+n
+
+r
+
+ 
+
+r
+
+i
+
+e
+
+a
+
+o
+
+c
+
+l
+i
+
+b
+
+a
+
+i
+l
+i
+
+t
+
+a
+
+t
+i
+
+b
+
+o
+
+l
+
+y
+
+n
+
+e
+
+ 
+
+s
+
+t
+r
+
+u
+
+c
+t
+u
+r
+
+e a
+n
+
+c
+
+ritic
+
+c
+
+o
+
+E
+
+n
+
+s
+
+ntin
+ure
+s 
+uity of
+al s
+ervices
+
+d Environment
+Provides and increases
+the protection of natural 
+and artificial resources
+
+Meets 
+basic needs
+
+Supp
+
+Health a
+
+of e
+
+a
+
+orts liv
+n
+d m
+elih
+plo
+
+e
+
+a
+
+n
+
+m
+
+y
+
+m
+
+s
+
+o
+
+o
+
+d
+
+n
+d 
+
+e
+
+n
+t
+
+W
+
+e
+
+ll
+
+n
+
+e
+
+s
+
+s
+
+h
+
+E
+
+e
+
+n
+
+a
+
+s
+
+l
+
+t
+
+u
+
+h
+
+ 
+
+r
+
+e
+
+s
+
+s
+
+e
+
+r
+
+ 
+
+p
+
+v
+
+u
+
+i
+
+c
+
+e
+s
+
+b
+
+l
+
+i
+
+c
+
+ 
+
+d
+s
+n
+e
+a
+i
+t
+ 
+i
+e
+n
+v
+u
+i
+s
+m
+e
+m
+h
+o
+o
+s c
+d c
+c o n o m y and Society
+Promote
+mitte
+com
+E nsure social stability
+security and justice
+
+E
+
+o m i c
+y
+
+c
+Pro m o t e s   e
+p r o s p e
+
+o
+
+n
+r it
+
+52
+
+City Resilience Framework: in blue, aspects of resilience targeted in the initiatives of Goal #3
+Credit: The Rockefeller Foundation/ Arup, 2014.
+
+53
+
+GOAL #3 Cultivate green, cool, safe and flexible urban spaces 
+
+FLAGSHIP INITIATIVE #3.A 
+
+Implement LED Street Lighting
+
+POTENTIAL PARTNERS  
+World Bank and departments of public safety. 
+
+FUNDING 
+Included  at  the  Strategic  Plan  2017-2020  BRL432,9 
+million to substitute 60% of luminaires until 2020, of which 
+BRL 69,2 million of own resources and BRL 363,7 million 
+of external resources.
+
+DESCRIPTION AND OBJECTIVE 
+LED lighting has superior quality, better luminosity at a lower 
+cost (on average, 50% of the cost of technologies currently 
+installed,  benchmarked  by  many  cities  worldwide),  longer 
+durability, spends less time for starting up and increases the 
+feeling of safety, because it improves facial recognition. 
+
+Electric  energy  in  Brazil  is  highly  dependent  on  the  rain 
+patterns and water scarcity in the Southeast of Brazil in the 
+summers  of  2014  and  2015  significantly  increased  the 
+costs of energy. 
+
+The  installation  of  smart  grid  allows  for  remote  detection 
+of defects, adjustable dimming and the use of flickering as 
+alert  in  the  case  of  emergency.  Besides,  smart  grids  are 
+a  platform  of  the  addition  of  various  kinds  of  sensors,  for 
+present  and  future  technologies  related  to  traffic,  security, 
+microclimate,  flooding  detection,  etc.  The  project  of  LED 
+lighting can support the city to increase the resilience for all 
+climate related shocks and stresses, as well as those related 
+to accidents with urban infrastructure, saturation of the road 
+infrastructure and criminal acts on the urban space. 
+
+STRATEGIC PLAN 2017-2020 
+Initiative  3.09  –  Covert  public  regular  illumination  lamps 
+for  LED  lightning;  Initiative  4.10  –  Urban  renewal  in 
+neighborhoods with precarious or nonexistent infrastructure, 
+focusing on regions AP 3 and AP 5; Initiative 6.06  – Engage 
+PPPs and other external resources to address high priority 
+issues of the city.
+
+VALUE AND CO-BENEFITS
+Lowers  carbon  emissions  and  increases  the  resilience  of 
+the  city  to  water  and  energy  scarcity.  Its  implementation 
+can prioritize areas that increase the safety of pedestrians 
+and,  therefore,  minimize  criminal  acts  on  urban  spaces. 
+Moreover,  smart  grid  could  enhance  our  local  knowledge 
+and provide even more details to the multi-hazard risk maps 
+(see initiatives 1C and 1D), offering relevant inputs to both 
+the climate changes impacts mitigation portfolio of projects 
+(initiative 1B) and other projects related to green, safe, fresh 
+and flexible urban spaces creation (Goal 3).
+
+INDICATORS
+Less  consumption  of  energy;  percentage  of  existing 
+luminaires substituted for LED technology. 
+
+This  initiative  was  developed  by  Rio  Resiliente  and  fully 
+incorporated by the Strategic Plan 2017-2020. It is in the 
+planning phase. 
+
+FOCAL POINTS
+Rioluz and Rio Resiliente.
+
+RIO VISION 500  
+Aspiration (III.1.a) The City will ensure a low-carbon energy 
+matrix; Aspiration (IV.3.a) All regions of the city will have access 
+to high quality public infrastructure; Aspiration (IV.2.c) All public 
+spaces will be planned and its streets and elevations will be 
+active and safe; Aspiration (IV.3.b): The city will be completely 
+accessible and pleasant to cyclists, pedestrians, people with 
+disabilities,  seniors  and  children;  Aspiration  (VI.3.b)  Public 
+resources will be used rationally, with proper management from 
+public and private partnerships and social civic organizations to 
+ensure high-quality services to all citizens.
+
+54
+
+Public LED lighting at the margins of Lagoa Rodrigo de Freitas. Photo credit: JP Engelbrecht
+
+RESILIENCE QUALITIES
+
+REFLECTIVE
+Uses past experience to inform 
+future decisions
+
+RESOURCEFUL
+Recognizes alternative ways to 
+use resources
+
+INTEGRATED
+Bring together a range of 
+systems and institutions
+
+ROBUST
+Well-conceived, constructed 
+and managed systems
+
+FLEXIBLE
+Willingness and ability to 
+adopt alternative strategies in 
+response to changing circum-
+stances. 
+
+55
+
+GOAL #3 Cultivate green, cool, safe and flexible urban spaces
+
+INITIATIVE #3B: 
+
+Stimulate Arbored-Squares
+
+DESCRIPTION AND OBJECTIVE
+The project Arbored-Squares aims to revitalize and increase 
+the  tree  density  of  78  public  squares,  by  planting  a  total 
+of  50,000  trees,  thus  allowing  the  greatest  part  of  the 
+population to have access to a green area within a 15-minute 
+walking distance from its residence. The project will focus on 
+the North and West zone, which nowadays have sparse tree 
+coverage.  
+
+The squares selected will have a minimum area of 20,000 
+square feet, and will have dense tree coverage to increase 
+shading and support the microclimate. If the project Arbored-
+Squares incorporates more resilient items, it can decrease 
+the vulnerabilities of the city to strong rains and winds, heat 
+islands and waves, droughts, epidemics and accidents with 
+urban infrastructure. 
+
+This  project  is  featured  in  the  Strategic  Plan  2017-202, 
+and can be expanded in its scope to add a few benefits of 
+resilience, such as:
+
+– Installation of water fountains, to increase thermal comfort 
+to the population and decrease internments and obits related 
+to extreme high temperatures. 
+
+– Installation of mini-centers of recycling and composting, 
+for utilization of citizens and local generation of income.
+– Raise awareness for the installation of green roofs around 
+the squares.
+–  Utilization  of  greywater  in  the  maintenance  of  parks, 
+preferably from local rainwater harvesting.
+–  Pavement  and  other  surfaces  with  high  permeability,  to 
+help protect the area from flooding, to lower absorption of 
+solar irradiation and mitigate urban heat islands. 
+
+This  project  was  developed  by  the  Strategic  Plan  2017-
+2020 and incorporated with a resilience lens in this strategy. 
+
+RIO VISION 500 
+ Aspiration (II.1.d) The city environment will benefit cariocas 
+in  a  way  that  everyone  will  cultivate  healthy  habits  for  life 
+and have access to resources and information needed for 
+a longer and better life; Aspiration (II.3.c) Ageing population 
+of  Rio  will  be  dynamic  and  productive;  Aspiration  (II.4.a) 
+Everyone will live close to a green area; Aspiration (III.4.b) 
+The green areas of the city will be protected and expanded, 
+then environmental preservation will become a city asset.
+
+and environment.
+
+POTENTIAL PARTNERS 
+C40, Rio Resiliente, resilience offices from cities worldwide, 
+recycling associations, urban farmers, private sector. 
+
+FUNDING
+BRL  60  million  of  own  funds  and  BRL  11,6  million  of 
+external funds until 2020. 
+
+STRATEGIC PLAN 2017-2020
+Initiative 2.06 – City evolution towards a friendly ambience to 
+elderly people; Initiative 4.02 – Development of other central 
+areas in the North and West zones; Initiative 4.03 – Strengthen 
+city parks by enlarging its green areas and applying sustainable 
+management  models;  Initiative  4.10  –  Urban  renewal  in 
+neighborhoods  with  precarious  or  nonexistent  infrastructure, 
+focusing on regions AP 3 and AP 5.
+
+VALUE AND CO-BENEFITS 
+Guarantee  heat  mitigation  for  the  population;  creation 
+of  a  new  centrality  in  neighborhoods,  promoting  open-
+air  physical  activities,  sports,  cultural  events  and  social 
+cohesion;  promotion  of  action  for  the  valuation  of  waste; 
+water efficiency. 
+
+INDICATORS 
+Number  of  trees  planted  in  public  streets,  square  feet  of 
+revitalized  squares,  number  of  public  water  fountains,  and 
+mini-centers  for  recycling  and  composting,  percentage  of 
+use of grey water, square feet of less heat-absorbing and 
+more permeable pavements.
+
+FOCAL POINTS 
+Comlurb, FPJ, departments of urban planning, maintenance 
+
+RESILIENCE CHAMPION
+
+Pedro Ribeiro joined Rio Resiliente as a volunteer in early 2015, and is now part of the Resilience 
+Team, with focus on water resources, urban ecology and urban heat islands. He carried out a diagnostic 
+on the rainwater harvesting potential as an alternative for the supply from the Guandu River. He has worked 
+with environmental licensing for energy production projects and supported socioeconomic initiatives in 
+Wales, UK. He has a degree on Environmental Sciences by the Federal University of Rio de Janeiro and is 
+co-founder of a socioenvironmental consultancy. 
+
+Melbourne, Australia: Yarra Gardens – Source: Creative Commons
+
+56
+
+57
+
+GOAL #3 Cultivate green, cool, safe and flexible urban spaces 
+
+INITIATIVE #3.C 
+
+Improve Resilience in Mobility
+
+DESCRIPTION AND OBJECTIVE
+The mobility projects planned for Rio involve initiatives that 
+can contribute to increase the resilience of the city. All those 
+projects – new Bus Rapid Transit lines, such as Transbrasil, 
+which will move approximately 450,000 people daily; the 
+segregated lines of the Bus Rapid System; Light Rail Vehicle; 
+and many miles of bike lanes – involve interventions in the 
+urban space that can contribute to minimize many shocks 
+and chronic stresses of the city. 
+
+Projects  for  mobility  must  be  aligned  with  the  Portfolio  of 
+Climate  Change  Mitigation  and  Adaptation,  initiative  1B, 
+and  must  involve  in  their  planning  analysis  of  impact  of 
+microclimates  in  neighborhoods,  effects  on  “walkability”, 
+exposure to climate shocks, such as strong rains and winds 
+(including those related to drainage and coastal protection 
+against  sea  level  rise);  and  also  adequate  public  lighting 
+and  impacts  in  the  sensation  of  security. The  utilization  of 
+low  emission  fuels  is  essential  to  the  development  of  a 
+resilient  mobility. The  integration  of  different  transportation 
+modals cannot be regarded solely as a means of reducing 
+commuting time, but also for its ability to increase flexibility 
+and generate redundancy, so that eventual interruption of a 
+modal can be mitigated by the use of others. 
+
+An ample analysis of the co-benefits of resilience in mobility 
+projects constitute opportunity for better access to finance 
+options,  considering  the  global  movement  towards  the 
+financing  of  climate-smart  projects,  whose  longer  utility  is 
+ensured  by  considering  climate  scenarios. The  application 
+of a resilience lens in mobility supports the city to deal with 
+shocks and stresses like strong rains and winds, heat islands 
+
+and waves, sea level rise, accidents with urban infrastructure, 
+agglomeration  of  people  with  impact  in  normalcy,  criminal 
+acts in the urban space, and saturation of road infrastructure. 
+
+RIO VISION 500 
+Aspiration (III.1.d): City mobility will be sustainable, supported 
+by  green  technologies  and  intelligent  urban  planning; 
+Aspiration  (IV.1.a)  The  city  will  be  more  compact  and 
+densified in tandem with the existing infrastructure; Aspiration 
+(IV.1.b) Everyone will be able to ride all over the city using 
+high quality and integrated public transportation.
+
+STRATEGIC PLAN 2017-2020
+Initiative  4.05  –  Improvements  on  the  roads  and  on  the 
+quality of buses travel; Initiative 4.06 – Implementation of 
+exclusive lanes for public transportation. 
+
+VALUE AND CO-BENEFITS 
+Increase  in  the  flexibility  and  robustness  of  the  transport 
+system;  support  for  the  development  of  green,  safe,  and 
+walkable urban spaces; positive impact in the microclimate 
+of  neighborhoods;  increased  attraction  for  climate-related 
+finance options; reduction in air pollution; and reduction of 
+GHG emissions. 
+
+INDICATORS  
+Percentage  of  the  population  that  commutes  daily  via 
+high  capacity  transportation;  amount  of  funding  attracted 
+by  climate-smart  mobility  projects;  lower  concentration  of 
+transport-related air pollution; lower GHG emissions. 
+
+FOCAL POINTS 
+Rio  Resiliente  and  departments  of  transportation  and 
+planning. 
+
+POTENTIAL PARTNERS
+FPJ, ITDP-Brasil, C40, departments of public construction 
+works and cultural heritage, universities, private sector.
+
+Bus Rapid Transit, Transcarioca - Photo credit: Ary Kaye
+
+58
+
+59
+
+GOAL #3 Cultivate green, cool, safe and flexible urban spaces
+
+GOAL #3 Cultivate green, cool, safe and flexible urban spaces
+
+INITIATIVE #3.D
+
+Equal access to Culture 
+
+INITIATIVE #3.E 
+Carioca Forests
+
+Description and objective
+
+With the aim of encouraging the symbolic, economic and social mobility of carioca cultural 
+agents, this initiative consists in the expansion of investments in actions with a territorial impact, 
+ensuring capillarity, coverage and geographic scope of public funding for culture.
+
+Vision Rio 500
+
+Aspiration (I.3.b) Valued territorial culture and equitably distributed cultural goods.
+
+Values and co-benefits
+
+of resilience
+
+Public investments supporting local culture, with broad participation of the community; increasing 
+social cohesion
+
+Indicators
+
+Number of agents with community profile trained for territorial impact per year. Proportion of 
+projects with community profile and territorial impact followed through in the period. Percentage 
+of districts covered in the West and North zones
+
+Expected results
+
+Reduce inequality of access to public funding of culture and allow active agents in Rio territories 
+to live strengthening, development and growth processes. Artists, producers and the public with 
+access to a network of modern cultural facilities capable of operating as bases for creation, 
+training and dissemination of artistic and cultural diversity 
+
+Budget 2017-2020
+
+BRL 73.5 million
+
+Description and objective
+
+Protection and restoration program of the Atlantic Forest biome, via development of appropriate 
+legislation, maintenance and enrichment of the reforested areas and implementation of green 
+corridors for interconnection of the biome fragments. The initiative involves the formulation of 
+legislation for protection for 4,800 hectares of areas in the Atlantic Forest biome that are still 
+without legal protection, connect large fragments of the Atlantic Forest biome, through the 
+implementation of green corridors Bosque da Barra - Marapendi - Chico Mendes and Prainha - 
+Guaratiba. 
+
+Vision Rio 500
+
+Aspiration (III.4.a) The entire population will live near a green area, since it will be prioritized the 
+occupation of public spaces that meet social and ecological roles; Aspiration (III.4.b) The green 
+areas of the city will be protected and expanded, and the culture of environmental preservation 
+will be an asset; Aspiration (IV.3.c). Rio will value and protect its landscape as an asset of the City.
+
+Values and co-benefits
+
+of resilience
+
+Protection of water production within the municipality; Reduction of heat waves and islands; 
+Greater resilience of new reforested areas due to the greater number of species and better 
+management; increased biodiversity; decreased risk of fire in slopes; expand education for 
+environment and resilience.
+
+Indicators
+
+Percentage of Atlantic Forest Biome area protected by new legislation in the period. Index of 
+adequate maintenance of the reforestation area. Percentage of selected tree specimens managed 
+in the enriched forested areas. School units involved in the Forest in Schools Program.
+
+Expected results
+
+Ensure that the Atlantic Forest biome present in the city has sustainable conditions to maintain its 
+diversity and extension, awakening in the population higher levels of interest and participation in 
+its protection and recovery.
+
+Initiatives of the Strategic Plan 2017-2020 with Resilience Co-Benefits.
+
+Budget 2017-2020
+
+BRL 127.1 million
+
+Initiatives of the Strategic Plan 2017-2020 with Resilience Co-Benefits.
+
+60
+
+61
+
+GOAL #3 Cultivate green, cool, safe and flexible urban spaces
+
+INITIATIVE #3.F 
+
+Rio Always Olympic
+
+Description and objective
+
+The post-Olympic utilization of Olympic equipment were taken in consideration since the planning 
+phase, to avoid building sites that would later be abandoned or underused. In order to allocate 
+the new areas built for the 2016 Olympic Games to the enjoyment of Rio's population, creating a 
+true Olympic legacy for the city, the initiative aim to plan for educational, sports, social and leisure 
+activities. 
+
+Vision Rio 500
+
+Aspiration (I.3.a) Children and young people will have access to the cultural heritage of the city 
+for the development of values such as respect and citizenship; Aspiration (II.4.a) Rio will be a 
+reference as a senior-friendly city,  benefiting all residents.
+
+Values and co-benefits
+
+of resilience
+
+The Olympic legacy resilience benefits can be enhanced by integration with the neighborhood, 
+with the development of new spaces that are green, cool, safe and flexible. Maintaining a 
+positive legacy is related to a future management that is attentive, responsive and inclusive.
+
+Indicators
+
+Number of new venues being used by the population.
+
+Expected results
+
+Promotion of sports as a tool to improve the quality of life with the availability of facilities as 
+venues for training, encouraging amateur sports and also the use for the practice of recreational 
+sports by citizens and within full-time schools. 
+
+Budget 2017-2020
+
+BRL  229.4 million
+
+Initiatives of the Strategic Plan 2017-2020 with Resilience Co-Benefits.
+
+GOAL #4  
+Provide high quality basic services to all citizens, through 
+sustainable and resilient use of resources
+
+#A: Develop a Water Strategy 
+#B: Implement a Solar Energy Strategy 
+#C: Realize Energy and Water Efficiency in Public Buildings
+#D: Universal Access to Sanitation
+#E: Access to Safe Housing
+#F: Public Authority for the Guanabara Bay
+
+E
+l o
+i n t e
+
+o u r a g e s
+r m   a n d
+t e
+-
+e d   p l a n n ing
+t
+
+a
+
+c
+
+g
+
+r
+
+y
+
+n
+
+n
+
+g
+
+g
+
+Strengthens a wide 
+range of stakeholders
+Leadership and Strate
+
+hip and
+ement
+
+ers
+g
+a
+d
+n
+a
+a
+ le
+ m
+s
+e
+e
+v
+t
+i
+o
+t
+c
+m
+e
+o
+f
+f
+r
+e
+P
+
+P
+
+r
+
+o
+
+v
+
+i
+
+d
+
+c
+
+o
+m
+m
+
+a
+
+n
+
+I
+
+e
+
+n
+
+d
+
+u
+
+s
+
+f
+
+ 
+
+ 
+
+r
+
+m
+
+n
+
+r
+
+i
+
+e
+
+a
+
+o
+
+c
+
+l
+i
+
+b
+
+a
+
+a
+
+i
+l
+i
+t
+
+t
+i
+
+b
+
+o
+
+l
+
+e
+
+y
+
+n
+
+ 
+
+s
+
+t
+r
+
+u
+
+c
+t
+u
+r
+
+e a
+n
+
+c
+
+ritic
+
+c
+
+o
+
+E
+
+n
+
+s
+
+ntin
+ure
+s 
+uity of
+al s
+ervices
+
+d Environment
+Provides and increases
+the protection of natural 
+and artificial resources
+
+Meets 
+basic needs
+
+Sup
+
+p
+
+Health a
+
+of e
+
+a
+
+orts liv
+elih
+
+n
+d m
+plo
+
+e
+
+a
+
+n
+
+m
+
+y
+
+s
+
+n
+d 
+
+m
+
+e
+
+n
+t
+
+o
+
+o
+
+d
+
+W
+
+e
+
+ll
+
+n
+
+e
+
+s
+
+s
+
+h
+
+E
+
+e
+
+n
+
+a
+
+s
+
+l
+
+t
+
+u
+
+h
+
+ 
+
+r
+
+e
+
+s
+
+s
+
+e
+
+r
+
+ 
+
+p
+
+v
+
+u
+
+i
+
+c
+
+e
+s
+
+b
+
+l
+
+i
+
+c
+
+ 
+
+d
+s
+n
+e
+a
+i
+t
+ 
+i
+e
+n
+v
+u
+i
+s
+m
+e
+m
+h
+o
+o
+s c
+d c
+c o n o m y and Society
+Promote
+mitte
+com
+E nsure social stability
+security and justice
+
+E
+
+o m i c
+y
+
+c
+Pro m o t e s   e
+p r o s p e
+
+o
+
+n
+r it
+
+62
+
+City Resilience Framework: in blue, aspects of resilience targeted in the initiatives of Goal #4
+Credit: The Rockefeller Foundation/ Arup, 2014.
+
+63
+
+GOAL #4 : Provide high quality basic services to all citizens, through sustainable and resilient use of resources.
+
+FLAGSHIP INITIATIVE #4.A: 
+Develop a Water Strategy
+
+DESCRIPTION AND OBJECTIVE 
+Develop  a  water  strategy,  incorporating  the  metropolitan 
+region and the basin of the Guandu river, involving multiple 
+actors  in  the  public,  private,  civil,  academic  and  third 
+sectors,  with  the  purpose  of  fostering  the  water  resilience 
+of the city and state of Rio de Janeiro. In 2014 and 2015 
+the  Southeast  of  Brazil  experienced  low  rainfall  volume. 
+Consequently,  the  integrated  reservoir  of  Guandu  reached 
+13% of its capacity, a worrying stage considering the fact 
+that  this  source  provides  water  to  92%  of  Rio’s  citizens. 
+The  preparation  of  a  water  strategy  has  five  objectives;  I) 
+Develop  a  preliminary  diagnosis  of  the  water  situation  in 
+the city of Rio; II) Establish an integrated approach for the 
+urban water; III) Develop projects based on successful cases 
+of  water  management;  IV) Align  a  strategy  specifically  for 
+the  metropolitan  region,  with  the  engagement  of  actors 
+from  the  different  governmental  spheres;  V)  Develop  an 
+implementation roadmap. 
+
+The  water  strategy  must  indicate  alternative  means  to 
+improve access to water, reduce consumption and deal with 
+the urban water cycle more resiliently. The water supply must 
+be constant to all citizens and less dependent on a single 
+
+POTENTIAL OF REUSE FROM RAINWATER HARVESTING 
+
+source.  Therefore,  the  water  basins  of  the  river  Guandu, 
+located  outside  the  limits  of  the  city  of  Rio  de  Janeiro, 
+must be revitalized, in order to guarantee steady water flow 
+throughout the year; and universal sanitation network must 
+be  implemented,  preventing  the  contamination  of  water 
+bodies. 
+
+The diversification of the water matrix in Rio de Janeiro entails 
+deepening the knowledge about alternative sources, such as 
+watershed in the urban forests (there are three forests located 
+within city limits) and the potential for rainwater harvesting, 
+mainly in rooftops. The harvesting and reserve of water in 
+the  city  must  integrate  gray  infrastructure  to  a  sustainable 
+and resilient use of ecosystems. The water cycle in the city, 
+little explored and understood yet, should be regarded as a 
+whole, so that future interventions do not impact it negatively, 
+by enhancing flooding or dry periods. 
+
+For a resilient management of water, it is essential to utilize this 
+resource more efficiently and, therefore, the water strategy 
+must  also  include  the  active  development  of  new  habits, 
+practices  and  technologies  which  induce  the  reduction  in 
+consumption; and should identify opportunities for the usage 
+
+The analysis of the potential for reuse of rainwater in the city of Rio de Janeiro was produced through the interpolation of rainfall volumes, as determined by System 
+Alerta Rio in the period between 2010 and 2015, crossed with rainfall volume in possible harvesting areas (rooftops) and consequent reduced need for water from 
+the underground distribution system, based on consumption data from the population. The consumption data was acquired from the Sanitation National System of 
+Information (SNIS) and the 2010 demographic census from the Brazilian Institute of Geography and Statistics (IBGE). The areas in dark blue show which parts of the 
+city could benefit more from harvesting rainwater to lower consumption and water bills. 
+
+64
+
+proper for bathing.
+
+VALUE AND CO-BENEFITS
+Less dependency on a single source and better security for 
+the water supply; more resilient and sustainable use of water 
+resources; mitigation of impacts as droughts and flooding; 
+mitigation of water-borne illnesses.
+
+INDICATORS
+Improvement in the water quality of rivers and lakes; better 
+water safety in the beaches and in Guanabara Bay; number of 
+installed rainwater capture systems and volume of greywater 
+reused; increase in the micro-production of water in the city 
+– less dependency on the Guandu system.
+
+FOCAL POINTS
+Rio Resiliente and water management departments, both city 
+and state.
+
+POTENTIAL PARTNERS 
+CI, WRI, The Nature Conservancy, CEDAE, FOZ Águas.
+
+of  greywater,  supporting  its  widespread  adoption  in  public 
+and private buildings, whether old or new. 
+
+Rio  de  Janeiro  must  be  better  prepared  to  face  water 
+crises, by dealing with the challenge of pollution and access 
+to  sanitation  in  a  structured  manner.  The  strategy  should 
+support existing programs such as the Reforestation, Urban 
+Tree Coverage, and Rainwater Drainage. This initiative is at 
+the  planning  stage,  stimulated  by  Rio  Resiliente,  and  was 
+partially  adopted  by  Strategic  Plan  2017-2020,  which 
+includes  studies  for  identification  of  capturing  new  water 
+sources in the city. 
+
+RIO VISION 500 
+Aspiration 1: Rio will have water security having mapped all 
+risks with their strategic action plans; Aspiration 2: Rio will 
+work  within  a  network  of  cities  in  order  to  promote  basic 
+sanitation  to  the  whole  metro  region;  Aspiration  3:  The 
+population will not waste usable water and its reuse will be 
+part of people’s routine. 
+
+STRATEGIC PLAN 2017-2020
+Initiative  3.05  –  Proper  use  of  water  resources  with 
+guidelines to reduce water vulnerability aiming to balance its 
+supply and demand; Initiative 3.06 – Better quality of water 
+bodies  helping  increase  the  extension  beaches  which  are 
+
+RESILIENCE QUALITIES
+
+REFLECTIVE
+Uses past experience to inform 
+future decisions.
+
+RESOURCEFUL
+Recognizes alternative ways to 
+use resources.
+
+INCLUSIVE
+Prioritizes broad consultation to 
+create a sense of shared
+ownership in decision making.
+
+INTEGRATED
+Bring together a range of
+systems and institutions.
+
+ROBUST
+Well-conceived, constructed
+and managed systems.
+
+REDUNDANT
+Spare capacity purposively
+created to accommodate 
+disruption.
+
+FLEXIBLE
+Willingness and ability to adopt 
+alternative strategies in response 
+to changing circumstances. 
+
+RESILIENCE CHAMPION
+
+Paulo Fonseca Civil Engineer, Paulo has worked with Rio Resiliente developing the water strategy 
+of Rio. He has been working for the city City, since 1992 where he has occupied several leadership roles 
+across municipality functions: Research and Technical Support Manager, and General Manager for Pluvial 
+Waters Management Projects, at the Municipal Secretary of Public Works. Paulo also took the position 
+as the Director of Studies and Projects and then Chief Executive Officer of the RioÁguas Foundation. He 
+holds a PhD degree in Civil Engineering and is a member of the City Leadership Group, a team of public 
+servants specially trained for management positions. .
+
+65
+
+GOAL #4 : Provide high quality basic services to all citizens, through sustainable and resilient use of resources.
+
+INITIATIVE #4.B: 
+
+Implement Solar Energy Strategy
+
+FUNDING
+For solar energy in the Center of Operations Rio (COR): 
+BRL  305,100,  in  which  BRL  267,900  is  from  the 
+Energy  Efficiency  program  of  the  National  Agency  for 
+Electric  Energy  (ANEEL),  and  BRL  37,200  from  COR  
+
+ 
+and Rio Resiliente. For the solar energy viability study for 
+public buildings, the Strategic Plan 2017-2020 projects 
+investment of BRL 1 million. 
+
+DESCRIPTION AND OBJECTIVE
+Promote decentralized generation of solar energy in the city, 
+developing  an  urban  solar  energy  strategy  and  starting  its 
+implementation on buildings owned by the municipality.
+
+ones will be encouraged towards modernization; Aspiration 
+3: The city will remain as the national capital for the energy 
+industry, attracting high value-added activities and fostering 
+renewable energy sources. 
+
+RESILIENCE QUALITIES
+
+REFLECTIVE
+Uses past experience to
+inform future decisions.
+
+RESOURCEFUL
+Recognizes alternative ways
+to use resources.
+
+INTEGRATED
+Bring together a range of 
+systems and institutions.
+
+ROBUST
+Well-conceived, constructed 
+and managed systems.
+
+REDUNDANT
+Spare capacity purposively 
+created to accommodate 
+disruption.
+
+FLEXIBLE
+Willingness and ability
+to adopt alternative strategies
+in response to changing 
+circumstances.
+
+RESILIENCE CHAMPION
+
+Kirsten Kramer supports Rio Resiliente since January 2014. Born Dutch and currently a Carioca, 
+she is an expert in energy and water and leads Rio Resiliente’s initiatives in these themes, including the 
+project to install solar energy in the Center of Operations Rio (Initiative 4.B) and the calculation of the 
+potential energy and water efficiency, and solar energy, in the municipal schools of Rio (Initiative 4.C). 
+“It is an honor to be part of Rio Resiliente and strive together so that my adoptive city will be even more 
+marvelous, resilient and sustainable through the promotion of solar energy”.
+
+Incentive  programs 
+
+STRATEGIC PLAN 2017-2020
+Initiative  3.08  – 
+for  sustainable 
+constructions in the city of Rio; Initiative 5.01 – Structuring 
+of  an  area  to  coordinate  economic  growth  actions  and 
+sectorial development new tools.
+
+VALUE AND CO-BENEFITS
+Reduction in the consumption of energy and, in Brazil, due to 
+the energy matrix, mostly hydroelectric, also water; lower risk 
+in case of water or energy scarcity; lower carbon emissions, 
+economic development – diversification and development of 
+a more sustainable economy. 
+
+INDICATORS
+Total KW installed in municipal buildings; amount of MWh 
+produced by decentralized solar energy; total investment in 
+solar  energy  yearly  in  municipal  buildings,  GHG  emissions 
+avoided in the generation and use of electricity. 
+
+FOCAL POINTS 
+COR and Rio Resiliente, Casa do Futuro, Solarize, Light.
+
+POTENTIAL PARTNERS
+PENSA, EMZINGO, USC.
+
+Rio de Janeiro receives sufficient yearly solar irradiation on 
+its available rooftops to power 183% of the energy needed 
+by its residents. Besides, solar energy is equitably available 
+to every citizen throughout the four seasons, and therefore 
+solar  energy  can  promote  equal  access  to  this  basic 
+service. Furthermore, in Brazil, the generation of electricity 
+is becoming less sustainable in the latest years, due to the 
+intense use of thermal plants (up to 25% of the matrix in 
+2015). This has had a negative effect in the price of energy 
+and the purchasing power of citizens. This trend is opposed 
+to the vision of the municipality and its citizens, as indicated 
+in the Vision Rio 500, which envisions a low carbon future 
+for the city. 
+
+The development of a solar strategy should begin in smaller 
+pilot  projects  inside  city  administration.  For  this  reason,  a 
+Solar Energy and Energy Efficiency project was initiated in 
+the Center of Operations Rio, to be implemented after the 
+Olympics.  Considering  the  lessons  learned  in  this  project, 
+it  is  possible  to  develop  a  wider  implementation  plan  that 
+incorporates  large-scale  cases  from  other  cities,  including 
+innovative finance solutions
+
+The strategy for solar energy was proposed by Rio Resiliente 
+and RioÁguas was incorporated in the Strategic Plan 2017-
+2020 in two different contexts: development of a strategy in 
+2018 and support to sustainable buildings.  
+
+RIO VISION 500 
+Aspiration  1:  The  City  will  ensure  a  low-carbon  energy 
+matrix; Aspiration 2: All regions of the city will have access 
+to  high  quality  public  infrastructure;  Aspiration  2:  All  new 
+buildings  will  follow  ecoefficiency  guidelines  and  existing 
+
+66
+
+67
+
+GOAL #4 : Provide high quality basic services to all citizens, through sustainable and resilient use of resources.
+
+GOAL #4 : Provide high quality basic services to all citizens, through sustainable and resilient use of resources.
+
+Realize Energy and Water Efficiency in Public Buildings
+
+INITIATIVE #4.C: 
+
+INITIATIVE #4.D: 
+
+Universal Access to Sanitation
+
+DESCRIPTION AND OBJECTIVE 
+Realize energy and water efficiency in public buildings, 
+with  the  potential  to  zero  the  energy  bill  of  the 
+municipality, implemented in tandem with initiative 4.B, 
+Solar Energy. 
+
+Due to water scarcity in the beginning of 2015, decree 
+nº 39848 of 2015 establishes that City departments 
+must  keep  the  same  electricity  budget  as  in  the 
+previous year, 2014, despite the rising prices of energy. 
+In order to meet that goal, it is essential to investigate 
+the true potential for lower consumption of water and 
+energy. For this reason, Rio Resiliente sought to start 
+this investigation through a department with the highest 
+possible  impact,  from  a  technical  standpoint  but  also 
+for co-benefits of education and behavior. Therefore, a 
+study was carried out to calculate the reduction potential 
+in more than 1450 school units in the municipality, the 
+largest school network in Latin America. 
+
+In  total,  schools  in  Rio  use  approximately  80GWh  of 
+electricity and 4 million m3 of water per year (reference 
+2015).  The  study,  which  included  sight  visits  to  a 
+sample  of  schools,  identified  a  potential  reduction  of 
+39% (31GWh) for electricity and 58% reduction (2,4 
+million m3) for water. The potential for solar energy in 
+rooftops was also calculated to be able generate 101 
+GWh/year, sufficient to cover all needs. This represents 
+potential  savings  of  BRL  122  million  per  year,  more 
+than the actual costs: in fact, the electricity bills could 
+be zeroed and still generate income for expansion in 
+the number of schools. 
+ 
+The  analysis  for  the  potential  of  water  and  energy 
+efficiency in schools was carried out with technical and 
+financial  support  of  the World  Bank.  Considering  the 
+different typologies of buildings and distinct use, new 
+diagnosis  for  hospital  and  other  public  buildings  are 
+necessary. The project was initiated by Rio Resiliente, in 
+partnership with the Secretary of Education and Pensa 
+Sala  de  Ideias,  and  provides  support  for  the  meeting 
+of  the  energy  efficiency  goals  stated  in  the  Strategic 
+
+Plan 2017-2020.
+ 
+RIO VISION 500 
+Aspiration (III.1.a) The City will ensure a low-carbon energy 
+matrix; Aspiration (IV.2.c): All regions of the city will have 
+access  to  high  quality  public  infrastructure;  Aspiration 
+(III.1.b)  All  new  buildings  will  follow  ecoefficiency 
+guidelines and existing ones will be encouraged towards 
+modernization; Aspiration (V.1.e) The city will remain as 
+the  national  capital  for  the  energy  industries,  attracting 
+high  value  adding  activities  and  fostering  renewable 
+energy sources. 
+
+STRATEGIC PLAN 2017-2020
+Initiative  3.08:  Incentive  programs  for  sustainable 
+constructions in the city of Rio; Initiative 5.01: Structuring 
+of an area to coordinate economic growth actions and 
+sectorial development new tools.
+
+VALUE AND CO-BENEFITS
+Reduction  in  the  use  of  water  and  energy;  lower  risk 
+of  supply  shocks;  lowers  carbon  emissions;  economic 
+development:  diversification  and  development  of  a 
+more sustainable economy; education of children about 
+sustainable use of natural resources, among others.
+
+INDICATORS
+Reduction in the consumption of water and energy in public 
+buildings: education, health and others; number of buildings 
+in  the  municipality  with  water  and  energy  programs;  total 
+investment per year on water and energy efficiency.
+
+FOCAL POINTS 
+Rio Resiliente and PENSA.
+
+POTENTIAL PARTNERS
+World  Bank, Accenture,  Secretary  of  Education  and  other 
+city departments such as health, finance and public works. 
+
+Description and objective
+
+In order to expand the sewage system to reach 80% of the population in the municipality, this 
+initiative proposes to implement sanitation systems in Barra da Tijuca, Jacarepaguá and the West 
+zone, ensure compliance with the targets of existing concessions in the West zone and track the 
+expansion of sanitation to the center, South and North areas.
+
+Rio Vision 500
+
+Aspiration (III.3.b): Rio will work in a networked manner to universalize sanitation in the city and 
+the metropolitan area, depolluting water bodies in the region; Aspiration (III.4.b): The city’s green 
+area will be protected and expanded, and the culture of environmental preservation will be an 
+asset.
+
+Values and co-benefits
+
+of resilience
+
+Improved management of water resources of the city by eliminating the exposure of the 
+population and ecosystems to pollution. The proper disposal of sewage treatment will bring to 
+citizens, besides better quality of life and health, the possibility of greater water security through 
+the reuse of wastewater. This initiative focuses on reducing inequality of access to basic services.
+
+Indicators
+
+Percentage of population covered by the sewage disposal system with treatment in the basins of 
+Guanabara and Sepetiba bays. Percentage of population covered by the sewage disposal system 
+with treatment in Jacarepagua basin. Percentage of population covered by the sewage disposal 
+system with treatment in the basin of Guanabara.
+
+Expected results
+
+The initiative aims to reduce inequalities of coverage with sewage treatment in various areas of 
+the city, reducing the incidence of waterborne diseases and economically appreciating the areas 
+with sanitation.
+
+Budget 2017-2020
+
+BRL  1.918 billion
+
+Initiatives of the Strategic Plan 2017-2020 with Resilience Co-Benefits.
+
+Sanitation works in Rio de Janeiro:  Source: Arquivo Secretaria Municipal de Recursos Hídricos
+
+68
+
+69
+
+GOAL #4 : Provide high quality basic services to all citizens, through sustainable and resilient use of resources.
+
+GOAL #4 : Provide high quality basic services to all citizens, through sustainable and resilient use of resources.
+
+INITIATIVE #4.E: 
+
+Access to Safe Housing
+
+INITIATIVE #4.F: 
+
+Public Authority for The Guanabara Bay
+
+Description and objective
+
+The Morar Carioca program is part of the Municipal Plan for Social Housing of the Rio de Janeiro 
+City and aims to upgrade favelas.
+
+Description and objective
+
+Establish new governance for the depollution of Guanabara Bay, including the creation of a 
+Metropolitan Public Authority by 2020 to ensure completion of the remediation project planning of 
+Guanabara Bay and the start of its implementation.
+
+Rio Vision 500
+
+Aspiration (III.2.a) No family in the city will live in a high physical vulnerability situation; Aspiration 
+(III.3.b) Rio will work in a networked manner to universalize sanitation in the city and the 
+metropolitan area, depolluting water bodies in the region; Aspiration (IV.2.c) All regions of the city 
+will have access to quality urban infrastructure; Aspiration (IV.3.a) All public spaces will be well 
+designed, and the streets and facades will be active and safe; Aspiration (IV.2.d) There will be 
+provision of accessible housing options and more diversity in territorial occupation; Aspiration 
+(V.1.f) The real estate industry will be more developed, valuing the assets of the city and 
+generating jobs and income.
+
+Values and co-benefits
+
+of resilience
+
+The upgrading of favelas improves the quality of life of residents, who benefit from basic 
+infrastructure such as sanitation, street lighting and adequate paving. The initiative should 
+incorporate knowledge gained via initiatives 1.1, 1.2 and 1.3, regarding climate risks.
+
+Indicators
+
+Number of upgraded households in favelas. 
+
+Rio Vision 500
+
+Aspiration (III.3.a) Rio will have water security in its supply, having mapped the risks and 
+prepared coping strategies; Aspiration (III.3.b) Rio will work in a networked manner to universalize 
+sanitation in the city and the metropolitan area, depolluting water bodies in the region; Aspiration 
+(III.3. C) Rivers, lakes and the sea will be recovered and its economic and leisure potential 
+explored, integrating them into the life of Cariocas.
+
+Values and co-benefits
+
+of resilience
+
+Metropolitan integration, depollution of an important water body for the city of Rio de Janeiro; 
+improvement of coastal ecosystems. Improvement of the water quality in beaches. 
+
+Indicators
+
+Percentage of compliance of the schedule of each initiative. Number of citizens engaged in a 
+communication platform for the metropolitan initiative.
+
+Expected results
+
+Establish new governance for the depollution of the Guanabara Bay.
+
+Expected results
+
+It is expected, with this program, to continue to promote the urban, social, economic and cultural 
+integration of residents of favelas to the city. By 2020, it is expected the integration of public and 
+private spaces located in favelas to the georeferenced base of the city.
+
+Budget 2017-2020
+
+BRL  0,9 million
+
+Budget 2017-2020
+
+BRL  1.882,2 billion.
+
+Initiatives of the Strategic Plan 2017-2020 with Resilience Co-Benefits.
+
+Initiatives of the Strategic Plan 2017-2020 with Resilience Co-Benefits.
+
+70
+
+71
+
+GOAL #5 
+Promote an inclusive, diversified, circular and low-carbon 
+economy
+#A: Create an Agency for the Promotion of Circular Economy 
+#B: Valorization of Solid and Organic Waste
+#C: Realize Rio + B 
+#D: Promote a Culture of Entrepreneurship
+#E:  Evaluate Social and Environmental Impacts of 
+
+Investments
+
+E
+l o
+i n t e
+
+o u r a g e s
+r m   a n d
+t e
+-
+e d   p l a n n ing
+t
+
+a
+
+c
+
+g
+
+r
+
+y
+
+n
+
+n
+
+g
+
+g
+
+Strengthens a wide 
+range of stakeholders
+Leadership and Strate
+
+hip and
+ement
+
+ers
+g
+a
+d
+n
+a
+a
+ le
+ m
+s
+e
+e
+v
+t
+i
+o
+t
+c
+m
+e
+o
+f
+f
+r
+e
+P
+
+P
+
+r
+
+o
+
+v
+
+i
+
+d
+
+c
+
+o
+m
+m
+
+a
+
+n
+
+I
+
+e
+
+n
+
+d
+
+u
+
+s
+
+f
+
+ 
+
+ 
+
+r
+
+m
+
+n
+
+r
+
+i
+
+e
+
+a
+
+o
+
+c
+
+l
+i
+
+b
+
+a
+
+a
+
+i
+l
+i
+t
+
+t
+i
+
+b
+
+o
+
+l
+
+e
+
+y
+
+n
+
+ 
+
+s
+
+t
+r
+
+u
+
+c
+t
+u
+r
+
+e a
+n
+
+c
+
+ritic
+
+c
+
+o
+
+E
+
+n
+
+s
+
+ure
+ntin
+s 
+uity of
+al s
+ervices
+
+d Environment
+Provides and increases
+the protection of natural 
+and artificial resources
+
+Meets 
+basic needs
+
+Sup
+
+p
+
+Health a
+
+of e
+
+a
+
+orts liv
+elih
+
+n
+d m
+plo
+
+e
+
+a
+
+n
+
+m
+
+y
+
+s
+
+n
+d 
+
+m
+
+e
+
+n
+t
+
+o
+
+o
+
+d
+
+W
+
+e
+
+ll
+
+n
+
+e
+
+s
+
+h
+
+E
+
+s
+
+e
+
+n
+
+a
+
+s
+
+l
+t
+
+u
+
+h
+
+ 
+
+r
+
+e
+
+s
+
+s
+
+e
+
+r
+
+ 
+
+p
+
+v
+
+u
+
+i
+
+c
+
+b
+
+e
+
+s
+
+l
+
+i
+
+c
+
+ 
+
+d
+s
+n
+e
+a
+i
+t
+ 
+i
+e
+n
+v
+u
+i
+s
+m
+e
+m
+h
+o
+o
+s c
+d c
+c o n o m y and Society
+Promote
+mitte
+com
+E nsure social stability
+security and justice
+
+E
+
+o m i c
+y
+
+c
+Pro m o t e s   e
+p r o s p e
+
+o
+
+n
+r it
+
+72
+
+City Resilience Framework: in blue, aspects of resilience targeted in the initiatives of Goal #5
+Credit: The Rockefeller Foundation/ Arup, 2014.
+
+GOAL #5:Promote an inclusive, diversified, circular and low-carbon economy
+
+FLAGSHIP INITIATIVE #5.A: 
+
+Create an Agency for the Promotion of Circular Economy
+
+DESCRIPTION AND OBJECTIVE 
+Creation  of  a  department  within  the  City  with  three  main 
+objectives:  a)  send  less  waste  to  landfills,  b)  generate  jobs, 
+through  the  valuation  of  waste,  c)  support  the  efficiency  of 
+resources, such as water, food and materials, with no wasteful 
+practices, in order to develop a circular, diversified, inclusive and 
+low-carbon economy. 
+
+Nowadays, the consumption and production patterns follow a 
+linear model of extraction, use and disposal. On the one hand 
+there is more demand for primary products, with the increased 
+of extraction and associated environmental impacts; on the other 
+hand  there  is  a  growing  generation  of  residue,  which  create 
+problems for transportation and disposal. The circular economy 
+proposes that products should be developed already considering 
+the  extension  of  its  lifetime,  reuse,  recycling,  upcycling  and 
+transformation. 
+
+Large cities are, in fact, businesses ecosystems which can act in 
+an integrated manner, so that the waste generated by one industry 
+may become a primary product for another. The recycling and 
+transformation of products has the enormous potential to create 
+jobs related to the reuse of products at artisanal and industrial 
+scales but also for the creative economy. 
+
+The  jobs  created  have  the  potential  to  insert  in  the  formal 
+economy low-skilled workers and create opportunities for those 
+in  the  fields  of  engineering,  chemistry  and  product  design. 
+For  example,  currently  exists  a  nearly  100%  collection  and 
+recycling of aluminum cans and this happens because there are 
+economically viable industrial processes that allow this closed 
+circuit. One of the objectives of the Agency is to understand 
+the dynamics of the local industries, identify opportunities in the 
+world market for commodities, connect parts and promote new 
+means for the reuse of materials. 
+
+The diversification of the Rio’s economy is one of the ways to 
+become more resilient to economic shocks of all kinds. 
+
+The Agency for the Promotion of Circular Economy will act to:
+-  identify  opportunities  and  new  businesses  in  the  industries 
+related to the reuse of waste and materials;
+- promote the reuse of organic waste, by large generators, such 
+as hotels, supermarkets and tree pruning; but also by residents, 
+
+through composting;
+- promote entrepreneurship through reuse, recycling, upcycling 
+and  transformation,  connecting  the  many  existing  initiatives 
+spread around the city, to reach economy of scale. 
+
+Currently, selective street collection is eight times more expensive 
+than  general  street  collection. 
+International  experiences 
+demonstrate, however, that this cost can be minimized or totally 
+covered by the resale of residue at market prices. There are also 
+solutions in which the citizens are part of the collection chain, 
+that is, actively return materials used in a distributed form. For 
+this reason, it is necessary to identify the barriers that impede 
+sectors to become more resilient, lucrative and sustainable, and 
+act to connect the different needs, pointing out value generation 
+opportunities.  
+
+Organic waste comprises 32% of all waste in Rio de Janeiro 
+and  is  sent  primarily  to  a  landfill  in  the  neighboring  city  of 
+Seropédica. In landfills, organic matter releases methane gas in 
+its decomposition, which is highly pollutant. However, the product 
+of composting, which could be processed inside residences, in 
+public squares, or in large scale, can generate fertilizers to urban 
+gardens and agricultural production inside the city, minimizing 
+costs and emissions from food transport and creating jobs. 
+
+This  is  an  initiative  proposed  by  Rio  Resiliente  and  is  in  its 
+planning stage.  
+
+RIO VISION 500 
+Aspiration  (III.1.c)  All  residential  waste  will  be  minimized, 
+reused,  transformed  and  converted  into  energy;  Aspiration 
+(III.4.c)  Local  and  state  food  production  will  be  fostered, 
+increasing  people  access  to  a  healthy  diet; Aspiration  (V.1.a) 
+The city will be an important knowledge hub where research 
+and innovation will attract high value-added partners; Aspiration 
+(V.1.b) Rio will be an international hub for creative economy; 
+Aspiration  (V.1.c)  Rio  will  be  the  main  tourism,  business  and 
+social  center  of  Latin America; Aspiration  (V.2.c)  Unregulated 
+labor  reduced  will  be  drastically,  guaranteeing  workers’  rights 
+and increasing productivity; Aspiration (V.3.b) Rio will have the 
+best entrepreneurship ecosystem of Latin America; Aspiration 
+(VI.1.a): The city will be recognized for its quality on planning, 
+execution, maintenance and controls systems coordination.
+
+73
+
+FOCAL POINTS 
+Rio  Resiliente  and  departments 
+development.
+
+for  economic 
+
+POTENTIAL PARTNERS 
+Pacto  do  Rio,  Rio  Negócios,  Ellen  MacArthur  Foundation, 
+ReciclAção, Rio + B, universities.
+
+GOAL #5:Promote an inclusive, diversified, circular and low-carbon economy
+
+INITIATIVE #5.B: 
+
+Valorization of solid and organic waste
+
+STRATEGIC PLAN 2017-2020
+Initiative 3.03: Strengthen the agroecology production of Rio, 
+preferably in areas with poor potential for urbanization; Initiative 
+5.01:  Structuring  of  an  area  to  coordinate  economic  growth 
+actions  and  sectorial  development  new  tools;  Initiative  5.02: 
+Development of Rio Cidade Criativa program aiming to boost 
+the  creative  industry  of  the  city;  Initiative  5.04:  Businesses 
+scenario improvement in order to get both a better impression 
+from entrepreneurs and investors and a higher position on Doing 
+Business  ranking;  Initiative  6.01:  Keep  City  Hall’s  investment 
+grade.
+
+VALUE AND CO-BENEFITS
+Supports  connection  between  stakeholders  for  common 
+goals; promotes a more resilient economy, more diversified 
+and inclusive; supports entrepreneurship.  
+
+INDICATORS
+Volume of business created from the sale of residue, number of 
+direct and indirect jobs created.
+
+RESILIENCE QUALITIES
+
+RESOURCEFUL
+Recognizes alternative ways
+to use resources.
+
+INCLUSIVE
+Prioritizes broad consultation 
+to create a sense of shared 
+ownership in decision making.
+
+INTEGRATED
+Bring together a range of 
+systems and institutions.
+
+ROBUST
+Well-conceived, constructed 
+and managed systems. 
+
+REDUNDANT
+Spare capacity purposively 
+created to accommodate 
+disruption.
+
+FLEXIBLE
+Willingness and ability 
+to adopt alternative strategies 
+in response to changing 
+circumstances.
+
+RESILIENCE CHAMPIONS
+
+Luísa Santiago was part of Rio Resiiente in its beginning in 2014, as consultant and strategy partner 
+of the CRO in project management and in the relationship with 100 Resilient Cites. In the first phase, she 
+worked in the diagnostic of the shocks and stresses of the city. In the second phase she was responsible for 
+advancing the agenda on socioeconomic resilience, supporting the inclusion of themes related to an inclusive, 
+diversified, circular and low-carbon economy in the Resilience Strategy. Along with Rio Resiliente, she realized 
+the Workshop on New Economy on August 2015 and currently works with the Ellen MacCarthur Foundation, 
+as CE100 Brazil Leader. “There is nothing more gratifying than to be part of an extremely innovative project, 
+with the potential to transform my own city into a better and more resilient place”.
+Eduarda La Rocque is the founder and President of Pacto of Rio - for a Sustainable Metropolis. 
+She holds a PHD in Economics from PUC-Rio, has worked as advisor for the Brazilian Development Bank 
+(BNDES). While Eduarda worked as Secretary of Treasury between 2009 and 2013, the City of Rio 
+nearly doubled its tax revenue and for the first time in its history achieved investment grade by the main 
+international rating agencies. She has since left the world of finance to dedicate herself to social issues 
+and then become a social entrepreneur, uniting international organisms, institutions, academia, the private 
+and public sectors and the civil society. Eduarda is part of Rio Resiliente’s Steering Committee since its 
+beginning, focusing on socioeconomic issues.
+
+maintenance and controls systems coordination.
+
+STRATEGIC PLAN 2017-2020 
+Initiative  3.03:  Strengthen  the  agroecology  production  of 
+Rio, preferably, in areas with poor potential for urbanization; 
+Initiative  5.04:  Businesses  scenario  improvement  in  order 
+to  get  both  a  better  impression  from  entrepreneurs  and 
+investors and a higher position on Doing Business ranking; 
+Initiative 6.06: Engage PPPs and other external resources to 
+address high priority issues of the city.
+ 
+VALUE AND CO-BENEFITS 
+The project addresses the livelihood of people in condition 
+of  social  vulnerability;  accumulation  of  residues  in  slopes, 
+streets  and  rivers;  and  also  shocks  to  the  food  supply. 
+Furthermore, it reduces the existence of and emissions from 
+landfills,  as  well  as  promotion  of  circularity  in  the  cycle  of 
+biological nutrients and materials. 
+
+INDICATORS
+Number  of  minicenters,  number  of  participants,  volume  of 
+composting, volume of distributed composting products to 
+local agriculture and volume of solid waste reintroduced in 
+the production chain. 
+
+FOCAL POINTS 
+Rio  Resiliente,  Comlurb,  departments  of  food  security  and 
+agriculture.
+
+POTENTIAL PARTNERS
+C40, Ellen MacArthur Foundation, department of environment.
+
+DESCRIPTION AND OBJECTIVE
+This initiative aims to involve the civil society in the valorization 
+of solid and organic waste, with the support of the Agency for 
+the Promotion of Circular Economy, initiative 5.A. 
+
+Minicenters of recycling and composting will be established 
+in  neighborhoods  (see  initiative  #3B,  “Arbored  Squares”). 
+Those minicenters, either public or private, will be meeting 
+points  for  actions  for  the  valorization  of  solid  and  organic 
+waste,  and  can  be  the  end  point  for  formal  and  informal 
+transactions via cell phone apps. Actions should involve the 
+composting of organic residue for the use of residents and 
+distribution for urban gardening and local agriculture, and can 
+involve many techniques of composting, in various scales. 
+Besides,  those  minicenters  must  promote  opportunities 
+to  increase  the  useful  life  of  materials,  through  reuse  and 
+exchange.  Therefore,  it  is  possible  to  achieve  not  only 
+valorization of what otherwise would become waste and sent 
+to landfill, but also prevent its generation in the first place, 
+and  thus  incentivize  a  culture  of  consumption  that  is  less 
+wasteful and more circular. 
+
+The initiative involves the engagement of many stakeholders, 
+such  as  residents  and  business  owners,  and  also  the 
+professionalization  of  workers  already  occupied  with  the 
+collection of recyclable products.   
+
+RIO VISION 500  
+Aspiration (III.1.c) All residential waste will be minimized, 
+reused, transformed and converted into energy; Aspiration 
+(III.4.c) A Local and state food production will be fostered, 
+increasing  people  access  to  a  healthy  diet;  (V.3.b)  Rio 
+will be the main tourism, business and sociability center 
+of  Latin  America;  Aspiration  (V.2.c)  Unregulated  labor 
+will  reduce  drastically,  guaranteeing  workers’rights  and 
+increasing  productivity;  Aspiration  (VI.1.a):  The  city  will 
+be  recognized  for  its  quality  on  planning,  execution, 
+
+74
+
+75
+
+RESILIENCE CHAMPIONS
+
+Daniella G. Bordon, supports Rio Resiliente on a voluntary basis. She currently works in the oil 
+and gas industry, leading initiatives on Environment and Sustainable Development, active in Latin America, 
+United States, Asia and Africa. She graduated in Biological Science at the EFPR and specialized in Sustainable 
+Development Practices at the UFRRJ. “The work of Rio Resiliente consists in an incredible opportunity for the 
+city to stop and think in an integrated manner about its unique potential, and how to become more resilient to 
+the new challenges it faces”.
+
+Pedro Braga Miranda, started working in Rio Resiliente as a volunteer in June 2015, and is now 
+part of the Resilience Team, focusing on projects in the areas of socioeconomic resilience, circular economy and 
+individual resilience. Pedro worked with Rio Resiliente in the organization of the Workshop on New Economy, as 
+well as in the development of the individual resilience indicators. He is studying towards a master’s degree in 
+Public Policies at the Federal University of Rio de Janeiro, and holds a degree in Economics with the Belmont 
+University, USA, and is cofounder of an socioenvironmental consultancy. “Rio Resiliente always operates in a 
+transparent and horizontal manner, sine qua non conditions for public management in the XXI century.”
+
+GOAL #5:Promote an inclusive, diversified, circular and low-carbon economy
+
+INITIATIVE #5.C: 
+Realize Rio + B
+
+DESCRIPTION AND OBJECTIVE
+The notion of business success in the XXI is being redefined. 
+Companies  are  not  anymore  viewed  as  economic  agents 
+responsible for products and services, but as active actors 
+in the construction of a more just society, with direct impact 
+in all areas of life. A successful company should not seek 
+solely to generate profits and reward shareholders, but also 
+to create positive impacts, both social and environmental to 
+its surroundings and society in general.
+
+ecosystem of Latin America. Aspiration (V.1.a) The city will be 
+an important knowledge hub where research and innovation 
+will attract high value-added partners.
+
+VALUE AND COBENEFITS  
+Awareness and engagement of the private sector regarding its 
+co-responsibilities with society; addressing of chronic stresses 
+of the city regarding income disparity, pollution and generation 
+of waste.
+
+Rio + B aims to promote collaboration between businesses 
+and industries so that the private sectors improves its own 
+social  and  environmental  impacts,  using  the  principles  of 
+circular economy and metrics and guidelines for companies 
+involved  in  the    Corporation  B  network.  With  the  aim  to 
+measure  and  monitor  impact,  the  program  will  develop 
+opportunities inside the network of intrapreneurs in order to 
+become champions of Rio + B, so that they can promote 
+good  practices  and  develop  projects  inside  their  own 
+companies. What is good for the companies of Rio, should 
+also be good for the city and its citizen. 
+
+RIO VISION 500 
+Aspiration  (V.3.b)  Rio  will  have  the  best  entrepreneurship 
+
+INDICATORS
+Number of companies involved in Rio +B.
+
+FOCAL POINTS 
+Rio Resiliente and Corporation B.
+
+POTENTIAL PARTNERS
+Ellen  MacArthur  Foundation,  Pacto  do  Rio,  corporations 
+B, EMZINGO, Rio Negócios and departments of economic 
+development.
+
+RESILIENCE CHAMPION
+
+Tomás de Lara is a social entrepreneur and a talented netweaver. He is a co-leader of B System 
+Brazil (‘B’ companies movement) and a co-founder of both Goma, a social entrepreneurship collaborative 
+ecosystem, and the Global Shapers Hub of Porto Alegre and Rio de Janeiro. 
+
+Ana  Sarkovas    has  two  bachelor  degrees  -  one  in  Social  Science,  at  Federal  University  of  São 
+Paulo (USP), and other in Social Communications, at ESPM. She has worked for 5 years at Real Bank, with 
+the insertion of sustainability practices in businesses units and the marketing and communication institutional 
+planning. In March 2015, she joined International B System and there has been taking responsibilities for the 
+social-environmental value chain impacts management program, and also for new businesses development 
+strategies of ‘B’ companies. She also leads the Marketing and Communication department, as an Executive 
+Director of B System.
+
+76
+
+77
+
+GOAL #5:Promote an inclusive, diversified, circular and low-carbon economy
+
+GOAL #5:Promote an inclusive, diversified, circular and low-carbon economy
+
+INITIATIVE #5.D: 
+
+INITIATIVE #5.E: 
+
+Promote a culture of entrepreneurship
+
+Evaluate Social and Environmental Impacts of Investments
+
+DESCRIPTION AND OBJECTIVE
+Promote and incentivize entrepreneurship in the city, through 
+the  support  of  creative  economy,  artistic  centers  and  co-
+working  spaces,  encouraging  projects  related  to  reuse, 
+recycling, upcycling and transformation. 
+
+Creation of a center for the development of entrepreneurship 
+and innovation in order to promote sustainable and social 
+solutions. Unite, in a single physical space, meeting points 
+for innovative projects and actions for the city, companies 
+and universities and thinking tanks for the city. This initiative 
+has three main objectives: a) develop continuous research, 
+production  and  publicizing  of  content  about  innovation; 
+b)  apply  new  solutions  and  c)  work  through  networks  to 
+leverage  projects  and  create  prototypes.  It  will  be  located 
+in  a  building  in  either  the  Port  area  or  the  historic  center, 
+with  space  for  coworking,  where  entrepreneurs  can  meet 
+to  exchange  ideas  and  work  towards  developing  a  new 
+economy. 
+
+RIO VISION 500 
+Aspiration  (V.3.a)  Rio  will  be  a  lead  city  in  terms  of 
+attractive scenario for investments; Aspiration (V.3.b) Rio 
+will  have  the  best  entrepreneurship  ecosystem  of  Latin 
+America. Aspiration (V.1.b) Rio will be an international hub 
+for creative economy, Aspiration (V.1.a) The city will be an 
+important knowledge hub where research and innovation 
+
+will attract high value adding partners.
+
+STRATEGIC PLAN 2017-2020
+Initiative 5.02: Development of Rio Cidade Criativa program 
+aiming  to  boost  the  creative  industry  of  the  city;  Initiative 
+5.04: Businesses scenario improvement in order to get both 
+a better impression from entrepreneurs and investors and a 
+higher position on Doing Business ranking;
+ 
+VALUE AND CO-BENEFITS 
+Diversification  of  the  economy  in  Rio;  development  of 
+businesses with positive socioenvironmental impacts. 
+
+INDICATORS
+Number of people enrolled in creative economy initiatives; 
+number of companies engaged in the co-working spaces.
+
+FOCAL POINTS 
+Rio Resiliente and Rio Negócios.
+
+POTENTIAL PARTNERS
+Corporation B, SEBRAE, Mayor’s Office.
+
+RESILIENCE CHAMPION
+
+Zoraide Gomes, From the Brazilian state of Pernambuco, Zoraide Gomes, better known as ‘Cris dos 
+Prazeres’, has been living in Rio for 32 years. For the last 20 she has led social projects in the community of 
+Morro dos Prazeres, Santa Tereza neighborhood starting with HIV prevention and sexual education. In April 
+2010 she founded ReciclAção, a recycling and environment educational project, deployed together with public 
+and private partners and members of the community. Every month, approximately, 3 tons of products are 
+recycled there. Mother of three and grandmother of little Anna Julia, she believes that small and simple gestures 
+can trigger great changes.
+
+VALUE AND CO-BENEFITS 
+Attraction of more resilient and sustainable businesses 
+to  Rio,  which  contribute  to  a  more  diversified  and 
+inclusive economy. 
+
+INDICATORS
+Number of investments that are analyzed through the tool, 
+volume of investment attracted. 
+
+FOCAL POINTS 
+Rio Resiliente and Rio Negócios.
+
+POTENTIAL PARTNERS
+Corporation B, Ellen MacArthur Foundation, C40.
+
+DESCRIPTION AND OBJECTIVE
+Develop  tool  to  calculate  the  social  and  environmental 
+impacts of new investments, public and private, with focus on 
+foreign investments, considering indicators such as carbon 
+emissions, job creation and the potential for circularity. 
+
+RIO VISION 500 
+Aspiration (III.1.a) The city will ensure a low-carbon energy 
+matrix; Aspiration (V.1.e) The city will remain as the national 
+capital for the energy industries, attracting high value adding 
+activities and fostering renewable energy sources; Aspiration 
+(V.3.a) Rio will be a lead city in terms of attractive scenario 
+for investments
+
+STRATEGIC PLAN 2017-2020
+Initiative 5.01: Structuring of an area to coordinate economic 
+growth actions and sectorial development new tools; Initiative 
+5.04: Businesses scenario improvement in order to get both 
+a better impression from entrepreneurs and investors and a 
+higher position on Doing Business ranking; Initiative 6.01: 
+Keep City Hall’s investment grade. 
+
+RESILIENCE CHAMPION
+
+Bernardo Matoso Tarbes Vianna, rooted in Rio since the age of 14, Bernardo brought 
+from his childhood valuable memories from Carajás, a small town in the middle of Amazon Forest and where he 
+learned to respect the wild fauna and flora. Adapting to the big metropolis’ lifestyle was a great resilience lesson, 
+he often recalls. Electrical engineer from PUC-Rio and MBA from the Swiss IMD, he has made his career 
+through the value chain of natural resource industries. “I had the opportunity to engage with Rio Resiliente 
+during the development of the Resilience Strategy, for the city I love and live in. This is legacy I’ll always be 
+proud of”.
+
+78
+
+79
+
+GOAL #6
+Increase resilience of the population 
+and promote social cohesion
+
+#A Educate the Youth for Resilience
+#B Create a MOOC for Urban Resilience
+#C Develop Individual Resilience Indicators
+#D Primary Health Care
+#E Social Regions
+#F Right to the City
+#G  Listen to 
+
+o u r a g e s
+r m   a n d
+t e
+-
+e d   p l a n n ing
+t
+
+Meets 
+basic needs
+
+E
+l o
+i n t e
+
+g
+
+n
+
+r
+
+c
+
+n
+
+a
+
+g
+
+Govern
+
+y
+
+g
+
+Strengthens a wide 
+range of stakeholders
+Leadership and Strate
+
+hip and
+ement
+
+ers
+g
+a
+d
+n
+a
+a
+ le
+ m
+s
+e
+e
+v
+t
+i
+o
+t
+c
+m
+e
+o
+f
+f
+r
+e
+P
+
+P
+
+r
+
+o
+
+v
+
+i
+
+d
+
+c
+
+o
+m
+m
+
+a
+
+n
+
+I
+
+e
+
+n
+
+d
+
+u
+
+s
+
+f
+
+ 
+
+ 
+
+r
+
+m
+
+n
+
+r
+
+i
+
+e
+
+a
+
+o
+
+c
+
+l
+i
+
+b
+
+a
+
+a
+
+i
+l
+i
+t
+
+t
+i
+
+b
+
+o
+
+l
+
+e
+
+y
+
+n
+
+ 
+
+s
+
+t
+r
+
+u
+
+c
+t
+u
+r
+
+e a
+n
+
+c
+
+ritic
+
+c
+
+o
+
+E
+
+n
+
+s
+
+ure
+ntin
+s 
+uity of
+al s
+ervices
+
+d Environment
+Provides and increases
+the protection of natural 
+and artificial resources
+
+Sup
+
+p
+
+Health a
+
+of e
+
+a
+
+orts liv
+elih
+
+n
+d m
+plo
+
+e
+
+a
+
+n
+
+m
+
+y
+
+s
+
+n
+d 
+
+m
+
+e
+
+n
+t
+
+o
+
+o
+
+d
+
+W
+
+e
+
+ll
+
+n
+
+e
+
+s
+
+s
+
+h
+
+E
+
+e
+
+n
+
+a
+
+s
+
+l
+
+t
+
+u
+
+h
+
+ 
+
+r
+
+e
+
+s
+
+s
+
+e
+
+r
+
+ 
+
+p
+
+v
+
+u
+
+i
+
+c
+
+e
+s
+
+b
+
+l
+
+i
+
+c
+
+ 
+
+d
+s
+n
+e
+a
+i
+t
+ 
+i
+e
+n
+v
+u
+i
+s
+m
+e
+m
+h
+o
+o
+s c
+d c
+c o n o m y and Society
+Promote
+mitte
+com
+E nsure social stability
+security and justice
+
+E
+
+o m ic
+
+Pro m o t e s   e
+
+c
+
+n
+o
+p r o s p e rit y
+
+80
+
+City Resilience Framework: in blue, aspects of resilience targeted in the initiatives of Goal #6
+Credit: The Rockefeller Foundation/ Arup, 2014.
+
+STRATEGIC OBJECTIVE #6: Increase the resilience of the population and promote social cohesion
+
+FLAGSHIP INITIATIVE #6.A: 
+
+Educate the Youth for Resilience 
+
+DESCRIPTION AND OBJECTIVE
+The project Resilient Youth aims to develop and implement 
+a curriculum on Urban Resilience for students of municipals 
+schools, reaching 100,000 children until 2020. 
+
+The  Resilient  Youth  program  will  comprise  three  main 
+subjects: 1) The impact of climate change in cities and how 
+this affects youth’s lives; 2) The basics of civil defense, with 
+notions about disaster preparedness;
+3) Sustainable consumption and resource efficiency, mainly 
+that of water and energy, as well as notions of reuse, recycling, 
+upcycling and transformation of materials and products. 
+
+The project is based on the premise that children need to be 
+knowledgeable of the risks in their neighborhood and city, 
+and develop a resilient behavior at the start of life. 
+
+Resilient  Youth  consists  of  a  thematic  expansion  of  a 
+successful  current  Project  called  Civil  Defense  in  Schools, 
+developed by the Civil Defense of the city since 2013, and 
+implemented primarily on schools close to areas considered 
+being  under  high  and  medium  geological  risk.  Nearly  five 
+thousand children between 10 and 12 have already attended 
+classes  and  received  a  certificate  by  the  Civil  Defense  in 
+Schools program, which focuses mainly on the basics of civil 
+defense and first aid. 
+
+The goal of Resilient Youth is to educate children about the 
+challenges  of  their  city  and  the  world,  and  thus  promote 
+a  culture  of  prevention  and  risk  mitigation,  environmental 
+awareness and citizenship. 
+
+An  adapted  version  of  the  Individual  Resilience  Indicators 
+(initiative 6.B), aimed at school children, can be applied at 
+the start and end of the school year to assess the knowledge 
+acquired and measure how it impacts individual resilience. 
+
+This  is  a  project  first  proposed  by  Rio  Resiliente  and 
+incorporated in Strategic Plan 2017-2020, and is currently 
+in a planning stage.
+
+RIO VISION 500 
+Aspiration (I.2.a) City Schools will become national reference, 
+adding  value,  being  collaborative  and  connected  to  the 
+students’  reality;  Aspiration  (III.2.b)  The  City  will  be  ready 
+and adapted to face climate change and its impacts, having 
+mapped and planned for its main threats; Aspiration (III.2.c) 
+All citizens will be informed, prepared and engaged to deal 
+with climate change impacts. 
+
+STRATEGIC PLAN 2017-2020
+Initiative 3.12: Increase the resilience of the city doubling the 
+number of climate risk under monitoring and quadrupling the 
+number of simulations for emergency response with at least 
+15 departments until 2020.
+ 
+VALUE AND CO-BENEFITS 
+Increases  the  knowledge  of  citizens  about  risks  and 
+vulnerabilities; promotes culture of prevention and disaster 
+preparedness, supports the efficient use of resources.
+
+INDICATORS
+Number of schools with classes on Urban Resilience; number 
+of  students  enrolled;  number  of  students  with  certificates, 
+satisfaction of the students with the project.
+
+FOCAL POINTS 
+Rio Resiliente, Civil Defense and education department.
+
+POTENTIAL PARTNERS
+Red Cross, Climate Reality Project.
+
+FUNDING
+BRL 2,223,000 until 2020.
+
+81
+
+RESILIENCE QUALITIES
+
+REFLECTIVE
+Uses past experience 
+to inform future decisions
+
+RESOURCEFUL
+Recognizes alternative ways
+to use resources.
+
+INCLUSIVE
+Prioritizes broad consultation
+to create a sense of shared 
+ownership in decision making.
+
+INTEGRATED
+Bring together a range
+of systems and institutions.
+
+FLEXIBLE
+Willingness and ability 
+to adopt alternative strategies 
+in response to changing
+circumstances.
+
+RESILIENCE CHAMPION
+
+Valeria Cristina B. Vasques Pereira, the educator, 49, has been a Civil Defense agent 
+for 14 years. Since the end of 2015, she is the voice of Rio’s municipality in the favelas that count on the 
+Community Alarm and Alert System. Through the loudspeakers, her voice warns where there is a risk of strong 
+rains and instructs residents to remain alert, in case the alarm rings and there is the need to move to a shelter. 
+“I am very glad to collaborate on this preventive work renowned for its excellency” says Valeria.
+
+Civil Defense in Schools – Source: City Civil Defense
+
+82
+
+83
+
+STRATEGIC OBJECTIVE #6: Increase the resilience of the population and promote social cohesion
+
+INITIATIVE #6.B: 
+
+Create a MOOC for Urban Resilience
+
+POTENTIAL PARTNERS
+Casa  Civil,  Universidade  Estácio  de  Sá,  education 
+departments, resilience offices of cities around the world.
+
+FUNDING 
+BRL 880,000 from 2017 until 2020.
+
+RESILIENCE CHAMPION
+
+Bruna Santos  is  Program  Officer  at  the  Columbia  Global  Center  Rio,  where  she  works  in  the 
+management of multisector projects, focused on innovation in public administration, citizen engagement 
+and sustainability. After six years outside of Brazil, she decided to return to Rio, believe that the city is 
+at the epicenter of a transformation in the way that the government deals with society. “The work of Rio 
+Resiliente is an example of what can be done with evidence-based public policies, centered on people 
+and leveraged by technologies.
+
+DESCRIPTION AND OBJECTIVE 
+Create and implement a Massive Online Open Course (MOOC) 
+on Urban Resilience, comprised of modules for the public in 
+general, public servants (mainly those of the Carioca Leaders 
+team, Center of Operations Rio, Civil Defense, departments 
+of education, urbanism and environment) and city teachers. 
+There is also the possibility that the course becomes part of 
+the yearly performance bonus for civil servants more directly 
+involved with resilience.  
+
+Education  for  resilience  is  essential  not  only  because  it 
+increases awareness in individuals, but because it helps form 
+new practitioners for resilience, bringing in specialists from 
+various disciplines, such as urban planners, environmentalists, 
+public  and  private  managers,  entrepreneurs,  insurance, 
+finance,  health  and  law  professionals.  It  then  becomes 
+possible  for  them  to  incorporate  the  application  of  the 
+resilience  lens  in  their  practices,  and  also  stimulate  the 
+exchange  of  knowledge. The  course  will  be  available  in  a 
+specialized  online  platform,  comprising  videos,  texts  and 
+assessment  tests,  with  certification  in  the  end,  preferably 
+through a partnership with a university. 
+
+The course will present the concept of urban resilience, the 
+best  practices  around  the  world,  and  deepen  the  debate 
+through the discussion of the vulnerabilities of Rio de Janeiro 
+and other cities. There will be an emphasis on three main 
+topics: urban climate-related challenges, how to increase the 
+resilience of individuals, and how to develop a sustainable 
+consumptions, related to the production and use of resources 
+such  as  water,  food,  materials  and  energy.  One  or  two  of 
+the  modules  will  be  exclusive  to  teachers,  and  will  aim  to 
+prepare them to teach the course on Urban Resilience to 
+school children, in the program Resilient Youth (initiate 6.A). 
+
+The MOOC on Urban Resilience is an initiative developed by 
+Rio Resiliente that was incorporated into the Strategic Plan 
+
+2017-2020. It is an educational initiative that targets all the 
+shocks and chronic stresses of the city.  
+
+RIO VISION 500 
+Aspiration (I.1.c): All civil society will actively participate on 
+children and youth education; Aspiration (III.2.c) All citizens 
+will  be  informed,  prepared  and  engaged  to  deal  with 
+climate change impacts; Aspiration (VI.1.a): The city will be 
+recognized for its quality on planning, execution, maintenance 
+and controls systems coordination. 
+
+STRATEGIC PLAN 2017-2020
+Initiative  3.12:  Increase  the  resilience  of  the  city  doubling 
+the number of climate risk under monitoring and quadrupling 
+the  number  of  simulations  for  emergency  response  with 
+at least 15 departments until 2020; Initiative 6.04: Foster 
+human capital development at the City Hall; Initiative 6.10: 
+Management  strategy  to  maximize  the  efficiency  of  urban 
+planning  city  agents  and  improve  information,  control  and 
+monitoring systems. 
+ 
+VALUE AND CO-BENEFITS 
+Promotes  the  concept  of  resilience  and  planning  for 
+resilience;  supports  theoretical  and  practical  knowledge 
+about resilience within public administration; brings in new 
+resilience practitioners; deepens knowledge on the theme; 
+incorporates new ideas and observations from participants 
+in  practical  projects  in  Rio  and  in  other  cities;  stimulate 
+cross-polinization of ideas and collaboration between sectors.
+
+INDICATORS 
+Percentage of certificates issued; satisfaction rate of students.
+
+FOCAL POINTS
+Rio Resiliente, MultiRio.
+
+84
+
+85
+
+STRATEGIC OBJECTIVE #6: Increase the resilience of the population and promote social cohesion
+
+INITIATIVE #6.C: 
+
+Develop Individual Resilience Indicators
+
+DESCRIPTION AND OBJECTIVE
+Apply,  improve  upon  and  utilize  the  resilience  individual 
+indicators to learn more about the current state of resilience of 
+citizens and communities, in order to monitor the effectiveness 
+of policies on resilience and support the creation of new public 
+policies at local level. 
+
+The  Individual  Resilience  Indicators  establish  three  levels  of 
+analysis: social, contextual and individual vulnerability. Citizens 
+are more or less resilient in relation to their social context - it is 
+known that vulnerable populations are always more susceptible 
+to shocks of all kinds, and they also take longer to recover. 
+Unequal access to basic services such as sanitation, water and 
+health also increases exposure to various risks. 
+
+The resilience of an individual, as well as of its community, also 
+varies depending on the vulnerabilities specific to their living 
+or  working  spaces,  denominated  contextual  resilience.  For 
+example, some people live in areas more susceptible to risks, 
+such as landslides, river flooding, sea level rise, among others. 
+
+The  third  level  of  analysis  is  individual  resilience,  related  to 
+knowledge  about  risks,  disaster  preparedness  and  personal 
+habits,  such  as  eliminating  mosquito  breeding  grounds,  or 
+keep at home emergency items, like water, batteries, lanterns, 
+among other items specific to their context. 
+
+The  scientific  literature  about  crisis  and  resilience,  the  basis 
+for the development of the indicators, indicates that a culture 
+of  prevention  and  enhanced  knowledge  about  risks  in  the 
+everyday life, make citizens more resilient to all kinds of shocks 
+and increases the effectiveness of public policies. 
+
+The Individual Resilience Indicators were developed by WRI 
+Brasil/Cidades Sustentáveis in collaboration with Rio Resiliente 
+in  2015,  with  the  input  and  support  of  City  managers, 
+especially Civil Defense, Instituto Pereira Passos and PENSA, 
+
+along  with  the  hosting  of  several  workshops  with  the  civil 
+society (academia, NGOs). Many cities around the world have 
+already demonstrated the interest to adopt the indicators, with 
+adaptations related to their specific resilience challenges. 
+
+The  indicators  will  be  applied  in  Rio  de  Janeiro  in  three 
+different ways: citywide, with the support of research institutes, 
+for an overview of the individual resilience of citizens; inside 
+city schools, before and after the course on Urban Resilience 
+(initiative  1.A),  to  assess  knowledge  acquisition  at  practical 
+level; and at community level, for the identification of strong 
+and weak aspects, and eventual adjustment of public policies. 
+
+The  application  of  the  Individual  Resilience  Indicators  was 
+proposed  by  Rio  Resiliente  and  adopted  by  the  Strategic 
+Plan  2017-2020,  with  goals,  milestones  and  budget.  This 
+initiative aims to measure knowledge about vulnerabilities and 
+preparedness to disasters, and therefore tackles all the shocks 
+and stresses of the city.  
+
+RIO VISION 500
+Aspiration  (III.3.b):  The  city  will  be  ready  and  adapted  to 
+face  climate  change  and  its  impacts,  having  mapped  and 
+planned for its main threats; Aspiration (VI.1.a): The city will be 
+recognized for its quality on planning, execution, maintenance 
+and  controls  systems  coordination; Aspiration  (VI.1.b):  Best 
+practices management with processes that are efficient, non-
+bureaucratic, suited to local needs, digitalized and constantly 
+monitored.
+
+of 
+
+STRATEGIC PLAN 2017-2020
+Initiative  6.03:  Development 
+high-performance 
+management system; Initiative 6.07: Structuring of a citizen 
+engagement  policy;  Initiative  6.10:  Management  strategy 
+maximizing the efficiency of urban planning city agents and 
+improving  information,  control  and  monitoring  systems. 
+Focusing on developing regions of the city.
+
+POTENTIAL PARTNERS
+Civil  Defense,  PENSA,  C40,  education  department  and 
+community leaders.
+
+FUNDING 
+BRL 1,120,000 until 2020.
+
+VALUE AND CO-BENEFITS
+Increases  knowledge  on  the  theme  and  supports  more 
+effective  and  specific  public  policies;  supports  more 
+awareness  about  preparedness  to  shocks;  monitors  the 
+impacts  of  public  policies;  supports  decision-making  for 
+urban planning with the consultation of various actors. 
+
+INDICATORS 
+Variation in the index of individual resilience citywide; variation 
+of the grade on individual resilience in municipal schools with 
+a course on Urban Resilience, both present in Strategic Plan 
+2017-2020. 
+
+FOCAL POINTS
+Rio Resiliente, IPP and WRI-Brasil.
+
+RESILIENCE CHAMPION
+
+Lauretta Burke  researcher for the World Resources Institute (WRI) leads teams and research on 
+coastal ecosystems since 2001, producing analyses and high quality tools to improve the management and 
+resilience of these ecosystems. Lauretta also oversees risk management projects, analysing climate impacts 
+and the economic value of coral reefs, and is responsible and first author of “Reefs at Risk Revisited”, a global 
+investigation of the risks concerning coral reefs.
+
+Magdala  Arioli    is  Urban  Mobility  and  Climate  Coordinator  at  WRI  Brasil.  Master  in  Transport 
+Engineering by the Federal University of Rio Grande do Sul, she is currently a PhD student of climate change 
+in relation to the transportation sector. Madgala works on projects in the areas of climate change, atmospheric 
+pollution and urban resilience. t
+
+Katerina Elias-Trostmann is a Research Analyst at WRI Brasil and Master in Environmental 
+Technology by the Imperial College London. Her master’s thesis focused on the opportunity for a circular 
+economy in Brazil.
+
+Those three women have been instrumental in the research and development of the Individual Resilience Indicators in partnership with Rio 
+Resiliente, soon to be first tested in Rio. 
+
+ “We are in a century with interdependent challenges, such as climate change, social inequality, a growing urban population and resource 
+efficiency. Rio Resiliente transcends the isolated dealing with those challenges, increasing dialogue between city departments and the civil 
+society”, says Katerina.
+
+86
+
+87
+
+STRATEGIC OBJECTIVE #6: Increase the resilience of the population and promote social cohesion
+
+INITIATIVE #6.D: 
+
+Primary Health Care
+
+Description and objective
+
+Present Health is the primary care strategy of the municipality. The initiative focuses on increasing 
+the quality of primary care in the city after a significant expansion phase lasting 8 years. The added 
+quality will be achieved through several lines of action:
+- Increase adherence to protocols of primary care
+- Reduce the gap between city regions
+- Restructure the School Health Program to assist children and youth in school age, promoting 
+integrated action between the clinics and schools.
+- Invest in efficient technologies through hired services.
+
+Rio Vision 500
+
+Aspiration (II.1.a) The system of public health policies and primary care in the City will be 
+sufficient, sustainable and of excellence to meet all needs of Cariocas; Aspiration (VI.1.b) 
+Management will be of high performance with efficient and unbureaucratic processes, suited to 
+local needs, online, and with continuous assessment of impact and effectiveness.
+
+Values and co-benefits
+
+of resilience
+
+Increased social cohesion; preventive health actions that take into account the reality of the 
+communities; identification of persons with special needs, for specific attention during crises.
+
+Indicators
+
+Percentage of newborns in high vulnerability households who receive visits from health agents 
+within 7 days after discharge. Percentage of proper treatment of gestational syphilis. Percentage 
+of cure for new cases of tuberculosis. Percentage of women following the postpartum oxytocin 
+protocol. Number of schools with an officially designated clinic. Tuberculosis mortality rate.
+
+Expected results
+
+Improving the quality and life expectancy of the population, with a more solution-based service, 
+closer to the population. 
+
+Budget 2017-2020
+
+BRL 660,3 million
+
+Initiatives of the Strategic Plan 2017-2020 with Resilience Co-Benefits.
+
+88
+
+89
+
+Individual Resilience Indicators - workshops with communities, WRI-Brasil and the Civil Defense of the City of Rio. Photo credit: Sergio Trentini
+
+STRATEGIC OBJECTIVE #6: Increase the resilience of the population and promote social cohesion
+
+STRATEGIC OBJECTIVE #6: Increase the resilience of the population and promote social cohesion
+
+INITIATIVE #6.E: 
+Social Regions
+
+INITIATIVE #6.F: 
+Right to the City
+
+Description and objective
+
+Reduce the degree of vulnerability of Carioca families of 180 territories with Social Development 
+Index very low, offering them special attention during a period of 6 months to 1 year and 
+subsequent insertion in the social services already offered by the city.
+
+Description and objective
+
+The program Right to the City is a set of public policies for the homeless, which will provide shelter, 
+health care and school acceleration, aimed at self-improvement and the building of new life 
+trajectories, so that the homeless are able to leave the streets. 
+
+Rio Vision 500
+
+Aspiration (II.2.b) Youth in Rio will be an example of harmonious coexistence and will not be part 
+of violence statistics; Aspiration (II.3.a) Vulnerable youth in Rio will have full social and economic 
+opportunities for integral development.
+
+Values and co-benefits
+
+of resilience
+
+Presents a transversal and multidisciplinary approach; It focuses on the least resilient population 
+and those more susceptible to risks of all kinds.
+
+Indicators
+
+Percentage of children and youth in the program enrolled in schools.
+Percentage of people with complete personal documentation.
+Percentage of age appropriate vaccination rate. 
+Percentage of prenatal consultations started in the first trimester of pregnancy.
+Number of households visited per month by community health agent.
+Percentage of consultations per semester to diabetic and hypertensive patients. 
+
+Rio Vision 500
+
+Aspiration (I.4.a) City known as welcoming and inclusive; citizens will have complete freedom; 
+Aspiration (I.4.c) All cariocas will have their civil and human rights guaranteed and their diversity 
+respected; Aspiration (II.3.B) Rio citizens will have opportunities to qualify professionally and get 
+jobs; Aspiration (IV.2.b) All Rio residents will have housing that is safe, dignified and legal.
+
+Values and co-benefits
+
+of resilience
+
+It ensures human rights; It guarantees access to basic services; Decreases social vulnerability; 
+Presents transversal and multidisciplinary approach.
+
+Indicators
+
+Percentage of people hosted in public shelters
+Percentage of people referred for jobs
+Percentage of people enrolled in accelerated learning programs promoted by the Secretary 
+of Education. 
+Among other indicators (see p.257 of the Strategic Plan in visaorio500.rio)
+
+Expected results
+
+Inclusion of target families of the program in the existing social systems of the municipality, 
+ensuring that they can access the public policies offered for them.
+Reduction of the social vulnerability of families benefiting from the program. 
+
+Expected results
+
+Restore and preserve the integrity, dignity and autonomy of users, interrupting patterns that 
+violate rights. 
+Strengthen family and community ties, for family and community reintegration.
+
+Budget 2017-2020
+
+BRL 347,2 million
+
+Budget 2017-2020
+
+BRL 103,5 million
+
+Initiatives of the Strategic Plan 2017-2020 with Resilience Co-Benefits.
+
+Initiatives of the Strategic Plan 2017-2020 with Resilience Co-Benefits.
+
+90
+
+91
+
+STRATEGIC OBJECTIVE #6: Increase the resilience of the population and promote social cohesion
+
+INITIATIVE #6.G: 
+Listen to Govern
+
+Description and objective
+
+i) Public communication efforts to ensure clarity and accessibility of information about public 
+policies.
+ii) Development of spaces and methodologies for listening and debating, as well as access to 
+information of public policies from the municipality.
+iii) Development of tools and platforms for collection of opinions and generation of ideas.
+iv) Incorporation of institutional mechanisms for participation in the formulation and monitoring of 
+public policies.
+v) Development and maintenance of decision-making tools by the people in their local communities.
+
+Rio Vision 500
+
+Engagement of the population will be ample in the administration of the City, with a municipal 
+government that is prepared to listen, provide information in a transparent, agile and simple manner 
+and carry continuous dialogue with society. 
+
+Values and co-benefits
+
+of resilience
+
+It involves various stakeholders; Makes public policies and projects more holistic and robust, 
+increasing their usefulness and effectiveness; Increased transparency; Greater citizen involvement 
+in decisions.
+
+Indicators
+
+Number of access to information websites; Number of active citizen advisors; Number of localized 
+meetings; Number of voters in decisions.
+
+Expected results
+
+Greater participation of Rio’s population in the decision processes of the city, thus adding quality 
+to public policies and tuning the city’s administration actions to the demands of the population, 
+democratizing spaces and public resources. 
+
+Budget 2017-2020
+
+BRL 14 million
+
+Initiatives of the Strategic Plan 2017-2020 with Resilience Co-Benefits.
+
+92
+
+Photo credit: Pedro Junqueira/COR
+93
+
+Abbreviations
+of the 
+Institutions 
+Cited
+
+Sources and 
+References
+
+C40 Cities – C40 Cities Climate Leadership Group
+CEDAE – Companhia Estadual de Águas e Esgotos
+CEMADEN – Centro Nacional de Monitoramento e Alertas 
+de Desastres Naturais
+CI – Conservation International
+CICC – Centro Integrado de Comando e Controle
+COR – Center of Operations Rio
+CSIRO – Commonwealth Scientific and Industrial Research 
+Organization
+FPJ – Fundação Parques e Jardins
+INPE – Instituto Nacional de Pesquisas Espaciais
+IPP – Instituto Pereira Passos
+ITDP - Brasil – The Institute for Transportation and 
+Development Policy
+NASA – National Aeronautics Space Agency
+PENSA – Escritório de Inteligência de Dados da Prefeitura
+PUC-RIO – Pontifícia Universidade Católica do Rio de 
+Janeiro
+R20 – Regions of Climate Action do Rio
+SEBRAE – Serviço Brasileiro de Apoio às Pequenas e 
+Micro Empresas
+UCCRN – Urban Climate Change Research Network, 
+University of Columbia
+UFRJ – Universidade Federal do Rio de Janeiro
+UNISDR – United Nations Office for Disaster Risk 
+Reduction
+USC – University of Southern California
+WRI – World Resources Institute
+
+100  Cidades  Resilientes.  (2014).  Manual  de  Estratégias. 
+Desenvolvendo  estratégias  de  resiliência  de Alto  Impacto. 
+100RC. 
+
+Beach,  L.  R.  (1992).  Image  Theory:  Decision  Making 
+in  Personal  and  Organizational  Contexts.  Journal  of 
+Organizational Behavior, 533-534. 
+
+Centro  de  Ciência  do  Sistema  Terrestre  do  Instituto 
+Nacional  de  Pesquisas  Espaciais  (CCST-  INPE).  (2010). 
+Vulnerabilidades das Megacidades Brasileiras às Mudanças 
+Climáticas: Região Metropolitana de São Paulo. São Paulo. 
+
+Centro de Ciência do Sistema Terrestre do Instituto Nacional de 
+Pesquisas Espaciais. (2011). Megacidades, Vulnerabilidades 
+e  Mudanças  Climáticas:  Região  Metropolitana  do  Rio  de 
+Janeiro. Rio de Janeiro. 
+
+Coutto, R. Z., Affeltranger, B., & Vincent, G. (2010). Multi- 
+Hazard Training for Local Authorities. Module 2. Paris: UNEP. 
+
+Desafio Porto Alegre Resiliente. (2016). Prefeitura de Porto 
+Alegre. 
+
+Holguín-Veras, J., Jaller, M., Wassenhove, L. N., Pérez, N., 
+& Wachtendorf, T. (2012). On the Unique Features of Post-
+Disaster  Humanitarian  Logistics.  Journal  of  Management, 
+494–506. 
+
+Holguín-Veras, J., Jaller, M., Wassenhove, L. N., Pérez, N., & 
+Wachtendorf, T. (2013). Material Convergence: An Important 
+and  Understudied  Disaster  Phenomenon.  Natural  Hazards 
+Review. 
+
+Instituto  Nacional  de  Pesquisas  Espaciais  -  INPE.  (2007). 
+Caracterização do clima no Século XX e Cenários Climáticos 
+no Brasil e na América do Sul para o Século XXI derivados 
+dos Modelos Globais de Clima do IPCC. São Paulo: INPE. 
+
+Resilient New Orleans: strategy actions to shape our future 
+city. (2015). City of New Orleans.
+
+Rodin,  J.  (2014).  Resilience  Dividend.  New  York:  Public 
+Affairs. 
+
+Smil,  V.  (2008).  Global  Trends:  the  Next  Fifty  Years. 
+Cambridge, Massachussets: The MIT Press. 
+
+Smil, V. (2013). Making the Modern World: Materials and 
+Dematerialization. John Wiley & Sons. 
+
+Taleb, N. (2005). Fooled by Randomness: The Hidden Role 
+of Chance in Life and in the Markets. New York: Random 
+House. 
+
+Taleb, N. (2010). The Black Swan: the Impact of the Highly 
+Improbable (Incerto). New York: Random House.
+
+Taleb, N. (2013). Antifragile: How Things Gain from Disorder 
+(Incerto). New York: Random House. 
+
+Tolkoff, R. P. (2014). Lessons from Sandy Federal Policies to 
+Build Climate-Resilient Coastal Regions. Cambridge: Lincoln 
+Institute of Land Policy and Regional Plan Association. 
+
+(2011).  World  Reconstruction  Conference. 
+
+UNISDR. 
+Genebra. 
+
+United  Nations  Environment  Programme.  (2008).  Disaster 
+Risk  Management 
+for  Coastal  Tourism  Destinations 
+Responding  to  Climate  Change.  A  Practical  Guide  for 
+Decision Makers. Paris: CAST. 
+
+United Nations Framework Convention on Climate - Unfccc. 
+(s.d.). Fonte: www.unfccc.int/2860.php 
+
+World  Conference  on  Disaster  Reduction.  (2005).  Hyogo 
+Framework for Action 2005- 2015: Building the Resilience 
+of Nations and Communities to Disasters. Hyogo, Kobe: ISDR 
+
+Instituto Nacional de Pesquisas Espacias-INPE. (2007). Atlas 
+de  Cenários  Climáticos  Futuros  para  o  Brasil.  Cachoeira 
+Paulista: Instituto Nacional de Pesquisas Espacias-INPE. 
+
+IPCC. (2012). Managing The Risks Of Extreme Events And 
+Disasters To Advance Climate Change Adaptation. New York: 
+Cambridge University Press. 
+
+Marengo, J. A. (2007). Mudanças Climáticas Globais e seus 
+Efeitos  sobre  a  Biodiversidade  -  Caracterização  do  Clima 
+Atual e Definição das Alterações Climáticas para o Território 
+Brasileiro ao Longo do Século XXI. Brasília: PROBIO. 
+
+McGranahan,  G.,  Balk,  D.,  &  Anderson,  B.  (2007).  The 
+Rising Tide: assessing the risk of climate change and human 
+settlements  in  low  elevation  coastal  zones  environments. 
+Environment and Urbanization, 17-37. 
+
+Muehe, D., & Neves, C. F. (2008). Vulnerabilidades da Orla. 
+Protocolo do Rio | Estudos e Pesquisas – Seminário Rio: 
+Próximos 100 anos. 
+
+Norfolk’s Resilience Strategy. (2015). City of Norfolk. 
+
+NYC  Global  Partners.  (2010).  PlaNYC:  NYC’s  Long-Term 
+Sustainability Plan . New York: NYC Global Partners. 
+
+Orsini, J. A. (2008). Água e mudanças climáticas. 
+
+Petts, J. (1997). Handbook of Environment Risk Assessment. 
+Blackwell Scientific, 410-416. 
+
+Pidgeon, N., Hood, C., Jones, D., Turner, B., & Gibson, R. 
+(1992). “Risk Assessment,  Perception  and  Management”. 
+Report of Study Group. London: The Royal Society. 
+
+PlaNYC. (2014). PlaNYC Progress Report: Sustainability & 
+Resiliency. New York: PlaNYC. 
+
+Prefeitura  do  Rio  de  Janeiro.  (2009  -  2013). Acordo  de 
+Resultados da Cidade do Rio de Janeiro. 
+
+Prefeitura  do  Rio  de  Janeiro.  (2013).  Inventário  das 
+Emissões de Gases de Efeito Estufa da Cidade do Rio de 
+Janeiro em 2012 e Atualização do Plano de Ação Municipal 
+para Redução das Emissões. 
+
+Prefeitura do Rio de Janeiro. (2013). Plano estratégico da 
+Prefeitura do Rio de Janeiro 2013-2016.  
+
+Prefeitura  do  Rio  de  Janeiro.  (2016).  O  Rio  do Amanhã. 
+Visão 500 e Planejamento Estratégico 2017-2020.
+
+94
+
+95
+
+Photo credit: Alexandre Macieira / Riotur
+
+96
+
+97
+
+98
+
+
